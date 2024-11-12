@@ -1,0 +1,33 @@
+---
+title: "Final_Summary"
+author: "Xingman Wu"
+date: "2024-11-12"
+output: html_document
+---
+### Load libraries
+### Load PDF
+```{r}
+library(tidyverse)
+library(pdftools)
+
+#Using pdftools package. Good for basic PDF extraction
+text <- pdf_text("../final_summary/assets/PDF/AIhealth.PDF")
+#pdf_text reads the text from a PDF file.
+writeLines(text, "../final_summary/assets/extracted_text/AIhealth.txt")
+#writeLines writes this text to a text file
+```
+
+#Include a link to the source data that you have compiled in your GitHub repository
+#Spell out your content analysis plan, including preliminary work on a code bookProvide a sample of the data and some descriptive statistics.
+#Load the appropriate software librariesLoad the dataUsing code, describe the number of rows and columns of the dataset
+#Create ggplot chart showing the distribution of the data over time
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
