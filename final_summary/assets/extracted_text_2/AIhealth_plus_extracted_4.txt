@@ -1,0 +1,90 @@
+
+
+                                                                                                            Page 1 of 2
+    'The potential is unbelievable': First chief data scientist of Duke Health talks intersection of AI and healthcare
+
+
+
+
+ 'The potential is unbelievable': First chief data scientist of Duke Health talks
+                       intersection of AI and healthcare
+                                             The Duke Chronicle: Duke University
+                                               September 20, 2023 Wednesday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 533 words
+
+Body
+
+
+As artificial intelligence takes the world by storm, Duke sees it as an opportunity to transform healthcare.
+
+Michael Pencina, vice dean for data science, was recently named Duke Health's chief data scientist, a leadership
+role created in the midst of rapid developments and intense discussions around AI technology.
+
+"I want Duke Health to be synonymous with trustworthy health AI," Pencina said. "When people think about
+developing or evaluating algorithms, I want them to look at what we develop, come to us for guidance."
+
+Merging data and health
+
+Pencina, a professor of bioinformatics and biostatistics at the School of Medicine, said that his role was to facilitate
+a "partnership between the research side - the University's School of Medicine - and the health delivery side."
+
+Duke's creation of the new position was motivated by the potential benefits to medicine that the University's
+research and education in data science could bring, according to Pencina.
+
+Duke Health also recently formed a major partnership with Microsoft to "redefine the health care landscape"
+through collaborative work on generative artificial intelligence and cloud technology.
+
+According to Pencina, Microsoft saw Duke Health as a partner that could work to evaluate the development of
+trustworthy AI. With established governance for the use of AI in healthcare, Duke was also viewed as a national
+leader of AI applications.
+
+Road to chief data scientist
+
+The role of chief data scientist is new for Pecina, whose career spans decades as well as multiple campuses and
+organizations.
+
+The School of Medicine regards Pencina as "an internationally recognized authority in risk prediction model
+development and evaluation," especially in the field of cardiovascular disease risk prediction.
+
+                                                                                                           Page 2 of 2
+   'The potential is unbelievable': First chief data scientist of Duke Health talks intersection of AI and healthcare
+
+In the past, Pencina has contributed to the Framington Heart Study, which is recognized by the National Heart,
+Blood and Lung Institute for "transformative discoveries related to the treatment of heart disease." Pencina praised
+the Institute as having "pioneered risk prediction algorithms."
+
+With over 400 publications in peer-reviewed journals that have been cited over 111,000 times, Pencina brings
+experience and expertise to the ever-evolving fields of AI and medicine.
+
+Ethical and equitable AI
+
+Duke AI Health, an initiative that Pencina directs, has ethical and equitable data science as its core, he said.
+
+In the face of advancements as well as worrying possibilities in the field of AI technology, these values are a
+cornerstone of Pencina's vision.
+
+"In 2019, a colleague of mine published this really important paper showing racial bias in an algorithm that was
+supposed to determine which patients need preventive health," Pencina said. "Then the pandemic hit and what
+came to the forefront were major racial inequities in healthcare."
+
+These instances of inequity motivated Pencina to prevent misuse of AI and ensure ethics in its implementation
+within health care.
+
+Pencina has since committed himself to actions such as hiring a health ethicist in February, as well as forming the
+Algorithm Based Clinical Decision Support Oversight to consistently evaluate whether newly introduced technology
+is equitable and safe.
+
+The future of healthcare
+
+
+Load-Date: September 21, 2023
+
+
+  

@@ -1,0 +1,94 @@
+
+
+                                                                                                        Page 1 of 2
+                             PNC PILOTS AI-POWERED TOOL FOR DOCTORS, HOSPITALS
+
+
+
+
+            PNC PILOTS AI-POWERED TOOL FOR DOCTORS, HOSPITALS
+                                              Pittsburgh Post-Gazette
+                                               April 1, 2023 Saturday
+                                                 SOONER EDITION
+
+
+
+Copyright 2023 P.G. Publishing Co.
+
+Section: BUSINESS; Pg. A-10
+Length: 580 words
+Byline: Kris B. Mamula Pittsburgh Post-Gazette
+
+Body
+
+
+Smart machines have quickly become part of everyday commerce - from iPhones to TikTok - with an increasing
+number of Pittsburgh-area businesses finding ways to leverage machine learning and artificial intelligence for profit.
+
+Locally, PNC Treasury Management, a branch of banking giant PNC Financial Services Group Inc., is tapping AI to
+help health care providers limit the number of claims that are rejected for payment by insurers and other third-party
+payers. Claims are rejected for a number of reasons, including completeness, insurance coverage issues and
+required prior authorization for procedures, which ranks among the top reasons.
+
+What's more, the number of claims turned back to medical providers rose 20% in the past five years, according to
+Tampa, Fla.-based consultant Harmony Healthcare. Costs can exceed $100 for fixing and re-billing an insurer or
+other payer, so only 35% of rejected claims are submitted again.
+
+A survey by the American Hospital Association found that 13% of claims made by Pennsylvania health care
+providers in 2019-2020 were rejected, which can mean delayed or lost revenue at a difficult time for doctors and
+other medical providers.
+
+Results so far for the PNC Claim Predictor have been encouraging: Early pilot use of the tool found that it was 80%
+accurate in identifying claims that were likely to be rejected, said Doug McKinley, senior vice president and head of
+Treasury Management Innovation. Flagging problem claims allows providers to fix mistakes before the bills are sent
+off for payment, avoiding the risk of rejection.
+
+"Claim denials are a big problem in the health care business," he said. "We like to collaborate with clients along the
+way. We involve them in the process throughout."
+
+Hospital claims for payments may not be the first thing that springs to mind when you think of an outfit best known
+for retail banking and home mortgages.
+
+                                                                                                         Page 2 of 2
+                         PNC PILOTS AI-POWERED TOOL FOR DOCTORS, HOSPITALS
+
+But PNC has been serving the health care industry for more than 25 years with more than 500 employees and
+more than 51,000 health care clients in the U.S., said Brian Kelly, executive vice president and head of PNC
+Healthcare.
+
+Here's how the PNC Claim Predictor works:
+
+The software is loaded with past claims, both paid and rejected - which prompts the machine learning part of the
+program - and then AI is used to predict which new claims are likely to be rejected based on past experience.
+Because payment criteria can vary among insurers, the PNC program is tailored to metrics used by each payer.
+
+When an insurer tweaks its criteria for paying a doctor or hospital for care, the program "learns" the changes
+through constant updates. What's more, the PNC Claims Predictor can be integrated into electronic medical
+records, including Epic Systems, a popular way of tracking patient care.
+
+Sometimes, all it takes is an error in a single procedure code for the whole claim to be rejected, Mr. Kelly said.
+
+PNC also uses machine learning and AI within the back offices of Treasury Management to improve efficiency, Mr.
+McKinley said.
+
+PNC Claim Predictor grew out of conversations with people directly involved in health care. PNC Treasury
+Management uses an advisory committee made up of doctors, insurance administrators, health system executives
+and others to find solutions to the pain points in the delivery of health care.
+
+Claim rejection was a problem identified by the committee, Mr. Kelly said.
+
+"All of this is designed to help organizations have a better experience with their patients," he said.
+
+
+
+Graphic
+
+
+PHOTO: Vanessa Abbitt/Post-Gazette: The Tower at PNC Plaza. While most people know PNC for retail banking
+and home mortgages, the company developed a system that uses AI to assist hospital claims for payments.
+
+
+Load-Date: April 1, 2023
+
+
+  

@@ -1,0 +1,88 @@
+
+
+                                                                                                            Page 1 of 2
+                                 AI tools are keeping hospital patients alive and well; Opinions
+
+
+
+
+             AI tools are keeping hospital patients alive and well; Opinions
+                                                 The Chronicle (Willimantic, Connecticut)
+                                                     November 8, 2023 Wednesday
+
+
+
+Distributed by Newsbank, Inc. All Rights Reserved
+Copyright 2023 The Chronicle, Willimantic, CT.
+
+Section: OPINIONS; Pg. 5
+Length: 764 words
+Byline: LEANA S.WEN
+
+Body
+
+
+Artificial intelligence is already widely used in health care - to enhance cancer detection, reduce paperwork and
+tailortreatments. The question is, does it actually improve patient outcomes? Yes. Kaiser Permanente has
+demonstrated how AI help can improve the quality and efficiency of patient care and even save lives. For more than
+a decade, Kaiser Permanente - the largest nonprofit integrated health-care delivery system in the country - has
+been developing an AI tool that detects signs of clinical deterioration in hospital patients to identify those at risk of
+getting much sicker. This is a fundamental skill that doctors hone throughout their medical training. An increase in
+heart rate and decrease in blood pressure could mean an infection is spreading. A repeat chest X-ray showing
+more fluid in the lungs could signify weakening heart function. A rising creatinine level could indicate worsening
+kidney failure.
+
+The problem is that clinicians receive many of these inputs for all the patients they care for, and worrying trends can
+get missed until a patient becomes very ill. Hospitals have tried a variety of methods, including beeps and flashing
+alerts for each abnormal vital sign or lab test. But these can create "alarm fatigue;' which means many alerts end up
+being ignored. Also, when clinicians are continuously bombarded with new data, it can be difficult to discern the
+patterns that suggest there is a problem.
+
+Another challenge is the workflow itself. Results from labs and imaging studies usually come in piecemeal. A
+physician might check for updates every few hours, but this might not be often enough to pick up on an acute
+worsening. And if nurses or other members of the care team find the emerging problem first, there can still be a
+delay in the physician arriving to the patient's bedside.
+
+Kaiser Pennanente's AI tool addresses several of these obstacles. Predictive algorithms have been built to account
+for a patient's preexisting medical conditions, vital signs, laboratory tests, bedside nurse reports and other factors.
+And the tool receives hourly input from electronic medical records. If all this data reveals a significant risk of decline,
+an alert is issued.
+
+The key difference in Kaiser's use of AI is what happens next. First, the alert is reviewed by an off-site team of
+nurses who examine what triggered it. Then, if the patient needs to be evaluated in person, they have the patient
+
+                                                                                                            Page 2 of 2
+                            AI tools are keeping hospital patients alive and well; Opinions
+
+assessed by the hospital's rapid-response team, which then works with the patient's physician to determine next
+steps.
+
+From 2016 to 2019, this Al-powered alert system was rolled out to all 21 of Kaiser Pennanente's Northern California
+hospitals. Researchers then examined the outcomes of patients it flagged vs. those who would have triggered an
+alert if the system had been active at the time of their hospitalization. Their results, published in the New England
+Journal of Medicine, show there was a 16 percent lower mortality rate among patients who benefited from the AI
+tool. That's equivalent to 520 deaths prevented per year.
+
+"What AI does really well is to integrate a lot of different inputs," Andrew Bindman, Kaiser Pennanente's chief
+medical officer, told me, 'To identify patterns that are sometimes less visible at an early stage to our clinicians." AI
+replicates clinicians' pattern-recognition abilities but also pulls in information more frequently, enabling it to identify
+trends faster.
+
+Like other health-care leaders who are enthusiastic about AI's use in health care, Bindman stresses that it is not
+meant to replace human clinicians. Rather, it picks up data that humans might miss. The AI alert system still
+requires ongoing assessment by nurses and doctors. Because this tool deploys two additional teams, the remote
+nurses who conduct the initial review and the in-person rapid-response team, it is both high-tech and high-touch.
+
+Kaiser Permanente's results are not unique. A series of studies published last yearinNature Medicine analyzed
+patient outcomes at five hospitals, including Johns Hopkins Hospital in Baltimore, after an AI tool was deployed to
+identify patients who might have sepsis. This whole-body infection is a leading cause of in-hospital death, but it can
+be treated with antibiotics if it's caught early enough. The AI tool resulted in lower mortality as well as less organ
+failure from sepsis and shorter hospitalizations. Hospitals are demonstrating the good it can do to improve health
+and make care safer. Leanct S. Wen is a pro fessor at George Washington University'sMilken Institute School of
+Public Health
+
+
+Load-Date: November 9, 2023
+
+
+  

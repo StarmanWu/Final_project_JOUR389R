@@ -1,0 +1,68 @@
+
+
+                                                                                                           Page 1 of 2
+                        Possibilities, concerns rise as artificial intelligence breaks into health care
+
+
+
+
+  Possibilities, concerns rise as artificial intelligence breaks into health care
+                                                  The Lariat: Baylor University
+                                                  December 5, 2023 Tuesday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 369 words
+Byline: Caleb Wheeler
+
+Body
+
+
+By Caleb Wheeler | Staff Writer
+
+Artificial intelligence has officially entered health care in an effort to reduce demands on health care professionals.
+Recently, ChatGPT joined the field to produce reports, process images and message patients.
+
+Dr. Pablo Rivas, assistant professor of computer science at Baylor, said there are numerous ways AI can be
+beneficial in medicine.
+
+"If there's an illness or an epidemic and it fits a genetic profile, certain people are affected by that," Rivas said. "AI
+can help me identify people at risk much faster than any human. There are files of people; AI can mine all that data
+and identify people who are much faster than a doctor, so the doctor can focus on actually reaching out to people.
+Making searches and imaging is also pretty good for an MRI or CAT scan."
+
+While the use of AI in health care has spread across the nation, Baylor medical director Dr. Sharon Stern said
+there are some concerns about the use of AI in such fields.
+
+"AI is actually helpful in report-writing and reading X-rays, but you have to have a human there for several reasons,"
+Stern said. "AI is educated by a database, so it depends on what that database is. If they just put [AI] on the
+internet, they're going to pull up erroneous information; they're going to pull up a lot of biased, prejudiced
+information."
+
+Rivas and Stern both said they see the value of speed, although a person should be monitoring the work of AI to
+ensure it is producing accurate information.
+
+"AI can make a lot of decisions much faster, but I think as a society, we're not yet willing to accept the cost of our
+decision because of liability if a doctor makes the wrong decision," Rivas said. "If AI is making decisions, who is
+responsible for that?"
+
+Stern said she is also concerned about the future of the medical field if it starts relying on AI for basic health care
+tasks.
+
+                                                                                                       Page 2 of 2
+                     Possibilities, concerns rise as artificial intelligence breaks into health care
+
+"Let's say AI starts doing all this radiology work, and it's great and there are humans and they're learning and
+everything," Stern said. "But what if we get to the point where all of our young residents and medical students don't
+know how to read a report without the AI? And what if the system goes down one day? They're going to have to
+close the shop."
+
+
+Load-Date: December 6, 2023
+
+
+  

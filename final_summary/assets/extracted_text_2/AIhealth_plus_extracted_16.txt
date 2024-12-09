@@ -1,0 +1,118 @@
+
+
+                                                                                                           Page 1 of 3
+  Experts weigh role of AI in health care's future; From filling out forms to creating a treatment plan, professionals
+                                         are eager to use new technologies
+
+
+
+
+  Experts weigh role of AI in health care's future; From filling out forms to
+ creating a treatment plan, professionals are eager to use new technologies
+                                                   Crain's Cleveland Business
+                                                          December 11, 2023
+                                                            Print Version
+
+
+
+Copyright 2023 Crain Communications All Rights Reserved
+
+
+
+
+Section: Pg. 1; Vol. 44
+Length: 922 words
+Byline: Paige Bennett
+
+Body
+
+
+As interest grows around artificial intelligence, experts believe emerging technologies could lead to big changes in
+health care. Developments in AI could provide assistive tools to busy caregivers and allow for medicine to be
+tailored to a patient's specific needs.
+
+Conversations around the potential of AI in health care have gained momentum in recent years, but the concept
+has been around for some time.
+
+"Everything gets packaged as completely new, but, really, creating algorithms that do more consistent, better
+medicine has been with us for decades," Dr. Paul Ford, who works in the Cleveland Clinic's Department of
+Neurology. "It really has ramped up in the last five to 10 years, given our electronic medical record and the
+increasing abilities of computer hardware to process things faster for large data sets."
+
+Dr. Daniel Spratt, chair of the Department of Radiation Oncology at UH Cleveland Medical Center, said that
+historically most hardware and software used in health care has been operated by humans, but that certain areas
+have the potential to be standardized using technology.
+
+"There are aspects of healthcare that should be very evidence-based, very algorithmic, very standardized," he said.
+"That may not be a nuanced clinical decision whether to treat or not, but it may be once you've decided to treat or
+you've decided to get a scan or to order, there should be very set processes and standards for some stuff to be
+done safely and reproducibly and efficiently."
+
+A lot of the recent buzz has been around generative AI, a type of technology that can produce images, text and
+audio in seconds. This describes algorithms such as ChatGPT, an AI-powered chatbot that generates conversation-
+like responses to user-inputted questions.
+
+                                                                                                           Page 2 of 3
+  Experts weigh role of AI in health care's future; From filling out forms to creating a treatment plan, professionals
+                                         are eager to use new technologies
+
+Dr. Nicholas Schiltz, an assistant professor at Case Western Reserve University's Frances Payne Bolton School of
+Nursing, said generative AI has the potential to simplify routine processes in health care.
+
+"Nurses, doctors, the thing that they're lacking the most is time," he said. "And so, I think this technology has a lot of
+promise to automate some of the tasks that they do in terms of documenting."
+
+For example, a doctor or nurse could use generative AI to create a lay summary of a patient's electronic health
+record. Rather than having to search through a clunky electronic medical record system, the caregiver would have
+immediate access to the patient's important information.
+
+Ford said assistive AI technology could act as a sort of scribe for doctors, filling out electronic forms so they don't
+have their faces plastered on computer screens during appointments. These technologies are the closest to being
+ready to apply and implement, he said.
+
+"I think that where AI and generative AI play a role is in being able to standardize and automate many things that
+are done inefficiently right now, in a lot of different people's hands on various processes, a lot of handoffs," Spratt
+said. "That should improve the quality, you know, reduce mistakes."
+
+Schiltz said one of the key potentials for AI is precision medicine, an emerging model that uses a patient's genes,
+environmental factors and lifestyle to curate disease treatment and prevention to a specific patient. Medications are
+tested based on what works for the average patient, but that doesn't mean they work for everyone. Precision
+medicine aims to eliminate that one-size-fits-all approach and get patients the right medicine at the right time.
+
+"In order to do that, you really need large databases and representative databases so you can actually say 'This
+particular treatment should work well for this patient because their genetic profile works well with this. They're a
+good metabolizer of this medication, whereas some other patients, because they have this other gene mutation,
+they cannot metabolize that drug,'" Schiltz said.
+
+The National Institutes of Health has an ongoing research program called "All of Us" that looks to collect and study
+data from one million people living in the U.S. in an effort to improve health research and individualized prevention,
+but many groups continue to be underrepresented in this area of research.
+
+There is also concern among experts that biased algorithms could worsen health disparities if not properly
+addressed. Experts say it's important for researchers to evaluate their models for biases and not assume that a new
+form of technology will work for an entire population simply because it has worked for one group.
+
+If researchers can develop effective technology, AI may be able to help diagnose rare or hard-to-detect conditions,
+Schiltz said. Some chronic conditions, like fibromyalgia, can be difficult to diagnose because they can appear as
+different symptoms. Schiltz said AI may be able to help detect patterns that may otherwise go unnoticed.
+
+In addition, Spratt said trained generative AI chatbots could potentially help patients move their appointment times
+or answer basic questions about treatments or side effects. The technology could also flag questions that need to
+be answered by a caregiver.
+
+New forms of AI could serve as effective tools for the health care industry, but experts don't expect any new
+technologies to replace or eliminate the need for caregivers.
+
+"I do think AI will be an assist," Spratt said. "I view it analogous to the typewriter versus Microsoft Word. It's going to
+be an assistant for a lot of things to improve efficiency, accuracy. I don't see it removing physicians, nurses. I think
+there's still huge value of the human connection."
+
+
+Load-Date: December 14, 2023
+
+                                                                                                         Page 3 of 3
+Experts weigh role of AI in health care's future; From filling out forms to creating a treatment plan, professionals
+                                       are eager to use new technologies
+
+
+

@@ -1,0 +1,145 @@
+
+
+                                                                                                    Page 1 of 3
+   Penn State students, alumnus develop Reach.AI to address health disparities within marginalized communities
+
+
+
+
+         Penn State students, alumnus develop Reach.AI to address health
+                   disparities within marginalized communities
+                                        Daily Collegian: Pennsylvania State University
+                                                      July 7, 2021 Wednesday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 959 words
+Byline: Olivia Estright
+
+Body
+
+
+Recent Penn State alumnus Kareem Jelks said he spent his childhood homeless in an "impoverished area" in
+Washington D.C. From discrimination to food insecurities, Jelks said he understood what it felt like to be in need of
+help.
+
+Since earning a bachelor's degree in cybersecurity analytics and operations in 2021, Jelks said he's continued to
+work on Reach.AI - an artificial intelligence software that incorporates different data sets to determine and address
+various health disparities Hispanic and Latino communities in rural Pennsylvania are facing.
+
+"I understood what it was like from a firsthand perspective to be overlooked and underrepresented in regards to
+having certain issues addressed," Jelks said.
+
+Jelks said he has focused on his education most of his life and was able to "navigate through [his] life" with hard
+work.
+
+During the coronavirus pandemic, Jelks found a new hobby - machine learning.
+
+"I was really intrigued by machine learning applications and its application to different industries," Jelks said.
+
+Jelks wasn't alone with his intrigue for machine learning. Kalp Patel, another member of the Reach.AI team, said
+machine learning is a tool used with AI that aims to train a computer to learn data and algorithms to identify patterns
+within the data.
+
+Patel (junior-computer science) said he and John Keeling have been working to make Reach.AI "more user-
+friendly."
+
+"We're currently in the process of beginning to publish the website," Patel said. "We will hopefully have the website
+up in the next week or so, and then [Jelks] will have to take some final looks at it."
+
+                                                                                                   Page 2 of 3
+  Penn State students, alumnus develop Reach.AI to address health disparities within marginalized communities
+
+The project was co-created by Jelks and Keeling at the beginning of the pandemic after they saw how different
+communities reacted to the coronavirus pandemic, Patel said.
+
+"For Reach.AI, I tried to think about how we can incorporate healthcare into the machine learning industry because
+that's a pressing need for vulnerable populations," Jelks said. "I saw it as a way to give back. Not necessarily right
+now, but that's what the software's supposed to do."
+
+The team was one of 20 teams to compete in the Prototype Phase of the Nittany AI Challenge, according to Penn
+State Outreach. Each team received $500 to begin crafting their prototypes.
+
+However, Jelks said he doesn't want Reach.AI to end at the university level.
+
+"I want Reach.AI to be more than something that was in a competition," Jelks said. "I want to implement this idea
+into society."
+
+Courtesy of Kalp Patel
+
+The newest team member who has been working on the "backend of the website," Punya Shah, said he's excited to
+see what Reach.AI can teach him and where the software can go.
+
+"The main goal for me is to gain experience that I can eventually take into the real world," Shah (junior-computer
+science) said. "The second thing for me is Reach.AI can be made bigger with a push in the right direction."
+
+Shah and Jelks said the team relies heavily on the planning portions for the development of the software.
+
+"Time is of the essence, so I try to think of what we can do in the next 30 days to take this project to the next level,"
+Jelks said.
+
+Although the team has made it this far, Patel said it hasn't always been easy - the process is more complex than it
+seems.
+
+"A major issue we ran into was while displaying the models and showing the different data that [Jelks] collected, [we
+realized] all of the data was distinctly similar," Patel said. "We had to find other determinants to differentiate the data
+- otherwise it all looks the same."
+
+The team gathers its data from programs like Feeding America to track food insecurities, the Centers for Disease
+Control and Prevention for flu vaccinations and areas impacted by certain viruses, and the census to determine a
+better demographic, according to Jelks.
+
+MORE CAMPUS COVERAGE
+
+Jelks said the goal of Reach.AI is to show some correlation between every aspect of the data. For example, Jelks
+explained how the data will one day uncover how one area's susceptibility toward the flu relates to the coronavirus,
+food insecurity, employment rates and education.
+
+Currently, Patel said the team has enough data to focus on most counties in Pennsylvania.
+
+"I would like to see Reach.AI become a sort of solution-oriented business," Patel said. "Once you find a determinant
+that makes a county lesser, we want to provide them tools to actually [grow to] be above average."
+
+The team is in the process of developing different visuals - different types of graphs, displays and lists of resources
+- that will be accessible to users "during rough times," according to Patel.
+
+As the project continues to develop, Jelks said they are trying to ensure community members the necessary
+support so they won't have to "suffer."
+
+                                                                                                      Page 3 of 3
+     Penn State students, alumnus develop Reach.AI to address health disparities within marginalized communities
+
+While Jelks' process does include networking with industry experts to gain their input on the project, he said his
+belief in service is a driving factor for his work.
+
+"There's always going to be someone out there in a far worse situation than what you're in. Even if you're having a
+bad day, someone's having a worse day," Jelks said. "That's what motivates me the most. We're the next leaders of
+the free world."
+
+Jelks said his key to getting where he is today revolves around the idea of writing everything out.
+
+"I have a dream journal, so a lot of my ideas come from being asleep, waking up and then writing that stuff down
+and making sense of it," Jelks said.
+
+Jelks said his one piece of advice for Penn State students is to "focus on how you can make the most out of your
+Penn State story."
+
+"How can you really stand out and make a difference in your community?"
+
+MORE CAMPUS COVERAGE
+
++2
+
+Penn State alumnus Robert Boyce publishes Western adventure novel he began 34 years ago
+
+Penn State alumnus Robert Boyce always wanted to write a Western novel complete with action ...
+
+
+Load-Date: July 7, 2021
+
+
+  

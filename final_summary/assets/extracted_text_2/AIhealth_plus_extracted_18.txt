@@ -1,0 +1,136 @@
+
+
+                                                                                                     Page 1 of 3
+    AI biases could worsen health disparities Experts: Technology could lead to advancements but brings biased
+                                                     algorithms
+
+
+
+
+AI biases could worsen health disparities; Experts: Technology could lead to
+                advancements but brings biased algorithms
+                                                   Crain's Cleveland Business
+                                                          December 4, 2023
+                                                            Print Version
+
+
+
+Copyright 2023 Crain Communications All Rights Reserved
+
+
+
+
+Section: Pg. 2; Vol. 44
+Length: 1154 words
+Byline: Paige Bennett
+
+Body
+
+
+Diagnosing chronic illnesses. Personalizing medicine. Improving staff efficiency.
+
+Health care professionals see a number of potential uses for artificial intelligence in the industry, but as new
+technology develops, there also is the risk of biases infiltrating algorithms and worsening health disparities.
+
+"It's not just to create the technology and then throw it in the hands of clinicians," said Dr. Paul Ford, who works in
+the Cleveland Clinic's Department of Neurology. "You constantly go back and evaluate how efficient it is and what
+any untoward side effects are and if you need to go back and revisit the algorithm or the training data or whether
+there's systemic bias, societal bias, some built in assumption."
+
+The rise of AI could lead to huge advancements in health care, but experts say the industry must take a methodical
+approach to adopting new technologies to ensure bias stays out of these models.
+
+A big reason for the growing conversation around AI has been advancements in genomic data science, an
+interdisciplinary field that uses statistics and computational biology to analyze data created by modern genomics
+technologies.
+
+Many researchers believe genomics could revolutionize health care through precision medicine, a type of care that
+uses molecular biomarkers to evaluate a patient's risks and prognosis, and tailor treatment and prevention to their
+specific genes. But relying on these biomarkers to make accurate assessments of a patient's health could be a
+problem for diverse populations.
+
+"A lot of genomic data tend to be mostly in northern European ancestry," said Dr. Nicholas Schiltz, an assistant
+professor in Case Western Reserve University's Frances Payne Bolton School of Nursing. "When you're building
+
+                                                                                                    Page 2 of 3
+   AI biases could worsen health disparities Experts: Technology could lead to advancements but brings biased
+                                                    algorithms
+
+models on those, the models are trained specifically for that data, so when you go to try to apply it to other
+populations, it might not actually perform well or be relevant to them."
+
+Bias problems have been detected within some of the predictive algorithms that health care systems have used for
+years. A 2019 study published in Science found that an algorithm used by many hospitals to decide which patients
+need care was determining that Black patients had to be much sicker than white patients to be recommended for
+the same treatment. The algorithm had been designed using past data on health care spending, which did not
+consider that wealth and income disparities also play a role in the health care spending habits of Black patients.
+
+Dr. Daniel Spratt, chair of the Department of Radiation Oncology at UH Cleveland Medical Center, said there are
+three main forms of bias: data-driven, algorithmic and human. Data-driven biases emerge when researchers
+assume an algorithm that works for a certain group can be applied to the entire population without further validation.
+Algorithmic bias happens when a dataset doesn't contain fair representation of a particular group. Human bias
+comes from issues that already exist in society, such as structural racism.
+
+Ford, who works with the Clinic's AI team to identify potential biases or ethical concerns in projects before they
+move forward, said it's important for researchers to be mindful about biases and the harm they can inflict in the
+early stages of design.
+
+"Really it needs to be a thoughtful process at the beginning to say we know some traditional biases around
+economics, equity, access, things like gender," he said. "We're obligated to make sure that we have assessed for
+those, then to run algorithms alongside to say, 'Are there other things, patterns that we need to evaluate to see
+whether they contain some of the biases we hadn't thought of?'"
+
+Spratt said transparency is key to preventing unintentional negative consequences.
+
+For instance, if a model is designed based on a dataset of mostly white patients from Wisconsin, researchers
+should not automatically assume it will work for patient populations in Cleveland. It's crucial that researchers are
+open about where their data is coming from, he said, and that they gather information from diverse patients if they
+plan on applying their algorithms to larger populations.
+
+"I think data sharing is now probably more important than ever to make sure that you are enriching and including
+either, whether it's rare cancers or minority populations, different socioeconomic factors," Spratt said. "Data sharing
+will enable (researchers) to have enough data on potentially underrepresented data to make sure that AI algorithms
+that are meant to be applied to those less common things to prove that they work or don't work in those settings."
+
+Ford said clinicians and patients who use AI or other forms of machine learning must be empowered to recognize
+when something seems amiss. The end user of any technology should know how to look for problems and report
+anything that needs further review, he said.
+
+"The reality is, AI can be harmful," said Dr. Yasir Tarabichi, medical director of the virtual care enterprise and
+director of clinical research informatics at MetroHealth. "AI can be biased. It can bring out the worst tendencies that
+arise from what we already know in this world to be a lot of inequity and structural racism and bias. So, if you just
+hold AI up as a mirror, it's just going to reflect all the bias that exists in our world today."
+
+Tarabichi said researchers should treat algorithms like new medications and put them through robust evaluations.
+It's also important not to assume that every algorithm is going to be fair and representative simply because it's
+based on data, he said.
+
+Another way to reduce bias is to ensure that diverse populations are involved with building algorithms, Schiltz said.
+
+"A lot of people who build these models tend to be white males, so trying to be more inclusive in terms of diversity
+of gender, race, ethnicity (is important)," he said. "Get people hired into these positions to build these models. Bring
+diversity of perspective."
+
+                                                                                                    Page 3 of 3
+   AI biases could worsen health disparities Experts: Technology could lead to advancements but brings biased
+                                                    algorithms
+
+From 2006 to 2016, bachelor's degree recipients in biological sciences, computer sciences, mathematics and
+statistics were only 8.7% Hispanic or Latinx, 7.8% Black or African American and 1.9% multiracial or indigenous
+American, according to a 2022 journal published by the National Library of Medicine.
+
+Experts agree the health care industry should take a slow and deliberate approach to rolling out new technology.
+Ford said it was "heartening" to see the U.S. set guidelines for AI development. In October, President Joe Biden
+signed an executive order on AI that the White House says will establish new standards for safety, protect citizens'
+privacy and advance equity and civil rights.
+
+Spratt said the appropriate guardrails must be in place before new technologies are implemented.
+
+"All this AI stuff is not going to redefine health care overnight," Tarabichi said. "It has to be put through its paces,
+and we have to make sure that we are helping and not harming the community that we serve."
+
+
+Load-Date: December 7, 2023
+
+
+  

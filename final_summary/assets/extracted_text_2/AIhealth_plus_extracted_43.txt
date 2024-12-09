@@ -1,0 +1,136 @@
+
+
+                                                                                                        Page 1 of 3
+                Parkland school shooting survivor develops Joy, an app built on AI that helps people heal
+
+
+
+
+    Parkland school shooting survivor develops Joy, an app built on AI that
+                              helps people heal
+                                                  St. Louis Post-Dispatch (Missouri)
+                                                    September 28, 2023 Thursday
+                                                             FIRST EDITION
+
+
+
+Copyright 2023 St. Louis Post-Dispatch, Inc. All Rights Reserved
+
+Section: ; Pg. A12
+Length: 877 words
+Byline: BARBARA ORTUTAY Associated Pres
+
+Body
+
+
+Kai Koerber was a junior at Marjory Stoneman Douglas High School when a gunman murdered 14 students and
+three staff members there on Valentine's Day in 2018. Seeing his peers - and himself - struggle with returning to
+normal, he wanted to do something to help people manage their emotions on their own terms.
+
+While some of his classmates at the Parkland, Florida, school have worked on advocating for gun control, entered
+politics or simply took a step back to heal and focus on their studies, Koerber's background in technology - he'd
+originally wanted to be a rocket scientist - led him in a different direction: to build a smartphone app.
+
+The result was Joy: AI Wellness Platform, which uses artificial intelligence to suggest bite-sized mindfulness
+activities for people based on how they are feeling. The algorithm Koerber's team built is designed to recognize how
+a person feels from the sound of their voice - regardless of the words or language they speak.
+
+"In the immediate aftermath of the tragedy, the first thing that came to mind after we've experienced this horrible,
+traumatic event - how are we going to personally recover?" he said. "It's great to say OK, we're going to build a
+better legal infrastructure to prevent gun sales, increased background checks, all the legislative things. But people
+really weren't thinking about … the mental health side of things."
+
+Like many of his peers, Koerber said he suffered from post-traumatic stress disorder for a "very long time" and only
+recently has it gotten a little better.
+
+"So when I came to Cal, I was like, let me just start a research team that builds some groundbreaking AI and see if
+that's possible," said the 23-year-old, who graduated from the University of California, Berkeley earlier this year.
+"The idea was to provide a platform to people who were struggling with, let's say sadness, grief, anger … to be able
+to get a mindfulness practice or wellness practice on the go that meets our emotional needs on the go."
+
+He said it was important to offer activities that can be done quickly, sometimes lasting just a few seconds, wherever
+the user might be. It wasn't going to be your parents' mindfulness practice.
+
+                                                                                                     Page 2 of 3
+             Parkland school shooting survivor develops Joy, an app built on AI that helps people heal
+
+"The notion of mindfulness being a solo activity or something that's confined to sitting in your room breathing is
+something that we're very much trying to dispel," Koerber said.
+
+Mohammed Zareef-Mustafa, a former classmate of Koerber's who's been using the app for a few months, said the
+voice-emotion recognition part is "different than anything I've ever seen before."
+
+"I use the app about three times a week, because the practices are short and easy to get into. It really helps me
+quickly de-stress before I have to do things like job interviews," he said.
+
+To use Joy, you simply speak into the app. The AI is supposed to recognize how you are feeling from your voice,
+then suggest short activities.
+
+It doesn't always get your mood right, so it's possible to manually pick your disposition. Yet another activity helps
+you practice making an effective apology. Another has you write a letter to your future self, with a pen and a paper -
+remember those? Feeling sad? A suggestion pops up asking you to track how many times you've laughed over a
+seven-day period and tally it up at the end of the week to see what moments gave you a sense of joy, purpose or
+satisfaction.
+
+The iPhone app is available for a $8 monthly subscription, with a discount if you subscribe for a year. It's a work in
+progress, and as it goes with AI, the more people use it, the more accurate it becomes.
+
+"Kai is a leader of this next generation who are thinking intentionally and with focus about how to use technology to
+meet the mental, physical, and climate crises of our times," said Dacher Keltner, a professor at UC Berkeley and
+Koerber's faculty adviser on the project. "It comes out of his life experience, and, unlike past technologists, he
+seems to feel this has to be what technology does, make the world healthier."
+
+A plethora of wellness apps on the market claim to help people with mental health issues, but it's not always clear
+whether they work, said Colin Walsh, a professor of biomedical informatics at Vanderbilt University who has studied
+the use of AI in suicide prevention. According to Walsh, it is feasible to take someone's voice and glean some
+aspects of their emotional state.
+
+"The driver is there's a huge demand there, or at least the perception of a huge demand there" Walsh said of the
+explosion of wellness and mental health apps in the past few years. "Despite the best of intentions with our current
+system - and it does a lot of good work - obviously, there's still gaps. So I think people see technology as a tool to
+try to bridge that."
+
+Koerber said people tend to forget, after mass shootings, that survivors don't just "bounce back right away" from the
+trauma they experienced. It takes years to recover.
+
+"This is something that people carry with them, in some way, shape or form, for the rest of their lives," he said.
+
+His work has also been slower and deliberate than tech entrepreneurs of the past.
+
+"I guess young Mark Zuckerberg was very ‘move fast and break things,'" he said. "And for me, I'm all about building
+quality products that, you know, serve social good in the end."
+
+
+
+Graphic
+
+
+ With the fall school semester having already started or soon to get under way in most of the U.S., school safety is
+top of mind, with what to do in the case of a school shooting becoming a regular part of planning.Last year, there
+were 47 school shootings. That's just shy of the previous year's 52 and significantly higher than the two years
+before that. However, those numbers are lower, in part due to students being in virtual learning due to the
+
+                                                                                                     Page 3 of 3
+             Parkland school shooting survivor develops Joy, an app built on AI that helps people heal
+
+pandemic. The deadliest school shooting from last school year was at a private Christian school in Nashville where
+the gunman shot through glass to be able to get access inside.SEE MORE: Shots again fired at site of Parkland
+school massacre in reenactmentSince the Nashville shooting in March, Tennessee lawmakers approved $230
+million for enhanced safety and mental health. In Denver, armed officers are returning to public schools in the
+fall.And in Florida, dozens of state laws are focused on school safety.Districts in other states are allowing certain
+staff members to carry guns on campus or installing collapsible bulletproof rooms, and in some places, resource
+officers are back to walking school grounds.Scripps News reporters nationwide have been closely following safety
+changes like this in recent years. They explain the changes their local community schools are making to address
+safety concerns this year. Kai Koerber, seen July 27 in Berkeley, Calif., was a junior at Marjory Stoneman Douglas
+High School when a gunman murdered 14 students and three staff members on Valentine's Day in 2018. Kai
+Koerber, seen July 27 in Berkeley, Calif., was a junior at Marjory Stoneman Douglas High School when a gunman
+murdered 14 students and three staff members on Valentine's Day in 2018. In response, he created Joy, an app
+that helps people struggling with sadness, grief or anger. The Joy: AI Wellness Platform app uses artificial
+intelligence to suggest bite-sized mindfulness activities for people based on how they are feeling. The algorithm is
+designed to recognize how a person feels from the sound of their voice.
+
+
+Load-Date: September 28, 2023
+
+
+  

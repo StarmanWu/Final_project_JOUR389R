@@ -1,0 +1,129 @@
+
+
+                                                                                                           Page 1 of 3
+                  Mercy looks to AI to relieve burden on health care workers, answer patients' questions
+
+
+
+
+Mercy looks to AI to relieve burden on health care workers, answer patients'
+                                 questions
+                                                  St. Louis Post-Dispatch (Missouri)
+                                                        October 1, 2023 Sunday
+                                                             FIRST EDITION
+
+
+
+Copyright 2023 St. Louis Post-Dispatch, Inc. All Rights Reserved
+
+Section: ; Pg. C1
+Length: 980 words
+Byline: By Annika Merrilees St. Louis Post-Dispatch
+
+Body
+
+
+CHESTERFIELD - The Mercy health system plans to roll out a series of artificial intelligence-based tools in the
+coming months, in partnership with Microsoft.
+
+Their efforts are still in the early stages, but if they succeed, officials believe the technology could help patients
+navigate the health care system, reduce burden on medical staff and monitor for errors.
+
+They aim to get a few programs up and running sometime next year, but officials are already looking at dozens of
+other potential uses for AI within the health system over the longer term.
+
+Joe Kelly, Mercy's executive vice president and chief transformation and business development officer, said the
+health system is treading carefully, with an eye toward ethical considerations like data privacy. The health system
+is developing its own AI "code of conduct."
+
+"We're not going to rush," Kelly said. "I think it's really important to make sure that we do have the right safeguards
+in place before we just deploy technology like this into the wild."
+
+Dr. Lee Schwamm, professor of biomedical informatics and data sciences at Yale School of Medicine, said AI is
+already used in many parts of the U.S. health care system. Machine learning and automation are used widely in
+financial transactions. "Conversational AI," often used in retail to monitor satisfaction during customer service calls,
+is beginning to spread into health care. Schwamm think's there is potential to use AI to write clinical notes, and to
+offer doctors suggestions of possible diagnoses that line up with patient symptoms.
+
+People working on AI programs in health care, Schwamm said, need to ensure that there is human supervision of
+what the technology is doing or recommending. And they need to consider how transparent they are with patients.
+
+"I think that the bigger question here is really not whether it's going to be part of health care. It's gonna be part of
+health care, just like it's part of everything else. The biggest question will be: Will you know it when you're
+interacting with it? And will you know when it has been used in your care?" Schwamm said.
+
+                                                                                                          Page 2 of 3
+               Mercy looks to AI to relieve burden on health care workers, answer patients' questions
+
+One of the first programs Mercy plans to introduce is a chatbot where patients would be able to ask questions and
+get help understanding their lab results, which often hit patients' online medical portals before medical staff have a
+chance to reach out and explain what the findings mean, Kelly said. The program should be able to cut back on
+calls over basic questions, he said, and patients will always be able to reach out to medical staff for more
+discussion if they want to.
+
+Another program will take patients' calls and schedule appointments. A third is an internal chatbot tool, where staff
+can find information about policies and procedures and answer HR-related questions.
+
+Those first programs are just a few of the roughly 50 ideas Mercy leaders presented to Microsoft, as possible uses
+for AI in the health system.
+
+Kelly said these tools aren't expected to come at the expense of jobs. In an industry struggling with staffing
+shortages, the hope is to reduce the time workers spend on tedious tasks, and give them more time to spend with
+patients.
+
+It wouldn't be Mercy's first time adopting this type of technology. Kelly said that for about a year now, Mercy has a
+machine learning model that predicts roughly when a patient might be discharged, in hopes of preventing people
+from spending more time in the hospital than they need to.
+
+In the past, when a doctor determined a patient was ready for discharge, a staff member would then begin calling
+around, looking for available space at a skilled nursing facility, rehabilitation hospital, or wherever the patient may
+go next. It may take an extra day or two to find an available slot, which means the patient stayed longer in the
+hospital than they wanted to, and the hospital would have one less available bed for new admissions.
+
+Doctors always have the ability to overrule the technology, Kelly said, adding, "We don't want to have (AI) models
+performing patient care." But in some cases, the prediction model meant that staff could start calling facilities and
+say, "''Hey, four-and-a-half days from now, I will have a patient in need of a slot,'" Kelly said.
+
+People working in this field are having conversations with regulators about appropriate safeguards, said Peter Lee,
+corporate vice president of research and incubations at Microsoft. They are also discussing how to mitigate
+potential biases that can be introduced by AI.
+
+Kelly said the health system is taking a measured pace, despite the inclination to adopt AI tools soon.
+
+"Health care has a massive staffing shortage, so there's a big desire to move quickly," he said. "But it's
+counterbalanced by the desire to do this the right way and protect patient safety and privacy."
+
+Lee said he sees potential to use AI to cut back on the time health care workers normally spend on paperwork -
+from clinical notes, to notes referring patients to specialists, and notes justifying that lab tests or prescriptions
+should be covered by insurance. It could also be used to inform doctors when there is a clinical trial that a patient
+could participate in.
+
+He also thinks the technology can be used as a backstop, to check for errors.
+
+"I'm a big believer in using AI as a second set of eyes," Lee said. "Just make sure that any errors, any biases are
+spotted, and that people are given a chance to rethink a decision or a calculation."
+
+"Generative AI turns out to be incredibly good at reviewing, and evaluating, and critiquing, and spotting errors," Lee
+said.
+
+One company that provides electronic medical record software, Epic, has an AI-based tool with Microsoft that helps
+doctors respond to patient emails more quickly. Lee said he's found that some patients sometimes like the AI-
+assisted letters more, because they can add empathetic flourishes that doctors may not have time to.
+
+                                                                                                       Page 3 of 3
+              Mercy looks to AI to relieve burden on health care workers, answer patients' questions
+
+
+
+Graphic
+
+
+ The entrance to Mercy Hospital on Ballas Road in Creve Coeur is seen on Thursday, July 7, 2022. Forbes has
+reported that Generative AI could soon become a key weapon in the fight against cancer. An Oxford-based biotech
+firm has created an immunotherapy drug with the help of generative AI. Veuer's Chloe Hurst has the story!
+
+
+Load-Date: October 1, 2023
+
+
+  

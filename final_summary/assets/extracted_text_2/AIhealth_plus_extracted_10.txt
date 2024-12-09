@@ -1,0 +1,167 @@
+
+
+                                                                                                          Page 1 of 3
+               Is your health insurer using AI to deny you services? Lawsuit says errors harmed elders.
+
+
+
+
+   Is your health insurer using AI to deny you services? Lawsuit says errors
+                                 harmed elders.
+                                                        USA Today Online
+                                                        November 19, 2023
+
+
+
+Copyright 2023 Gannett Media Corp All Rights Reserved
+
+Section: INSURANCE INDUSTRY NEWS, INSURANCE INDUSTRY NEWS, INSURANCE INDUSTRY NEWS &
+LAWSUITS NEWS
+Length: 1384 words
+Byline: Ken Alltucker, USA TODAY
+
+Body
+
+
+For years, vital decisions about who got medical care coverage took place in back offices at health insurance
+companies. Now, some of those life-altering decisions are being made by artificial intelligence programs.
+
+At least that's the contention of the two families who sued UnitedHealth Group this week, saying the insurance giant
+used emerging technology to deny or shorten rehabilitation stays for two elderly men in the months before they
+died.
+
+They say that UnitedHealth's artificial intelligence, or AI, is making "rigid and unrealistic" determinations about what
+it takes for patients to recover from serious illnesses and denying them care in skilled nursing and rehab centers
+that should be covered under Medicare Advantage plans, according to a federal lawsuit filed in Minnesota by the
+estates of two elderly Wisconsin patients. The lawsuit, which seeks class-action status, says it is illegal to let AI
+override doctors' recommendations for these men and patients like them. The families say assessments like that
+should be done by medical professionals.
+
+The families note in the suit that they believe the insurance company is denying care to elderly patients who won't
+fight back even though evidence shows the AI is doing a lackluster job of assessing people's needs. The company
+used algorithms to determine coverage plans and override doctors' recommendations despite the AI program's
+astonishingly high error rate, they say.
+
+More than 90% of patient claim denials were overturned through internal appeals or a federal administrative law
+judge, according to court documents. But in reality, few patients challenged the algorithms' determinations. A tiny
+percentage of patients − .2% − choose to fight claim denials through the appeals process. The vast majority of
+people insured by UnitedHealth's Medicare Advantage plans "will either pay out-of-pocket costs or forgo the
+remainder of their prescribed post-acute care," the lawsuit says.
+
+Attorneys representing the families suing the Minnesota-based insurance giant said the high rate of denials is part
+of the insurance company's strategy.
+
+                                                                                                         Page 2 of 3
+              Is your health insurer using AI to deny you services? Lawsuit says errors harmed elders.
+
+"They're placing their own profits over the people that they are contracted with and then legally bound to cover,"
+said Ryan Clarkson, a California attorney whose law firm has filed several cases against companies using AI. "It's
+that simple. It's just greed."
+
+UnitedHealth told USA TODAY in a statement naviHealth's AI program, which is cited in the lawsuit, isn't used to
+make coverage determinations.
+
+"The tool is used as a guide to help us inform providers, families and other caregivers about what sort of assistance
+and care the patient may need both in the facility and after returning home," the company said.
+
+Coverage decisions are based on the Centers for Medicare & Medicaid Services' criteria and the consumer's
+insurance plan, the company said.
+
+"This lawsuit has no merit, and we will defend ourselves vigorously,” the company said.
+
+Lawsuits of this type are not new. They are part of a growing body of litigation.
+
+In July, the Clarkson law firm filed a case against CIGNA Healthcare alleging the insurer employed AI to automate
+claims rejections. The firm also has pursued cases against ChatGPT maker OpenAI and Google.
+
+Families pay for expensive care that the insurer denies
+
+The plaintiffs in the suit this week are the relatives of two deceased Wisconsin residents, Gene B. Lokken and Dale
+Henry Tetzloff, who were both insured by UnitedHealth's private Medicare plans.
+
+In May 2022, Lokken, 91, fell at home and broke his leg and ankle, requiring a brief hospital stay followed by a
+month in a rehab facility while he healed. Lokken's doctor then recommended physical therapy so he could regain
+strength and balance. The Wisconsin man spent less than three weeks in physical therapy before the insurer
+terminated his coverage and recommended he be discharged and sent to recover at home.
+
+ A physical therapist described Lokken's condition as "paralyzed" and "weak," however his family appeals for
+continued therapy coverage were rejected, according to the lawsuit.
+
+His family opted to continue with treatment despite the denial. Without coverage, the family had to pay $12,000 to
+$14,000 per month for about a year of therapy at the facility. Lokken died at the facility in July 2023.
+
+The other man's family also raised concerns that necessary rehabilitation services had been denied by the AI
+algorithm.
+
+Tetzloff was recovering from a stroke in October 2022, and his doctors recommended the 74-year-old be
+transferred from a hospital to a rehab facility for at least 100 days. The insurer initially sought to end his coverage
+after 20 days, but the family appealed. The insurer then extended Tetzloff's stay another 20 days.
+
+The man's doctor had recommended additional physical and occupational therapy, but his coverage ended after 40
+days. The family spent more than $70,000 on his care during the next 10 months. Tetzloff spent his final months in
+an assisted living facility, where he died on Oct. 11.
+
+10 appeals to rehab a broken hip
+
+The legal action comes after Medicare advocates began raising concerns about the routine use of AI technology to
+deny or reduce care for older adults on private Medicare plans.
+
+In 2022, the Center for Medicare Advocacy examined multiple insurers' use of artificial intelligence programs in
+rehabilitation and home health settings. The advocacy group's report concluded that AI programs often made
+coverage decisions that were more restrictive than what Medicare would have allowed and the decisions lacked the
+level of nuance necessary to evaluate the unique circumstances of each case.
+
+                                                                                                         Page 3 of 3
+              Is your health insurer using AI to deny you services? Lawsuit says errors harmed elders.
+
+"We saw more care that would have been covered under traditional Medicare denied outright or prematurely
+terminated," said David Lipschutz, associate director and senior policy attorney for the Center for Medicare
+Advocacy.
+
+Lipschutz said some older adults who appeal rejections might win a reprieve only to be shut down again. He cited
+the example of a Connecticut woman who sought a three-month stay at a rehab center as she recuperated from a
+hip replacement surgery. She filed and won 10 appeals after an insurer repeatedly attempted to terminate her
+coverage and limit her stay.
+
+Importance of having 'human in the loop'
+
+Legal experts who are not involved in these cases said artificial intelligence is becoming a fertile target for people
+and organizations seeking to rein in or shape the use of emerging technology.
+
+Gary Marchant, faculty director at the Center for Law, Science and Innovation at Arizona State University's Sandra
+Day O'Connor College of Law, said an important consideration for health insurers and others deploying AI
+programs is making sure that humans are part of the decision-making process.
+
+While AI systems can be efficient and complete rudimentary tasks quickly, programs on their own can also make
+mistakes, Marchant said.
+
+"Sometimes AI systems aren't reasonable and they don't have common sense," said Marchant. "You have to have
+a human in the loop."
+
+In cases involving insurance companies using AI to guide claim decisions, Marchant said a key legal factor might
+be how much a company defers to an algorithm.
+
+The UnitedHealth lawsuit states that the company limited workers' "discretion to deviate" from the algorithm.
+Employees who deviated from the AI program's projections faced discipline or termination, the lawsuit said.
+
+Marchant said one factor to track in the UnitedHealth cases and similar lawsuits is how closely employees are
+required to follow an AI model.
+
+"There, clearly, has to be an opportunity for the human decider to override the algorithm," Marchant said. "That's
+just a huge issue in AI and healthcare."
+
+He said it's important to consider the consequences of how companies set up their AI systems. Companies should
+think about how much deference they give to an algorithm, knowing that AI can digest huge amounts of data and
+be"incredibly powerful" as well as "incredibly accurate," he said, and leaders should also keep in mind that AI
+"sometimes can just be completely wrong."
+
+Ken Alltucker is on X, formerly Twitter, at @kalltucker, or can be emailed at alltuck@usatoday.co m.
+
+This article originally appeared on USA TODAY: Is your health insurer using AI to deny you services? Lawsuit says
+errors harmed elders.
+
+
+Load-Date: November 20, 2023
+
+
+  

@@ -1,0 +1,78 @@
+
+
+                                                                                                       Page 1 of 2
+                      Health care leaders seek regulation, transparency for AI in health industry
+
+
+
+
+  Health care leaders seek regulation, transparency for AI in health industry
+                                                        TheHill.com
+                                             November 29, 2023 Wednesday
+
+
+
+Copyright 2023 NEXSTAR MEDIA INC. All Rights Reserved
+
+Section: HEALTH CARE INDUSTRY NEWS & HEALTHCARE MANAGEMENT NEWS
+Length: 460 words
+Byline: Lydia McFarlane
+
+Body
+
+
+Health care sector leaders urged Congress to pass regulations on the use of artificial intelligence (AI) in the
+industry based on experiences facing issues in the AI programming such as implicit bias and patient privacy.
+
+Wednesday’s hearing on the use of AI in health care comes after tools such as ChatGPT made waves in the
+health care space.
+
+Witnesses expressed concern about implicit bias in AI used in health care that could potentially discriminate
+against patients based on demographics.
+
+“Generative [large language models] must be ‘trained’ on massive volumes of written language — the ultimate
+compendium of human experience,” said Benjamin Nguyen, senior product manager at health care company
+Transcarent. “It therefore inherits the inherent biases of that experience through the data used to train the model.”
+
+House Energy and Commerce Chair Rep. Cathy McMorris Rodgers (R-Wash.) echoed Nguyen’s concerns, voicing
+fears about “the possibility of human biases to be implicitly baked into AI technologies.”
+
+When considering legislation, witnesses said Congress must consider the training procedures that could result in
+bias to ensure equitable use of AI in medicine.
+
+Dr. David Newman-Toker, director of the division of neurovisual and vestibular disorders at Johns Hopkins
+University School of Medicine neurology department, said AI systems should be trained on “gold-standard data
+sets” to ensure health care professionals aren’t “converting human racial bias into hard and fast AI-determined
+rules.”
+
+Also discussed between witnesses and members of the subcommittee on health were concerns about how the use
+of AI in medicine could compromise transparency and patient privacy.
+
+“It is critical that safeguards are put in place to protect the privacy and security of patient’s data,” Rep. Frank
+Pallone Jr. (D-N.J.), said.
+
+                                                                                                        Page 2 of 2
+                     Health care leaders seek regulation, transparency for AI in health industry
+
+Peter Shen, head of digital health in North America for health care company Siemens Healthineers, said it is
+critical to work together and build “ethical, transparent and accessible AI in health care.”
+
+Witnesses encouraged telling patients when and how AI is being used, in the interest of transparency.
+
+“I think it’s of the most paramount importance that patients understand who is treating them. And if AI is being used,
+there needs to be transparency,” Nguyen said.
+
+As with AI use in other industries, lawmakers are tasked with balancing innovation and regulation when considering
+the use of AI in health care.
+
+“[With the] absence [of] carefully crafted regulations, innovative payment incentives, and new research resources
+directed to overcome key barriers to successful deployment of high-quality AI systems, risks will dominate,”
+Newman-Toker said.
+
+For the latest news, weather, sports, and streaming video, head to The Hill.
+
+
+Load-Date: January 11, 2024
+
+
+  

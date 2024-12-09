@@ -1,0 +1,141 @@
+
+
+                                                                                                         Page 1 of 3
+                                   Hackers target health care AI amid coronavirus pandemic
+
+
+
+
+                 Hackers target health care AI amid coronavirus pandemic
+                                                                   The Hill
+                                                       March 31, 2020 Tuesday
+
+
+
+Copyright 2020 Capitol Hill Publishing Corp. All Rights Reserved
+
+Section: Pg. 12
+Length: 1181 words
+Byline: By Maggie Miller
+
+Body
+
+
+The health care sector has increasingly turned to artificial intelligence to aid in everything from performing surgeries
+to helping diagnose and predict outcomes of patient illnesses.
+
+But as the coronavirus crisis ramps up, and hackers turn their eyes toward the health sector, experts warn these
+systems and the patients they support are increasingly at risk.
+
+"Obviously any disruption or denial of service of any type of medical health technology which interrupts patient care
+is definitely a significant issue," said John Riggi, the senior adviser for cybersecurity and risk at the American
+Hospital Association (AHA). "Worst-case scenario, life-saving medical devices may be rendered inoperable."
+
+AI systems have gradually been integrated into health care in the United States, often used to help speed
+diagnoses, such as reading X-rays, and for determining risks to patients. But with the increase in AI use comes an
+increase in risks to the networks they rely on.
+
+John Frownfelter, the chief medical information officer for health care-focused AI group Jvion, told The Hill that he
+believes that, as it stands, hospitals are "losing the battle" against hackers.
+
+"Cybersecurity is getting more and more sophisticated where for hospitals, it's not their core business, but the bar is
+getting higher for them to match the efforts to breach them essentially," Frownfelter said. "I think this trend is going
+to continue until some paradigm shift occurs."
+
+Jvion currently provides clinical insights for therapy through AI to about 5 to 10 percent of U.S. hospitals, according
+to Frownfelter. The coronavirus pandemic is providing new opportunities for companies to deploy AI resources.
+Jvion recently built a map that uses AI technology to analyze the communities most at risk in the United States from
+the spread of coronavirus, using factors such as income and employment rates.
+
+But Frownfelter cautioned that if hackers were to target AI systems amid the coronavirus crisis, it could lead to
+delayed care for patients at a time when every moment counts.
+
+                                                                                                       Page 2 of 3
+                             Hackers target health care AI amid coronavirus pandemic
+
+"There are [some] radiologists that are much faster and more efficient at reading imaging stories," Frownfelter said.
+"Radiologists can glance at it and confirm that and take a fraction of the time ... if you took that away, you would
+have delays in getting images read and interpreted and getting back to physicians."
+
+AI capabilities have made a major difference in the ability to treat patients. Ray Page, a Texas-based oncologist
+and fellow at the American Society of Clinical Oncology, told The Hill that he uses AI to track his patients
+throughout their cancer treatment.
+
+He noted that the use of these systems has been integrated into "comprehensive" treatments and was
+apprehensive about the implications of AI systems being compromised by hackers.
+
+"If this gets hacked, or we lose access to those tools, then basically we are going back to the way of using clinical
+judgment," Page said.
+
+Hospitals have long been a tempting target for hackers, particularly for ransomware attacks, in which a system is
+locked out and hackers ask for money to unlock it. Hospitals and health care centers, where access to networks
+can mean the difference between life and death for patients, are seen as more likely to pay those ransoms.
+
+There have already been worrying signs of malicious actors stepping up their game against hospitals and health
+care organizations during the coronavirus pandemic.
+
+The website of the Champaign-Urbana Public Health District in Illinois, which serves about 200,000 people, was
+taken down by hackers for several days, while both the Department of Health and Human Services (HHS) and the
+World Health Organization were targeted by cyberattacks. Earlier this month, the second largest hospital in the
+Czech Republic was hit by a cyberattack that led to canceled surgeries and rerouted ambulances.
+
+Riggi told The Hill that AHA, which consists of about 5,000 hospitals and health care groups, was aware of another
+attempted ransomware attack on an American hospital and ongoing attempts to probe the websites of HHS and
+state hospitals.
+
+He noted that he would also not be surprised if a nation state such as China attempted to steal AI algorithms as
+part of intellectual property theft.
+
+"Unfortunately, they are not taking a break," Riggi said. "The bad guys are using the COVID-19 pandemic to exploit
+and conduct further frauds ... a despicable and heinous crime."
+
+But concerns over hacking are not the only problem facing AI systems during the coronavirus pandemic.
+
+The Association of American Physicians and Surgeons put out an alert earlier this month warning its members to be
+wary of AI-powered chatbots being used for diagnosing potential symptoms of coronavirus.
+
+The Association of American Physicians and Surgeons detailed a report from STAT in which the reporter asked
+multiple chatbots for organizations, including the Centers for Disease Control and Prevention and other established
+medical groups, whether his symptoms pointed toward coronavirus. The chatbots all gave different answers.
+
+"There are many unknowns," the group warned members. "The established experts could be mistaken. Use good
+judgment. Help your neighbor, and don't panic."
+
+On Capitol Hill, concerns over the cybersecurity of the health care sector have also not gone unnoticed.
+
+Sen. Mark Warner (D-Va.), the vice chairman of the Senate Intelligence Committee, sent letters to top health care
+groups including the AHA in 2019 asking questions about what the federal government could do to counter
+cyberattacks on systems.
+
+Warner told The Hill earlier this month that his concerns around the cybersecurity of hospitals were only heightened
+by the coronavirus pandemic.
+
+                                                                                                         Page 3 of 3
+                              Hackers target health care AI amid coronavirus pandemic
+
+"While we've seen the sector make some strides in recent months, we're still operating from a unnecessarily low
+security baseline compared to other critical infrastructure sectors, and I fear any weaknesses could be magnified
+during a crisis such as this," Warner said.
+
+While it may be some time before the impact of the coronavirus pandemic across the health care sector is known,
+the crisis is certain to open more doors to using AI in health care. And there are ways AI could help counter
+broader cyber threats.
+
+Riggi predicted that AI, while still used by hackers to create malware and seen as another route into vulnerable
+systems, could also speed up the identification of cybersecurity risks to hospitals.
+
+"AI is being deployed in hospitals to identify in a dynamic process all the connected devices ... and continuously
+monitor those medical devices for anomalous behavior that might indicate a potential cyberattack on those devices
+and highlight potential risk to patient care and safety," Riggi said.
+
+Frownfelter, of Jvion, predicted that the crisis may also lead to more dependence on AI than ever before.
+
+"I think this is the first time that AI will be recognized as adding value," Frownfelter said. "The season is now for AI
+to come into its own, and when you've got health systems that are overwhelmed or processes that are
+overwhelmed, then the power becomes more appreciated."
+
+
+Load-Date: April 13, 2020
+
+
+  

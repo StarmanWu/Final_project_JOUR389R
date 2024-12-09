@@ -1,0 +1,83 @@
+
+
+                                                                                                          Page 1 of 2
+                               Exploring how artificial intelligence could redefine health care
+
+
+
+
+             Exploring how artificial intelligence could redefine health care
+                                             The McGill Tribune: McGill University
+                                                      October 6, 2020 Tuesday
+
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+
+Section: SCI-TECH; Pg. 1
+Length: 663 words
+Byline: Namrata Rana
+
+Body
+
+Before Siri and Alexa, programmers created Eliza. Developed in 1964, Eliza was the first chatbot capable of
+recreating conversations between a psychotherapist and a patient. This chatbot pushed the boundaries of artificial
+intelligence , a still-emerging field at the time, into the domain of health care. Despite researcher's best efforts, the
+integration of AI into medicine was slow in the following decades. This slow progress accelerated, however, when
+the global COVID-19 pandemic challenged health care systems' abilities to treat larger populations in need of
+immediate attention. AI-augmented care has emerged as the leading solution to efficiently manage patients and
+apply the ever-growing collection of data to diagnostic medicine.
+
+Dr. Samira Rahimi, a professor in the Department of Family Medicine at McGill, is using AI to monitor senior
+residents in long term care facilities in Montreal and Toronto. Her ongoing project, AiCoV19, funded by Roche
+Canada's COVID-19 Open Innovation challenge, uses biosensors in smartwatches to continuously track potential
+COVID-19 symptoms in elderly patients.
+
+"The goal is to integrate data from these sensors into an algorithm that can detect abnormalities in vital signs and
+predict an infection earlier," Rahimi said in an interview with The McGill Tribune. "The biggest advantage of AI-
+based, real-time monitoring is how quickly a health care professional can be alerted upon detection of concerning
+signals."
+
+AI is often glorified as a solution to numerous problems, however it is not yet capable of spontaneous
+consciousness. Instead, AI learns within the algorithms it is given.
+
+"What makes AI so powerful is its capacity to translate big data into an automated algorithm that captures complex
+relationships and trends," Rahimi said.
+
+One of the most challenging obstacles facing doctors and nurses on the front-lines of COVID-19 is the inability to
+process the magnitude of data constantly being collected and updated worldwide. Deep learning is a specialized
+category of AI that loosely resembles networks of neurons in an attempt to mimic human intelligence and complete
+tasks that require layers of information processing. AI has become the basis of multiple global tools being used to
+tackle the pandemic. One such tool was created by MIT data scientists to forecast infections and deaths. Leaving
+computers to the task of reading research papers on COVID-19 as well as collecting and predicting future trends
+provides physicians more time to look after patients.
+
+                                                                                                       Page 2 of 2
+                             Exploring how artificial intelligence could redefine health care
+
+With mounting evidence supporting the benefits of AI in diagnostic support, patient monitoring, and personalized
+care, its strongest proponents still wonder why it has yet to be embraced on a wider scale. The answer to that
+question is complex, but for many, this hesitation can be attributed to open debates surrounding the right to
+information security and the further questions of ethics that come with big data projects.
+
+"Data access continues to be a barrier in AI adoption in health care," Rahimi said. "AI project proposals undergo [a]
+rigorous process to seek approval. There is a lack of open-source data available to researchers, which is the most
+valuable asset for any developer. AI continues to be part of the few scientific fields where the practice of open-
+science is still heavily debated.
+
+Although the global pandemic has revealed the necessity of AI in health care, it is important to reflect on the long
+term opportunities for AI-augmentation in tackling health-related problems. According to the World Health
+Organization, the expected shortage of health care workers in North America is projected to exceed 14.5 million by
+2030. Rahimi points out that the incorporation of AI technology can resolve some of these anticipated issues by
+expanding health care access, improving administrative efficiency, and providing insight into selecting the most
+appropriate treatment paths for each patient.
+    •   Artificial Intelligence
+    •   covid-19
+    •   healthcare
+
+
+Load-Date: October 6, 2020
+
+
+  

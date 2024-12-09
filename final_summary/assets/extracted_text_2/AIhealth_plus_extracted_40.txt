@@ -1,0 +1,79 @@
+
+
+                                                                                                         Page 1 of 2
+                               AI Impact On Mammograms, Breast Health & The OBGYN Field
+
+
+
+
+            AI Impact On Mammograms, Breast Health & The OBGYN Field
+                                              Glendale Register (Queens, New York)
+                                                         February 2, 2023
+
+
+
+Distributed by Newsbank, Inc. All Rights Reserved
+Copyright 2023 Glendale Register (Queens, NY), Queens Ledger/Greenpoint Star Inc.
+
+Section: HEALTH
+Length: 611 words
+Byline: web
+
+Body
+
+
+Artificial intelligence (AI) has invaded our daily lives, and in the last decade, there have been very promising
+applications of AI in the field of medicine, including medical imaging, in vitro diagnosis, intelligent rehabilitation,
+Gynecology and prognosis. Artificial intelligence (AI) is commonly defined as "a system's ability to correctly interpret
+external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through
+flexible adaptation".
+
+Over the past 50 years, the dramatic growth of computer functions related to big data intrusion has pushed AI
+applications into new areas. Breast cancer is one of the common malignant tumors in women and seriously
+threatens women's physical and mental health. Early screening for breast cancer via mammography, ultrasound
+and magnetic resonance imaging (MRI) can significantly improve the prognosis of patients. AI has shown excellent
+performance in image recognition tasks and has been widely studied in breast cancer screening. This paper
+introduces the background of AI and its application in breast medical imaging (mammography, ultrasound and
+MRI), such as in the identification, segmentation and classification of lesions; breast density assessment; and
+breast cancer risk assessment. In addition, we also discuss the challenges and future perspectives of the
+application of AI in medical imaging of the breast.
+
+Mammography, a breast exam, is one of the most widely used methods for breast cancer screening.
+Mammography is a non-invasive detection method associated with relatively low pain, easy operation, high
+resolution, and good repeatability. The retained image can be compared before and after and is not limited by age
+or body shape. Mammography can detect breast masses that cannot be palpated by doctors and can reliably
+identify benign lesions and malignant tumors of the breast. Mammograms are currently acquired with full-field digital
+mammography (DM) systems and are provided in both for-processing (the raw imaging data) and for-presentation.
+To date, AI has been used to analyze mammography images in most studies mainly for the detection and
+classification of breast mass and microcalcifications, breast mass segmentation, breast density assessment, breast
+cancer risk assessment and image quality improvement.
+
+Breast Cancer Risk Assessment
+
+                                                                                                        Page 2 of 2
+                          AI Impact On Mammograms, Breast Health & The OBGYN Field
+
+The high incidence and mortality of breast cancer are seriously threatening women's physical and mental health. At
+present, there are many known risk factors for breast cancer. These include aging, family history, reproductive
+factors (early menarche, late menopause, late age at first pregnancy and low parity), estrogen (endogenous and
+exogenous estrogens), lifestyle (excessive alcohol consumption, too much dietary fat intake, smoking) are all risk
+factors for breast cancer. The early detection and prevention of breast cancer can be promoted by increasing the
+overall understanding and recognition of breast cancer risk.
+
+Relevant literature shows that the research of AI in breast cancer risk prediction is also very extensive. As a result,
+AI predicts breast cancer risk with higher accuracy than other methods, which in turn helps physicians guide high-
+risk populations to conduct appropriate interventions to reduce the incidence of breast cancer.
+
+------------
+
+Contributed with help from our Glendale Register & Queens Ledger Featured Gynecologist: EMU Breast Surgery,
+Exams & Mammograms Center of Queens 8340 Woodhaven Blvd Ste 6, Queens, NY 11385 (929) 299-6124
+https://www.emuhealth.com/womens-health/mammography/.
+
+You May Also Be Interested In Reading About: OBGYN Trends Going Into 2023 Post Roe V Wade
+
+
+Load-Date: February 17, 2023
+
+
+   

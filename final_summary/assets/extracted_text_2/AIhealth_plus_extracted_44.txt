@@ -1,0 +1,158 @@
+
+
+                                                                                                        Page 1 of 3
+                             Mayo Clinic explores use of artificial intelligence. Is it hype or help?
+
+
+
+
+        Mayo Clinic explores use of artificial intelligence. Is it hype or help?
+                                             Post-Bulletin (Rochester, Minnesota)
+                                                  February 4, 2023 Saturday
+
+
+
+Copyright 2023 The Post-Bulletin
+
+Distributed by Tribune Content Agency
+
+Section: LIFESTYLE
+Length: 1362 words
+Byline: Jeff Kiger, Post-Bulletin, Rochester, Minn.
+
+Body
+
+
+Feb. 4—ROCHESTER — Artificial intelligence can now act as an artist or a writer. After years of hype, does that
+mean AI is ready to play doctor?
+
+Many institutions like Mayo Clinic, Google and venture capital firms believe that AI's potential in medicine is ready
+to mature into truly useful tools to help patients and doctors.
+
+The Mayo Clinic Platform is working with Google and other technology giants as a number of startup firms to
+combine AI and Mayo's more than a century of medical records and data. In early December, the Mayo Clinic
+Platform hosted its inaugural Health FWD conference to spotlight AI and life science entrepreneurship.
+
+Dr. John Halamka, president of the Mayo Clinic Platform initiative, pointed out in his keynote address at the event
+that health care needs improvement.
+
+"Despite many best efforts, care is still disconnected, reactive, late stage, confusing, expensive," he said,
+referencing his mother's recent experiences.
+
+Halamka said that AI has the potential to improve the patient experience in many ways.
+
+That's the same message that many were expressing 12 years ago when IBM's Watson supercomputer competed
+against and defeated human contestants on the game show "Jeopardy!" In the years that followed, hundreds of
+headlines described how AI would transform every aspect of medical care.
+
+However, those breathless predictions faded away as many of the early applications failed to live up to those
+expectations.
+
+Frank Jaskulke, vice president of intelligence at Minnesota's Medical Alley organization, believes that AI is on the
+upswing following the traditional trajectory of technology.
+
+Using AI is less expensive than in its early days, he said, and that is one factor spurring the acceleration of the
+number of AI-related startups appearing in the health care industry.
+
+                                                                                                           Page 2 of 3
+                         Mayo Clinic explores use of artificial intelligence. Is it hype or help?
+
+Medical Alley, which works closely with entrepreneurs in health care, has an estimated 100 to 150 members who
+are using AI in some fashion, according to Jaskulke. And that number is growing.
+
+Jaskulke cited Gartner's Hype Cycle, which includes five phases: Technology Trigger, Peak of Inflated
+Expectations, Trough of Disillusionment, Slope of Enlightenment and Plateau of Productivity.
+
+"Every technology goes through this where there's a huge amount of hype and people say that it's gonna change
+the world forever. And then there's the Trough of Disillusionment when it doesn't quite work out that way. But then
+the real applications develop and it becomes a real thing," he said. "AI, I think, is in that phase. It's never universal,
+but more and more companies are using real AI technology to solve real clinical problems. It's definitely
+accelerating."
+
+Jeff Clement, a doctoral candidate at the University of Minnesota who researches how clinicians and patients
+evaluate AI recommendations, also believes that AI is starting to make a real impact in health care.
+
+"I think that we're at the stage where everybody sees that this could do some good and a lot of people are using AI
+in their personal lives. They're using AI to help them with traffic directions...They're talking to Alexa at home, but
+they're still very wary," he said. "So we're still very early in actually deploying and developing algorithms that would
+make a big impact on problems in patient care. And we're still seeing huge advancements in AI technology."
+
+While AI in health care hasn't had a big breakout application or company yet, artificial intelligence has seen some
+success in the medical realm in the past 10 years.
+
+In Rochester, Mayo Clinic helped launch Ambient Clinical Analytics in 2013 under the leadership of well-known
+Rochester entrepreneur Al Berning.
+
+Ambient provides clinical decision tools designed for use at a patient's bedside or a nurse's station. It was approved
+for medical use by the U.S. Food and Drug Administration in 2015. Ambient has found success in helping doctors
+and nurses detect and treat sepsis with its AWARE Sepsis DART system.
+
+Many AI systems in health care use algorithms to compare a patient's test results to large databases of patient
+records.
+
+Halamka explained at the Health FWD conference that Mayo Clinic's patient records are not enough and more are
+needed to include more patients of different demographics.
+
+"The challenge, of course, is that we're going to try to make these models generalizable to the globe using Mayo
+Clinic. Ten million patient records aren't sufficient," he said. "You know that machine learning is math, not magic.
+And if you have the wrong clinical context to the wrong data, inputs and outputs, you can generate some pretty
+compelling and utterly worthless algorithms."
+
+In 2022, Mayo Clinic signed a 10-year contract with a southern hospital system called Mercy. That agreement adds
+15 million patient records from Arkansas, Missouri and Oklahoma to the mix. Halamka added that Mayo Clinic also
+is working with centers in Canada to add more variety to the patient database.
+
+"They want to make sure that when they build models they are appropriately representative... This is the thing that I
+very much appreciate about Mayo Clinic's involvement. They're starting not from the tech side. They're starting from
+the needs of the patient and asking 'How do we build tech tools that achieve that goal," said Jaskulke.
+
+One challenge for developing AI algorithms is trying to keep racial or gender bias out of the results.
+
+Referencing the old technology adage of "garbage in, garbage out," Jaskulke pointed out that "You have to have
+really good data on the front end, to get an effective tool on the back end."
+
+Clement said bias is a major issue that developers need to address when working with AI in health care.
+
+                                                                                                        Page 3 of 3
+                         Mayo Clinic explores use of artificial intelligence. Is it hype or help?
+
+"If we train an algorithm just on the way we've always been doing things, we may be just replicating human bias.
+Human biases show up in the data as it exists now. So if we train an algorithm on that data, a lot of those biases will
+be captured in the algorithm," he said. "That's when you work with the developer and basically fine tune it on your
+patient data. So rather than a sort of a general solution, you're able to customize it on your patient data."
+
+Referencing the old technology adage of "garbage in, garbage out," Jaskulke pointed out that, "You have to have
+really good data on the front end, to get an effective tool on the back end."
+
+While artificial intelligence appliances are being developed in every aspect of health care from pharmaceuticals to
+diagnosis to monitoring, AI is already a standard tool being used in areas like radiology or electrocardiography
+
+"Image processing is sort of an easier task for AI," said Clement. "If you're doing something with radiology, there's a
+good chance that your radiologist has access to what's called a CAD tool, Computer Aided Diagnosis."
+
+When it comes to businesses and economic development, is AI in health care on the upswing to the Plateau of
+Productivity?
+
+"It depends on the sector. There are parts of health care health technology that are doing well. There are parts that
+are struggling. There are some that are in between. I feel good about the ecosystem. Rochester is growing. We're
+seeing innovations in St. Cloud," said Jaskulke. "We've had a very strong five years in the startup community,
+including 2022. Those innovations take five to 10 years for stuff to develop. I think those things we are seeing in the
+early stages now will pay off in 2024 or 2025 in major job creation, major patient impact and major wealth creation."
+
+While AI has potential to improve health care, experts said that doesn't mean a computer program will be
+diagnosing and treating patients on its own. AI in health care is about augmenting the knowledge of a doctor or
+nurse.
+
+"How many patient cases can a doctor see over their entire career? Many thousand, but not 100 million," said
+Clement. "I've heard this phrase that by reading books you gain a 1,000-year-old mind, because you gain the
+knowledge. This is the same idea. There are rare diseases and conditions that might only come up a handful of
+times in a physician's whole career, even at a place like Mayo Clinic."
+
+___ (c)2023 the Post-Bulletin Visit the Post-Bulletin at www.postbulletin.com Distributed by Tribune Content
+Agency, LLC.
+
+
+Load-Date: February 4, 2023
+
+
+  

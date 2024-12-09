@@ -1,0 +1,74 @@
+
+
+                                                                                                       Page 1 of 2
+                                 AI'S POTENTIAL IN HEALTH CARE DOMINATES EVENT
+
+
+
+
+                  AI'S POTENTIAL IN HEALTH CARE DOMINATES EVENT
+                                        Wisconsin State Journal (Madison, Wisconsin)
+                                                  August 23, 2023 Wednesday
+                                                              ALL EDITION
+
+
+
+Copyright 2023 Madison Newspapers, Inc. All Rights Reserved
+
+Section: LOCAL; Pg. A7
+Length: 494 words
+
+Byline: KIMBERLY WETHAL , kwethal@madison.com
+
+Body
+
+
+ChatGPT-style software could order medication mid-doctor's visit just by listening in, and your genetics could
+predict the best medication for you, Epic Systems Corp. says as it continues to focus on automating health care
+processes and alleviating clinician workloads.
+
+Epic talked about these advancements as part of its annual User Group Meeting that brings about 14,000 people
+from hundreds of Epic customer organizations to its sprawling Verona campus. The three-day convergence of
+health care administrators and staff gives Epic's customers insight into new features in development and offers
+breakout sessions centered on the health care industry's largest hurdles.
+
+This year, the topic of generative AI and its ability to automate some of health care's most time-consuming tasks
+was king. Epic founder and CEO Judith Faulkner hinted at a few upcoming features during her executive address
+Tuesday morning in a nearly full Deep Space auditorium.
+
+The conference's theme, Castaway - which also happens to be the moniker of Epic's newest office building within
+its "Storybook" cluster of buildings on campus - represents where the health care industry is now, Faulkner said.
+After surviving the shipwreck and being flung out to sea - a thinly veiled metaphor for how the COVID-19 pandemic
+upended the health care industry - the industry has washed ashore and must find a way to move forward.
+
+"It's been tumultuous: Things have washed away, health care staff have left, hospitals have closed. And important
+services, such as maternity, have closed," she told health care workers. "The storm was grueling ... not everyone
+has made it. We're still having to throw life buoys to those in jeopardy. But we're going to make our new health care
+world better than it was before."
+
+Through a partnership with Microsoft, Epic launched its own generative AI technology earlier this year, four months
+after the debut of ChatGPT. With it, Epic hopes to add AI to some of its most recognizable platforms, including
+MyChart and the patient management app Rover, to reduce administrative tasks for clinicians and allow patients to
+schedule appointments with just a few text messages from a chatbot.
+
+                                                                                                        Page 2 of 2
+                             AI'S POTENTIAL IN HEALTH CARE DOMINATES EVENT
+
+And while machine-based learning isn't new to Epic - there are already nearly 2,200 functions within its software -
+the company hopes it'll decrease worker burnout and decrease administrative costs.
+
+Epic's enterprises also will focus on improving health care outcomes through its Cosmos platform, which allows for
+210 million de-identified electronic health records to serve as a database for human health.
+
+At the doctor's office level, expanded genomic testing could mean your doctor picks a certain medication based on
+what's in your DNA.
+
+"When you're prescribing a med for a patient whose genetic test results are available, we might be able to tell you if
+the medication will work for the patient, or what would the best dose be based on the patient's genetic information,"
+Faulkner said.
+
+
+Load-Date: August 23, 2023
+
+
+  

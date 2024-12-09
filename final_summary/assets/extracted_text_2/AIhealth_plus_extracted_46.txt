@@ -1,0 +1,105 @@
+
+
+                                                                                                         Page 1 of 2
+                         Health care artificial intelligence gets biased data creating unequal care
+
+
+
+
+    Health care artificial intelligence gets biased data creating unequal care
+                                 Michigan Independent: University of Michigan - Ann Arbor
+                                                      September 30, 2022 Friday
+
+
+
+University Wire
+Copyright 2022 UWIRE via U-Wire All Rights Reserved
+
+Section: NEW; Pg. 1
+Length: 865 words
+
+Body
+
+
+FACULTY Q&A
+
+Like many sectors, health care has benefited from the rising use of artificial intelligence, but it has sometimes
+happened at the expense of minority patients.
+
+Nicholson Price
+
+In fact, health care AI might amplify and worsen disparities (racial/ethnic and others) because the data sources that
+"teach" AI are not representative and/or are based on data from current unequal care, says University of Michigan
+law professor Nicholson Price, who also is a member of U-M's Institute for Healthcare Policy & Innovation.
+
+In a recent Science article, Price and colleagues Ana Bracic of Michigan State University and Shawneequa Callier
+of George Washington University say these disparities are happening despite efforts in medicine by physicians and
+health systems trying strategies focused on diverse workforce recruitment or implicit bias training.
+
+Science article: Health care artificial intelligence gets biased data creating unequal care
+
+What is an example of anti-minority culture?
+
+There are depressingly many examples of cultures that include deeply embedded biases against minoritized
+populations (that is, populations constructed as minorities by a dominant group). We focus on Black patients in
+medicine in the article (who are stereotyped as being less sensitive to pain, among a host of other pernicious
+views), but we could just as easily have focused on Native American patients, transgender patients, patients with
+certain disabilities or even women in general (who, even though they're a numerical majority, are often still
+minoritized).
+
+So this influences research participation/recruitment and AI, such as Black participants declining participation?
+
+Exactly. We start the piece by describing patterns of clinical care that involve self-reinforcing cycles of exclusion,
+but then step back to show how these dynamics also occur in patient recruitment for big data and then AI. The
+research participation story actually relies a lot on an earlier study (that) showed different rates of consent for big-
+data research participation (in the Michigan Genomics Initiative) for members of different minority groups.
+
+                                                                                                        Page 2 of 2
+                       Health care artificial intelligence gets biased data creating unequal care
+
+In this project, we build on that work (and other work on research participation by Shawneequa Callier, the third co-
+author of this piece) to lay out cyclical dynamics, where bias leads to inadequate recruitment, leads to lessened
+engagement, resulting in perceptions of minoritized patients as less interested in research, and a repeating,
+strengthening cycle. And the same sort of pattern shows up in medical AI.
+
+Describe the AI and anti-minority culture/discrimination interaction.
+
+AI isn't sentient; it can't "think less" of members of minoritized groups. But AI systems are trained on data that
+reflect many decades of entrenched bias in clinical care, and they're also trained on inadequately representative
+data sets (for the reasons just described). This means that AI systems "learn" from biased data, and the patterns
+they learn-and which they then use to predict, classify and recommend-are biased, so those outputs are likely to be
+biased and discriminatory, too. And when patients resist or react poorly to bad recommendations, the AI systems
+learn from those new data, too, and the cycle repeats again.
+
+What are the policy implications of this study?
+
+Basically, there are three main policy takeaways. First, exclusion can be self-reinforcing, whether in medical
+practice, research data collection or medical AI. Hopes that these processes will improve over time (especially for
+AI) as they just learn more are likely to be fruitless unless those hopes are accompanied by focused study and
+effort.
+
+Second, these different exclusion cycles aren't only self-reinforcing, they can also reinforce each other. AI systems
+learned from biased care, and biased AI recommendations can feed back into more biased care. A totally unbiased
+physician working with an AI trained on biased data will likely end up making biased decisions.
+
+Third, and related: Trying to fix these issues at the policy level will require understanding and taking account of
+these interweaving and reinforcing dynamics. Trying to fix just one bit of bias in the system is like trying to cure a
+systemic infection by focusing on one organ: It's just going to get reinfected by other parts of the system.
+
+How can biases be determined from any data set or AI? Who is going to take the lead in changing what is
+happening with the algorithms?
+
+This is a tough one. We think multidisciplinary, diverse teams are the way to go, but it's far from clear who those
+teams might be or how they can meaningfully implement change. It would be nice if we had a really clear,
+straightforward solution, but really, we see our role here as doing more to point out the complexity and the
+dynamics of the problem, hopefully while it's still early enough to tackle it more effectively.
+
+In fact, health care AI might amplify and worsen disparities (racial/ethnic and others) because the data sources that
+"teach" AI are not representative and/or are based on data from current unequal care, says University of Michigan
+law professor Nicholson Price, who also is a member of U-M's Institute for Healthcare Policy & Innovation.
+
+
+Load-Date: September 30, 2022
+
+
+  

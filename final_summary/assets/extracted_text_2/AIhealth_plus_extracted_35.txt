@@ -1,0 +1,87 @@
+
+
+                                                                                                    Page 1 of 2
+                            'Improve health for all': Dr. Ziad Obermeyer named to TIME100 AI
+
+
+
+
+           'Improve health for all': Dr. Ziad Obermeyer named to TIME100 AI
+                                     Daily Californian: University of California - Berkeley
+                                                 September 12, 2023 Tuesday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 622 words
+Byline: Kelsey McIvor
+
+Body
+
+
+UC Berkeley associate professor of health policy and management Dr. Ziad Obermeyer was named to the 2023
+TIME100 AI list, the media company's annual award for top professionals in the artificial intelligence sector.
+
+Obermeyer's extensive research primarily focuses on the intersection of machine learning and health, such as
+aiding doctors' decision-making process and extensive data analysis. TIME's announcement Sept. 7, however,
+highlighted Obermeyer's work in the dissemination of racial bias in widely-used algorithms.
+
+In a recent study, Obermeyer found that due to Black patients' unequal access to healthcare, there is a cost
+disparity between Black and white patients with similar needs - a disparity that algorithms accurately detect and
+"thus deprioritize Black patients relative to their needs," he noted.
+
+To address these exacerbated racial biases and pave the way toward access to more equitable care, Obermeyer
+aimed to fix this biased proxy mechanism known as "label choice bias."
+
+"Retraining algorithms to predict less biased proxies can turn algorithms into a force for good, redistributing
+resources to those who need them and reducing disparities rather than perpetuating them," Obermeyer said in an
+email.
+
+This is one of the many technological advances Obermeyer has contributed to as a renowned research fellow and
+emergency doctor. He believes the greatest problem facing health research is the insurance of safe, ethical access
+to data - so he founded two organizations addressing this need.
+
+Nightingale Open Science, a nonprofit that connects researchers with medical datasets, and Dandelion, an AI
+innovation platform for health, both work toward making public health data available for researchers and patients
+while also maintaining patient privacy.
+
+Dr. Michael Lu, dean of UC Berkeley's School of Public Health, fervently praised Obermeyer's contributions to
+addressing accessibility and equity issues within the public health sector.
+
+                                                                                                         Page 2 of 2
+                         'Improve health for all': Dr. Ziad Obermeyer named to TIME100 AI
+
+"What sets Professor Obermeyer's work apart from the rest is its focus on advancing the social good - how do we
+leverage AI and new technologies to improve healthcare and not deepen systemic bias, advance health equity and
+not widen health disparities, improve health for all and not benefit only the wealthy few," Lu said in an email.
+
+Kimberly MacPherson, co-director of Berkeley Center for Health Technology and faculty director of the School of
+Public Health, emphasized the importance of recognizing public health professionals within the field of artificial
+intelligence.
+
+With only about 4% of American healthcare spending allocated to public health, she believes this award will shed
+light on artificial intelligence as a viable solution to issues, such as doctor shortages and clinical burnout.
+
+"There is so much data out there that could support helping make better decisions on things like equitable resource
+allocation and spreading best practices," MacPherson said in an email. "We need thoughtful and balanced
+approaches to the use of AI in public health and (Obermeyer's) lens as a practicing physician and data scientist in
+public health."
+
+Aware of the potential ramifications of AI-driven solutions, Obermeyer is still "cautiously optimistic" about its effect
+on public health.
+
+Through continued work in reducing bias and equity issues, he believes artificial intelligence could be key to
+healthcare advancements and treatment decision making.
+
+"By working to solve real health problems, we can learn a lot about how AI works in general; what it's great at,
+where it goes wrong, and how to do better," Obermeyer said in the email. "Looking at (TIME's 2023 AI awards) list,
+there are so many people building for a future where AI helps everyone, and that's really exciting."
+
+
+Load-Date: September 13, 2023
+
+
+  

@@ -1,0 +1,135 @@
+
+
+                                                                                                        Page 1 of 3
+                                      Artificial Intelligence, Public Trust, and Public Health
+
+
+
+
+                      Artificial Intelligence, Public Trust, and Public Health
+                                                        Economic Thinking
+                                                     July 13, 2021 Tuesday
+
+
+
+Copyright 2021 Content Engine, LLC.
+All Rights Reserved
+Copyright 2021 Economic Thinking, USA All Rights Reserved
+
+Length: 1247 words
+Byline: Gregory Rehmke
+
+Body
+
+The CDC article Artificial Intelligence, Public Trust, and Public Health (CDC Genomics and Precision Health,
+September 17, 2020) explains:
+
+ As part of the Data Modernization Initiative, CDC is supporting strategic innovations in data science using artificial
+intelligence and machine learning (Ai/ML). Ai/ML is the practice of using mathematics with computers to learn from
+a wide range of data and make predictions about the health of populations. By using Ai/ML, CDC can maximize
+insights from data to improve disease detection, mitigation, and elimination. Ai/ML applications could support public
+health surveillance, research and, ultimately, decision making, ushering a new era of precision public health.
+
+Health care analysts have long wished for "Big Data" to show the way for lowering health care costs. But Big Data
+isn't necessarily smart data. Someone or some algorithm has to sort through, categorize, and analyze vast health
+care information looking for patterns and relationships.
+
+In Beware the AI delusion (Fast Company, 2018), Gary Smith (author of The AI Delusion), concludes:
+
+In the age of AI and big data, the real danger is not that computers are smarter than us, but that we think computers
+are smarter than us and therefore trust computers to make important decisions for us. We should not be intimidated
+into thinking that computers are infallible. Let's trust ourselves to judge whether statistical patterns make sense and
+are therefore potentially useful, or are merely coincidental and therefore fleeting and useless.
+
+Technology and health care companies are investing in smarter management of health care information. Microsoft
+Makes a $16 Billion Entry Into Health Care AI (Wired, April 13, 2021) outlines the potential for Nuance, a medical
+transcription service purchased by Microsoft, to expand:
+
+Health care is widely seen as a key industry for applied AI. Numerous research studies show the potential for AI
+algorithms to spot disease in images or mine medical records for insights into treatment paths. And while
+challenges remain, like getting doctors to trust the technology or preventing bias that creeps in when the data used
+to train medical algorithms is insufficiently diverse, an increasing amount of AI is likely to be deployed in health
+care in coming years.
+
+                                                                                                          Page 2 of 3
+                                 Artificial Intelligence, Public Trust, and Public Health
+
+In this YouTube video from PYTORCH DEVCON 19, Andrew Trask outlines Privacy Preserving AI - Andrew Trask,
+OpenMined
+
+Learn the basics of secure and private AI techniques, including federated learning and secure multi-party
+computation. In this talk, Andrew Trask of OpenMined highlights the importance of privacy preserving machine
+learning, and how to use privacy-focused tools like PySyft.
+
+How Big is A.I.'s Future in Health Care?How many medical device and services startups are using A.I.? Likely all
+of them, given the loose definition of A.I. and the appeal to investors that A.I. will bring miracles. Japan's AI Medical
+Service listed among the World Economic Forum's Tech Pioneers:
+
+AI Medical Service is a Tokyo-based start-up dedicated solely to the development and distribution of endoscopic
+artificial intelligence (AI). It is striving to achieve its mission to eliminate gastrointestinal cancers. According to
+research, up to 25.8% of cancers and lesions are overlooked during endoscopic practices. Endoscopic AI will assist
+physicians in reducing the number of lesions being overlooked during such procedures, which will allow for early
+treatment of gastrointestinal diseases, resulting in lower treatment costs and mortality rates.
+Also listed among WEF Tech Pioneers is January, a firm with technology to analyze "blood sugar and diet for
+diabetes control and prevention":
+
+January AI is focused on improving outcomes for the 122 million people on the diabetes spectrum through a multi-
+omic approach to better health. By harnessing science, medicine and machine learning, January's advanced
+artificial intelligence (AI) technology discovers how diet and activity affect people differently and provides
+personalized recommendations to move them to a healthier state.
+
+There are many other firms in this "metabolic health" space and most rely on natural intelligence instead of artificial
+intelligence. The Center for Disease Control (CDC) National Diabetes Statistics Report, 2020 says:
+    •   34.2 million Americans-just over 1 in 10-have diabetes.
+    •   88 million American adults-approximately 1 in 3-have prediabetes.
+
+New medications claim to reduce obesity and diabetes, or better treat diabetes. But a growing range of medical
+researchers, doctors, nutritionist and ex-diabetes make the case that "nutritional intervention," that is, dietary
+changes can quickly reverse prediabetes and put type 2 diabetes into remission. Obesity and diabetes they argue
+are a consequence of poor metabolic health. Some people, many people in fact, can't each sugar, fructose, starchy
+foods, bread, pasta, etc. without stressing their metabolic system leading to insulin resistance and a host of chronic
+conditions.
+And advance A.I. system could maybe tell people this, and maybe could help influence those convinced
+sophisticated software and powerful computers can perceive better how their body works. Or people overweight,
+prediabetic, or diabetic could just get a CGM, a Continuous Glucose Monitor and check the app to see how their
+metabolism responds to different foods, times, stress, and exercise.
+Nutri | Sense offers tools for monitoring your metabolism:
+
+When you join NutriSense, you'll receive a continuous glucose monitor (CGM) that tracks your glucose 24/7. Our
+program offers expert guidance to help you interpret that data to reach your full health potential. ...
+Your CGM shows your blood glucose levels. The NutriSense app lets you track your daily activity to see how food,
+sleep, exercise, and stress impact your glucose.
+You can log or import this data, into the NutriSense App, to see the effect on your blood glucose levels as soon as it
+happens.
+In the LowCarbMD Podcast, Episode 184: Kara Collier, at 37 minutes in, Kara Collier discusses NutriSense
+development of A.I. tooks to automate some of the CGM reporting for users.
+An earlier Economic Thinking post, Nutrition Notes: Gadgets for Looking Inside (February 4, 2021) reviews various
+technologies for measuring body fat, visceral fat, sleep quality, etc.:
+
+The Amazon Halo, is worn on the wrist but doesn't tell time. It measures sleep quality and body fat (via pictures
+and AI) For me, the Halo body fat measures matched the Eufy and FitIndex scales. However Eufy has my visceral
+
+                                                                                                        Page 3 of 3
+                                Artificial Intelligence, Public Trust, and Public Health
+
+fat stuck at 16 (not good) and hasn't changed since last April (maybe a later model works better?). The Fitindex
+scale say my visceral fat 7.
+
+Among challenges to status quo medical care, and to deployment of artificial intelligence technologies is the
+ongoing politicization of health care and "regulatory capture" of federal nutritional programs and guidelines. This is
+discussed (and documented) by the Nutrition Coalition. Basically, a combination of inertia and food industry
+pressure blocks recent research on reversing type 2 diabetes and other chronic conditions through nutritional
+changes.
+
+More research and discussion at DietDoctor.com, Low Carb Down Under website and YouTube presentations, Low
+Carb USA podcasts and posts, and the Society of Metabolic Health Practitioners (SMHP). And boatloads of Dr.
+Berg videos outline Keto/low-carb/intermittent fasting success stories.
+
+Again, many Economic Thinking nutrition and public health posts here.
+
+
+
+Load-Date: July 14, 2021
+
+
+  

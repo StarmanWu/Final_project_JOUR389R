@@ -1,0 +1,172 @@
+
+
+                                                                                                         Page 1 of 3
+                                         What do experts say about AI in health care?
+
+
+
+
+                            What do experts say about AI in health care?
+                                                        The Deseret News
+                                                     March 20, 2023 Monday
+
+
+
+Copyright 2023 The Deseret News Publishing Co. All Rights Reserved
+
+Section: HEALTH CARE INDUSTRY NEWS & HEALTHCARE MANAGEMENT NEWS
+Length: 1274 words
+Byline: Gabrielle Shiozawa
+
+Body
+
+
+Editor's note: This is part of a KSL.com series looking at the rise of artificial intelligence technology tools such as
+ChatGPT, the opportunities and risks they pose and what impacts they could have on various aspects of our daily
+lives.
+
+In the 1992 movie "Wayne's World," the character Garth is working on a robotic arm when Benjamin comes to ask
+him about making a change to his show.
+
+"We fear change," Garth says. He then looks down at the mechanical hand and begins to repeatedly smash it with
+a hammer.
+
+Many Americans have a similar reaction to change and technology, especially when it comes to using artificial
+intelligence in health care.
+
+In fact, 60% of U.S. adults say they would be uncomfortable with a doctor using AI in their treatment, according to a
+Pew Research Center study released in December.
+
+Medical professionals see it differently. Mark Fotheringham, vice president of communications at the Utah Medical
+Association, said the association views AI as a natural progression of the medical industry.
+
+"To us, AI just seems to be another tool in the medicine bag," he said. "No one has brought it up as an issue of
+concern."
+
+Richard H. Wiggins, associate dean at the University of Utah School of Medicine, explained that most people's
+concerns come from a lack of education surrounding AI.
+
+"AI is going to help us bring better, more precise medicine and practical care," Wiggins said. "For us, it's like having
+a good assistant. It's going to be helping us, not replacing us."
+
+An AI a day keeps the doctor away
+
+One misconception about AI in health care is that automated technology will eventually replace doctors.
+
+                                                                                                               Page 2 of 3
+                                      What do experts say about AI in health care?
+
+Wiggins said this isn't a new fear. Thirty years ago when he was being trained as a radiologist, there were many
+people who told Wiggins not to study mammography because they thought new diagnostic technology would
+replace mammographers.
+
+"Of course, we still have mammographers - they just do different things, and we've seen examples of this over and
+over throughout history," he said.
+
+Matt Hollingsworth, CEO and co-founder of Carta Healthcare, compared today's fears to past concerns that
+architecture jobs would disappear with the invention of computer-aided drafting software.
+
+"What actually happened is that the bar for quality coming out of an architecture firm increased unilaterally because
+everyone had access to the same tools," he said. "It became a productivity tool. So I think (AI) is going to be like
+that."
+
+Hollingsworth sees this same improvement in his work. Carta software, which creates AI tools to replace manual
+data collection in doctors' offices, doesn't replace medical professionals, he said. It simply streamlines their work by
+improving the speed and accuracy of filling out forms during medical visits. Those data entries still have to be
+checked by a doctor for accuracy.
+
+"It's not going to be cutting anybody out of a job, it's just going to keep them from having to do boring stuff in their
+job," Hollingsworth said. "As long as we're working with these algorithms, we're going to need a babysitter, and that
+babysitter is going to need to be a human."
+
+Speed of change
+
+Seventy-five percent of Americans are afraid medical providers will implement AI in healthcare too quickly without
+fully understanding the risks involved.
+
+But Hollingsworth said people probably think AI advancements are moving much faster than they actually are
+because people are discussing AI more than they used to.
+
+"It feels like it's coming out of nowhere, but really this is just the first time it's been more accessible to the public," he
+said.
+
+Neural networks, an early conception of machine learning and artificial intelligence, were first proposed in 1944.
+Seventy-nine years later, we have not developed AI nearly as greatly as researchers projected we would have by
+this time, Hollingsworth said.
+
+Wiggins added that inaccuracies in movie portrayals of technological advances also contribute to the public
+perception that things are advancing much quicker than they are.
+
+"After 'Star Wars' came out, everyone assumed that we had holograms, but we still don't know how to make
+holograms," Wiggins said. "We're not at 'The Terminator.' That's so far away."
+
+Hollingsworth added that the slow rate at which advancements are being made, along with being comforting to
+those intimidated by technological progress, is a good sign that AI developers are putting great consideration into
+their work.
+
+"We don't even have line of sight into generalized AI. Not even close," he said. "And that's not to denigrate; it's
+actually the opposite. This is hard work."
+
+Educating the next generation
+
+Wiggins said even though AI won't be replacing doctors, health care professionals still have to adapt to the
+evolving medical field to stay relevant.
+
+                                                                                                         Page 3 of 3
+                                    What do experts say about AI in health care?
+
+"The people who are thinking about how to use AI and machine learning to help them with their jobs may be
+replacing the people who are not," he said.
+
+This mindset has driven many changes at the University of Utah Medical School, where Wiggins and his team are
+evolving their teaching methods to better prepare the next generation of doctors.
+
+"We're totally redoing the curriculum," Wiggins said. "Artificial intelligence is definitely going to change health care
+... so we can't teach (students) the same way anymore."
+
+The most successful doctors used to be the ones who could memorize the most facts, Wiggins said. Now, because
+of constant technological evolution, he said it is more important to focus on critical thinking.
+
+"It's impossible to know everything because there's so much more knowledge coming out all the time," Wiggins
+said. "If I can teach my students how to use logic and rationality to effectively solve a problem, that's a much bigger
+deal."
+
+Part of that education includes getting students out of the classroom and into clinics sooner, to work hands-on with
+patients and technology.
+
+"I'll have a class about the heart ... and then they go into a clinic and see a guy with that heart issue they were just
+talking about," Wiggins said. "You're putting together what you're learning about right away."
+
+He also projected that cancer treatments will be aided by AI tools in the near future.
+
+Despite the public's general skepticism about AI, 65% of U.S. adults say they would definitely or probably want AI
+to be used when they were screened for skin cancer, and 55% believe AI would improve accuracy in skin cancer
+diagnoses.
+
+"That's going to be an amazing thing, so we have to change the way that we educate our students to prepare them
+for that," he said.
+
+'A lot to be excited about'
+
+Medical error was the third leading cause of death in 2016, according to the British Medical Journal. Hollingsworth
+said the improvements AI makes in speed and accuracy will be instrumental in changing this statistic.
+
+He said people are only right to be concerned about AI when it is not used correctly or when people leave AI
+unchecked. Medical professionals should be held to a high standard in how they use the technology, Hollingsworth
+said.
+
+"As long as everyone is incentivized to make sure that the quality of care remains high, then applying these tools is
+a really good thing for everyone," Hollingsworth said. "It's not something that we should fear; it is something to be
+welcomed."
+
+Wiggins is optimistic about how AI can be used to personalize medicine, including pinpointing warning signs for
+later health problems and helping to recommend preventive measures.
+
+"I think the primary emotion people ought to feel out of this is just excitement that there is a new thing in the world
+that could make their jobs easier and more effective," Hollingsworth said. "There is a lot to be excited about here."
+
+
+Load-Date: March 20, 2023
+
+
+  

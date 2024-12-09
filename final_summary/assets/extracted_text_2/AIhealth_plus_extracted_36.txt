@@ -1,0 +1,88 @@
+
+
+                                                                                                   Page 1 of 2
+                                                  AI helps detect heart disorder
+
+
+
+
+                                         AI helps detect heart disorder
+                                           The Columbian (Vancouver, Washington)
+                                                    August 22, 2023 Tuesday
+
+
+
+Copyright 2023 The Columbian Publishing Co. All Rights Reserved
+
+Section: HEALTH; Pg. B3
+Length: 599 words
+Byline: Ed Stannard Hartford Courant
+Highlight: It can find structural problem that's hard to diagnose
+
+For people who have a serious structural problem in their heart but no symptoms, there has not been a practical
+way to detect the disorder.
+
+A researcher at the Yale School of Medicine, however, has developed a way to find the seemingly invisible problem
+using artificial intelligence.
+
+Body
+
+It can find structural problem that's hard to diagnose
+For people who have a serious structural problem in their heart but no symptoms, there has not been a
+practical way to detect the disorder.
+A researcher at the Yale School of Medicine, however, has developed a way to find the seemingly invisible
+problem using artificial intelligence.
+
+Dr. Rohan Khera, clinical director of the medical school's Center for Health Informatics and Analytics,
+said a simple electrocardiogram can be analyzed using AI, which can detect what a basic reading of an ECG
+cannot.
+Khera's paper about his research appeared in the July 25 issue of the journal Circulation. The work is
+centered in the Cardiovascular Data Science Lab, where Khera is the principal investigator.
+
+"Many people, up to one in 20, have structural heart disorder, so their heart function is down, but they
+don't know that until they develop symptoms and go to the hospital       or (suffer) adverse effects of a
+certain sort that trigger health care needs," Khera said.
+The disorder is known as left ventricular systolic dysfunction, which reduces the ability of the heart to
+pump blood. It develops before symptoms appear and medical attention is required, Khera said. The problem
+can lead to more than an eightfold increase in heart failure and double the risk of premature death,
+according to Khera's study.
+There are "very inexpensive treatments" for the dysfunction, he said.
+"However, we just don't have a way to know who had this. The way to diagnose it is actually getting
+cardiac imaging, which is an ultrasound of the heart, or an MRI," he said. "But those tests are not
+something you can do with everyone in the community, so this is not feasible."
+
+Using AI and deep learning, "which are very exciting domains in medicine, we developed a technology that
+actually uses ECG data," Khera said.
+
+                                                                                            Page 2 of 2
+                                       AI helps detect heart disorder
+
+ECGs, which register electrical activity in the heart, are routinely done during physical exams. They can
+now be taken on a wearable device such as an Apple Watch, Khera said. About 100 million ECGs are done in
+the United States each year, he said.
+"We have now identified ways to find signatures of structural heart disorders from these very inexpensive
+and widely available tests," Khera said. "And that's the key observation and we are able to do that with
+accuracy in the 90 to 95 percent range."
+The Yale study has been repeated in California, Missouri and Texas, and validated in a Brazilian
+longitudinal study. "So (we've) kind of shown that our approach to identifying those with disease really
+works across the board," he said.
+"Before, when we were doing echocardiograms, when we were only relying on cardiac imaging, there was not
+infrastructure in place to do that at scale for the population," Khera said. "But now with these
+technologies, you can actually get people without any expense or challenge       a diagnosis that is very
+treatable."
+ECGs, which measure a number of different electrical signals in the heart, are printed out on paper. "We
+can use the photos of those ECGs and we use computer vision algorithms," Khera said.
+"These are tools built to infer deep signatures of disease from photos. So we take photos of ECGs and
+identify areas within an ECG that may actually be suggestive of a diagnosis of low heart function.   It's
+a hidden feature inside that photo of an ECG that none of us as clinicians can pick up on."
+
+While the ECG is used to measure the electrical signals, AI can pick up structural abnormalities in the
+heart by examining the photo. The following fields overflowed: REFERENCE = 08-22 B3 HEALTH-AI-HEART-
+PROBLEMSHC_B03
+
+
+
+Load-Date: September 21, 2023
+
+
+  

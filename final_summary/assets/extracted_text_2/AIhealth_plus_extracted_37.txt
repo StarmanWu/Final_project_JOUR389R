@@ -1,0 +1,92 @@
+
+
+                                                                                                          Page 1 of 2
+                               Man Hung AI is saving lives and improving health care systems
+
+
+
+
+            Man Hung AI is saving lives and improving health care systems
+                                                       The Salt Lake Tribune
+                                                       August 25, 2023 Friday
+
+
+
+Copyright 2023 The Salt Lake Tribune All Rights Reserved
+
+Length: 761 words
+Byline: Man Hung | For The Salt Lake Tribune
+
+Body
+
+Artificial intelligence (AI) has gained significant attention worldwide due to its potential to revolutionize healthcare.
+During the past decade, AI has already been applied rapidly to numerous areas in healthcare, including medical
+imaging analysis, health information management, real-time decision support monitoring and disease diagnosis
+and treatment.
+
+For example, AI has been integrated in cataract management to serve as a telemedicine platform for screening,
+diagnosing and classifying patients with cataracts, and to augment cataract surgical skill training as well as predict
+the duration of surgical procedures and disease progression.
+
+AI has also shown promise in
+    •     The diagnosis, prognosis and treatment selection for cancer patients,
+    •     Clinical decision support and monitoring for musculoskeletal diseases and conditions,
+    •     Detection of colorectal cancer liver metastases on computed tomography similar to or better than some
+          expert radiologists,
+    •     Personalized robotic medical treatment for removing tumors with accuracy and precision anywhere in the
+          body without using invasive surgical procedures,
+    •     Diagnostic prediction of dental root caries with high accuracy and precision, and
+    •     Screening for cardiovascular diseases in asymptomatic individuals to enable early detection and treatment.
+
+These and many other advancements in AI applications are very exciting. Scientific studies have demonstrated the
+efficient use of AI algorithms in analyzing electrocardiograms for the detection of cardiovascular diseases, and
+these algorithms have shown improved performance in identifying patterns and predicting events, leading to more
+accurate diagnoses and treatment decisions.
+
+Additionally, AI has been utilized in precision oncology to analyze genomic sequencing data and medical imaging,
+and its algorithms can identify biomarkers, predict disease risk and aid in the development of targeted therapies.
+
+It can also be used to address issues facing medical education, such as judicious information and knowledge
+management, and improve customer relationship management capability in healthcare by enhancing service
+innovation and providing access to data and health information.
+
+                                                                                                     Page 2 of 2
+                          Man Hung AI is saving lives and improving health care systems
+
+AI can also design clinical trials for medical device and drug development and beyond.
+
+These many applications of AI in improving efficiency and accuracy in diagnosis and management of diseases are
+fascinating and are poised to have a transformative impact on healthcare. They underscore the potential for AI to
+improve healthcare and services; enhance treatment outcomes and quality of life; and provide better experiences
+for medical professionals and patients.
+
+Nonetheless, there are implementation barriers. Concerns over security and privacy, regulatory approval, poor
+generalizability of AI models, trust and explainability issues, unfavorable end-user perceptions and uncertain
+economic value contribute to the challenges in translating AI algorithms into clinical settings.
+
+Additional challenges, such as the need for standardized protocols and regulations; adequate financial resources
+and investment; and efficient algorithms and models should be addressed for a successful transition to the real-
+world implementation of AI.
+
+Furthermore, even though many medical workers had a relatively high acceptance level towards implementation of
+AI in healthcare, there are concerns regarding medical ethics in AI and concerns over AI partly replacing doctors.
+These are legitimate concerns and they highlight the challenges and need for further examination and discussion
+on the ethical, social and economic implications of AI in healthcare. By overcoming these challenges, AI has the
+potential to greatly benefit health care providers, healthcare systems and patients alike.
+
+Overall, the application of AI in healthcare shows great promise for improving disease detection and diagnosis, as
+well as enhancing the efficiency and effectiveness of healthcare systems. It is expected to continue to be of great
+interest around the globe in the coming years. However, it also presents challenges that must be addressed.
+
+Future direction should focus on developing robust and reliable AI models, addressing barriers and challenges and
+ensuring the ethical and responsible use of AI in healthcare.Man Hung
+
+Dr. Man Hung is the senior associate dean for research and graduate education at Roseman University of Health
+Sciences College of Dental Medicine, and adjunct faculty at the University of Utah School of Medicine. She
+specializes in artificial intelligence, global business management and leadership.
+
+
+Load-Date: August 27, 2023
+
+
+  

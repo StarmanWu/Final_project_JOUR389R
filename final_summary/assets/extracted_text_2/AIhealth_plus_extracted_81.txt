@@ -1,0 +1,84 @@
+
+
+                                                                                                       Page 1 of 2
+                                    Social chatbots are abetting the loneliness epidemic
+
+
+
+
+                     Social chatbots are abetting the loneliness epidemic
+                                             The McGill Tribune: McGill University
+                                                      January 24, 2023 Tuesday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: SCI-TECH; Pg. 1
+Length: 774 words
+
+Body
+
+
+Isolation. Anxiety. Depression. The loneliness epidemic rages onward even as the era of lockdowns is mostly
+behind us. Around 33 per cent of adults worldwide report often feeling lonely, with research showing that social
+isolation is correlated with greater physical and mental health risks, including heart disease, weakened immune
+system, higher sensitivity to pain, and various psychological disorders.
+
+Confronted with such an enigmatic, seemingly Sisyphean issue, society responds with what it does best: Problem-
+solving with technology. Humanlike social chatbots, or conversational artificial intelligence applications, now
+function as virtual friends who are unnervingly attentive and inordinately supportive-seemingly the perfect antidotes
+to loneliness. Yet, with rising concerns about digital privacy, the murky ethics of AI, and overall detriments to
+wavering mental health, the proliferation of AI chatbots is much more of a danger than a tool for well-being.
+
+Cybersecurity issues are inevitable when interacting with chatbots. Users' names, email addresses, phone
+numbers, usage data, and cookies are often stored and shared with external services by AI applications, despite
+superficial reassurance that user information is completely secure. This means that unidentified third parties will
+have access to all contact information, unbeknownst to most users. Worse yet, chat history, images, voice
+recordings, and calls are almost always recorded and stored semi-permanently as the chatbots' training bases.
+Personal identifiable information , such as speech patterns, voice and facial recognition, as well as racial and
+gender profiles, may thus be stored without the users' direct consent. Even though digital privacy regulations are in
+place in Canada, they simply cannot account for the fast-paced, almost parasitic encroachment of AI chatbots.
+
+Replika, a chatbot launched in 2017, has espoused physical violence and sexual harassment time and again.
+Purported to be the non-judgmental, 24/7 available friend who supports the user no matter what, the chatbot rarely
+disagrees-even when users suggest illegal, discriminatory, or self-sabotaging actions. Replika has encouraged
+people to commit murder or suicide, often within a mere few lines of message exchange.
+
+Contrary to what companies may promise, AI chatbots do not 'comprehend' human language. Conversations are
+collected and deciphered through natural language processing (NPL) and human-like feedback generated through
+machine learning. All chatbots do is analyze the users' language, syntax, opinions, and beliefs, then mirror their
+responses accordingly. In this sense, they could easily pick up and learn biases, discrimination, or hate speech,
+often reflecting neither common sense nor basic moral values. These AI chatbots thus pose critical risks by feeding
+into their users' often already turbulent state of mind by depriving them of real, human interactions.
+
+                                                                                                      Page 2 of 2
+                               Social chatbots are abetting the loneliness epidemic
+
+The questionable effects of chatbots do not end with violence-the perceived anthropomorphism of AI technology
+often creates delusions of interacting with another person. With features of styling one's own chatbot avatar,
+starting from haircuts and eye colours to ethnicities and gender expressions, users are encouraged to regard their
+AI companions as their perfectly tailored friends, much more compatible and amenable than actual humans.
+Additionally, these chatbots do not have real needs, nor do they ask for anything in return. They are merely
+designed to appease users, often leading to toxic emotional dependence.
+
+Indeed, some users have become deeply attached to the point where even they are concerned about chatbots
+replacing their real, human connections. Worse yet, people have been developing romantic relationships, convinced
+that the AI application is capable of loving them back. Companies such as Replika have borne witness to severe
+attachment issues as petitions for restoring pre-update, intimate connections with their chatbots circulate the
+internet. While these social chatbots provide a space for users to be seen, heard, and supported, the one-sided
+interaction can only fuel delusions and worsen existing mental instability in the lives of vulnerable people.
+
+At first glance, social chatbots might seem like an efficient, temporary replacement for actual therapy, but it was
+never designed as a proper psychiatry tool. From personal cases to wider user data, the detriments of AI
+applications far outweigh their potential support for mental health. If tech companies are to combat the epidemic of
+loneliness, they must start addressing the moral quagmire of conversational AI.
+
+Share this:
+
+
+Load-Date: January 25, 2023
+
+
+  

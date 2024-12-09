@@ -1,0 +1,101 @@
+
+
+                                                                                                          Page 1 of 2
+                                       U. expert discusses AI bias in research studies
+
+
+
+
+                          U. expert discusses AI bias in research studies
+                                               Daily Targum: Rutgers University
+                                                      April 17, 2023 Monday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 741 words
+Byline: Samantha Marshak
+
+Body
+
+
+U. expert discusses AI bias in research studies
+
+SMSamantha MarshakApr 17, 2023, 4:00 AM
+
+Photo by Irwan @tweetbyirwan / UnsplashArtificial intelligence technology in the medical field may hold biases.
+
+In a recent study, researchers determined that the field of studying fairness and bias in healthcare-related artificial
+intelligence is largely dominated by white and male researchers.
+
+The study concluded that white and male researchers' scholarly works are cited disproportionately more often than
+other races and sexes, mainly in first and last authorship.
+
+The order of authorship indicates their contribution to the study, with the last author being the primary contributor to
+the research. The study also found that authors from wealthier countries were more often referenced in major
+journals than their peers.
+
+Charles Senteio, an author of the study and an associate professor in the School of Information and
+Communication, said the study aimed to measure the diversity of authorship in health AI research.
+
+The study compiled 1,614 articles related to AI fairness to analyze the diversity of authorship and filtered the
+articles for eligibility. Articles examined in this study discussed machine learning fairness, were related to healthcare
+and included the clinical applications of their findings.
+
+For the 1,984 authors studied, the researchers created distributions of each author's ethnicity and gender,
+nationality, citations and funding received. Sixty-four percent of the total authors were white, 60 percent of the total
+authors were male and white male last authors accounted for 58.3 percent of the total citations, according to the
+study.
+
+Additionally, only .5 percent of all authors came from low-income countries, according to the study.
+
+                                                                                                         Page 2 of 2
+                                   U. expert discusses AI bias in research studies
+
+Senteio said the study itself faced limitations and is yet to be peer-reviewed. Additionally, he said that measuring
+diversity in the context of research can be fraught with complications.
+
+"Even collecting the race of patients today is not always straightforward because it's not done in a uniform way. For
+example, sometimes, it's already in the record. We don't know necessarily how it got there," he said. "So simply
+asking a patient their race and to indicate it. That's the simplest, the most common way, but there are many
+reasonable patients who would rather not disclose that."
+
+Additionally, Senteio said that having diverse teams does not inherently guarantee that the research conducted will
+have no bias.
+
+Despite these limitations, he said that researchers will not understand how bias negatively impacts health AI until
+they start measuring aspects like the research's authorship.
+
+"I wouldn't say necessarily that mandating racial equity among authors for all work in AI bias regarding health care
+is a solution. But we don't even know what a problem is right now. So let's start somewhere and see what we get ...
+and see what researchers think and see where it goes," Senteio said.
+
+He said an issue recently found relating to health AI bias involves the pulse oximeter device. The technology,
+which measures the level of oxygen in the blood, was found to read dark skin differently than light skin.
+
+Additionally, Senteio said that AI bias had been found in radiology, where X-rays traveling through darker skin look
+different than X-rays that do not, which can affect how radiologists examine these scans.
+
+In terms of working with these medical devices, Senteio said that developers should factor in the potential
+differences between patients' skin color when designing this technology.
+
+"How do we know that when we develop guidelines from these algorithms that they'll actually be appropriate for the
+patients who are going to be subjected to some of these recommendations? Maybe having diverse teams will put
+us in a better position to act," he said.
+
+Regarding the Rutgers community, he said that he hopes he and his co-authors' research will inspire people to
+think of diversity as a method of producing better research, not just as a quota to hit.
+
+"Diverse teams, which doesn't just mean representation, but empowerment and safe spaces to actually speak up
+and put forth points of view that might not be aligned with the mainstream. That might not be aligned with what
+leaders or (principal investigators) of projects are putting forward," Senteio said. "I think that that kind of thinking
+and realization would go a long way to some of the very noble DEI efforts that we see almost everywhere."
+
+
+Load-Date: April 18, 2023
+
+
+  

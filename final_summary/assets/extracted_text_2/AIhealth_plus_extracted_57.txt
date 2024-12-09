@@ -1,0 +1,97 @@
+
+
+                                                                                                        Page 1 of 2
+                                   Does AI or ChatGPT provide accurate medical advice?
+
+
+
+
+                   Does AI or ChatGPT provide accurate medical advice?
+                                                        The Deseret News
+                                                  December 11, 2023 Monday
+
+
+
+Copyright 2023 The Deseret News Publishing Co. All Rights Reserved
+
+Length: 721 words
+Byline: Lois M. Collins
+
+Body
+
+For people used to searching online for medical information, consulting artificial intelligence may be more of a skip
+than a leap. But be warned: A new study from Long Island University found that ChatGPT answered three dozen
+medication-related questions correctly or completely only a quarter of the time.
+
+The questions, which had actually been asked of the university's College of Pharmacy drug information service,
+suggest that Dr. ChatGPT leaves a lot to be desired.
+
+The findings were presented last week at the annual meeting of the American Society for Health-Systems
+Pharmacists in Anaheim, California.
+
+As CNN reported, the queries "often yielded inaccurate - or even dangerous - responses."
+
+Of the 29 questions the chatbot missed, researchers said the artificial intelligence did not directly answer 11 of them
+and 10 were inaccurate. A dozen of the answers were incomplete, as well.
+
+Sometimes, the artificial intelligence response was dangerous, as when ChatGPT was asked if it was OK to take
+COVID-19 antiviral Paxlovid with the blood pressure medication verapamil. Although ChatGPT said there would be
+no ill effects, adverse interactions have been documented - including significant drops in blood pressure, causing
+fainting and dizziness.
+
+"Using ChatGPT to address this question would put a patient at risk for an unwanted and preventable drug
+interaction," study co-author Sara Grossman, an associate professor of pharmacy practice at Long Island
+University, told CNN.
+
+The researchers asked ChatGPT to provide scientific references for its responses. It could do so only for about 20%
+of them - and each of those contained well-formatted fake references. Past studies have shown the AI "even
+includes the names of actual authors who have published in journals," as Firstpost.com reported.
+
+Per CNN, "The Long Island University study is not the first to raise concerns about ChatGPT's fictional citations.
+Previous research has also documented that, when asked medical questions, ChatGPT can create deceptive
+forgeries of scientific references, even listing the names of real authors with previous publications in scientific
+journals."
+
+                                                                                                     Page 2 of 2
+                               Does AI or ChatGPT provide accurate medical advice?
+
+In this study, the chatbot also made a potentially dangerous mistake. Asked to convert doses of a muscle relaxant
+that's injected into the spine, the software calculation was off by a "factor of 1,000."
+
+Related
+
+    •     The future is here
+
+    •     Chatbot's AI hits 77% for correct medical diagnosis in Boston study
+
+OpenAI, which developed ChatGPT, tells users not to rely on the artificial intelligence for medical advice or for
+"diagnostic or treatment services for serious medical conditions."
+
+The recommendation is echoed by health experts and others.
+
+"AI-based tools have the potential to impact both clinical and operational aspects of care, said Gina Luchen,
+pharmacist and director of digital health and data for the American Society of Health-System Pharmacists, told Fox
+Business. "Pharmacists should remain vigilant stewards of patient safety by evaluating the appropriateness and
+validity of specific AI tools for medication-related uses and continuing to educate patients on trusted sources for
+medical information.
+
+"According to the study's findings, anyone considering using ChatGPT for drug-related information - including
+patients and health care professionals - should proceed with caution. They should speak with professionals directly
+for any medical advice, whether utilizing the paid or free version with access to real-time data," Firstpost.com
+reported.
+
+ChatGPT has broad appeal elsewhere. According to CNBC, "ChatGPT broke records as the fastest-growing
+consumer app in history, and now has about 100 million weekly active users, along with more than 92% of Fortune
+500 companies using the platform, according to OpenAI. Earlier this year, Microsoft invested an additional $10
+billion in the company, making it the biggest AI investment of the year, according to PitchBook, and OpenAI is
+reportedly in talks to close a deal that would lead to an $86 billion valuation."
+
+As for diagnosis, a study published in August in the Journal of Medical Internet Research, found that ChatGPT was
+roughly 72% accurate when it came to general decision-making, "from coming up with possible diagnoses to
+making final diagnoses and care management decisions," per a Mass General Brigham news release.
+
+
+Load-Date: December 11, 2023
+
+
+  

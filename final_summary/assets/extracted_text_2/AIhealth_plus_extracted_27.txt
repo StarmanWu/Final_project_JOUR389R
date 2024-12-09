@@ -1,0 +1,76 @@
+
+
+                                                                                                       Page 1 of 2
+                  UC Berkeley researcher argues artificial intelligence cannot replace human empathy
+
+
+
+
+ UC Berkeley researcher argues artificial intelligence cannot replace human
+                                empathy
+                                     Daily Californian: University of California - Berkeley
+                                                      June 15, 2021 Tuesday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 437 words
+Byline: Riley Cooke
+
+Body
+
+
+In a paper published May 26, Jodi Halpern, professor of bioethics and medical humanities at UC Berkeley and
+UCSF, argued that artificial intelligence, or AI, is not a substitute for human empathy in health care.
+
+Halpern wrote the paper with authors Carlos Montemayor and Abrol Fairweather from San Francisco State
+University. In the paper, they claim that simulating empathy with AI is both impossible and immoral - impossible
+because AI cannot experience emotion and immoral because patients deserve human empathy during times of
+distress.
+
+Halpern said the paper is a response to the growth of AI in health care, especially concerning mental health.
+
+"Just as we deployed actual humans to do contact tracing because of the relational aspects and the need for trust,
+we can deploy actual humans to provide mental health support," Halpern said in an email.
+
+However, Halpern notes in the paper that she is not against AI in health care as a whole and there are many
+places where AI can be useful.
+
+According to Niloufar Salehi, an assistant professor at the UC Berkeley School of Information, AI is a great tool for
+diagnosis and helping patients track their own health. She said the problem arises when people in health care treat
+AI as more than what it is - a pattern finder.
+
+"We have to be very, very careful here," Salehi said. "You don't want to trick people into thinking that AI or a
+computer is sympathizing or empathizing with you."
+
+Salehi focuses on human-centric AI, which identifies gaps in human work that AI can fill or supplement. According
+to Salehi, it aims to develop AI around people's needs, rather than the other way around.
+
+Salehi agreed with Halpern's paper, noting that people need to continue to draw a distinction between what is
+impossible versus what is unethical with regard to AI.
+
+                                                                                                       Page 2 of 2
+               UC Berkeley researcher argues artificial intelligence cannot replace human empathy
+
+Halpern emphasized another distinction, specifically between simulated empathy and human empathy: the ability to
+have experiences. This allows humans to resonate with other people in a way that a computer cannot, according to
+her paper.
+
+Both Salehi and Halpern said they see a future for AI in health care, but they agreed that it cannot substitute
+interactions that require empathy.
+
+Halpern added that she is currently working on a book titled "Engineering Empathy," which will delve deeper into
+the role of AI in interpersonal relationships. In the meantime, she hopes that her paper might shift the general
+consensus of AI use in health care.
+
+"We provided a conceptual argument that we hope will show that it is not only technical limitations but the nature of
+empathy that limits AI going forward," Halpern said in an email.
+
+
+Load-Date: June 16, 2021
+
+
+  

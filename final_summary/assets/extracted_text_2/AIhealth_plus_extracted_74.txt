@@ -1,0 +1,80 @@
+
+
+                                                                                                          Page 1 of 2
+                           Artificial Intelligence Outperforms Doctors in Breast Cancer Diagnosis
+
+
+
+
+     Artificial Intelligence Outperforms Doctors in Breast Cancer Diagnosis
+                                                        New York Observer
+                                                      January 3, 2020 Friday
+
+
+
+Copyright 2020 The New York Observer, L.P. All Rights Reserved
+
+Length: 566 words
+Byline: Harmon Leon
+
+Body
+
+
+Despite all of our fears about artificial intelligence (AI), we still have to look at the health benefits that could save
+lives through machine learning.                 According to a study conducted by researchers from Imperial College
+London and Google Health, an AI program has been developed that can identify breast cancer from routine scans
+with greater accuracy than its human counterparts.
+
+Google's DeepMind system has been trained to spot abnormalities on X-ray images. According to the findings,
+which were           published this week by Nature, scans of 29,000 women from the U.S. and UK were used in the
+trial. The sampling was made to represent all the women who might come through for a breast screening.
+Mammography screenings are designed to identify breast cancer at earlier stages of this fatal disease. Though,
+doctors' interpretations of mammograms are occasionally affected by high rates of false positives and false
+negatives, meaning a mammogram is wrongly diagnosed.
+
+SEE ALSO: Researchers Develop AI That Can Predict Seizures Before They Happen
+
+Using images that had previously been reviewed by doctors in the U.S., there was a reported reduction of 5.7% in
+false positives and a reduction of 9.4% in false negatives, in which cancer was missed.
+
+"In an independent study of six radiologists, the AI system outperformed all of the human readers," the report
+stated.
+
+This is a major breakthrough that could save lives.
+
+"Here we present an artificial intelligence (AI) system that is capable of surpassing human experts in breast cancer
+prediction," the researchers wrote.
+
+Obviously, the earlier you can detect breast cancer, the better it is for patients. And like everything else involving
+AI, its main purpose is to assist-in regard to giving a second opinion-and then let the human hand interpret the final
+results and confirm the diagnosis.
+
+Dominic King, UK lead at Google Health, told AFP: "We think about this technology in a way that supports and
+enables an expert, or a patient ultimately, to get the best outcome from whatever diagnostics they've had."
+
+                                                                                                       Page 2 of 2
+                       Artificial Intelligence Outperforms Doctors in Breast Cancer Diagnosis
+
+The study showed that using AI to help verify the results of human doctors' diagnoses could save up to 88% of the
+workload for the second clinician reviewer. Thus, AI could effectively support the existing service done by human
+reviewers.
+
+We've already seen AI's benefits in the medical industry to help give doctors the upper hand in working more
+effectively. DeepMind is Google's health and artificial intelligence group and was acquired by the company in 2014.
+Its machine learning can also predict if a patient has potentially fatal kidney injuries-48 hours before doctors can
+recognize many of the symptoms. In fact, AI is being               used throughout health care to help identify other
+abnormal X-ray results, such as tuberculosis. Researchers at MIT's                   Computer Science and Artificial
+Intelligence Laboratory (CSAIL) are using machine learning to estimate          the risk of cardiovascular death.
+
+As Observer previously reported,        Forbes noted that the total investment in health care is expected to reach
+    $6.6 billion by 2021. AI advances could potentially create        $150 billion in annual savings for the United
+States health care economy by 2026.
+
+The proof is in the analytics; AI has proven to be a valuable tool for preventing death and taking life-saving
+precautions.
+
+
+Load-Date: January 5, 2020
+
+
+  

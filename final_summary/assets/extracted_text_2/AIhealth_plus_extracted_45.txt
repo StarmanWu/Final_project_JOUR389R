@@ -1,0 +1,105 @@
+
+
+                                                                                                          Page 1 of 2
+                                     Experts discuss AI use across fields at conference
+
+
+
+
+                      Experts discuss AI use across fields at conference
+                                              The Dartmouth: Dartmouth College
+                                                      October 5, 2023 Thursday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 752 words
+Byline: Connor Perrotta
+
+Body
+
+
+On Sept. 29, Dartmouth held its annual Artificial Intelligence Conference, hosting experts in art, banking, business,
+health and investment who discussed the applications of artificial intelligence and popular arguments against its
+use.
+
+Saeed Hassanpour - the Dartmouth Center for Precision Health and AI director - said at the event that artificial
+intelligence can aid health-related initiatives. He noted that AI "can sift through ... a large amount of data in a small
+amount of time," to predict outcomes of potential treatment options. Hassanpour added that he is currently working
+with AI to research cancer treatments.
+
+Lisa Marsch, Dartmouth Center for Technology and Behavioral Health director, discussed at the conference the
+benefits of AI in helping patients who are anxious to seek help.
+
+"Not everybody's going to go seek a prescriber," Marsch said.
+
+Marsch said that patients appreciate digital therapeutics, a term that refers to delivering a medical-grade
+intervention entirely through software, adding that FDA-approved prescriptions of software are now available in the
+U.S. She stressed the need for these low-stigma services and the "widespread availability of these devices."
+
+Jasmine Lombardi - Chief customer officer at Locus Robotics - spoke toward the end of the conference on the
+impact of AI on the workforce, specifically in warehouses. Lombardi said that the average worker in a warehouse
+has a "tough life," walking miles a day in hot temperatures and doing manual labor. Locus makes robots that act as
+moving platforms, carrying heavier items to which carry heavier items to minimize the risk of worker injuries.
+
+"[Locus robots are] going to help you, not take away your job," Lombardi said.
+
+Aditya Bhasin, chief technology and information officer for Bank of America, spoke about working to minimize AI's
+bias in the world of finance.
+
+"Our models actually have to have explainability," Bhasin said. "If a model's not explainable, you can't say to
+somebody, 'We didn't make you a loan because the computer said no.'"
+
+                                                                                                           Page 2 of 2
+                                  Experts discuss AI use across fields at conference
+
+Bhasin talked about the ethical dilemma of "[AI] augmenting human capability."
+
+"No matter how artificially intelligent the creation of something was ... the human accountability cannot be lost," he
+added.
+
+Film and Media studies and digital humanities professor Mary Flanagan said that she thinks that creative integrity
+will be preserved in the era of AI, and that she often creates her own pieces of art after feeding a prompt to an AI
+software and then using the generated image as reference.
+
+"I have my own voice," Flanagan said. "[I] know what I'm looking for."
+
+Flanagan also spoke about the controversial aspects of AI, specifically with the arts. She noted that AI did not have
+a dataset trained on women's art, until she undertook the effort herself.
+
+"Which things do we value?" Flanagan asked the audience. "[I] started thinking about how biased our systems are
+... Whose work is valued?"
+
+In an interview with The Dartmouth following the event, 401 Ventures partner Graham Brooks said he feels
+concerned about AI from an "academic" standpoint, rather than a "Terminator ... who's gonna take over the world?"
+perspective.
+
+"The way that these [AI] models work, they don't understand facts," Brooks said. "They process information in a
+very different way. That said, they do it in a pattern-matching way... fundamentally, one could argue that humans do
+[this just] as well."
+
+When asked about his opinions on AI in academia, Brooks said that AI is "similar to calculators and the internet ...
+They are tools that are gonna be available." He said that we should be "figuring out how to teach with [AI] in a very
+open way."
+
+"You go back down to elementary school," Brooks added, "that's where it gets a little bit harrier ... There is a level of
+... basic understanding that needs to be done."
+
+Brooks spoke about how age differences can influence the extent to which students use AI.
+
+"[Young children] don't have that level of maturity and responsibility to use it in a positive way," Brooks said. "But ...
+if you're in college, and you can use [Chat] GPT to write an essay, let's say ... if you were gonna write that essay in
+12 hours ... now you can ... actually do the writing in an hour, or two hours. You're gonna spend 10 more hours on
+the critical thinking and the outlining."
+
+For all his insistence on the benefits and relative public acceptance of AI, he clarified that AGI (artificial general
+intelligence) is "not going to be a cure-all," providing the example of global warming.
+
+
+Load-Date: October 5, 2023
+
+
+  

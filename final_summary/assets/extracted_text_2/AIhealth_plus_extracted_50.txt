@@ -1,0 +1,92 @@
+
+
+                                                                                                     Page 1 of 2
+                                     Can AI help improve outcomes for cancer patients?
+
+
+
+
+                      Can AI help improve outcomes for cancer patients?
+                                               Daily Record, The (Baltimore, MD)
+                                                 September 12, 2023 Tuesday
+
+
+
+Copyright 2023 BridgeTower Media All Rights Reserved
+
+Section: NEWS
+Length: 804 words
+Byline: Christine Tobar
+
+Body
+
+
+Nawar Shara, chief of research data science at the MedStar Health Research Institute, has high hopes for artificial
+intelligence (AI) and other technologies in the medical field.
+
+Shara and her team have been awarded $3 million from the National Institutes of Health to study how AI can
+improve outcomes for patients recovering from gastrointestinal cancer surgery.
+
+Using a voice-assisted, remote patient symptom monitoring system (VARSMS) developed through artificial
+intelligence and natural language processing technology, patients can be monitored remotely for post-recovery.
+With the goal of improving communication with health care providers and, in turn, improving post-surgical recovery
+outcomes, the system is designed to recognize accents and a variety of speaking cadences, providing real-time,
+proactive encouragement and discharge recommendations.
+
+The grant expands Shara’s prior research that examined how voice-assisted devices like Amazon Alexa can
+improve care management for ethno-racial minority patients with heart failure. The previous study successfully
+showed that AI technologies can be utilized to improve patient engagement.
+“This grant builds upon the work that we have done in the past using Alexa. Instead of a canned survey where
+patients are asked questions, we have incorporated language models to have explainable symptoms to act in real-
+time. It allows us to intervene if the situation necessitates that,” Shara said.
+
+Shara and her team believe that remote patient symptom monitoring tools can help prevent post-discharge
+complications, especially among patient populations who historically experience worse outcomes. Black and
+Hispanic patients are twice as likely as white patients to experience complications after gastrointestinal cancer
+surgery. Factors including socioeconomic conditions, poor provider communication and low health literacy can
+contribute to post-surgical complications. Shara and her team will use BERT, a language representation model from
+Google, and ChatGPT to enhance comprehension of patient feedback.
+In her previous study, the remote voice-assisted technologies helped patients remember to take their medicine or
+modify their care plan based on symptoms. Providers were also able to intervene when symptoms recorded put the
+patient at risk of heart failure.
+“We were able to look at the dashboard as they were recovering in their homes, and in some instances, were able
+to intervene to have patients come to the clinic to be seen immediately to prevent a heart attack,” she said.
+
+                                                                                                          Page 2 of 2
+                                 Can AI help improve outcomes for cancer patients?
+
+The new grant will fund the study of a randomized clinical trial of patients from high-risk populations in urban,
+suburban and rural settings. Patients who have had surgery for gastrointestinal cancer will be assigned the
+standard of care that includes traditional follow-up communication with their provider, or with the VARSMS system
+for a 40-day period after their discharge. Shara and her team will then analyze how the VARSMS system impacts
+patient outcomes and compliance with treatment plans. It will also evaluate the surgical team’s experiences.
+The team is currently in the first phase of the study, which includes fine-tuning the tool, conducting interviews and
+developing a system that understands the clinical flow, Shara said.
+
+“It’s one of the most important things in health care. The clinical flow needs to be accounted for. There are steps
+that the health care team follows, and we cannot just come in and interrupt. We want to ensure this tool is not
+interrupting, but rather complementing,” Shara said.
+The next phase will include enrolling patients and official testing will begin.
+
+Shara believes that this is just the beginning of using AI in healthcare.
+
+“Health care has historically lagged behind in technology because of the intricacies of the field and the sensitive
+information of the patient. This is just the beginning, and the sky is the limit. But before we can say it is safe, we
+really need to be confident. With big data we can identify patients who may be vulnerable and deploy preventative
+measures. I think the future is really bright, but any change brings angst to us, patients and the field. If we do things
+with care, these tools can be used for good,” she said.
+
+Shara has partnered with Dr. Waddah Al-Refala, Chair of the Department of Surgery at Creighton University and
+Chair of Surgery at CHI Health for the study. The research team is also comprised of experts in human-centered
+design and evaluation, including Dr. Guodong (Gordon) Gao and Dr. Rita Agarwal from the Johns Hopkins Carey
+School of Business and Co-Directors of the Center for Digital Health and Artificial Intelligence, and Dr. Dakuo Wang
+from Northeastern University.
+The five-year study is expected to conclude in 2028 or sooner.
+
+Copyright © 2023 BridgeTower Media. All Rights Reserved.
+
+
+Load-Date: September 25, 2023
+
+
+  

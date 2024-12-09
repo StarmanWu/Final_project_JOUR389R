@@ -1,0 +1,90 @@
+
+
+                                                                                                            Page 1 of 2
+                                       AI is too biased to be trusted in the medical field
+
+
+
+
+                        AI is too biased to be trusted in the medical field
+                                                  The Bullet: Mary Washington
+                                                 September 23, 2021 Thursday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 713 words
+
+Body
+
+
+LEIGH HATTON
+
+Senior Writer
+
+It has been 65 years since the term artificial intelligence was first coined, but it still has a long way to go before this
+technology belongs in medical work. As it exists, artificial intelligence does not meet the intersectional or ethical
+standards that are needed for the sensitive and specific realities of health care.
+
+AI, in general, refers to algorithms that can interpret given data, learn from this data and then execute tasks and
+continue to adapt based on new data. However, this is an issue due to the data that is available to algorithms. As
+Dr. Greta Bauer wrote, "because AI applications 'learn' from data produced in biased societies, they are shaped by
+both information biases and societal biases. This reproduction and intensification of societal biases is therefore
+unsurprising."
+
+One well-known example is Amazon's AI hiring tool, which reviewed candidate resumes and displayed a clear bias
+against women, especially for technical and engineering jobs. Another example is Microsoft's Twitter bot named
+Tay, which posted racist, antisemitic and misogynistic remarks less than 24 hours after it was made public.
+
+If these are the types of AI that are created by some of the most expansive companies in the world, it is not
+surprising that many health and medical workers have expressed concern about introducing similar technologies in
+their fields.
+
+Specifically, increased intersectionality is absolutely necessary before AI is used in health fields. Intersectionality
+refers to heterogeneity of race, age, gender, culture and economic status, as well as the places where these
+concepts intersect.
+
+In this case, intersectionality applies to all of the patients in a health system. The data that AIs draw from must be
+representative of the entire population, not a bare minimum idea of diversity. This will require dedicated work from a
+range of health and data experts, including many who encompass the scale of social intersections. Without
+representative data, AIs will perpetuate biases by showing preferences for or against certain groups-similar to
+Amazon's tool-or by categorizing them incorrectly in systems, as Dr. Joy Buolamwini's research concluded. Her
+
+                                                                                                          Page 2 of 2
+                                   AI is too biased to be trusted in the medical field
+
+work involved the use of different AI to classify faces, and she found that all of them performed the most
+inaccurately when it came to dark-skinned female faces.
+
+A critical and cautious approach must be taken in terms of ethics. Programmers may aim to create fair AIs, but for
+medical work, the standard definition of fairness is not just. Bauer explained, "while overall fairness approaches
+may be utilitarian, generating the least bias on average across a population ... maximizing algorithmic fairness does
+not substitute for addressing historical injustice or protecting the most marginalized." This type of fairness that may
+be looked for in AI does not ensure that many groups are being treated justly and equitably.
+
+On the other hand, there are some who advocate for the continued and even increased use of AI in medical work.
+According to Dr. Jason Morgenstern, "AI applications have matched or outperform physicians in various domains."
+Based on this evidence, hospitals and universities have integrated AI into varying daily work tasks, including
+predictive analytics, identifying risk factors and analyzing records.
+
+Yet, Morgenstern breaks down this argument when he points out that "while considerable attention has been paid
+to AI in healthcare, there has been less attention on its impact in health." That is to say, research has almost
+entirely been focused on how AI can be used in the field, not on how AI affects the patients and workers.
+
+Therefore, there are potentially endless uses in medical fields where AI technology could be a helpful
+advancement. However, Dr. Lisa Bowleg concludes that AIs will not be able to provide solutions for any of the
+problems in the medical field without research on their exact impact in addition to "a radical reimagining of
+intersectional health equity."
+
+With the current state of this technology, it would be more harmful than helpful for it to be implemented on any level.
+Until there is solid evidence that artificial intelligence in healthcare has an unbiased and beneficial impact, it should
+not be used in this context.
+
+
+Load-Date: April 20, 2024
+
+
+  

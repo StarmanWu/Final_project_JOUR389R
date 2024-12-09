@@ -1,0 +1,85 @@
+
+
+                                                                                                        Page 1 of 2
+                            Montreal start-up Aifred Health is applying AI to mental healthcare
+
+
+
+
+         Montreal start-up Aifred Health is applying AI to mental healthcare
+                                             The McGill Tribune: McGill University
+                                                  February 18, 2020 Tuesday
+
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+
+Section: SCI-TECH; Pg. 1
+Length: 621 words
+Byline: Margaret Wdowiak
+
+Body
+
+Mental health treatments for conditions such as depression are currently based on an arduous 'trial and error'
+process. Matching people with the right care is difficult: An individual experiencing depression might consult
+different specialists who may recommend various different kinds of treatment, none of which could actually work.
+
+Aifred Health, a Montreal-based healthcare company, has perhaps found a better way. The company is developing
+a treatment-agnostic artificial intelligence model that helps make personalized treatment more widely available and
+match patients with the best care. Specifically, it is a machine learning model, a mathematical algorithm trained on
+sample data to make predictions about the most effective treatment.
+
+"Once the clinician has made a diagnosis, we assist in the process of treatment selection," Dr. David Benrimoh
+(M.D, C.M, 2016), Aifred Health's Chief Science Officer and a Resident in McGill's Department of Psychiatry, said
+in an interview with The McGill Tribune.
+
+Medical professionals collect a number of data when a patient visits the doctor, including symptoms and
+sociodemographic information. Aifred Health's job starts with assembling this data using an AI model to predict the
+probability of remission with different treatments. Afterward, the clinician receives a report that helps them make a
+more informed decision with the patient about their treatment.
+
+"The clinician still makes the choice with the patient, but we help give them more information to make a better
+choice that is more likely to work than without the tool," Benrimoh said.
+
+Currently, the treatment-agnostic AI model is only intended for one condition.
+
+"Right now, [it is designed] for depression, with plans to expand to other conditions such as anxiety and
+schizophrenia in the future," Benrimoh said.
+
+At the moment, there are no widely accessible methods of personalizing treatment for patients. Aifred Health's
+model's main advantage is that it tailors treatment to the individual, increasing the chance that patients will receive
+the right medical care. What's more, the new tool does not need huge amounts of time-consuming data collection,
+as it only requires patients to fill out a questionnaire.
+
+                                                                                                          Page 2 of 2
+                          Montreal start-up Aifred Health is applying AI to mental healthcare
+
+Despite the huge potential of this technology, the model still poses many challenges to the Aifred Health team.
+According to Benrimoh, the biggest obstacle they face is adoption of the technology. Thus, it is essential that the
+tool they build is one that doctors and patients actually want to employ.
+
+"If no one uses it, it could be the best model ever, but it's not going to do anything," Benrimoh said.
+
+Still, Aifred Health has a few steps to complete before worrying about consumer reactions. The company is
+currently conducting a feasibility study in which they are using the technology for the first time in real clinics.
+Computer simulations and tests at McGill's Arnold and Blema Steinberg Medical Simulation Centre have already
+yielded promising results. The Steinberg Medical Simulation Centre simulates authentic health care settings using
+the latest technologies to enhance the skills of healthcare professionals. Indeed, most doctors that participated in
+tests at the Simulation Centre found that the AI model was useful and were willing to use it in their practice, though
+they will have to wait a few years.
+
+"Within roughly two to three years, the full AI tool will be market ready," Benrimoh said.
+
+Aifred Health's treatment-agnostic AI model has the potential to revolutionize mental health treatment. Although
+still currently in the testing stages, they will soon be providing millions of individuals with more effective treatment.
+    •   aifred health
+    •   Artificial Intelligence
+    •   Medicine
+    •   mental health
+
+
+Load-Date: February 18, 2020
+
+
+  

@@ -1,0 +1,80 @@
+
+
+                                                                                                          Page 1 of 2
+                                     AI HELPING UPMC DOCTORS WITH TRANSCRIPTION
+
+
+
+
+                    AI HELPING UPMC DOCTORS WITH TRANSCRIPTION
+                                                 Pittsburgh Post-Gazette
+                                                November 17, 2023 Friday
+                                                   SOONER EDITION
+
+
+
+Copyright 2023 P.G. Publishing Co.
+
+Section: BUSINESS; Pg. A-14
+Length: 429 words
+Byline: Kris B. Mamula Pittsburgh Post-Gazette
+
+Body
+
+
+Transcribing physician notes about care provided to patients was once a $12 billion business, with doctors' voice
+recordings even sent abroad for conversion into written form that eventually made its way into patient medical
+records.
+
+That's all gone now with the advent of artificial intelligence in medicine, which has turned the industry inside out with
+real-time capabilities of summarizing and structuring doctor-patient conversations into medical records and
+diagnostic codes needed for billing insurers.
+
+"We built generative AI in health care," said Shivdev Rao, non-invasive cardiologist at UPMC and co-founder of
+Abridge AI Inc., a startup that converts voice into structured medical records. "It improves the care experience."
+
+Creating medical notes after meeting with a patient has been a headache for doctors since there were medical
+records. Abridge software saves doctors up to three hours a day in administrative chores, Dr. Rao said, giving them
+more time to spend with patients.
+
+"At this point in time, they need technologies to augment clinical care and improve the patient's experience," he
+said.
+
+The company, which employs about 50 people and generates undisclosed revenue, has offices in Lawrenceville,
+New York, Boston and San Francisco. Abridge recently closed on a $30 million Series B funding round, bringing the
+total amount raised by the company to $62.5 million since its start in 2018.
+
+Some two dozen UPMC physicians in Eastern Pennsylvania have used Abridge to create structured medical
+records from 10,000 doctors' office interactions with patients as the technology continues to roll out to other
+hospitals in the system. In addition to UPMC, Abridge software is being used by the University of Kansas Health
+System and Emory Healthcare as part of a partnership with Epic Systems, an electronic medical records system
+outfit based in Verona, Wis.
+
+                                                                                                        Page 2 of 2
+                             AI HELPING UPMC DOCTORS WITH TRANSCRIPTION
+
+The big advantage of the software is the time it saves doctors, said Salim Saiyed, chief medical information officer
+at UPMC Pinnacle in Harrisburg.
+
+"It frees them up mentally," he said. "That gives them time to really focus on the patient. That's just phenomenal."
+
+Health care has been a tantalizing target for generative AI because of the mark the technology is expected to make
+in everything from new drug research to primary medical care. In October, Highmark announced a deal with
+Alphabet's Google subsidiary for Vertex AI Search software, which the hospital and health insurance giant said
+would be used in every facet of its business, including doctors' offices.
+
+Kris B. Mamula: kmamula@post-gazette.com
+
+
+
+Graphic
+
+
+PHOTO: Jessie Wardarski/Post-Gazette: A computer used at the West Penn Hospital School of Nursing in
+Bloomfield.
+
+
+Load-Date: November 17, 2023
+
+
+  

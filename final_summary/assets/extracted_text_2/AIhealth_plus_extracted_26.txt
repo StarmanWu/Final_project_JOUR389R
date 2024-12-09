@@ -1,0 +1,100 @@
+
+
+                                                                                                            Page 1 of 2
+                  BU artificial intelligence symposium explores intersection between AI and public health
+
+
+
+
+  BU artificial intelligence symposium explores intersection between AI and
+                                 public health
+                                           The Daily Free Press: Boston University
+                                                 October 20, 2021 Wednesday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: FEATURES; Pg. 1
+Length: 736 words
+Byline: Casey Choung
+
+Body
+
+
+Artificial intelligence and social media have many useful applications, but their use may affect and accentuate
+inequalities and disparities, and add to the spread of health-related misinformation, as discussed at an event
+hosted by the Rafik B. Hariri Institute for Computing and Computational Science and Engineering Monday.
+
+The Rafik B. Hariri Institute hosted a virtual symposium Monday where scholars from various fields discussed the
+significance and underlying concerns of the intersection of artificial intelligence and healthcare. COURTESY OF
+THE RAFIK B. HARIRI INSTITUTE
+
+The event - "Artificial Intelligence in Healthcare Symposium: Mitigating Disparities, Biases and Misinformation" -
+was an opportunity for scholars across a myriad of disciplines to discuss this critical intersection between
+healthcare and artificial intelligence.
+
+The symposium was held over Zoom, with two panel discussions and presentations in the morning, and two more in
+the afternoon.
+
+The event was spearheaded by Yannis Paschaldis, a professor at the College of Engineering at Boston University,
+and Gianluca Stringhini, an assistant professor in the department of electrical and computer engineering.
+
+"Our objective was not only to discover how biases affect health and health care ... but also to explore how AI and
+algorithmic methods can help mitigate these biases and these effects," Paschaldis said in his opening remarks.
+
+Stringhini said plans for the event began about six months ago and originated from a focus research group that the
+Hariri Institute created. Stringhini said they opted for a fully virtual event to allow anyone to join the all-day event.
+
+"The Hariri community would identify important topics that research was needed on and then we would work
+together for a year, to basically build connections and collaborations across the entirety of BU," Stringhini said in an
+interview.
+
+                                                                                                        Page 2 of 2
+              BU artificial intelligence symposium explores intersection between AI and public health
+
+Rich Caruana, a senior principal researcher at Microsoft, spoke later in the morning at the panel discussion, "AI in
+Healthcare, Algorithmic & Data Bias, and Mitigation Strategies." He explained how machine learning models could
+work well, or be "dangerous" for certain patients.
+
+"If you've got a very effective treatment it's very easy for the model to learn that someone is low risk, when in fact
+they're high risk and the only reason they're low risk is because there's an effective treatment, and that's really
+tragic."
+
+Biases can also develop from drawing data from non-diverse populations, said Derry Wijaya, an assistant professor
+in the department of computer science who spoke at the panel "The Challenges, Risks, and Opportunities of AI in
+Healthcare."
+
+Wijaya said when predicting baldness in a certain population, for example, the AI will not be as accurate or safe
+when predicting outside of that population.
+
+"One of the ways we can improve equity is to have more diverse perspectives so that when we develop programs
+and systems, it will be something that can address the needs of a diverse set of people, not just a proportion of the
+population." Wijaya said.
+
+Following the morning discussions and presentations, attendees were invited to join a virtual platform called Gather,
+which created a unique experience for attendees with the platform's customizable avatars and rooms. Event
+attendees could navigate through different virtual rooms, examine research and interact with researchers.
+
+The virtual platform allowed researchers, like Samad Amini - a third year doctoral student in ENG under the
+department of electrical and computer engineering - to share their work and interact with event attendees.
+
+Amini shared his research on detecting dementia, which showed how a simple interview and drawing test can be
+used in tandem with a deep neural network to produce a prediction that is more accessible and cost-effective.
+
+"I learned a lot from the symposium here, and now it's my turn to present my poster and work, and I will get some
+feedback from others to kind of improve my work later on," Amini said.
+
+Sandro Galea, dean and professor at the BU School of Public Health, spoke during the healthcare panel. He said
+while there's a potential for AI to improve healthcare, there will be challenges.
+
+"We should lean into it [AI]," Galea said. "We should be having these conversations, and the mountain of
+challenges, to my mind, are really large that we'll have to overcome before this makes a real contribution to
+healthcare."
+
+
+Load-Date: October 20, 2021
+
+
+  

@@ -1,0 +1,135 @@
+
+
+                                                                                                              Page 1 of 3
+                                     HIGHMARK HEALTH DIPPING A TOE IN AI POOL
+
+
+
+
+                         HIGHMARK HEALTH DIPPING A TOE IN AI POOL
+                                                 Pittsburgh Post-Gazette
+                                              October 11, 2023 Wednesday
+                                                   SOONER EDITION
+
+
+
+Copyright 2023 P.G. Publishing Co.
+
+Section: ASECTION; Pg. A-1
+Length: 986 words
+Byline: Kris B. Mamula Pittsburgh Post-Gazette
+
+Body
+
+
+Visit your Allegheny Health Network doctor to talk over your medical problems and soon a machine may be
+listening in, adding its own advice to what the physician tells you about staying healthy - stuff that may have been
+missed in the conversation.
+
+The "machine" is new software Highmark Health has been road testing - released for commercial use Monday by
+Alphabet subsidiary Google - that carries the promise of dramatically improving health care and streamlining
+Highmark's insurance operations. Google's Vertex AI Search is being introduced in virtually every aspect of
+Highmark's business, Highmark Health's Chief Analytics Officer Richard Clarke said Tuesday.
+
+"We are frankly deploying it across our enterprise," he said.
+
+Ambient listening in doctors' offices may be a couple years off at Highmark Health's 14-hospital system of 2,600
+physicians, but for now, Highmark is exploring whether the software's contributions to the doctor-patient
+conversation will be in real time - like a third person sitting in the room - or sent to the patient after the visit by text,
+email or patient portal message.
+
+"We really see this as a multi-modality," Mr. Clarke said. "The current focus is really on actual medical
+documentation," a physician chore that eats up hours a day and leads to caregiver burnout.
+
+It's also expensive: Administrative costs rose $18 billion or 30% to $60 billion in 2022, according to the Council for
+Affordable Healthcare, a Washington D.C.-based nonprofit.
+
+Vertex AI Search is a generative artificial intelligence search platform that's tailored to health care and the life
+sciences. It can also be tailored specifically to Highmark's purposes, Mr. Clarke said.
+
+"We're teaching it how to speak Highmark," he said. "It's going to have a vey meaningful impact in the clinical
+setting."
+
+Google announced Monday that Highmark Health, the corporate parent of the Downtown-based $26 billion health
+insurance and hospital system, had been among the U.S. health systems piloting Vertex AI Search. What
+
+                                                                                                         Page 2 of 3
+                                 HIGHMARK HEALTH DIPPING A TOE IN AI POOL
+
+differentiates the search engine is its heft in quickly answering questions from vast stores of internal information,
+including doctor's notes, medical records and scans.
+
+Mr. Clarke said the new software would be rolled out gradually systemwide, which patients and health plan
+members might begin to notice in doctor visits and other interactions with the company in 2024 or 2025.
+
+A small pilot involving automated medical documentation after the patient visit was underway using Vertex AI
+Search, Mr. Clarke said.
+
+Before Vertex AI Search, there was ChatGPT, a widely hailed artificial intelligence chatbot introduced in 2022 by
+San Francisco-based OpenAI that can answer complex questions, and write poetry and answer user queries by
+searching the entire web. ChatGPT ignited an industry rush to find commercial uses for the technology, with
+medicine leading the way.
+
+The technology harnesses immense power, providing transformative potential to change medicine.
+
+"A single AI program can write as much text as all of humanity," former Google Health employee and serial
+entrepreneur Mustafa Suleyman wrote in "The Coming Wave: Technology, Power and the 21st Century's Greatest
+Dilemma," a book published in September.
+
+Google's new search platform is designed to make medical information immediately available that otherwise would
+be slow or nearly impossible to retrieve. The technology promises to reduce administrative burden and improve
+physician efficiency, which Mr. Clarke said was a focus at Highmark.
+
+Vertex AI Search uses an easy to use, conversational search format with machine learning that frames answers to
+the individual user, with the software "learning" from each question. The tool will be specifically tailored to Highmark
+needs.
+
+At Highmark, Vertex AI Search was first tested in its strategy to transform health care, which it calls Living Health,
+but Mr. Clarke said Tuesday that virtually every aspect of the organization will eventually benefit from the software,
+including such far-flung departments as marketing.
+
+"Artificial intelligence, including generative AI, plays a key role in how we are enabling Living Health and we are
+interested in how Vertex AI Search could help us simplify the experience and make it more personal, accessible
+and helpful for providers and patients," Mr. Clarke said in a prepared statement Monday.
+
+Highmark Health has been a Google Cloud partner since 2020 when the nonprofit introduced Living Health. In
+January, Highmark began rolling out the My Highmark app, which provides patients with access to information
+about bills, insurance deductibles and health savings account balances along with medical history and treatment
+information, which is the kind of streamlined access to patient information Living Health envisions.
+
+Generative AI search tools have been tested elsewhere in drug discovery, breast cancer detection, surgery and
+other areas, sometimes with notable results.
+
+Among the more intriguing uses for generative AI has been in retinal scans, which have revealed not only eye
+diseases such as glaucoma, but stroke, Parkinson's disease and heart attack. AI-assisted studies of chest X-rays,
+the most commonly obtained medical image in the world, have detected Type 2 diabetes, measured heart function
+and identified valve disease.
+
+Rochester, Minn.-based Mayo Clinic, another health system trying out the Vertex AI Search engine, has been
+using it to answer questions from large volumes of internally generated medical research, according to Dedaimia
+Kozlovsky, a solution architect at Mayo Clinic.
+
+Back at Highmark, Mr. Clarke said the new software would transform operations.
+
+                                                                                                      Page 3 of 3
+                                HIGHMARK HEALTH DIPPING A TOE IN AI POOL
+
+"These are things that are going to continuously rolled out," he said. "We're just going to keep adding - every
+quarter, every six months - we're going to just keep adding. Our focus is on creating remarkable experiences for our
+patients."
+
+Kris B. Mamula kmamula@post-gazette.com
+
+
+
+Graphic
+
+
+PHOTO: Pittsburgh Post-Gazette: Highmark Health has been road testing a new Google search platform - now
+released for general use - that carries the promise of transforming health care.
+
+
+Load-Date: October 11, 2023
+
+
+  

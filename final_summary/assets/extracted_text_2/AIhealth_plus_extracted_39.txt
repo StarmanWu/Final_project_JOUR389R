@@ -1,0 +1,100 @@
+
+
+                                                                                                        Page 1 of 2
+                  Revolutionizing medicine: Aimon Rahman on enhancing health care with deep learning
+
+
+
+
+   Revolutionizing medicine: Aimon Rahman on enhancing health care with
+                               deep learning
+                                The Johns Hopkins News-Letter: Johns Hopkins University
+                                                      November 10, 2023 Friday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: SCIENCE-TECHNOLOGY; Pg. 1
+Length: 756 words
+Byline: ANNIE HUANG
+
+Body
+
+
+Aimon Rahman, a third-year doctoral student in the Vision & Image Understanding Lab in the Electrical and
+Computer Engineering Department, is making significant contributions to the field of medical artificial intelligence .
+In her Hopkins Engineering Applications and Research Tutorials course titled "Introduction to Deep Learning for
+Medical Imaging," Rahman introduces students to the practical applications of computer vision in medical image
+analysis.
+
+In an interview with The News-Letter, Rahman shared insights on her recent publications, as well as opinions
+regarding the opportunities and challenges associated with medical AI.
+
+Deep learning is a method of creating AI relying on neural networks, with many independent modeling layers. Their
+ability to handle large and intricate datasets makes them well-suited for tasks like medical imaging analysis.
+
+Rahman's work centers on training deep learning models to detect anomalies such as tumors and lesions across
+various modalities, including ultrasound, CT and MRI scans.
+
+One of Rahman's recent publications trains diffusion models to replicate the ''collective insights'' of doctors. Her
+paper, titled "Ambiguous medical image segmentation using diffusion models," includes an algorithm that can
+detect tumors given a set of images.
+
+What sets Rahman's work apart is her approach of countering the deterministic nature of AI by using a probabilistic
+model to mirror the diagnostic results of multiple doctors as collective insights.
+
+"Let's say you have a segmentation model that analyzes medical images and segments out tumors. Whenever you
+have this kind of model, it's always deterministic, meaning you input an image, and it will provide a segmentation
+specific to that image. However, in a hospital setting, multiple radiologists may each have their unique diagnosis
+and segmentation for the same image," she explained. "This is what I worked on last summer, where I developed a
+probabilistic model. When you input an image, the network will produce a variety of segmentation maps, mimicking
+the diagnostic results of different doctors."
+
+                                                                                                        Page 2 of 2
+               Revolutionizing medicine: Aimon Rahman on enhancing health care with deep learning
+
+Rahman also shed light on the potential applications of her work in health care. She emphasized the timely
+importance of AI and the abundance of resources available at Hopkins.
+
+"Right now is a favorable time to delve into AI, and Hopkins offers extensive resources," she said. "My goal is to
+leverage computer vision to make a meaningful impact in health care. For instance, incorporating AI into health
+care can significantly reduce costs, which can be particularly beneficial for countries with limited resources and in
+point-of-care scenarios."
+
+Rahman underscored the technology's relevance in situations like wartime, refugee crises or natural disasters,
+where makeshift hospitals may lack health care professionals. Computer vision and deep learning can provide
+rapid and accurate diagnosis in such critical circumstances.
+
+Looking toward the future, Rahman hopes that medical AI will make health care better and more affordable for all.
+
+"Medical AI will be integrated in point-of-care architecture so that patients do not have to wait a long time in
+hospitals. The overarching aim is to use this technology to cut the health care cost and make standard health care
+more affordable in countries with few resources," she said.
+
+However, Rahman acknowledges the challenges she faces, primarily concerning the scarcity of training data and
+the generalizability of the models, an issue compounded by the unavailability of private datasets.
+
+"The biggest challenge in the medical domain is the limited dataset availability, as medical data are not publicly
+accessible," she said. "Obtaining data involves navigating ethical concerns and obtaining permissions. Moreover,
+data collection by medical professionals is time-consuming."
+
+One possible solution to these issues is the use of synthetic data - which itself is created by a neural network.
+However, when asked about the possibility of using synthetic datasets for medical training, Rahman expressed
+caution.
+
+"To use a synthetic dataset, we need to have a bunch of data to begin with and train the model first, which is hard
+due to the aforementioned reasons. Furthermore, relying on healthy patient data to mimic severe cases can
+introduce bias into the dataset, as AI can only generate based on what it has seen before,'' she said. "We don't
+want to give AI too much creative freedom so that it would create something that is impossible to occur in real life."
+
+Have a tip or story idea?
+
+Let us know!
+
+
+Load-Date: November 13, 2023
+
+
+  

@@ -1,0 +1,109 @@
+
+
+                                                                                                        Page 1 of 2
+                            TOO MUCH HEALTH TECH AI MAY BE BAD FOR YOUR HEALTH
+
+
+
+
+           TOO MUCH HEALTH TECH AI MAY BE BAD FOR YOUR HEALTH
+                                              Pittsburgh Post-Gazette
+                                               May 21, 2022 Saturday
+                                                 SOONER EDITION
+
+
+
+Copyright 2022 P.G. Publishing Co.
+
+Section: OPINION; Pg. WB-3
+Length: 857 words
+
+Body
+
+
+Without much fanfare, some of the biggest names in tech have been pulling back on once-enthusiastic efforts to
+disrupt healthcare. Within the past nine months, Alphabet Inc. has dismantled its healthcare division Google Health
+while IBM sold its Watson Health data and analytics business to a private equity firm, having struggled to turn a
+profit. It turns out healthcare is a highly complex industry and much of the hype around the transformative promise
+of artificial intelligence may have been overblown.
+
+That reality has hit hard in the U.K, whose influx of investment into health tech comes thanks to the internationally
+respected, centralized National Health Service that has tested new technology through a special department called
+NHSX.
+
+Health tech refers to a market in which companies use technology to solve healthcare problems. These range from
+chatbots to help patients triage symptoms of an illness to fitness trackers to monitor a patient's vital signs with a
+fitness tracker to machine-learning algorithms to make hospital waiting rooms more efficient. A growing cohort of
+mental health apps for consumers offers to help people manage stress or sleep better.
+
+Many of these systems say they use artificial intelligence, which can give them a funding boost in private markets. It
+has in England. Funding for health-tech startups has soared in the U.K. from $420 million in 2016 to approximately
+$3.8 billion in 2021 according to data from database management firm Dealroom and London promotional agency
+London&Partners. That put Britain in third place behind the U.S. and China for health-tech investment last year.
+
+But some of the country's more mature health-tech firms, which got into this game early, are going through
+something of a midlife crisis, exacerbated by the wider loss of momentum in the pandemic health-tech boom in the
+U.S.
+
+Part of the problem, according to staff and entrepreneurs from multiple health-tech firms, has been a clash of
+cultures between the ambitious and iterative world of engineering - where problems can be solved with the right
+algorithm - and the world of medicine, which calls for a more cautious approach. Medical researchers at health-tech
+firms have complained of being steamrolled by the move-fast-and-break-things approach of highly paid software
+engineers. The techies, for their part, complain of being unable to experiment freely in a world obsessed with
+patient safety and regulation.
+
+                                                                                                         Page 2 of 2
+                        TOO MUCH HEALTH TECH AI MAY BE BAD FOR YOUR HEALTH
+
+The resulting stumbles from this culture clash not only hurts company profits, it also threatens to corrode patient
+trust in the National Health System and other healthcare systems.
+
+Among the more affected British players is Sensyne Health Plc, which uses artificial intelligence to analyze patient
+records to help pharmaceutical companies develop new medicines. To get that data, Sensyne has signed
+agreements with a handful of NHS trusts, such as Great Ormond Street Hospital for Children and Exeter NHS
+Trust; together they own a 16.2% stake in the firm in return for sharing patient data the company says is
+anonymized.
+
+But Sensyne found itself on the brink of collapse last month, after the company said it was on the verge of running
+out of cash and cutting the majority of its staff, according to Sky News. The company had been fined Â£400,000
+($495,000) by the London Stock Exchange in November for failing to disclose bonus payments to its chief executive
+officer, a former British science minister who stepped down last month.
+
+Publicly, the company said it suffered contract delays because of the COVID-19 pandemic. But its shift away from
+developing algorithms to selling access to an analytics platform, as described on its website, also speaks to the
+challenge of applying cutting edge AI to complex challenges in medicine.
+
+Another high flying health-tech startup, Babylon Health, has seen its shares fall by nearly 87% since it went public
+last October through a blank-check company merger that valued it at $4.2 billion. It's now worth about $528 million.
+The company has heavily marketed its use of artificial intelligence to give diagnostic advice to patients through a
+symptom-checker on its app, but doctors have warned it has given unsafe information through the checker.
+Babylon, in response, publicly criticized an oncologist who criticized its symptom checker as a "troll" who "tweeted
+defamatory content about us."
+
+Signs are pointing to artificial intelligence falling short of its promise more generally in medicine. Multiple clinical
+studies published last year showed nearly all artificial intelligence tools used to try and predict a diagnosis of
+COVID-19 made no real difference or were potentially harmful. A separate study published in the British Medical
+Journal last year also found 94% of AI systems that scanned for signs of breast cancer were less accurate than the
+analysis of a single radiologist.
+
+"This is not an AI problem," said Booth. "It's technology coming into healthcare thinking it can outperform expert
+human beings at treating other human beings."
+
+It seems when technology fails in that regard, humans pay the price.
+
+Parmy Olson is a Bloomberg Opinion columnist.
+
+
+
+Graphic
+
+
+PHOTO: Courtesy of UPMC: UPMC is using new technology designed to help patients get faster stroke treatment.
+When a patient has stroke symptoms and gets an MRI or CT scan, the Viz.ai app uses artificial intelligence to
+determine if the patient is having a stroke.
+
+
+Load-Date: May 21, 2022
+
+
+  

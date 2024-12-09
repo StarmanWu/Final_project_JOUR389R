@@ -1,0 +1,108 @@
+
+
+                                                                                                     Page 1 of 2
+    AI mission control center for medical care eyed UC San Diego Health will use $22 million given by Joan and
+                                                    Irwin Jacobs
+
+
+
+
+  AI mission control center for medical care eyed; UC San Diego Health will
+               use $22 million given by Joan and Irwin Jacobs
+                                                 The San Diego Union-Tribune
+                                                      May 6, 2023 Saturday
+                                                            Final Edition
+
+
+
+Copyright 2023 The San Diego Union-Tribune All Rights Reserved
+
+Section: NEWS; Part A; Pg. 1
+Length: 781 words
+Byline: Paul Sisson
+
+Body
+
+
+With artificial intelligence rapidly changing health care, UC San Diego Health is planning to treat the situation with
+a level of attention usually reserved for rocket launches and wildfires.
+
+A $22 million donation from philanthropists Joan and Irwin Jacobs will help pay for a mission control center inside
+its main La Jolla medical center to consolidate the ever-growing streams of digital information that are increasingly
+providing actionable information at the bedside.
+
+Hundreds gathered in a university auditorium Friday to listen to the latest thinking about how this technological
+transformation is likely to unfold, with Irwin Jacobs sitting in the front row, soaking up every detail.
+
+The digital communications pioneer with a doctorate in electrical engineering said during a lunch break that it was
+clear in the planning stages of UC San Diego Jacobs Medical Center, the state-of-the-art La Jolla hospital that now
+bears his name, that the proliferation of information technology in medicine would eventually require more
+coordination.
+
+"It was kind of decided, well, we're getting all of this data, but none of it's really connected. We need to get it into
+one place including not just the hospital system, but also from outside, and then have a few different types of
+people in there who can react very quickly to what they're seeing," Jacobs said.
+
+These days, everything from bedside monitors to air-handling equipment produces endless digital information, and
+recent advances in artificial intelligence are showing a stunning capacity to sift through this mountain of ones and
+zeros to find patterns that can spot errors and, increasingly, predict who might be about to develop a new set of
+symptoms.
+
+A good example, said Dr. Christopher Longhurst, the university health system's chief medical and digital officer, is
+an emergency room program that is using AI to analyze bedside and electronic health record data to predict which
+
+                                                                                                     Page 2 of 2
+    AI mission control center for medical care eyed UC San Diego Health will use $22 million given by Joan and
+                                                    Irwin Jacobs
+
+patients are at the greatest risk of developing sepsis, a runaway reaction to infection that can cause deadly organ
+failure.
+
+"We implemented this algorithm six months ago, and our emergency department, in the last six months, we've had
+the lowest observed (versus) expected mortality and sepsis that we've ever seen at UC San Diego Health,"
+Longhurst said.
+
+Other efforts are under way to use AI to predict which patients will develop bowel obstructions after surgery, and a
+remote telemonitoring program is now receiving data from the homes of more than 2,500 patients with chronic
+diseases.
+
+More recently, UCSD was one of two systems nationwide to enable AI-enhanced recommendations for its doctors
+to review when responding to patient emails.
+
+And this is just the beginning. Every new application, Longhurst notes, will generate its own set of notices. Asking
+bedside workers to parse this flow is impossible, meaning that a separate team of professionals will be necessary to
+decide what needs to be passed along to caregivers and what can wait.
+
+"It's Apollo 13, right?" Longhurst said. "Those guys didn't land on the moon by themselves, they had help."
+
+Though the need for such an approach is already arriving, the executive said it is expected to take several years for
+the new command center, which will also have two components situated outside the hospital, to get up and running.
+
+For now, AI's potential to make routine tasks more manageable for medical professionals seems to be engendering
+the most excitement.
+
+Panelists who spoke during Friday's symposium were asked what about the coming AI health care revolution
+excites them the most in the near term. Most said they were very optimistic about the ability of algorithms to help
+free up medical professionals' time by assisting with routine tasks, such as responding to patient emails for medical
+testing and other routine communication that piles up during the work day and impinges on personal lives.
+
+Having help grinding through the grist of modern health care, in theory, should free up time for meaningful
+conversations with patients.
+
+Sitting back after eating Cinco de Mayo tacos, Holly Smith, UC San Diego's population health clinical nurse
+educator, said she hopes that's how it goes. Technology, she said, will clearly be necessary to meet the ever-
+increasing health care demands of an aging population.
+
+But, she said, gains in efficiency must be balanced with the human touch.
+
+"We don't want to use that data to make things so efficient that we take that human piece out," Smith said. "A
+careful, managed approach is important, and so is making sure to get the perspective of the people that are in the
+field doing that front-line work with the patients."
+
+paul.sisson@sduniontribune.com
+
+
+Load-Date: May 8, 2023
+
+
+  

@@ -1,0 +1,110 @@
+
+
+                                                                                                       Page 1 of 2
+                              Local health systems leverage AI for better outcomes, efficiency
+
+
+
+
+           Local health systems leverage AI for better outcomes, efficiency
+                                                   Crain's New York Business
+                                                          July 24, 2023
+                                                          Print Version
+
+
+
+Copyright 2023 Crain Communications All Rights Reserved
+
+
+
+
+Section: Pg. 19; Vol. 39
+Length: 879 words
+Byline: JACQUELINE NEBER
+
+Body
+
+
+Local organizations are taking their own bets on how to best deploy artificial intelligence as the technology takes
+root within the health care system at large.
+
+Crain's spoke with health systems in the area to understand how they are experimenting and investing in AI and
+found that using the technology to predict patient outcomes, expedite analysis of medical images and lighten the
+load of administrative tasks for physicians are some major use cases.
+
+Medical imaging lends itself to using AI because the technology can help doctors interpret images faster and detect
+issues sooner, according to Dr. James Tsai, president of the New York Eye and Ear Infirmary of Mount Sinai.
+
+Tsai is the founding director of the Center for Ophthalmic Artificial Intelligence and Human Health at the Icahn
+School of Medicine at Mount Sinai, which launched on July 3. The center's goal is to use AI to diagnose eye
+diseases such as glaucoma, macular degeneration and diabetic retinopathy faster, which can help prevent vision
+loss, according to Sinai. Researchers will work with Icahn students and Sinai's Windreich Department of Artificial
+Intelligence and Human Health to build the infrastructure for using AI in critical care, which will let the system
+incorporate tools quickly as they are approved, Tsai said.
+
+AI can also help health systems move patients out of the hospital faster by streamlining physicians' work. At New
+York-Presbyterian, leaders have experimented with AI since 2017 to accomplish that goal. Leo Bodden, the group
+vice president and chief digital and technology officer at NYP, said tools help track which tasks need to be done for
+patients, such as lab work, and "nudge" physicians to complete them.
+
+The system has launched several initiatives recently to tighten workflow, Bodden said, with predictive machine
+learning, imaging, robotic process automation, conversational AI and general robotics. Some pilot programs strive
+
+                                                                                                       Page 2 of 2
+                           Local health systems leverage AI for better outcomes, efficiency
+
+to reduce the amount of documentation doctors must complete and help radiologists interpret images faster, for
+example.
+
+NYU Langone, too, is using generative AI to read patient notes and tackle administrative tasks. The technology can
+help detect gaps in care, said Dr. Jonathan Austrian, associate chief medical information officer of inpatient
+informatics at NYU Langone Health.
+
+If a physician notes that a patient needs blood clot prevention medication, for example, but the technology doesn't
+see an order for that prescription, the system will alert the physician of the discrepancy, he said. NYU is beginning
+to deploy more sophisticated general language AI models in these cases.
+
+Comb through data
+
+Additionally, AI can be used to interact with patients, educate them during vulnerable periods and improve
+outcomes. On Long Island, Northwell Health is using AI to improve maternal health outcomes through a chatbot
+product called Pregnancy Chats, which aims to reduce maternal mortality rates by communicating with patients
+about their symptoms. The chatbot can encourage patients to go to the hospital or connect them with Northwell
+physicians. The tool is one of the health system's Center for Maternal Health initiatives to address maternal health
+risks.
+
+Northwell developed the chatbot in collaboration with Conversa Health, a software company based in Portland,
+Oregon. Northwell invested $5.5 million into Conversa before Conversa was acquired by Amwell, a virtual care
+company in Boston, according to Richard Mulry, president and chief executive of Northwell Holdings.
+
+More broadly, AI can be used to comb through patient data to identify which individuals are at a higher risk for
+negative health outcomes and close care gaps. At Ascertain, Northwell's joint venture with Aegis Ventures,
+scientists are using data from more than 100,000 records to help providers better understand patients' maternal
+mortality risks and help patients better understand dangerous symptoms of conditions such as preeclampsia, said
+Dr. Michael Nimaroff, senior vice president of Northwell's obstetrics and gynecology service line.
+
+Northwell and Aegis committed to investing $100 million in launching Ascertain, Mulry said.
+
+While the wealth of available medical data means the health care industry is ripe to benefit from AI, utilizing the
+data comes with watchouts.
+
+Exposing sensitive data, such as patient and billing information, to new tools opens up already-vulnerable hospitals
+to data breaches, according to Marion Lewis, chief executive of Govenda, a governance management firm that
+works with several New York health systems. She noted patients' privacy concerns and AI's potential for bias when
+it comes to care disparities among underserved patients that already exist in the industry.
+
+Additionally, despite AI's potential benefits, doctors also warned of their concerns around the technology. Tsai
+called some potential AI algorithms a "black box" that makes it impossible for doctors to understand why they're
+getting certain results.
+
+He also has concerns about the technology's limitations, how the health system will be reimbursed for using it, its
+financial sustainability and patient acceptance, he said.
+
+To combat these concerns, Tsai said, human specialists will have to remain involved, checking AI's conclusions at
+every step of the process.
+
+
+Load-Date: July 27, 2023
+
+
+  

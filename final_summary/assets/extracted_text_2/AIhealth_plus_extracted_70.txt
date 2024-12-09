@@ -1,0 +1,135 @@
+
+
+                                                                                                          Page 1 of 3
+            UF to use $23.5 million grant to build AI infrastructure to improve critical care HEALTHY LIVING
+
+
+
+
+    UF to use $23.5 million grant to build AI infrastructure to improve critical
+                             care; HEALTHY LIVING
+                                                    Naples Florida Weekly (Florida)
+                                                          February 23, 2023
+
+
+
+Distributed by Newsbank, Inc. All Rights Reserved
+Copyright 2023 Florida Weekly.
+
+Section: NEWS
+Length: 1162 words
+Byline: CODY HAWLEY, UF COLLEGE OF MEDICINE
+
+Body
+
+
+The University of Florida has been awarded $3.6 million of a $23.5 million multicenter grant for a four-year data
+generation project that is unprecedented in its scope, aimed at building an infrastructure for artificial intelligence in
+critical care and advancing artificial intelligence in ways that improve patients' ability to recover from life-threatening
+illnesses.
+
+Funded by the National Institutes of Health's Bridge to Artificial Intelligence, or Bridge2AI program, this project
+creates a network of university health systems that will support a comprehensive repository of data for AI research
+from more than 100,000 critically ill patients. The patients' data will be made anonymous.
+
+Although the project's highlight will be the 100,000-patient data set, key aspects of the project include AI workforce
+training events, a set of standards for ethical use of AI in critical care, publicly available AI tutorials and guidelines
+for a collaborative approach to medical AI research.
+
+A team of eight principal investigators, including three from UF Azra Bihorac, M.D., M.S., FCCM, FASN; Parisa
+Rashidi, Ph.D.; and Yulia Levites Strekalova, Ph.D., M.B.A. will lead the network of connected intensive care units.
+UF Health will be a vital contributor to the data repository, along with other major health systems, including
+Massachusetts General Hospital at Harvard; Emory University; Duke University; the University of California, Los
+Angeles; Nationwide Children's Hospital; Columbia University and the Mayo Clinic.
+
+"This project is a huge win for UF AI research and will put us on the map for biomedical AI," said Bihorac, the senior
+associate dean for research affairs at the College of Medicine and co-director of UF's Intelligent Critical Care
+Center, or IC3. "The success of our UF team builds on the investment of UF Health and the UF College of Medicine
+in the digitization of clinical infrastructure and the generation, integration and standardization of medical data for
+both clinical and research use."
+
+The program, called "A Patient-Focused Collaborative Hospital Repository Uniting Standards for Equitable AI," or
+CHoRUS, will expand and generate biomedical data that can be used for monitoring, diagnosing and treating
+critically ill patients, as well as augmenting doctor's rapid decision-making.
+
+                                                                                                        Page 2 of 3
+          UF to use $23.5 million grant to build AI infrastructure to improve critical care HEALTHY LIVING
+
+Previous data-generation efforts have lacked geographical and demographic diversity. CHoRUS will greatly
+increase the scope and scale of AI-ready data sets by creating the repository of anonymized data, composed of
+structured electronic health records and other biomedical information.
+
+"The CHoRUS data set will be the largest and most comprehensive critical care data set. Providing this data set to
+the scientific community will accelerate advances in the development of AI algorithms in the critical care domain
+and in the medical AI domain in general," said Rashidi, the J. Crayton Pruitt Family term fellow and an associate
+professor at the UF Herbert Wertheim College of Engineering, who co-directs the IC3.
+
+Earlier large-scale data sets used by ICUs have been insufficient for general use, Bihorac said.
+
+"So far, the large, high-resolution data sets needed to utilize AI technology in ICUs have been limited to single
+sites," Bihorac said. "CHoRUS will lead to more research advances and more ICUs being able to utilize AI
+advances and give critically ill patients the best possible care. UF's involvement will yield benefits for patient care
+that will extend beyond the duration of our project."
+
+Other Bridge2AI components involving UF faculty from the colleges of medicine, communication, pharmacy, law
+and engineering include expanding access to AI knowledge and resources by involving the Gainesville community
+in AI training through UF's Citizen Scientist program and a fellowship initiative for local high school teachers.
+
+The Citizen Scientist program, which enables researchers to receive feedback from the community about their
+work, will offer a publicly available educational module about medical AI ethics, and the UF Center for Precollegiate
+Training will offer summer fellowships for two local high school math teachers who will develop an AI and
+programming curriculum for high school students that can be shared with teachers across the country.
+
+"By design, this project brings together experts from multiple disciplines," said Levites Strekalova, an assistant
+professor in the College of Public Health and Health Professions department of health services research,
+management and policy. "We're creating skills and workforce development programs for medical professionals, K-
+12 teachers and citizen scientists. Our efforts will have a national impact, which is both humbling and exciting."
+
+Furthermore, UF will build an industry innovation collaborative with NVIDIA and others to help industries seeking to
+develop AI algorithms for medical practice and to raise awareness about CHoRUS data. NVIDIA provides the
+technological power behind HiPerGator, one of the nation's fastest supercomputers, and partners with UF to
+advance the university as a national leader in the application of AI.
+
+"By leveraging our open-source technology stacks like MONAI, a framework for developing medical imaging AI, and
+NVIDIA FLARE, a systems development kit for ensuring security and data privacy, we can quickly equip a new
+generation of AI builders and accelerate their journey to AI proficiency," said Mona G. Flores, M.D., the global head
+of medical AI at NVIDIA.
+
+To fortify the privacy of personal data used in medical AI, a team of legal, ethics and communication scholars will
+recommend privacy policies beyond the current legal standards to strengthen protections and enhance public trust.
+
+The team will consult with up to 10 CHoRUS citizen scientists to identify and address any ethical questions or
+weaknesses in the public's perception of medical AI.
+
+"CHoRUS is building data resources to support a wide array of socially beneficial goals not just to enhance
+research but also to improve health care, to make medical products safer and to benefit public health," said
+Barbara J. Evans, J.D., Ph.D., the Stephen C. O'Connell Chair and a professor of law and engineering at UF. "Each
+such use poses distinct legal and ethical issues, so we're examining ways to give people confidence that their data
+will be safe in medical AI systems."
+
+UF will help this multicenter group provide better critical care for all patients through more effective AI monitoring
+and diagnostics.
+
+                                                                                                        Page 3 of 3
+          UF to use $23.5 million grant to build AI infrastructure to improve critical care HEALTHY LIVING
+
+"This exciting project will leverage the investments made by the University of Florida to build the AI University, as
+well as the donation of the HiPerGator AI supercomputer by UF alumnus and NVIDIA co-founder Chris
+Malakowsky," said Erik Deumens, Ph.D., UF's senior director of research computing.
+
+Overall, the CHoRUS program expands upon UF's campuswide AI initiative and UF Health's focus on advancing
+trustworthy AI and machine learning in the clinical realm. ¦
+
+
+
+Graphic
+
+
+The CHoRUS program will expand and generate biomedical data that can be used for monitoring, diagnosing and
+treating critically ill patients. UNIVERSITY OF FLORIDA / COURTESY PHOTO
+
+
+Load-Date: February 24, 2023
+
+
+  
