@@ -1,0 +1,85 @@
+
+
+                                                                                                       Page 1 of 2
+                               School Safety Index Predicts K-12 COVID Policy Effectiveness
+
+
+
+
+             School Safety Index Predicts K-12 COVID Policy Effectiveness
+                                                Government TechNology
+                                                October 11, 2021 Monday
+
+
+
+Copyright 2021 Government Technology
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 620 words
+Byline: Brandon Paykamian, Government Technology
+
+Body
+
+
+Oct. 11—As schools seek to mitigate the risks of in-person learning in the face of the COVID-19 delta variant,
+officials are turning to digital resources for advice. To help, the health technology firm HSR.health built an online
+data tool to predict the effectiveness of school health policies, down to each building and classroom.
+
+According to a news release, the Maryland-based company recently developed its School Safety Index to inform
+administrators about best practices depending on specific school conditions. It also created a COVID-19
+Transmission Risk Index to predict future outbreaks, and a Mortality Risk Index to identify geographical areas with
+the highest risk of deaths.
+
+HSR.health CEO Ajay Gupta said the aim of the company was to provide schools with online guidance for safety
+policies after nearly two years of shifting to and from virtual learning.
+
+"Research has shown that more than half of the student population nationwide have lacked the motivation and
+engagement to successfully learn in a remote setting," he said in a statement. "Our goal for the School Safety Index
+is to provide administrators with the accurate data insights they need to make well-informed decisions and safely
+return both students and teachers to the classroom."
+
+Gupta told Government Technology the platform asks administrators to describe their schools, local conditions, and
+the layouts of each building and classroom in order to gauge the risk of spread. The platform is part of a suite of
+health risk data tools offered by the company.
+
+"We got our start by analyzing social determinants of health data down to specific locations, as they impact the
+health outcomes and the cost for individuals, patients and populations in those locations," he said. "When COVID-
+19 broke out, we developed a number of AI models and public health models to track the spread of the disease so
+we could identify where the disease is going, how it's spreading and who is at risk of becoming sick from the
+disease."
+
+                                                                                                    Page 2 of 2
+                          School Safety Index Predicts K-12 COVID Policy Effectiveness
+
+According to Gupta, school and public health officials can use the platform to determine whether a classroom could
+use plexiglass barriers or whether a school should shift to remote or hybrid learning, among other mitigation
+strategies.
+
+"Based on our understanding of the social determinants of health in that region, the COVID case counts and other
+health outcomes of that region, we can assess the risk of disease transmission in the school, but with no COVID
+mitigation put in place," he said. "Then we can assess the value of any mitigation, whether they're masks, social
+distancing or reducing class sizes, or any changes that may take place."
+
+Even though millions of students were vaccinated before returning to school this year, Gupta said the virus could
+remain a threat to K-12 districts in the years to come as an endemic — a regularly occurring disease in the
+population. Gupta said it's important for schools to look to data to mitigate the spread of other common school
+illnesses such as the flu, to say nothing of future pandemics.
+
+The index is among several similar data platforms available to schools online, including a COVID-19 K-12 School
+Testing Impact Estimator developed by the data analytics company Mathematica, which measures the
+effectiveness of school COVID-19 testing policies.
+
+"What we need to do is start looking at how, in our everyday lives, we can operate schools," he said. "We have the
+opportunity to adjust infrastructure to reduce the risk of disease transmission to not only address the current
+pandemic, but maybe on a permanent basis reduce the spread of seasonal flu."
+
+___ (c)2021 Government Technology Visit Government Technology at www.govtech.com Distributed by Tribune
+Content Agency, LLC.
+
+
+Load-Date: October 12, 2021
+
+
+  

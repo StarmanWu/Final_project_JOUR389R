@@ -1,0 +1,84 @@
+
+
+                                                                                                        Page 1 of 2
+                                     MACHINES CAN LEARN HOW TO HEAL YOU
+
+
+
+
+                            MACHINES CAN LEARN HOW TO HEAL YOU
+                                              Pittsburgh Post-Gazette
+                                             June 1, 2022 Wednesday
+                                                 SOONER EDITION
+
+
+
+Copyright 2022 P.G. Publishing Co.
+
+Section: OPINION; Pg. A-9
+Length: 684 words
+
+Body
+
+
+It's 2045, and American troops are engaged in a firefight in a remote desert. A soldier is down, unconscious,
+struggling to breathe -- and there's not a medic in sight. A fellow infantryman reaches for a special backpack. Inside
+is TRACIR, which stands for Trauma Care In A Rucksack.
+
+It's an inflatable vest that uses artificial intelligence algorithms to measure heart rate, blood pressure and blood
+oxygen. The wounded soldier is placed on the TRACIR vest, and it quickly finds a collapsed lung. The vest detects
+where the collapse is located, and then automatically inserts a needle between his ribs to re-inflate his lung. He can
+breathe again. It may be just enough to allow him to survive until he can be evacuated.
+
+TRACIR is a real project at the University of Pittsburgh and Carnegie Mellon University, funded with millions of
+dollars in research money from the Department of Defense. It's just one of dozens of examples cited at a recent
+conference on the emerging use of artificial intelligence and machine learning in healthcare. Hosted by Pitt's Center
+for Military Medicine Research, the event was funded by the Jewish Healthcare Foundation and DSF Charitable
+Foundation.
+
+Using machine learning algorithms, AI can discern patterns in huge arrays of data - and nothing produces data like
+the nation's healthcare system - and learn new ways to detect, diagnose and treat disease. Besides TRACIR, here
+are just a few of the other projects the conference highlighted:
+
+When carbon monoxide gets into the bloodstream, it latches onto the hemoglobin in red blood cells, and prevents
+them from carrying oxygen. Dr. Jason Rose, a researcher in Pitt's Division of Pulmonary, Allergy and Critical Care
+Medicine, and his team have developed compounds that serve as CO magnets, so the poisonous gas latches onto
+them rather than hemoglobin. They use an AI program that predicts what shape proteins will assume, based on
+their amino acids, to craft antidotes that are stable and highly attractive to CO molecules.
+
+One of the biggest risks to injured soldiers is hemorrhaging, where sudden bleeding can cause blood pressure to
+crash beyond a patient's ability to recover. Victor Convertino, a Ph.D. researcher at the U.S. Army Institute of
+Surgical Research, has done carefully controlled lab studies using a negative pressure chamber. While lying flat,
+people's lower bodies are encased in an airtight chamber which draws blood away from their heads and torsos,
+mimicking what happens during a blood loss injury.
+
+                                                                                                         Page 2 of 2
+                                   MACHINES CAN LEARN HOW TO HEAL YOU
+
+An algorithm that learned more than 130 million data points based on real-time measurements allows a new device
+to assess how well each person is able to compensate for their plummeting blood pressure. This can help identify
+who is most likely to go into circulatory shock.
+
+Several studies have shown that AI algorithms can do a better job than human doctors at detecting signs of disease
+in X-rays and MRI scans. Shandong Wu heads up the Center for Artificial Intelligence Innovation in Medical
+Imaging, which encompasses more than 100 researchers from Pitt, CMU and UPMC. Among their research
+initiatives: breast cancer imaging, liver disease, heart disease, lower back pain and mental health.
+
+The use of AI/ML algorithms is still in its formative stages and may be several years away from widespread use. But
+research leaders believe many of these computer techniques are on the verge of a breakthrough.
+
+Michael Pinsky, a pioneering critical care medicine researcher at Pitt, helped develop a course in AI/ML for Pitt
+medical students. It focuses on the three major uses of such algorithms in medicine: detecting whether you're sick,
+identifying what's making you sick and tracking whether you're getting better. Students who show a strong interest
+in the topic can go on to get specialized computer science training after taking the elective.
+
+"Machine learning is not some special thing," he said, "but will be a big part of medicine going forward."
+
+Mark Roth is a retired staff writer and editor at the Pittsburgh Post-Gazette and freelance writer, writing primarily on
+scientific and medical topics.
+
+
+Load-Date: June 1, 2022
+
+
+  

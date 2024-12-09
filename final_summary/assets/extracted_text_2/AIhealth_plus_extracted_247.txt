@@ -1,0 +1,100 @@
+
+
+                                                                              Page 1 of 2
+     AI TO DETECT HEART ATTACKS? PITT AND UPMC DEVELOP A TOOL TO BETTER ANALYZE EKGS
+
+
+
+
+  AI TO DETECT HEART ATTACKS? PITT AND UPMC DEVELOP A TOOL TO
+                      BETTER ANALYZE EKGS
+                                              Pittsburgh Post-Gazette
+                                               July 23, 2023 Sunday
+                                               TWO STAR EDITION
+
+
+
+Copyright 2023 P.G. Publishing Co.
+
+Section: HEALTH; Pg. H-1
+Length: 590 words
+Byline: Anya Sostek Pittsburgh Post-Gazette
+
+Body
+
+
+Every year, more than 805,000 people in America have heart attacks. But only about a third of those heart attacks
+are immediately obvious using an electrocardiogram, or EKG - often the first test used in diagnosis. The remaining
+two-thirds take hours or even days to identify through clinician analysis, blood tests or presenting symptoms.
+
+A new tool in development by the University of Pittsburgh and UPMC uses artificial intelligence to analyze EKG
+data, identifying heart attacks more quickly and more accurately than current methods. Researchers published their
+results of the tool's performance in late June in the journal Nature Medicine.
+
+"The classic adage for heart attacks is that time is muscle," said Christian Martin-Gill, chief of the Emergency
+Medical Services division at UPMC and a co-author of the study. "If we can identify these partial blockages or heart
+attacks that we might otherwise miss for hours or days, then we have an opportunity to intervene more
+aggressively."
+
+Researchers from Pitt and UPMC have been working to develop this tool for more than a decade, and published
+their research after testing it on real-world patients in Pittsburgh and North Carolina. Study co-author Ervin Sejdic
+developed the model at Pitt and has since moved to a position at the University of Toronto.
+
+A standard EKG takes data from multiple electrodes placed on the chest and synthesizes that data into a set of
+wavy lines on graph paper that clinicians are trained to read. The new tool from Pitt is more accurate in part
+because it can look at far more data - all the readings from each electrode - than the synthesized version provides.
+
+Using machine learning, researchers developed the model by feeding it all of that data, along with outcomes, and
+allowing it to figure out its own system of analysis.
+
+"With machine learning, you do not give rules to the computer, you give the data," said Salah Al-Zaiti, lead author of
+the study and associate professor in the Pitt School of Nursing. "Eventually, the machine learning model learns the
+rules and how to reach from EKG to a certain conclusion. It may start learning rules that we do not know about and
+start identifying new insights."
+
+                                                                              Page 2 of 2
+     AI TO DETECT HEART ATTACKS? PITT AND UPMC DEVELOP A TOOL TO BETTER ANALYZE EKGS
+
+Researchers were surprised to find, through real-world tests, that the model had not just matched current science in
+accuracy of identifying heart attacks, but was actually more accurate.
+
+Before beginning treatments or further diagnostics, doctors want to know they are treating a heart attack and not a
+condition such as reflux or pneumonia that may have similar symptoms.
+
+"Part of the challenge is that we haven't had a way to identify these early enough to know what we should do to
+prevent some of that heart damage," said Martin-Gill.
+
+Widespread use of the tool is still years away, but the research team is currently developing a user interface for the
+model, which it plans to deploy in partnership with the city of Pittsburgh's Bureau of Emergency Medical Services.
+
+The cloud-based model under development will be able to integrate with hospital command centers, said Al-Zaiti,
+providing real-time guidance on medical decisions.
+
+"This information can help guide EMS medical decisions such as initiating certain treatments in the field or alerting
+hospitals that a high-risk patient is incoming," Martin-Gill said. "On the flip side, it's also exciting that it can help
+identify low-risk patients who don't need to go to a hospital with a specialized cardiac facility, which could improve
+prehospital triage."
+
+Anya Sostek: asostek@post-gazette.com
+
+
+
+Graphic
+
+
+PHOTO: UPMC: Chief of the Emergency Medical Services division at UPMC Christian Martin-Gill is a co-author of
+the study.
+
+PHOTO: University of Pittsburgh: The study's lead author Salah Al-Zaiti is an associate professor in the Pitt School
+of Nursing.
+
+PHOTO: Shutterstock: Heart illustration for HEARTAI0723
+
+PHOTO: University of Pittsburgh: The study's lead author Salah Al-Zaiti is an associate professor in the Pitt School
+of Nursing.
+
+
+Load-Date: July 24, 2023
+
+
+  

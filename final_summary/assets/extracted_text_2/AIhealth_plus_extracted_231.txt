@@ -1,0 +1,1035 @@
+
+
+                                                                                                           Page 1 of 18
+                        Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+
+
+
+    Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+                                                        New York Observer
+                                                    January 13, 2020 Monday
+
+
+
+Copyright 2020 The New York Observer, L.P. All Rights Reserved
+
+Length: 12487 words
+Byline: Arick Wierson and Beau Draghiciu
+
+Body
+
+
+On Monday, January 13, like a swarm of honey bees, thousands of health tech entrepreneurs, health care execs,
+venture capitalists, bankers, regulators and business media will descend upon downtown San Francisco as the 38th
+Annual J.P. Morgan Healthcare Conference gets under way. And, as is the case with any multi-day industry
+gathering worth its salt, an entire ecosystem of satellite events has popped up around the main attraction, which
+has created a seemingly endless circuit of networking events, summits and other health care-related shindigs-all
+offering ample excuses to down lattes during the day and throw back a shot or two at night.
+
+Even though only a select few are invited to attend the official main stage, marking one's presence at J.P. Morgan
+is paramount, as the four-day confab has positioned itself as not only the first, but perhaps the most important event
+of the global health care conference calendar year.
+
+SEE ALSO: Revel Is Rewriting the Playbook on How Health Plans Talk to You
+
+Ahead of last year's J.P. Morgan gathering, Observer was among the first to point out a trend that was beginning to
+emerge across the health industry-the rise in interest from both large health care players, as well as hungry
+venture capitalists, for health tech plays originating in cities not typically associated with startup culture, places like
+Minneapolis, Nashville and Chicago. Observer even coined a new term for these disruptors from Middle America:
+Flyover Tech.
+
+And, judging by the pre-conference buzz, by all accounts, last year was not a fluke; many of the entries from the
+2019 list have emerged as some of the biggest and most important players in their respective sectors over the past
+12 months. Some of them have even carved out completely new niches within the vast health care ecosystem that
+didn't exist a year ago.
+
+As some informed observers of the high-flying health tech space quipped, "Flannel is the New Black," when it
+comes to innovation in health care and big bets in health tech.
+
+Take for example Bind, a Minneapolis-based startup health plan that has already raised a jaw-dropping $82 million.
+After occupying last year's top position on the list for its ability to use data science and artificial intelligence (AI) to
+analyze existing claims data, Bind had a banner year. The company has been expanding its services across
+multiple new areas of coverage, while empowering customers to understand what they are really paying for with
+their health plans, which makes it easy to compare treatment options, prices and quality. Bind, along with fellow
+
+                                                                                                      Page 2 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+Minnesota wunderkind health insurance startup              Bright Health-which just announced the closing of
+$635 million in Series D financing in December, on top of over $400 million of funding in previous rounds (putting its
+total raise now over the billion dollar mark)-have chiseled out completely new offerings in the health insurance
+space, a sector that, less than a decade ago, was considered nearly impenetrable due to the vast resources
+needed to scale a business of that nature.
+
+"It still amazes me the number of investors that haven't taken full advantage of the 'flyover tech' ecosystem,"
+observed Jodi Hubler, managing director of Lemhi Ventures, a venture capital firm that invests primarily in early- to
+mid-stage health companies in the Midwest and Rocky Mountain regions. "Many places in Middle America are
+actually centers of innovation and deep domain knowledge not only in health care, but in medtech device and
+services as well," added Hubler, referring to the largest players in health care and medtech, like UnitedHealth
+Group, Medtronic, Cardinal Health, Humana and Anthem-all of which have main bases of operations in between
+the coasts.
+
+"It's common sense economics-every dollar of capital goes further in these locations, and the access to talent from
+developers to board members comes with differentiated experience and knowledge," Hubler told Observer. "In
+places like the Midwest, people don't play in health care, they've lived it... that experience and intuition is
+invaluable."
+
+Another big winner from last year's list was Nashville-based SmileDirectClub, a tele-dentistry startup that produces
+direct-to-consumer 3D-printed clear aligners. In September, the teeth-straightening startup went public,
+raising more than $1.3 billion at an initial market cap of roughly $10 billion, more than three times its most recent
+private valuation. And although the stock price has since clawed back some of those ebullient IPO gains, it's yet
+another shining example of a flyover tech success story.
+
+Flyover Tech Is Now a 'Badge of Honor' in Health Tech
+
+For serial health care entrepreneur and founder of San Francisco-based Roam Analytics Alex Turkeltaub, there is
+gold to be mined in Middle America. "Hubs like Raleigh, Columbus and Nashville, just to name a few, are quickly
+becoming known as exciting centers of innovation in health care. With strong legacy technology and health care
+systems, it's only natural that these local ecosystems will fuel the next generation of disruptors in digital health,"
+observed Turkeltaub, who recently stepped down as CEO of Roam and is setting up a venture fund that focuses on
+the         intersection of AI and health care. The fund will look to make strategic investments in major health tech
+hubs across the country, as well as in emerging overseas markets like Brazil.
+
+"The term 'flyover' used to be somewhat derogatory, but now it's a badge of honor in health tech. Entrepreneurs in
+the middle of the country know that technology can't exist for its own sake; it has to be combined with functional
+business models to deliver real value to patients and investors alike," added Turkeltaub. "Any serious health care
+VC who isn't making monthly visits to places like Minneapolis or Chicago is completely missing the boat."
+
+Chicago, Nashville and Minneapolis Are Emerging as the New 'Silicon Valleys' of Health Tech
+
+Although there are entries on this year's list from a wide swath of cities across the country, experts and insiders
+repeatedly point to the surfeit of companies emerging from three major hubs of innovation in health care from
+Middle America: Nashville, Chicago and the Twin Cities of Minneapolis and St. Paul.
+
+"With a diverse set of headquartered legacy companies spanning the entire spectrum of health care, regional hubs
+such as Nashville, Chicago and Minneapolis will continue to produce industry-leading innovation and transformation
+in the sector. These are the new hotbeds in health care," noted Sara Ratner, a veteran health care industry insider
+who is one of the nation's foremost experts on government-run Medicare and Medicaid programs.
+
+Observer spoke with health care experts from across the U.S. to offer their thoughts about the biggest emerging
+trends at the 2020 J.P. Morgan Healthcare Conference and the sector's continued interest in flyover tech. They
+were also asked to highlight some of the hottest companies in between the two coasts that will be feted in San
+Francisco this week. Like last year, the current list is not a ranking in the traditional sense-the companies singled
+
+                                                                                                       Page 3 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+out are in different stages of development and growth and, for the most part, are positioned in non-competing
+verticals; rather, the list is a snapshot of 20 early- to mid-stage startups that have caught the attention of health
+care insiders from around the globe and have one thing in common: they all hail from what many a New Yorker
+might describe as 'flyover country.'
+
+And now, here is Observer's 20 Hottest Companies in 'Flyover Tech' at the 2020 J.P. Morgan Healthcare
+Conference.
+
+1. HistoSonics (Ann Arbor, Michigan); Capital Raised: $87 Million
+
+Non-invasive cancer treatment. Let those words sink in. By using technology similar to an ultrasound, this new
+interventional therapy will transform nearly all forms of cancer detection and eradication. In some respects, the
+company's flagship product is not unlike the "healing machine"-the technology central to the plot to the 2013 Matt
+Damon thriller Elysium set 134 years in the future.
+
+Led by veteran health care executive Mike Blue, the company's non-invasive robotics platform and novel sonic
+beam therapy is awaiting full FDA clearance, but the company has already announced reams of promising new
+clinical and preclinical data, including successful human trials in Spain. In April of last year, HistoSonics closed a
+$54 million C-Round led by Varian Medical Systems, Inc., the global leader in radiation therapy and oncology
+solutions, and included          Johnson & Johnson Innovation and the          State of Wisconsin Investment Board,
+among others. Initially targeting liver and pancreatic cancer, HistoSonics' Robotically Assisted Sonic Therapy
+(RASTSM) combines advanced robotics and imaging with a proprietary sensing technology to deliver personalized
+treatments with unparalleled precision and control. In layman's terms, the tech uses sound energy to generate
+pressures strong enough to liquify and completely destroy targeted tissues at sub-cellular levels.
+
+Meanwhile, HistoSonics is busy building a new HQ in a Minneapolis suburb. "Our tech was born in the labs of the
+University of Michigan, but we quickly realized we needed to be at the epicenter of health care innovation, which is
+why we decided to move our base to Minnesota," explained Blue. "This is where all the action is right now in health
+tech."
+
+2. Olive AI (Columbus, Ohio); Capital Raised: $72.8 Million
+
+Over one trillion dollars are spent every year in the U.S. on health care administration. Not on doctors, needles,
+meds or IVs, but on pens, paper, IT and something called 'system integration.' It's a huge outlay-and the fact that
+much of that spend could be better directed toward treating patients and saving lives is what constitutes the driving
+force behind Ohio-based startup Olive AI.
+
+CEO Sean Lane and the team at Olive understand that hospital employee time is money, which is why in the last
+year, their AI-powered workforce has become the utility player for over 500 individual hospitals around the U.S.,
+handling high-volume, administrative workloads. Olive's automated workforce takes on the minutia of the often
+repetitive paperwork that plagues nearly all sectors of health care-from human resources and IT to supply chain
+management and revenue cycle tracking-allowing employees to focus on the important, big picture aspects of their
+work. Convenient, efficient, fast and accurate, Olive AI is an overworked employee's dream assistant, and the
+venture world, which has plowed over $70 million into the company thus far, seems to agree.
+
+3. NightWare (Minneapolis, Minnesota); Capital Raised: Undisclosed
+
+The highly secretive NightWare was on last year's hot list, and while it is still not disclosing its fundraising totals
+(one of the advantages of not raising with institutional investors), the company continues to make big strides in the
+treatment of PTSD and nightmare disorder, a condition affecting over five million Americans and hundreds of
+thousands of U.S. vets. Over the past 12 months, NightWare received official "Breakthrough Status" designation by
+the FDA, which is only given to treatments that, according to the FDA, "demonstrate substantial improvement on a
+clinically significant endpoint over available therapies." In plain English, NightWare might very well become the first
+prescribable digital therapeutic for a key symptom of PTSD. It's a big deal coming to an Apple Watch near you.
+
+                                                                                                      Page 4 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+4. Eyesafe (Eden Prairie, Minnesota); Capital Raised: $9 Million
+
+Projecting Apple's resurgence and ultimate market dominance in consumer tech, years before the iPhone, made
+tech-watcher Gene Munster something of an oracle on Wall Street. Now a founding partner at tech-focused VC
+Loup Ventures, Munster has become a regular fixture on the business news circuit as he shares his hot takes on
+Tesla, Apple, Amazon and the tech industry at large. Munster believes            Eyesafe, a privately held company
+that is advancing consumer electronics with its blue light protection technology, has become an influential player,
+building standards for safeguarding users' eyes from the intense, albeit invisible, blue light that Harvard Medical
+School says "       has a dark side."
+
+"I don't have a financial stake directly or indirectly in Eyesafe," cautioned Munster. "But brands like Dell, HP and
+Lenovo are becoming increasingly aware of the health dangers posed by blue light. Eyesafe sits atop a very short
+list of solutions that large tech companies are turning to for help in designing and implementing safer displays that
+maintain color performance. While nascent today, Eyesafe's long-term addressable market is significant, given that
+over time, some form of blue light protections will likely be mandated in all displays."
+
+In fact, Eyesafe has already cut impressive deals with Dell and aftermarket screen-protector leader ZAGG,
+distributed in Verizon, AT&T and T-Mobile stores across the nation, as well the major component suppliers in the
+electronics industry. And with the passage of the State of California's recent "Blue Light Resolution," it seems
+Munster's prediction of regulation is happening fast, putting Eyesafe in pole position to own the low blue light
+market and, in the process, seize the mantle as the "          Intel Inside" of health and safety across consumer
+electronics.
+
+5. MyMeds (Minneapolis, Minnesota); Capital Raised: $8 Million
+
+Your doctor prescribes some medication and tells you to pick it up at the local pharmacy. Once you show up at the
+Duane Reade or CVS, an officious-looking individual in a white lab coat gives you a brief glimpse of an amber
+colored pill container, mumbles a word or two of advice and then places your prescription in a white bag, along with
+an intimidating piece of paper full of fine print, sending you on your way. Now, you are on your own; it's just you, a
+dozen or so pills, and a piece of paper written by a lawyer who went to medical school, or maybe the other way
+around.
+
+Sound familiar? Today's medication experience is broken, and with the phenomenon of medication non-adherence
+emerging as the biggest issue driving up health care costs across the entire sector, MyMeds is bringing to market a
+suite of solutions unlike any other in the digital health space.
+
+"We are redefining the medication experience so people are never alone and always have access to their own
+data," said MyMeds founder and CEO Dr. Rajiv Shah, whose company was recently selected to join SAP's
+prestigious accelerator program in New York City. "Our patented Digital + Human ACE Medication Experience is an
+ecosystem that connects patients, caregivers, providers and payors in real-time." In more plain speak, Shah's
+MyMeds is laying pipe that connects doctor, pharmacist, you and your health insurance in ways that have never
+been possible before, savings costs and ensuring better health outcomes.
+
+The experts Observer spoke to believe that 2020 will be a breakout year for MyMeds, as it rolls out its integration
+with SAP, launches a new real-time Medicare Stars product and unfurls the much-anticipated MyMeds
+Connect(TM), a secure real-time prescription data connectivity engine-a real game changer in light of Washington's
+focus on medication history data rights. According to Fox Business Network analyst Ethan Bearman, who follows
+the booming medication non-adherence space, MyMeds has the potential to become a billion-dollar company in the
+coming years.
+
+"Some health companies are really smart with their tech or business model, while others are just plain lucky in that
+the regulatory environment sways in their direction at just the right time," Bearman told Observer. "MyMeds is both
+smart and lucky, which is why it wouldn't surprise me if Dr. Raj is able to launch his own version of Tres Comas
+Tequila sometime in the next few years."
+
+                                                                                                       Page 5 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+6. Regroup + InSight (Chicago, Illinois); Capital Raised: $19 Million + Undisclosed Private Equity Backing
+
+While it may be unorthodox for two companies to be named in one spot, a recent merger between Regroup
+Telehealth and InSight Telepsychiatry deserves the spotlight. The two companies merged in late 2019, and the
+combined company is now packing a lot of heat, making it one of the largest and most comprehensive
+telepsychiatry service providers in the U.S. The new entity is tackling mental health care disparities head on with
+their unique suite of individualized telehealth services.
+
+Many times, being geographically, economically or socially isolated means that patients with mental health issues
+don't have access to the specialized psychiatric care that they require. Regroup + Insight is connecting patients
+from one end of the country to the doctors and specialists they need to see, irrespective of their physical location.
+With a high-capacity data pipe from the physicians' location to the clinical setting, the Regroup + Insight tie-up
+enables doctors to treat, consult and prescribe medication from afar and coordinate remotely with the patient's local
+health care support team.
+
+Like several other companies on both this year's and last year's lists, Regroup was born inside of Chicago's Health
+Incubator, Matter, which has emerged as a breeding ground for some of the most innovative and fast-growing
+companies in digital health. Now all their C-Suite needs to do is come up with a name for the new combined entity.
+
+7. Revel Health (Minneapolis, Minnesota); Capital Raised: $17 Million
+
+Revel Health is rewriting the playbook for how health plans talk to their members. Gone are the days of the
+robocall with a voice that sounds entirely too enthusiastic reminding you that it's time for another prostate exam or a
+mailed form letter that looks like an audit notice from the IRS reminding you that it is flu-shot season.
+
+After initially catching Observer's eye late last year, the experts we spoke to were impressed with not only the
+company's tech, but also its savvy application into real-world, actionable results. Revel uses lessons that consumer
+marketers and Big Retail pioneered and is applying them across the health care marketplace. Revel helps
+members stay healthier by connecting them with their health care support system through sophisticated AI, which
+culls and analyzes mind-boggling Big Data sets and translates them into personable and highly personalized health
+action communication. Under the leadership of veteran health care CEO Jeff Fritz, Revel is leading a revolution in
+preventive health care and is quickly becoming a secret weapon for major health plans.
+
+8. Owlet (Lehi, Utah); Capital Raised: $48 Million
+
+Perhaps it isn't a coincidence that Utah-based Owlet Baby Care was started in the same state that has the largest
+average household size in the U.S. Or maybe the team at Owlet just knows how hard it is raising a child, much less
+two or three, which is why they are betting big that over-protective parents want more than a simple nanny cam to
+keep an eye on their brood.
+
+Owlet is gaining traction with a product set that provides parents with real-time, non-invasive video and audio
+monitoring, allowing for the child's blood oxygen level, heart rate, temperature and sleeping patterns to be
+monitored and tracked by an app easily accessible on any worried parent's smartphone. Founded by a team of
+passionate parents in 2013, this Silicon Slopes company is taking the baby monitoring game to an entirely new
+level and investors love it.
+
+The company's newest innovation, the Owlet Band Pregnancy Monitor, is on track to be the hottest product in baby-
+care tech this year, having already won two distinctive awards at the Consumer Electronics Show for Best
+Wearable and Tech to Change the World.
+
+9. PhysIQ (Chicago, Illinois); Capital Raised: $25 Million
+
+PhysIQ can detect the smallest, most subtle changes in an individual's biosensory data and can alert care teams to
+potential problems far before they would surface during a regular check-up. The technology enables doctors to see
+around corners by applying sophisticated, FDA-cleared physiological analytics to extract personalized health
+
+                                                                                                         Page 6 of 18
+                      Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+insights. This Windy City startup uses software that was originally designed for data-tracking on jet engines and
+nuclear power plants, where the smallest performance deviations can pose immensely profound dangers. Now,
+PhysIQ is taking that same approach to performance calibration and applying it to the human body; it tracks data
+around the clock to capture a patient's standard bodily rhythms and tempos and packages the data into neat,
+digestible bundles for clinical teams all around the country. Like several other entries on this year's list, PhysIQ is a
+product of downtown Chicago's Matter health incubator.
+
+10. Pops! Diabetes (Oak Park Heights, Minnesota); Capital Raised: $8 Million
+
+Siri and Alexa: Meet Mina-every diabetics' new best friend and one of the latest products from Minnesota-based
+Pops! Diabetes, a company which is upending the consumer side of the nearly $200 billion global diabetes market.
+CEO Lonny Stormo believes that while self-care should take precedence, life oftentimes gets in the way, which is
+why his consumer-first approach to diabetes management has focused on platforms such as Mina that can step in
+and do important monitoring on a patient's behalf. "Mina sent an alert to my wife when my blood-sugar read 60. She
+was able to get in touch with me and my doctor immediately and make sure we addressed the situation promptly,"
+Stormo recounted to Observer. "Mina really helps me own my diabetes, and not let the diabetes own me."
+
+Mina is a state-of-the-art chronic care management platform that tracks health management for diabetics and its
+always on; cloud-based accessibility means that an individual's care support team, from loved ones to doctors, can
+be instantly alerted about a potential crisis by receiving an alert from Mina.
+
+Simplifying the diabetes management business is a huge area of focus for both medtech and health care.
+
+Stormo, a Medtronic alum, will be kicking off a new round of capital raising at this year's J.P. Morgan Healthcare
+Conference, and his dance card is filling up quickly. "We have been fortunate to be coming to market just as the
+interest in virtual care and diabetes management is near or at the top of the shopping list of many digital health
+VCs," offered Stormo.
+
+11. DispatchHealth (Denver, Colorado); Capital Raised: $68 Million
+
+They seem like genius ideas: Need a ride? Hail an Uber. Hungry? Ping GrubHub. But what about if you need a
+doctor? Colorado-based DispatchHealth is proving that with technology, on-demand health care at your doorstep is
+not only possible, but also a viable business model. In a few taps, via the Disptach app, a board-certified medical
+team will come to your home, office or wherever you need them to be, equipped with all the tools necessary to
+tackle whatever specialized care you might need.
+
+As access to medical care becomes increasingly consumer-focused, it seems that many health tech investors
+believe that visits to traditional brick-and-mortar health care facilities will be reserved only for the most serious of
+situations.
+
+12. Learn to Live (Minneapolis,Minnesota); Capital Raised: $9 Million
+
+There is no shortage of well-funded startups looking to stake out their own territory in the red-hot digital mental
+health therapy space. Health plans, large employers and universities, governments and branches of the military, as
+well as the VA, among many others, are keen to offer online CBT (cognitive behavioral therapy) to their members,
+students and employees.
+
+In a recent Observer profile of the digital mental health space, Learn to Live was highlighted as one of the
+innovators in the sector, pushing the industry to adopt more serious, evidenced-based approaches to digital mental
+health treatment in contrast to many of its competitors, which, despite having raised significant amounts of capital,
+seem to be dabbling in what can best be described as different flavors of "pop psychology." 2019 was a banner
+year for Minneapolis-based Learn to Live, inking scores of key new accounts, including a collaboration with
+Blue Cross Blue Shield of Massachusetts, as well as landing a coveted billing in Express Scripts'             Digital
+Health Formulary.
+
+                                                                                                       Page 7 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+Learn to Live's co-founder and CEO Dale Cook grew up in Bogotá, Colombia, the son of missionaries, and the first-
+time entrepreneur has certainly infused Learn to Live with a sense of mission and purpose. The company recently
+announced the launch a new product tackling substance use, which makes it among the first to market to address
+this clinical need.
+
+13. Lifesprk (St. Louis Park, Minnesota); Capital Raised: $36 Million
+
+Senior or geriatric care is among the fastest growing segments in health care. The nearly $740 billion elderly-care
+market is ripe for disruption, and Minnesota-based Lifesprk has adroitly carved out a commanding position to
+capitalize on this burgeoning segment of the health care landscape. At its core, Lifesprk is all about bringing a
+comprehensive suite of support services to elderly patients, empowering them and their families to stay in control
+and enabling them to live the life they want and to retire on their own terms. But behind the scenes-and this is why
+founder and CEO Joel Theisen has become something of a superstar within the national senior care marketplace-is
+the data.
+
+Lifesprk is collecting and integrating data that has either been siloed, or not even captured at all, to develop a
+personalized Electronic Life Record, or ELR, an innovative platform that is as revolutionary to senior care as the
+Bloomberg Terminal was to global financial markets. By aggregating huge data sets focused on the individual,
+Lifesprk can quickly identify and even suggest personalized services at the appropriate price point to meet the
+needs any life scenario a senior might encounter. The result is longer, fuller lives, lower costs and a booming
+company.
+
+14. IDx (Iowa City, Iowa); Capital Raised: $55 Million
+
+The eyes are all-important gateway into our mind, body and, some might say, soul. IDx's flagship product, the IDx-
+DR, is the first FDA-approved autonomous artificial intelligence (AI) platform that uses software to analyze images
+from a high powered camera for evidence of retinal lesions typically associated with the early onset of blindness
+from diabetes. Founded by an ophthalmologist originally from the Netherlands who moved to the Midwest to
+practice medicine at the University of Iowa, this startup is revolutionizing the early detection of blindness, a common
+affliction associated with diabetes, which afflicts roughly 8.5% of the global population.
+
+The company's secret sauce is its ability to scale by sidestepping the need for a clinician to interpret the results of
+its retinal scans, making the data more widely available by health care providers who are not normally involved in
+eye care.
+
+15. Sera Prognostics (Salt Lake City, Utah); Capital Raised: $151 million
+
+Mothers-to-be and physicians are increasingly turning to Utah-based Sera Prognostics for early prediction of a
+woman's individualized risk of premature birth and other pregnancy-related complications. The company is a real
+game changer, having developed a suite of diagnostic tests designed to give women and their physicians the time
+needed to make individualized treatment and care plans. The company's flagship product, the PreTRM blood test,
+is the only clinically recognized bio-marker available to the public at large.
+
+Dr. Garrett Lam, Sera's chief medical officer, commented, "I've shared in the heartbreak and tragedy caused by
+complications of pregnancy throughout my career. Our work at Sera, to identify risks early in pregnancy, will assist
+doctors, positively impact mothers and benefit the health of newborns to make a significant difference in our
+world."
+
+The health care investment community is betting big on Sera becoming the gold-standard for early-risk detection in
+expectant mothers and a global leader in high-value women's health diagnostics. Like many other entries on this
+year's list, Sera is solving a specific set of issues-in this case, by delivering pivotal information to patients and
+physicians-that will play a broader role in improving the economics of the entire health care ecosystem.
+
+16. Aunt Bertha (Austin, Texas); Capital Raised: $22 Million
+
+                                                                                                        Page 8 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+In the U.S., there are thousands of nonprofits and social care providers set up to serve those in need, but the reality
+is that navigating the complex maze of which organization does what is nothing short of daunting for the average
+person in need. For many, what should be a simple and straightforward process, becomes time consuming, leaving
+many frustrated to the point of giving up. Bottomline: too many Americans are needlessly suffering despite a surfeit
+of accessible resources from charities, NGOs and nonprofits. Enter Aunt Bertha, an Austin-based platform that
+connects people seeking help and the verified social care providers that serve them. Aunt Bertha is the "favorite
+Aunt you can trust," powering the country's most comprehensive online directory of social service organizations.
+
+But Aunt Bertha is more than just a 'Yellow Pages' for social services; the reason the company has become a
+favorite among VCs is its ability to tap into a largely overlooked, but critically important, aspect of the health care
+ecosystem, offering big brand health care customers solutions with advanced features like EHR (Electronic
+Hospital Record) integrations and giving caregiver teams a more complete view of a patient's global support
+environment.
+
+17. AxialHealthcare (Nashville, Tennessee); Capital Raised: $26 Million
+
+Presidential candidates on the campaign trail often talk about the nation's runaway opioid epidemic. According to
+the 2018 National Survey on Drug Use and Health, over 10 million Americans aged 12 and older misused opioids
+in 2018, and the impact on communities across the country has been devastating. Nashville-based AxialHealthcare
+is teaming up with hospitals and caretakers around the country to combat opioid abuse by leveraging state-of-the
+art analytics to identify patients at risk, prevent escalation of their conditions and support appropriate treatment
+enrollment and adherence. Axial is on the frontline of a deadly diseases (nearly 130 Americans die each day from
+opioid-related abuse) and an immense marketplace; last year, over $200 billion was spent combating the opioid
+epidemic in the U.S.
+
+Axial's approach is predicated on a high-touch, community-based approach that delivers clinical metrics and
+financial outcomes by managing the cost of care while supporting sustained recovery efforts for patients diagnosed
+with opioid use disorder. Newly-minted CEO Carter Paine-the former president and COO of value-based care
+manager naviHealth, who brings a career's worth of insight from his time working with companies in the IT and
+health services world-will look to expand the Axial platform's reach, which now covers nearly three million people.
+
+18. Benovate (Minneapolis, Minnesota); Capital Raised: $6 Million
+
+Although no one can find the original tape recording, the quote, "Let food be thy medicine, and let medicine be thy
+food" is famously attributed to the ancient Greek physician Hippocrates-often regarded as the father of all medicine.
+Whether Hippocrates actually said it or not, it's increasingly clear that our less than ideal 21st century diets are the
+root cause behind a host of modern health issues, and Benovate is one of the leading disruptors in the "food as
+medicine" movement, mixing up an elixir of tech, AI, nutrition and health care industry knowledge to market their
+trademarked Gx product (a riff off the pharmaceutical 'Rx' with 'G' for grocery).
+
+Benovate is wellbeing 2.0. Its Gx app is breaking new ground in enabling the entire health ecosystem, from doctor
+to insurance provider, to prescribe and reimburse everyday foods, like a cucumber, which is packed with valuable
+nutrients. Under the seasoned guidance of company CEO Mark Walinske, a 30-year veteran of the health care
+space, Benovate's Gx product aims to transform your local grocery into the neighborhood pharmacist.
+
+19. Abilitech Medical (St. Paul, Minnesota); Capital Raised: $9 Million
+
+Fresh off a $7.4 Million Series A financing round, Minnesota's Abilitech Medical has a gust of arctic wind at its back.
+CEO Angie Conley has collected so many business awards in the last year that she is probably running out of room
+atop her fireplace mantle. And that's a good thing because Abilitech is a company with a lot of heart in addition to
+solving a very serious health challenge-enabling those with upper-limb neuromuscular conditions to function
+independently.
+
+                                                                                                      Page 9 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+The company's first product, the Abilitech Assist, is a powered orthotic device providing functional assistance and
+support to both the elbow and the shoulder, improving the lives of those affected by muscular dystrophy, multiple
+sclerosis, spinal cord injury and, in some cases, those who have suffered a stroke.
+
+In 2020, the company is poised to earn FDA registration, undergo clinical studies and begin widespread
+commercialization of the Abilitech(TM) Assist, which has made many VCs at this year's confab in San Francisco
+eager to get some quality time with Conley. Observer isn't the only publication to have realized the potential of this
+game-changing company; they've already received recognition as a Top 10 Medical Device Startup in the country
+by Medical Tech Outlook magazine, a Top 10 Promising Company by the Rice Alliance, and was touted as a Top
+20 Medical Device Startup by MassDevice.
+
+20. Omcare (Bloomington, Minnesota); Capital Raised: $9 Million
+
+What's the size of breadbox, looks like a coffee-maker designed by Apple and dispenses pills? No idea? It's the
+Omcare home medicine dispenser, equipped with a pair of Wi-Fi-enabled interactive cameras that will enable
+caregivers to watch grandma in real-time not only handle the packet of pre-loaded pills (at the right time), but also
+swallow them as well (ergo the second camera!) to ensure there is none of that "hide the pill under the tongue
+trickery." The Omcare technology, which was adapted from founder and CEO Lisa Lavin's previous intelligent treat
+dispenser for pets startup, has a deadly serious mission: reduce errors in medication and maximize adherence in
+the elderly community.
+
+Omcare was recently given a big boost by the addition of long-time health care veteran Jeannine Rivet to its board.
+Rivet, the former executive vice president of UnitedHealth Group, one of the world's largest publicly-traded health
+care corporations, believes that remote care is the way of the future and that companies like Omcare, which enable
+elderly patients to stay independent longer, make sense not only in terms of the economics, but also by meeting the
+needs of seniors who desire to age in place.
+
+"I began my career in health care as a nurse, and so I know first-hand the challenges and constraints placed upon
+caregivers," Rivet explained. "Although in its early stages, Omcare has the potential to revolutionize medication
+non-adherence among elderly and others struggling to manage chronic or complex health conditions."
+
+Omcare's Home Health Hub utilizes audio and visual messages, which lets caregivers and care teams monitor
+medication adherence, and its multi-dose packaging is specially designed in collaboration with pharmacies so that
+correct dosage consumption is no longer an issue.
+
+Finding Diamonds in the Rough
+
+The annual J.P. Morgan Healthcare Conference sets the tone for the rest of the year when it comes to the biggest
+trends crisscrossing the global health care industry. Last year, the surfeit of bold health care innovators emerging
+from places like St Louis, Missouri and Columbus, Ohio, for example, wasn't a surprise to industry insiders, but it
+did appear to catch some of the coastal business media who only breathe in that rarified air of Silicon Valley
+somewhat by surprise. But this year, VCs, Big Pharma, big health care and the business media are well aware that
+some of the biggest stars at this year's conference will hail from 'flyover country.'
+
+Aly Lovett, a partner at New York City-based Radian Capital, a growth equity firm with a strong presence in the
+health care software space, openly embraces looking for investment opportunities in cities typically overlooked by
+most traditional health care VCs. "The knowledge base required to build a leading technology company is no
+longer concentrated in just a few cities, and capital is starting to follow that trend. Lower costs, higher quality of
+living and more diffused access to great talent make these smaller cities highly desirable places to start
+businesses," commented Lovett. "There are many amazing angels and seed funds in these regions that can help
+get companies started, and we think there is an opportunity for Radian to provide growth equity to support these
+businesses in their next phase of growth."
+
+                                                                                                          Page 10 of 18
+                      Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+But if Lovett has been holding on to something of a secret, it would seem that her secret is now out in the open;
+capital far and wide is searching for the new, new thing in health tech from flyover country, and many will be using
+the J.P. Morgan confab as an opportunity to get to know them.
+
+No matter where they call home.
+
+On Monday, January 13, like a swarm of honey bees, thousands of health tech entrepreneurs, health care execs,
+venture capitalists, bankers, regulators and business media will descend upon downtown San Francisco as the 38th
+Annual J.P. Morgan Healthcare Conference gets under way. And, as is the case with any multi-day industry
+gathering worth its salt, an entire ecosystem of satellite events has popped up around the main attraction, which
+has created a seemingly endless circuit of networking events, summits and other health care-related shindigs-all
+offering ample excuses to down lattes during the day and throw back a shot or two at night.
+
+Even though only a select few are invited to attend the official main stage, marking one's presence at J.P. Morgan
+is paramount, as the four-day confab has positioned itself as not only the first, but perhaps the most important event
+of the global health care conference calendar year.
+
+SEE ALSO: Revel Is Rewriting the Playbook on How Health Plans Talk to You
+
+Ahead of last year's J.P. Morgan gathering, Observer was among the first to point out a trend that was beginning to
+emerge across the health industry-the rise in interest from both large health care players, as well as hungry
+venture capitalists, for health tech plays originating in cities not typically associated with startup culture, places like
+Minneapolis, Nashville and Chicago. Observer even coined a new term for these disruptors from Middle America:
+Flyover Tech.
+
+And, judging by the pre-conference buzz, by all accounts, last year was not a fluke; many of the entries from the
+2019 list have emerged as some of the biggest and most important players in their respective sectors over the past
+12 months. Some of them have even carved out completely new niches within the vast health care ecosystem that
+didn't exist a year ago.
+
+As some informed observers of the high-flying health tech space quipped, "Flannel is the New Black," when it
+comes to innovation in health care and big bets in health tech.
+
+Take for example Bind, a Minneapolis-based startup health plan that has already raised a jaw-dropping $82 million.
+After occupying last year's top position on the list for its ability to use data science and artificial intelligence (AI) to
+analyze existing claims data, Bind had a banner year. The company has been expanding its services across
+multiple new areas of coverage, while empowering customers to understand what they are really paying for with
+their health plans, which makes it easy to compare treatment options, prices and quality. Bind, along with fellow
+Minnesota wunderkind health insurance startup                 Bright Health-which just announced the closing of
+$635 million in Series D financing in December, on top of over $400 million of funding in previous rounds (putting its
+total raise now over the billion dollar mark)-have chiseled out completely new offerings in the health insurance
+space, a sector that, less than a decade ago, was considered nearly impenetrable due to the vast resources
+needed to scale a business of that nature.
+
+"It still amazes me the number of investors that haven't taken full advantage of the 'flyover tech' ecosystem,"
+observed Jodi Hubler, managing director of Lemhi Ventures, a venture capital firm that invests primarily in early- to
+mid-stage health companies in the Midwest and Rocky Mountain regions. "Many places in Middle America are
+actually centers of innovation and deep domain knowledge not only in health care, but in medtech device and
+services as well," added Hubler, referring to the largest players in health care and medtech, like UnitedHealth
+Group, Medtronic, Cardinal Health, Humana and Anthem-all of which have main bases of operations in between
+the coasts.
+
+"It's common sense economics-every dollar of capital goes further in these locations, and the access to talent from
+developers to board members comes with differentiated experience and knowledge," Hubler told Observer. "In
+
+                                                                                                     Page 11 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+places like the Midwest, people don't play in health care, they've lived it... that experience and intuition is
+invaluable."
+
+Another big winner from last year's list was Nashville-based SmileDirectClub, a tele-dentistry startup that produces
+direct-to-consumer 3D-printed clear aligners. In September, the teeth-straightening startup went public,
+raising more than $1.3 billion at an initial market cap of roughly $10 billion, more than three times its most recent
+private valuation. And although the stock price has since clawed back some of those ebullient IPO gains, it's yet
+another shining example of a flyover tech success story.
+
+Flyover Tech Is Now a 'Badge of Honor' in Health Tech
+
+For serial health care entrepreneur and founder of San Francisco-based Roam Analytics Alex Turkeltaub, there is
+gold to be mined in Middle America. "Hubs like Raleigh, Columbus and Nashville, just to name a few, are quickly
+becoming known as exciting centers of innovation in health care. With strong legacy technology and health care
+systems, it's only natural that these local ecosystems will fuel the next generation of disruptors in digital health,"
+observed Turkeltaub, who recently stepped down as CEO of Roam and is setting up a venture fund that focuses on
+the         intersection of AI and health care. The fund will look to make strategic investments in major health tech
+hubs across the country, as well as in emerging overseas markets like Brazil.
+
+"The term 'flyover' used to be somewhat derogatory, but now it's a badge of honor in health tech. Entrepreneurs in
+the middle of the country know that technology can't exist for its own sake; it has to be combined with functional
+business models to deliver real value to patients and investors alike," added Turkeltaub. "Any serious health care
+VC who isn't making monthly visits to places like Minneapolis or Chicago is completely missing the boat."
+
+Chicago, Nashville and Minneapolis Are Emerging as the New 'Silicon Valleys' of Health Tech
+
+Although there are entries on this year's list from a wide swath of cities across the country, experts and insiders
+repeatedly point to the surfeit of companies emerging from three major hubs of innovation in health care from
+Middle America: Nashville, Chicago and the Twin Cities of Minneapolis and St. Paul.
+
+"With a diverse set of headquartered legacy companies spanning the entire spectrum of health care, regional hubs
+such as Nashville, Chicago and Minneapolis will continue to produce industry-leading innovation and transformation
+in the sector. These are the new hotbeds in health care," noted Sara Ratner, a veteran health care industry insider
+who is one of the nation's foremost experts on government-run Medicare and Medicaid programs.
+
+Observer spoke with health care experts from across the U.S. to offer their thoughts about the biggest emerging
+trends at the 2020 J.P. Morgan Healthcare Conference and the sector's continued interest in flyover tech. They
+were also asked to highlight some of the hottest companies in between the two coasts that will be feted in San
+Francisco this week. Like last year, the current list is not a ranking in the traditional sense-the companies singled
+out are in different stages of development and growth and, for the most part, are positioned in non-competing
+verticals; rather, the list is a snapshot of 20 early- to mid-stage startups that have caught the attention of health
+care insiders from around the globe and have one thing in common: they all hail from what many a New Yorker
+might describe as 'flyover country.'
+
+And now, here is Observer's 20 Hottest Companies in 'Flyover Tech' at the 2020 J.P. Morgan Healthcare
+Conference.
+
+1. HistoSonics (Ann Arbor, Michigan); Capital Raised: $87 Million
+
+Non-invasive cancer treatment. Let those words sink in. By using technology similar to an ultrasound, this new
+interventional therapy will transform nearly all forms of cancer detection and eradication. In some respects, the
+company's flagship product is not unlike the "healing machine"-the technology central to the plot to the 2013 Matt
+Damon thriller Elysium set 134 years in the future.
+
+                                                                                                      Page 12 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+Led by veteran health care executive Mike Blue, the company's non-invasive robotics platform and novel sonic
+beam therapy is awaiting full FDA clearance, but the company has already announced reams of promising new
+clinical and preclinical data, including successful human trials in Spain. In April of last year, HistoSonics closed a
+$54 million C-Round led by Varian Medical Systems, Inc., the global leader in radiation therapy and oncology
+solutions, and included          Johnson & Johnson Innovation and the          State of Wisconsin Investment Board,
+among others. Initially targeting liver and pancreatic cancer, HistoSonics' Robotically Assisted Sonic Therapy
+(RASTSM) combines advanced robotics and imaging with a proprietary sensing technology to deliver personalized
+treatments with unparalleled precision and control. In layman's terms, the tech uses sound energy to generate
+pressures strong enough to liquify and completely destroy targeted tissues at sub-cellular levels.
+
+Meanwhile, HistoSonics is busy building a new HQ in a Minneapolis suburb. "Our tech was born in the labs of the
+University of Michigan, but we quickly realized we needed to be at the epicenter of health care innovation, which is
+why we decided to move our base to Minnesota," explained Blue. "This is where all the action is right now in health
+tech."
+
+2. Olive AI (Columbus, Ohio); Capital Raised: $72.8 Million
+
+Over one trillion dollars are spent every year in the U.S. on health care administration. Not on doctors, needles,
+meds or IVs, but on pens, paper, IT and something called 'system integration.' It's a huge outlay-and the fact that
+much of that spend could be better directed toward treating patients and saving lives is what constitutes the driving
+force behind Ohio-based startup Olive AI.
+
+CEO Sean Lane and the team at Olive understand that hospital employee time is money, which is why in the last
+year, their AI-powered workforce has become the utility player for over 500 individual hospitals around the U.S.,
+handling high-volume, administrative workloads. Olive's automated workforce takes on the minutia of the often
+repetitive paperwork that plagues nearly all sectors of health care-from human resources and IT to supply chain
+management and revenue cycle tracking-allowing employees to focus on the important, big picture aspects of their
+work. Convenient, efficient, fast and accurate, Olive AI is an overworked employee's dream assistant, and the
+venture world, which has plowed over $70 million into the company thus far, seems to agree.
+
+3. NightWare (Minneapolis, Minnesota); Capital Raised: Undisclosed
+
+The highly secretive NightWare was on last year's hot list, and while it is still not disclosing its fundraising totals
+(one of the advantages of not raising with institutional investors), the company continues to make big strides in the
+treatment of PTSD and nightmare disorder, a condition affecting over five million Americans and hundreds of
+thousands of U.S. vets. Over the past 12 months, NightWare received official "Breakthrough Status" designation by
+the FDA, which is only given to treatments that, according to the FDA, "demonstrate substantial improvement on a
+clinically significant endpoint over available therapies." In plain English, NightWare might very well become the first
+prescribable digital therapeutic for a key symptom of PTSD. It's a big deal coming to an Apple Watch near you.
+
+4. Eyesafe (Eden Prairie, Minnesota); Capital Raised: $9 Million
+
+Projecting Apple's resurgence and ultimate market dominance in consumer tech, years before the iPhone, made
+tech-watcher Gene Munster something of an oracle on Wall Street. Now a founding partner at tech-focused VC
+Loup Ventures, Munster has become a regular fixture on the business news circuit as he shares his hot takes on
+Tesla, Apple, Amazon and the tech industry at large. Munster believes            Eyesafe, a privately held company
+that is advancing consumer electronics with its blue light protection technology, has become an influential player,
+building standards for safeguarding users' eyes from the intense, albeit invisible, blue light that Harvard Medical
+School says "       has a dark side."
+
+"I don't have a financial stake directly or indirectly in Eyesafe," cautioned Munster. "But brands like Dell, HP and
+Lenovo are becoming increasingly aware of the health dangers posed by blue light. Eyesafe sits atop a very short
+list of solutions that large tech companies are turning to for help in designing and implementing safer displays that
+
+                                                                                                     Page 13 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+maintain color performance. While nascent today, Eyesafe's long-term addressable market is significant, given that
+over time, some form of blue light protections will likely be mandated in all displays."
+
+In fact, Eyesafe has already cut impressive deals with Dell and aftermarket screen-protector leader ZAGG,
+distributed in Verizon, AT&T and T-Mobile stores across the nation, as well the major component suppliers in the
+electronics industry. And with the passage of the State of California's recent "Blue Light Resolution," it seems
+Munster's prediction of regulation is happening fast, putting Eyesafe in pole position to own the low blue light
+market and, in the process, seize the mantle as the "          Intel Inside" of health and safety across consumer
+electronics.
+
+5. MyMeds (Minneapolis, Minnesota); Capital Raised: $8 Million
+
+Your doctor prescribes some medication and tells you to pick it up at the local pharmacy. Once you show up at the
+Duane Reade or CVS, an officious-looking individual in a white lab coat gives you a brief glimpse of an amber
+colored pill container, mumbles a word or two of advice and then places your prescription in a white bag, along with
+an intimidating piece of paper full of fine print, sending you on your way. Now, you are on your own; it's just you, a
+dozen or so pills, and a piece of paper written by a lawyer who went to medical school, or maybe the other way
+around.
+
+Sound familiar? Today's medication experience is broken, and with the phenomenon of medication non-adherence
+emerging as the biggest issue driving up health care costs across the entire sector, MyMeds is bringing to market a
+suite of solutions unlike any other in the digital health space.
+
+"We are redefining the medication experience so people are never alone and always have access to their own
+data," said MyMeds founder and CEO Dr. Rajiv Shah, whose company was recently selected to join SAP's
+prestigious accelerator program in New York City. "Our patented Digital + Human ACE Medication Experience is an
+ecosystem that connects patients, caregivers, providers and payors in real-time." In more plain speak, Shah's
+MyMeds is laying pipe that connects doctor, pharmacist, you and your health insurance in ways that have never
+been possible before, savings costs and ensuring better health outcomes.
+
+The experts Observer spoke to believe that 2020 will be a breakout year for MyMeds, as it rolls out its integration
+with SAP, launches a new real-time Medicare Stars product and unfurls the much-anticipated MyMeds Connect, a
+secure real-time prescription data connectivity engine-a real game changer in light of Washington's focus on
+medication history data rights. According to Fox Business Network analyst Ethan Bearman, who follows the
+booming medication non-adherence space, MyMeds has the potential to become a billion-dollar company in the
+coming years.
+
+"Some health companies are really smart with their tech or business model, while others are just plain lucky in that
+the regulatory environment sways in their direction at just the right time," Bearman told Observer. "MyMeds is both
+smart and lucky, which is why it wouldn't surprise me if Dr. Raj is able to launch his own version of Tres Comas
+Tequila sometime in the next few years."
+
+6. Regroup + InSight (Chicago, Illinois); Capital Raised: $19 Million + Undisclosed Private Equity Backing
+
+While it may be unorthodox for two companies to be named in one spot, a recent merger between Regroup
+Telehealth and InSight Telepsychiatry deserves the spotlight. The two companies merged in late 2019, and the
+combined company is now packing a lot of heat, making it one of the largest and most comprehensive
+telepsychiatry service providers in the U.S. The new entity is tackling mental health care disparities head on with
+their unique suite of individualized telehealth services.
+
+Many times, being geographically, economically or socially isolated means that patients with mental health issues
+don't have access to the specialized psychiatric care that they require. Regroup + Insight is connecting patients
+from one end of the country to the doctors and specialists they need to see, irrespective of their physical location.
+With a high-capacity data pipe from the physicians' location to the clinical setting, the Regroup + Insight tie-up
+
+                                                                                                        Page 14 of 18
+                      Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+enables doctors to treat, consult and prescribe medication from afar and coordinate remotely with the patient's local
+health care support team.
+
+Like several other companies on both this year's and last year's lists, Regroup was born inside of Chicago's Health
+Incubator, Matter, which has emerged as a breeding ground for some of the most innovative and fast-growing
+companies in digital health. Now all their C-Suite needs to do is come up with a name for the new combined entity.
+
+7. Revel Health (Minneapolis, Minnesota); Capital Raised: $17 Million
+
+Revel Health is rewriting the playbook for how health plans talk to their members. Gone are the days of the
+robocall with a voice that sounds entirely too enthusiastic reminding you that it's time for another prostate exam or a
+mailed form letter that looks like an audit notice from the IRS reminding you that it is flu-shot season.
+
+After initially catching Observer's eye late last year, the experts we spoke to were impressed with not only the
+company's tech, but also its savvy application into real-world, actionable results. Revel uses lessons that consumer
+marketers and Big Retail pioneered and is applying them across the health care marketplace. Revel helps
+members stay healthier by connecting them with their health care support system through sophisticated AI, which
+culls and analyzes mind-boggling Big Data sets and translates them into personable and highly personalized health
+action communication. Under the leadership of veteran health care CEO Jeff Fritz, Revel is leading a revolution in
+preventive health care and is quickly becoming a secret weapon for major health plans.
+
+8. Owlet (Lehi, Utah); Capital Raised: $48 Million
+
+Perhaps it isn't a coincidence that Utah-based Owlet Baby Care was started in the same state that has the largest
+average household size in the U.S. Or maybe the team at Owlet just knows how hard it is raising a child, much less
+two or three, which is why they are betting big that over-protective parents want more than a simple nanny cam to
+keep an eye on their brood.
+
+Owlet is gaining traction with a product set that provides parents with real-time, non-invasive video and audio
+monitoring, allowing for the child's blood oxygen level, heart rate, temperature and sleeping patterns to be
+monitored and tracked by an app easily accessible on any worried parent's smartphone. Founded by a team of
+passionate parents in 2013, this Silicon Slopes company is taking the baby monitoring game to an entirely new
+level and investors love it.
+
+The company's newest innovation, the Owlet Band Pregnancy Monitor, is on track to be the hottest product in baby-
+care tech this year, having already won two distinctive awards at the Consumer Electronics Show for Best
+Wearable and Tech to Change the World.
+
+9. PhysIQ (Chicago, Illinois); Capital Raised: $25 Million
+
+PhysIQ can detect the smallest, most subtle changes in an individual's biosensory data and can alert care teams to
+potential problems far before they would surface during a regular check-up. The technology enables doctors to see
+around corners by applying sophisticated, FDA-cleared physiological analytics to extract personalized health
+insights. This Windy City startup uses software that was originally designed for data-tracking on jet engines and
+nuclear power plants, where the smallest performance deviations can pose immensely profound dangers. Now,
+PhysIQ is taking that same approach to performance calibration and applying it to the human body; it tracks data
+around the clock to capture a patient's standard bodily rhythms and tempos and packages the data into neat,
+digestible bundles for clinical teams all around the country. Like several other entries on this year's list, PhysIQ is a
+product of downtown Chicago's Matter health incubator.
+
+10. Pops! Diabetes (Oak Park Heights, Minnesota); Capital Raised: $8 Million
+
+Siri and Alexa: Meet Mina-every diabetics' new best friend and one of the latest products from Minnesota-based
+Pops! Diabetes, a company which is upending the consumer side of the nearly $200 billion global diabetes market.
+CEO Lonny Stormo believes that while self-care should take precedence, life oftentimes gets in the way, which is
+
+                                                                                                       Page 15 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+why his consumer-first approach to diabetes management has focused on platforms such as Mina that can step in
+and do important monitoring on a patient's behalf. "Mina sent an alert to my wife when my blood-sugar read 60. She
+was able to get in touch with me and my doctor immediately and make sure we addressed the situation promptly,"
+Stormo recounted to Observer. "Mina really helps me own my diabetes, and not let the diabetes own me."
+
+Mina is a state-of-the-art chronic care management platform that tracks health management for diabetics and its
+always on; cloud-based accessibility means that an individual's care support team, from loved ones to doctors, can
+be instantly alerted about a potential crisis by receiving an alert from Mina.
+
+Simplifying the diabetes management business is a huge area of focus for both medtech and health care.
+
+Stormo, a Medtronic alum, will be kicking off a new round of capital raising at this year's J.P. Morgan Healthcare
+Conference, and his dance card is filling up quickly. "We have been fortunate to be coming to market just as the
+interest in virtual care and diabetes management is near or at the top of the shopping list of many digital health
+VCs," offered Stormo.
+
+11. DispatchHealth (Denver, Colorado); Capital Raised: $68 Million
+
+They seem like genius ideas: Need a ride? Hail an Uber. Hungry? Ping GrubHub. But what about if you need a
+doctor? Colorado-based DispatchHealth is proving that with technology, on-demand health care at your doorstep is
+not only possible, but also a viable business model. In a few taps, via the Disptach app, a board-certified medical
+team will come to your home, office or wherever you need them to be, equipped with all the tools necessary to
+tackle whatever specialized care you might need.
+
+As access to medical care becomes increasingly consumer-focused, it seems that many health tech investors
+believe that visits to traditional brick-and-mortar health care facilities will be reserved only for the most serious of
+situations.
+
+12. Learn to Live (Minneapolis,Minnesota); Capital Raised: $9 Million
+
+There is no shortage of well-funded startups looking to stake out their own territory in the red-hot digital mental
+health therapy space. Health plans, large employers and universities, governments and branches of the military, as
+well as the VA, among many others, are keen to offer online CBT (cognitive behavioral therapy) to their members,
+students and employees.
+
+In a recent Observer profile of the digital mental health space, Learn to Live was highlighted as one of the
+innovators in the sector, pushing the industry to adopt more serious, evidenced-based approaches to digital mental
+health treatment in contrast to many of its competitors, which, despite having raised significant amounts of capital,
+seem to be dabbling in what can best be described as different flavors of "pop psychology." 2019 was a banner
+year for Minneapolis-based Learn to Live, inking scores of key new accounts, including a collaboration with
+Blue Cross Blue Shield of Massachusetts, as well as landing a coveted billing in Express Scripts'             Digital
+Health Formulary.
+
+Learn to Live's co-founder and CEO Dale Cook grew up in Bogotá, Colombia, the son of missionaries, and the first-
+time entrepreneur has certainly infused Learn to Live with a sense of mission and purpose. The company recently
+announced the launch a new product tackling substance use, which makes it among the first to market to address
+this clinical need.
+
+13. Lifesprk (St. Louis Park, Minnesota); Capital Raised: $36 Million
+
+Senior or geriatric care is among the fastest growing segments in health care. The nearly $740 billion elderly-care
+market is ripe for disruption, and Minnesota-based Lifesprk has adroitly carved out a commanding position to
+capitalize on this burgeoning segment of the health care landscape. At its core, Lifesprk is all about bringing a
+comprehensive suite of support services to elderly patients, empowering them and their families to stay in control
+and enabling them to live the life they want and to retire on their own terms. But behind the scenes-and this is why
+
+                                                                                                      Page 16 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+founder and CEO Joel Theisen has become something of a superstar within the national senior care marketplace-is
+the data.
+
+Lifesprk is collecting and integrating data that has either been siloed, or not even captured at all, to develop a
+personalized Electronic Life Record, or ELR, an innovative platform that is as revolutionary to senior care as the
+Bloomberg Terminal was to global financial markets. By aggregating huge data sets focused on the individual,
+Lifesprk can quickly identify and even suggest personalized services at the appropriate price point to meet the
+needs any life scenario a senior might encounter. The result is longer, fuller lives, lower costs and a booming
+company.
+
+14. IDx (Iowa City, Iowa); Capital Raised: $55 Million
+
+The eyes are all-important gateway into our mind, body and, some might say, soul. IDx's flagship product, the IDx-
+DR, is the first FDA-approved autonomous artificial intelligence (AI) platform that uses software to analyze images
+from a high powered camera for evidence of retinal lesions typically associated with the early onset of blindness
+from diabetes. Founded by an ophthalmologist originally from the Netherlands who moved to the Midwest to
+practice medicine at the University of Iowa, this startup is revolutionizing the early detection of blindness, a common
+affliction associated with diabetes, which afflicts roughly 8.5% of the global population.
+
+The company's secret sauce is its ability to scale by sidestepping the need for a clinician to interpret the results of
+its retinal scans, making the data more widely available by health care providers who are not normally involved in
+eye care.
+
+15. Sera Prognostics (Salt Lake City, Utah); Capital Raised: $151 million
+
+Mothers-to-be and physicians are increasingly turning to Utah-based Sera Prognostics for early prediction of a
+woman's individualized risk of premature birth and other pregnancy-related complications. The company is a real
+game changer, having developed a suite of diagnostic tests designed to give women and their physicians the time
+needed to make individualized treatment and care plans. The company's flagship product, the PreTRM blood test,
+is the only clinically recognized bio-marker available to the public at large.
+
+Dr. Garrett Lam, Sera's chief medical officer, commented, "I've shared in the heartbreak and tragedy caused by
+complications of pregnancy throughout my career. Our work at Sera, to identify risks early in pregnancy, will assist
+doctors, positively impact mothers and benefit the health of newborns to make a significant difference in our
+world."
+
+The health care investment community is betting big on Sera becoming the gold-standard for early-risk detection in
+expectant mothers and a global leader in high-value women's health diagnostics. Like many other entries on this
+year's list, Sera is solving a specific set of issues-in this case, by delivering pivotal information to patients and
+physicians-that will play a broader role in improving the economics of the entire health care ecosystem.
+
+16. Aunt Bertha (Austin, Texas); Capital Raised: $22 Million
+
+In the U.S., there are thousands of nonprofits and social care providers set up to serve those in need, but the reality
+is that navigating the complex maze of which organization does what is nothing short of daunting for the average
+person in need. For many, what should be a simple and straightforward process, becomes time consuming, leaving
+many frustrated to the point of giving up. Bottomline: too many Americans are needlessly suffering despite a surfeit
+of accessible resources from charities, NGOs and nonprofits. Enter Aunt Bertha, an Austin-based platform that
+connects people seeking help and the verified social care providers that serve them. Aunt Bertha is the "favorite
+Aunt you can trust," powering the country's most comprehensive online directory of social service organizations.
+
+But Aunt Bertha is more than just a 'Yellow Pages' for social services; the reason the company has become a
+favorite among VCs is its ability to tap into a largely overlooked, but critically important, aspect of the health care
+ecosystem, offering big brand health care customers solutions with advanced features like EHR (Electronic
+
+                                                                                                       Page 17 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+Hospital Record) integrations and giving caregiver teams a more complete view of a patient's global support
+environment.
+
+17. AxialHealthcare (Nashville, Tennessee); Capital Raised: $26 Million
+
+Presidential candidates on the campaign trail often talk about the nation's runaway opioid epidemic. According to
+the 2018 National Survey on Drug Use and Health, over 10 million Americans aged 12 and older misused opioids
+in 2018, and the impact on communities across the country has been devastating. Nashville-based AxialHealthcare
+is teaming up with hospitals and caretakers around the country to combat opioid abuse by leveraging state-of-the
+art analytics to identify patients at risk, prevent escalation of their conditions and support appropriate treatment
+enrollment and adherence. Axial is on the frontline of a deadly diseases (nearly 130 Americans die each day from
+opioid-related abuse) and an immense marketplace; last year, over $200 billion was spent combating the opioid
+epidemic in the U.S.
+
+Axial's approach is predicated on a high-touch, community-based approach that delivers clinical metrics and
+financial outcomes by managing the cost of care while supporting sustained recovery efforts for patients diagnosed
+with opioid use disorder. Newly-minted CEO Carter Paine-the former president and COO of value-based care
+manager naviHealth, who brings a career's worth of insight from his time working with companies in the IT and
+health services world-will look to expand the Axial platform's reach, which now covers nearly three million people.
+
+18. Benovate (Minneapolis, Minnesota); Capital Raised: $6 Million
+
+Although no one can find the original tape recording, the quote, "Let food be thy medicine, and let medicine be thy
+food" is famously attributed to the ancient Greek physician Hippocrates-often regarded as the father of all medicine.
+Whether Hippocrates actually said it or not, it's increasingly clear that our less than ideal 21st century diets are the
+root cause behind a host of modern health issues, and Benovate is one of the leading disruptors in the "food as
+medicine" movement, mixing up an elixir of tech, AI, nutrition and health care industry knowledge to market their
+trademarked Gx product (a riff off the pharmaceutical 'Rx' with 'G' for grocery).
+
+Benovate is wellbeing 2.0. Its Gx app is breaking new ground in enabling the entire health ecosystem, from doctor
+to insurance provider, to prescribe and reimburse everyday foods, like a cucumber, which is packed with valuable
+nutrients. Under the seasoned guidance of company CEO Mark Walinske, a 30-year veteran of the health care
+space, Benovate's Gx product aims to transform your local grocery into the neighborhood pharmacist.
+
+19. Abilitech Medical (St. Paul, Minnesota); Capital Raised: $9 Million
+
+Fresh off a $7.4 Million Series A financing round, Minnesota's Abilitech Medical has a gust of arctic wind at its back.
+CEO Angie Conley has collected so many business awards in the last year that she is probably running out of room
+atop her fireplace mantle. And that's a good thing because Abilitech is a company with a lot of heart in addition to
+solving a very serious health challenge-enabling those with upper-limb neuromuscular conditions to function
+independently.
+
+The company's first product, the Abilitech Assist, is a powered orthotic device providing functional assistance and
+support to both the elbow and the shoulder, improving the lives of those affected by muscular dystrophy, multiple
+sclerosis, spinal cord injury and, in some cases, those who have suffered a stroke.
+
+In 2020, the company is poised to earn FDA registration, undergo clinical studies and begin widespread
+commercialization of the Abilitech Assist, which has made many VCs at this year's confab in San Francisco eager
+to get some quality time with Conley. Observer isn't the only publication to have realized the potential of this game-
+changing company; they've already received recognition as a Top 10 Medical Device Startup in the country by
+Medical Tech Outlook magazine, a Top 10 Promising Company by the Rice Alliance, and was touted as a Top 20
+Medical Device Startup by MassDevice.
+
+20. Omcare (Bloomington, Minnesota); Capital Raised: $9 Million
+
+                                                                                                     Page 18 of 18
+                     Flannel Is the New Black at the 2020 J.P. Morgan Healthcare Conference
+
+What's the size of breadbox, looks like a coffee-maker designed by Apple and dispenses pills? No idea? It's the
+Omcare home medicine dispenser, equipped with a pair of Wi-Fi-enabled interactive cameras that will enable
+caregivers to watch grandma in real-time not only handle the packet of pre-loaded pills (at the right time), but also
+swallow them as well (ergo the second camera!) to ensure there is none of that "hide the pill under the tongue
+trickery." The Omcare technology, which was adapted from founder and CEO Lisa Lavin's previous intelligent treat
+dispenser for pets startup, has a deadly serious mission: reduce errors in medication and maximize adherence in
+the elderly community.
+
+Omcare was recently given a big boost by the addition of long-time health care veteran Jeannine Rivet to its board.
+Rivet, the former executive vice president of UnitedHealth Group, one of the world's largest publicly-traded health
+care corporations, believes that remote care is the way of the future and that companies like Omcare, which enable
+elderly patients to stay independent longer, make sense not only in terms of the economics, but also by meeting the
+needs of seniors who desire to age in place.
+
+"I began my career in health care as a nurse, and so I know first-hand the challenges and constraints placed upon
+caregivers," Rivet explained. "Although in its early stages, Omcare has the potential to revolutionize medication
+non-adherence among elderly and others struggling to manage chronic or complex health conditions."
+
+Omcare's Home Health Hub utilizes audio and visual messages, which lets caregivers and care teams monitor
+medication adherence, and its multi-dose packaging is specially designed in collaboration with pharmacies so that
+correct dosage consumption is no longer an issue.
+
+Finding Diamonds in the Rough
+
+The annual J.P. Morgan Healthcare Conference sets the tone for the rest of the year when it comes to the biggest
+trends crisscrossing the global health care industry. Last year, the surfeit of bold health care innovators emerging
+from places like St Louis, Missouri and Columbus, Ohio, for example, wasn't a surprise to industry insiders, but it
+did appear to catch some of the coastal business media who only breathe in that rarified air of Silicon Valley
+somewhat by surprise. But this year, VCs, Big Pharma, big health care and the business media are well aware that
+some of the biggest stars at this year's conference will hail from 'flyover country.'
+
+Aly Lovett, a partner at New York City-based Radian Capital, a growth equity firm with a strong presence in the
+health care software space, openly embraces looking for investment opportunities in cities typically overlooked by
+most traditional health care VCs. "The knowledge base required to build a leading technology company is no
+longer concentrated in just a few cities, and capital is starting to follow that trend. Lower costs, higher quality of
+living and more diffused access to great talent make these smaller cities highly desirable places to start
+businesses," commented Lovett. "There are many amazing angels and seed funds in these regions that can help
+get companies started, and we think there is an opportunity for Radian to provide growth equity to support these
+businesses in their next phase of growth."
+
+But if Lovett has been holding on to something of a secret, it would seem that her secret is now out in the open;
+capital far and wide is searching for the new, new thing in health tech from flyover country, and many will be using
+the J.P. Morgan confab as an opportunity to get to know them.
+
+No matter where they call home.
+
+
+Load-Date: January 13, 2020
+
+
+  

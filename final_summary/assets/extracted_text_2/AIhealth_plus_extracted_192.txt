@@ -1,0 +1,206 @@
+
+
+                                                                                                         Page 1 of 4
+                             From the Future: AI - Philosophical, political and practical issues
+
+
+
+
+           From the Future: AI - Philosophical, political and practical issues
+                                           The Observer: University of Notre Dame
+                                                      January 31, 2023 Tuesday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 1834 words
+
+Body
+
+
+Artificial intelligence may seem like a distant technology, confined to Terminator-style sci-fi stories for the
+foreseeable future. But the rapid advances in AI capabilities, as exhibited recently with tools like DALL-E and
+ChatGPT, demonstrate that AI is already here and impacting our everyday lives. While AI holds the promise of
+advancing society and shaping the world for the better, it also has the potential to be harmful or outright destructive.
+So, ensuring responsible AI deployment is imperative to securing a flourishing future for humanity, or securing a
+future for humanity at all.
+
+In this inaugural edition of From the Future - a new series highlighting transformative research occurring at Notre
+Dame - we profile three researchers who are investigating ways to tackle philosophical, political and practical
+challenges as humans attempt to implement AI into our society.
+
+Novel frameworks for AI philosophy:
+
+Carolina Villegas-Galaviz, Postdoctoral Research Associate, Technology Ethics Center
+
+Carolina Villegas-Galaviz studies the philosophical implications of AI through the framework of ethics of care. |
+Courtesy of Carolina Villegas-Galaviz
+
+As a philosophy student in her native Spain, Carolina Villegas-Galaviz discovered the 20th-century German
+philosopher Hans Jonas. Jonas observed that in approaching philosophical issues with technology, people were
+trying to apply theories from thousands of years ago. These ancient theories, Jonas argued, were no longer
+applicable. Instead, humanity needs new ethics for the technological age.
+
+"When I heard his idea, I knew it was true," Villegas-Galaviz said. "Right now what we need to do is to adapt the
+moral frameworks of the past that Aristotle and others more than 2,000 years ago proposed, and relate those to the
+new era."
+
+Among the myriad technologies that permeate modern society, AI presents perhaps the most profound
+philosophical problems. As a postdoctoral research associate at the Notre Dame Technology Ethics Center,
+Villegas-Galaviz is moving beyond standard approaches like deontology or epistemology and employing novel
+ethical frameworks to meet the unique demands of AI.
+
+                                                                                                        Page 2 of 4
+                          From the Future: AI - Philosophical, political and practical issues
+
+One of Villegas-Galaviz's main areas of research is the "ethics of care." She finds four aspects of the ethics of care
+framework especially useful for thinking about AI.
+
+First, ethics of care is grounded in a view of individuals as existing in a web of interdependent relationships, and
+these relationships must be considered when designing AI systems.
+
+Second, ethics of care emphasizes the importance of context and circumstances. For Villegas-Galaviz, this means
+that AI algorithms shouldn't be applied universally, but should be tailored with the local culture, customs and
+traditions in mind.
+
+Third, Villegas-Galaviz notes that humans should be aware of the vulnerabilities of certain people or populations
+and ensure that AI does not exploit these vulnerabilities, purposely or inadvertently.
+
+Lastly, ethics of care holds that giving a voice to everyone is essential. Understanding all perspectives is imperative
+for AI, a technology that promises to be truly universal.
+
+Beyond the ethics of care, Villegas-Galaviz received a grant from Microsoft to study the intersection of AI and
+empathy. Her research so far has focused on how empathy relates to the problem of "moral distance," where
+concern for others diminishes when people don't have to directly interact with those affected by their actions. This is
+a pertinent problem for AI, where developers deploy algorithms in a detached fashion.
+
+"It's interesting to see how empathy can help to ameliorate this problem of moral distance," Villegas-Galaviz said.
+"Just to know there's a problem with lack of empathy with AI ... we'll be in line to solve it. Those who design,
+develop and deploy [AI] will know that 'I need to work on this.'"
+
+Villegas-Galaviz says her research is grounded in a critical approach to AI. However, she noted that this does not
+mean she is against AI; she believes humans can solve the philosophical issues she is studying.
+
+"I always try to say that AI is here to stay and we need to make the best out of it," Villegas-Galaviz said. "Having a
+critical approach does not mean being a pessimist. I am optimistic that we can make this technology better."
+
+Finding balance with AI regulation:
+
+Yong Suk Lee, Assistant Professor of Technology, Economy and Global Affairs, Keough School of Global Affairs
+
+Yong Suk Lee researches the effects of AI on the business sector. | Courtesy of Yong Suk Lee
+
+While promoting new philosophical frameworks for AI will help ensure responsible use to an extent, humanity will
+likely need to create concrete legal strategies to regulate AI.
+
+Such is the research focus for Dr. Yong Suk Lee, Assistant Professor of Technology, Economy and Global Affairs in
+the Keough School. Lee notes that the rapid progress AI has made in recent years is making governance
+challenging.
+
+"The pace of technological development is way ahead and people, the general public especially, but also people in
+governance - they're not aware of what these technologies are and have little understanding," Lee said. "So with
+this wide discrepancy between how fast technology is evolving in the applications and the general public not even
+knowing what this is - with this delay, I think it's a big issue."
+
+An economist by training, Lee's research has primarily focused on the effects of AI on the business sector.
+
+In a 2022 study, Lee and fellow researchers conducted a randomized control trial where they presented business
+managers with proposed AI regulations. The goal was to determine how regulations influence managers' views on
+AI ethics and adoption.
+
+                                                                                                               Page 3 of 4
+                            From the Future: AI - Philosophical, political and practical issues
+
+The study concluded that "exposure to information about AI regulation increases how important managers consider
+various ethical issues when adopting AI, but increases in manager awareness of ethical issues are offset by a
+decrease in manager intent to adopt AI technologies."
+
+Lee is currently researching the ramifications of AI adoption on jobs in the banking industry.
+
+To some extent, Lee's research aligns with the common assumption that "AI is stealing our jobs." He is finding that
+as banks adopt AI, demand for "front-end" jobs like tellers decreases. However, demand for analysts and other
+technical roles is actually increasing. So, while AI isn't taking all of our jobs just yet, according to Lee, "it is definitely
+changing the skills demanded of workers."
+
+In thinking about what successful AI governance might look like, Lee considers two facets to be critical. For one,
+Lee would like to see more up-front regulation or supervision determining how AI is deployed.
+
+"I think there needs to be some way where regulation or agencies or academia can play a role in thinking about
+whether it's good for these types of technologies to be out in the public," Lee said.
+
+However, Lee doesn't want regulation to stifle innovation. Lee noted that AI is a geopolitical issue as the US, China
+and other countries "race" to develop advanced AI faster than others.
+
+"With this in mind, you think 'okay, we do want to regulate to some degree, but also we don't want to stifle
+innovation,'" Lee said. "So how we balance that I think is going to be a key thing to consider going forward."
+
+Though the challenges are significant, Lee feels that successful AI regulation can be achieved.
+
+"I think we will find a way," Lee said. "There's going to be trial and error. But we won't let AI destroy humanity."
+
+Collaborating to create AI for good:
+
+Nitesh Chawla, Frank M. Freimann Professor of Computer Science and Engineering, College of Engineering;
+Director, Lucy Family Institute for Data and Society
+
+Nitesh Chawla runs the Lucy Family Institute for Data and Society and coordinates projects focused on the potential
+benefits of AI. | Courtesy of Nitesh Chawla
+
+Assuming humans overcome the above philosophical and political issues (and, of course, that AIs and other
+advancements don't destroy humanity), what is the potential for AI in helping our society?
+
+Nitesh Chawla, Frank M. Freimann Professor of Computer Science and Engineering and Director of the Lucy
+Family Institute for Data and Society, is focused on finding applications where AI can be used for good.
+
+"We are advancing the field [of AI], we are developing new algorithms, we are developing new methods, we are
+developing new techniques. We're really pushing the knowledge frontier," Chawla said. "However, we also ask
+ourselves the question: how do we take the big leap, the translational leap? Can we imagine these innovations in a
+way that we can implement them, translate them to the benefit of a single person's life or to the benefit of a
+community?"
+
+For Chawla, the quest to find the most impactful AI applications is not, and should not be, an endeavor only for
+computer scientists. Though a computer scientist himself, Chawla believes that advancing AI for good is an
+interdisciplinary effort.
+
+"A lot of these societal challenges are at the intersection of domains where different faculties or different expertise
+have to come together," Chawla said. "It could be a social science piece of knowledge, it could be a humanist
+approach ... and then the technologist could say, 'let me take that into account as I'm developing the technology so
+the end user, the person I'm interested in making an impact for, actually benefits from it.'"
+
+                                                                                                        Page 4 of 4
+                          From the Future: AI - Philosophical, political and practical issues
+
+Embracing this interdisciplinary mindset, Chawla's work at the Lucy Family Institute involves a range of applications
+in a variety of locations.
+
+Chawla discussed a project here in South Bend, where the Institute is working with community partners and using
+AI to help address childhood lead poisoning. In another health-related study, AI is being used to analyze and
+propose solutions for healthcare disparities in Mexico. Further south in Colombia, the Lucy Family Institute and the
+Kroc Institute for Peace Studies have teamed up to apply AI toward understanding peace accords processes.
+
+"The institute is committed 200 percent to leveraging data, AI [and] machine learning towards the benefit of society
+and enabling teams of faculty, students and staff on campus to get together to take on some of these wicked
+problems and address them," Chawla said.
+
+Like Villegas-Galaviz and Lee, Chawla is optimistic about AI. Chawla envisions a future where humans don't just
+passively deploy AI, but where humans and AIs work together to solve the world's most pressing problems.
+
+"It's going to be a human-machine collaboration, where the humans would still be necessary for certain higher-order
+decision-making, but the machine just makes it easier," Chawla said. "It's going to be a partnership, in many ways."
+
+Chawla said that AI will not be a substitute for human work.
+
+"I don't believe [AI] is going to be displacing mankind," Chawla added. "I believe that top scholars and practitioners
+can come together to enable progress in technology while also thinking about how we democratize its use and
+access in an ethical way."
+
+Contact Spencer Kelly at skelly25@nd.edu
+
+
+Load-Date: January 31, 2023
+
+
+  

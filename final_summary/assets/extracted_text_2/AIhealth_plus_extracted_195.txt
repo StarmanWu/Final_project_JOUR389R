@@ -1,0 +1,78 @@
+
+
+                                                                                                             Page 1 of 2
+                          FDA-approved algorithms can inform clinicians of heart abnormalities
+
+
+
+
+      FDA-approved algorithms can inform clinicians of heart abnormalities
+                                     Daily Californian: University of California - Berkeley
+                                                      February 3, 2020 Monday
+
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 518 words
+Byline: Olivia Buccieri
+
+Body
+
+
+Eko, a Berkeley-based cardiac screening and monitoring company founded by UC Berkeley alumni, gained
+approval from the Food and Drug Administration for algorithms that screen heart murmurs and atrial fibrillation,
+which will pair with its artificial intelligence-powered, or AI, stethoscope.
+
+Jason Bellet, Eko co-founder and chief operations officer, said about 40,000 physicians across 4,000 hospitals
+currently use Eko's stethoscope technology to amplify heart sounds and better capture digital recordings. The new
+algorithms allow Eko's AI technology to provide health advice to clinicians.
+
+About 4 million clinicians in the United States and 30 million clinicians globally use generic stethoscopes for
+physical exams, according to Bellet.
+
+"There's so much subjectivity and variability when doctors have to listen for abnormalities," Bellet said. "We wanted
+to help doctors detect disease and abnormal heart sounds and lung sounds using a stethoscope that would actually
+give advice to the clinician."
+
+Eko co-founders Bellet, Connor Landgraf and Tyler Crouch founded Eko with the idea to create a stethoscope that
+could help doctors and nurses better understand and detect heart diseases when listening to a patient's heart
+during a physical exam in 2014 during their senior year on campus, according to Bellet.
+
+After six years of development and collaboration with health systems across the country, Eko's new algorithms
+have been approved by the FDA, according to Bellet. Now, Eko is in the process of piloting the algorithms at
+several clinics and hopes to roll out the final product within the next couple of months.
+
+"We're really the first to provide a platform that allows clinicians, using their stethoscope, to get real-time insight into
+what they're listening to using FDA-cleared algorithms," Bellet said. "We really see our competition as ushering in
+this new era and showing clinicians the value of having supported these amplifications."
+
+The current AI found in Eko's digital stethoscope connects to a mobile app, which clinicians can use to visualize
+heart, lung or bowel sounds and electrocardiogram rhythms, according to Eko's website.
+
+                                                                                                          Page 2 of 2
+                        FDA-approved algorithms can inform clinicians of heart abnormalities
+
+Bellet said Eko's plans for the future include developing the technology to expand upon the types of diseases the
+stethoscope AI can detect.
+
+He added that Eko is working with the Mayo Clinic on a newer algorithm for screening heart failure that recently
+gained a "breakthrough indication" from the FDA, meaning its approval is in the process of being fast-tracked but
+has yet to be cleared.
+
+"With a tool that has the accuracy of the cardiologist in being able to pick up disease, and really elevates your
+physician's ability to hear, it ... puts the patient's mind at ease," Bellet said. "It's all about patient enablement and
+access to great care and it's about fighting disease earlier so that patients can optimize their options to treat it."
+
+Olivia Buccieri is the lead business and economy reporter. Contact her at[email protected]and follow her on Twitter
+at@obuccieri_dc?.
+
+Artificial Intelligence,Connor Landgraf,Eko,FDA,Jason Bellet,Mayo Clinic,Tyler Crouch
+
+
+Load-Date: April 16, 2020
+
+
+  

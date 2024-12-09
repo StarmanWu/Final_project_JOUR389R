@@ -1,0 +1,117 @@
+
+
+                                                                                                       Page 1 of 3
+                                            Big Tech swallows most of the hot AI startups
+
+
+
+
+                            Big Tech swallows most of the hot AI startups
+                                                        Chicago Daily Herald
+                                                      March 22, 2020 Sunday
+WEB EditionNC1 EditionNC2 EditionMF12 EditionNC3 EditionNM1 EditionNC EditionNC14 EditionMC1 EditionMC3
+       EditionMD1 EditionML2 EditionNL1 EditionNC14C EditionNC4 EditionCLFM EditioneBlast Edition
+
+
+
+Copyright 2020 Paddock Publications, Inc.
+
+Section: BUSINESS; Pg. 0
+Length: 1260 words
+Byline: Dina Bass and Joshua Brustein Bloomberg
+
+Body
+
+
+In 2016, Seattle-based startup Turi was helping almost 100 customers create and manage software that uses
+machine learning, a powerful type of artificial intelligence. Its technology was so promising that Apple Inc. snapped
+it up for $200 million. The deal was a triumph for investors and founders, but one backer thought Turi — and the
+broader tech industry — might be better off if the startup had spurned Apple's advances. Matt McIlwain, managing
+director at Madrona Venture Group, said it's important that at least some emerging tech businesses remain
+independent, rather than falling into the arms of Apple, Amazon.com Inc., Facebook Inc., Google or Microsoft Corp.
+
+"It is economically beneficial to society to have more stand-alone, independent companies. We generally think that's
+better than just having these companies consolidated into larger ones," McIlwain said. "There have to be some in
+each era that are willing to take the risk and stand the test of time as independent companies so we have the next
+generation of leading platforms." Regulators and lawmakers are investigating whether the largest U.S. technology
+companies have become too powerful. Acquisitions are a major part of the probes, with the Federal Trade
+Commission re-examining hundreds of small deals from the previous decade made by Apple, Amazon, Facebook,
+Google and Microsoft. Artificial intelligence is a prime example of an important technology field where the majority
+of promising startups have been gobbled up, frequently ending public availability of any products they created. Last
+year saw a record 231 acquisitions of AI startups, up from 42 in 2014, according to data from CB Insights. Apple
+has been the top acquirer since 2010, followed by Google, Microsoft, Facebook, Intel Corp. and Amazon. "If big
+tech companies buy them all up, they eliminate these future competitors, and have a chance of actually owning the
+winners," said Sean Gourley, chief executive officer of machine-learning startup Primer AI. "It's a real shame. We
+lost something. There may have been different approaches in this field, but now we only have what these larger
+companies decide." Bloomberg Beta, the venture capital arm of Bloomberg LP, is an investor in Primer AI. It's
+particularly important to have a broad, diverse community developing AI because the technology is informing more
+decisions and has been susceptible to bias, according to researchers. Representatives for Turi and Apple declined
+to comment, as did Amazon, Facebook, Google and Microsoft. Apart from consolidating promising technology,
+many of the acquisitions were done to amass talent. There's a shortage of workers with experience in deep learning
+and machine learning, and many companies, not just in tech, are competing for these specialists. Google's 2013
+purchase of DNNResearch brought deep-learning godfather Geoffrey Hinton to the internet giant. In 2014, Google
+
+                                                                                                          Page 2 of 3
+                                    Big Tech swallows most of the hot AI startups
+
+also snapped up DeepMind, a London research outfit led by Demis Hassabis that used software to beat the best
+players at the strategy game Go and is working on health applications for AI. The industry's deal spree has raised
+concern that the biggest technology companies have a lock on brain power in a field that's considered critical to the
+future of computing, global competitiveness and even military supremacy. "It's the most important technology we
+will see in our lifetime," said Diego Oppenheimer, CEO of Seattle-based Algorthimia, which provides a marketplace
+for machine-learning algorithms. "When you look at it that way, if it is concentrated on the few, it's going to be really
+hard to compete with those few." At least some of the motivation behind the acquisition of smaller AI firms has to be
+more than talent hoarding, according to Frederic Laurin, partnership director at Mila, a prominent Montreal-based
+deep learning research lab. "The other potential explanation is they see those firms as competitors," he said. For
+startups, selling can be the best option when promising technology is failing to become a real business. Joining a
+larger company can provide a bigger audience for a startup's ideas, along with more resources to develop products
+quicker. Giants such as Google and Facebook have massive data sets that are crucial for training AI models, for
+instance. "It's easy to get funding for an AI startup, or at least it was. Easier than translating an idea into revenue,
+so the exit often becomes an acquisition," said Babak Hodjat, who invented some of the technology that became
+Apple's Siri digital assistant and sold parts of his AI company Sentient Technologies to outsourcing giant Cognizant
+Technology Solutions Corp. last year. Before Apple bought Turi, venture capital firm Opus Capital backed the
+startup because it had an "awesome product and a very technically sharp team," said Preeti Rathi, who was at
+Opus at the time. But the market wasn't ready for the technology, she said. "When a good team meets a not-ready
+market, it takes a lot of capital," said Rathi, who is now a general partner at Icon Ventures. "Startups don't typically
+have that much cash," so the Apple sale was a good outcome for Turi, she added. One new reason AI startups look
+to be acquired by a big patron is the cost of computing power. As AI models get more complex, startups are paying
+a lot for cloud computing services to train and run those models. And they often pay their rivals, Amazon, Microsoft
+and Google, which are the dominant cloud providers. This is pricing smaller firms out of the space, said Laurin of
+Mila, the Montreal-based deep-learning lab. Even Mila, with 450 researchers and support from several universities,
+can't keep up sometimes, Laurin said. Yoshua Bengio, a deep-learning pioneer and scientific director at Mila, has
+told Laurin that there are research papers from Google and Facebook that Mila can't replicate because it doesn't
+have access to the same computing power. In 2015, Elon Musk, Sam Altman and other technologists helped start
+nonprofit research group OpenAI with a $1 billion commitment because they were concerned about big tech
+companies dominating such an important technology. Now OpenAI has started a for-profit arm and taken a $1
+billion investment from Microsoft partially to fund the intensive computing needs its work requires. Still, some
+promising AI startups have stayed independent, and new ones are being formed all the time. There were 2,235
+venture capital AI funding deals last year worth a total of $26.6 billion, according to CB Insights, which also counted
+24 AI unicorns — companies valued at $1 billion or more. "New startups are emerging every day, some of which
+are building large businesses and will emerge as leaders," said Rathi. "This is despite the current generation of
+incumbent competitors — Google, Amazon, etc. — that are quite formidable." Madrona's McIlwain casts an envious
+eye at data and machine-learning software firm Databricks which is now valued at more than $6 billion and has a
+customer list that includes Cisco Systems Inc., HP and ViacomCBS. Turi may have become more valuable if it too
+had stayed independent, he said, but it also could have gone worse. It's been a hard road for other AI
+independents. Employees at Clarifai, founded in 2013, were initially confident they had found a defensible niche.
+Instead, the company struggled to maintain momentum. Last year, the startup cut about 20% of its staff, according
+to two people familiar with the situation. Clarifai Founder and CEO, Matt Zeiler, didn't respond to requests for
+comment.
+
+
+
+Graphic
+
+
+Regulators and lawmakers are investigating whether the largest U.S. technology companies have become too
+powerful. Acquisitions are a major part of the probes, with the Federal Trade Commission re-examining hundreds of
+small deals from the previous decade made by Apple, Amazon, Facebook, Google and Microsoft. (AP Photo/Kathy
+Willens, File)
+
+                                                                            Page 3 of 3
+                            Big Tech swallows most of the hot AI startups
+
+
+Load-Date: March 23, 2020
+
+
+  

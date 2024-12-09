@@ -1,0 +1,345 @@
+
+
+                                                                                                     Page 1 of 7
+         Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                          Intelligence and Copyright
+
+
+
+
+ Regulatory Comments Before the U.S. Copyright Office Library of Congress
+             In the Matter of Artificial Intelligence and Copyright
+                                                             R Street Institute
+                                                       October 27, 2023 Friday
+
+
+
+Copyright 2023 Content Engine, LLC.
+All Rights Reserved
+Copyright 2023 R Street Institute, USA All Rights Reserved
+
+Length: 3696 words
+
+Body
+
+Before theU.S. Copyright OfficeLibrary of Congress
+ October 30, 2023
+In the Matter of
+Artificial Intelligence and Copyright
+Notice and Request for Public Comment
+)
+)
+) Docket No. 2023-6
+)
+)
+
+Submitted byWayne T. Brough and Ahmad Nazeri
+
+On Behalf of theR Street Institute
+
+The R Street Institute (R Street) is pleased to submit these comments on the Artificial Intelligence and Copyright
+Notice and Request for Public Comment to the U.S. Copyright Office. R Street is a nonprofit, nonpartisan public
+policy research organization ("think tank") whose mission is to engage in policy research and outreach to promote
+free markets and limited, effective government. Our organization regularly advocates on copyright policy in a digital
+world. In this capacity, we welcome the opportunity to provide comments on the disruptive innovation brought on by
+the introduction of artificial intelligence (AI) and machine learning.
+
+ Understanding the inherent tension between the principles of copyright and freedom of expression is paramount.
+The First Amendment declares, "Congress shall make no law... abridging the freedom of speech." This stands in
+contrast to copyright article, U.S. Const. Art. 1, § 8, cl. 8, which mandates, "[The Congress shall have Power] To...
+promote the Progress of Science and useful Arts, by securing for limited Times to Authors... the exclusive Right to
+their respective Writings..."
+
+ To navigate this dichotomy, we must adopt a narrow interpretation of copyright, ensuring it imposes minimal
+constraints on the freedom of expression. To this end, we believe that existing copyright law is suitably flexible to
+
+                                                                                                    Page 2 of 7
+        Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                         Intelligence and Copyright
+
+address ongoing concerns with respect to copyright and the implications of AI, and we urge prudence in the
+introduction of new copyright rules or regulations.
+
+Artificial Intelligence and Creative Arts
+
+AI promises to bolster the American economy, amplify the capabilities of creatives and catalyze advancements in
+science and the arts.[1] Recognizing that contemporary copyright doctrine has evolved to embrace a myriad of
+transformative technologies is crucial. Existing copyright law is adeptly poised to address the genuine concerns of
+creators. Within the existing legal framework, the judiciary is ideally positioned to contextualize and apply these
+principles in the face of the multifaceted challenges presented by AI.
+
+AI has great potential to solve complex math calculations, detect cancer early, create new art and much more. In
+light of these capabilities, some advocate for stricter copyright rules that could hinder AI's potential and contradict
+the original purpose of copyright law-promoting "progress in science and useful arts"-by restricting freedom of
+expression.[2] Maintaining a balanced copyright framework is vital to keep the United States at the forefront of art
+and technology.
+
+In the dynamic realm of AI, increasing copyright regulations could undermine the technology's prospective
+advantages significantly. Tighter restrictions might impede AI's growth by restricting access to necessary training
+data.[3] Such limitations risk diminishing AI's capacity to address complex challenges, innovate across sectors and
+contribute to artistic endeavors. By constricting the data from which AI learns, we inadvertently limit the spectrum of
+expression and creativity it can manifest. Our comments are anchored in the belief that while safeguarding creators'
+rights is paramount, it should not stifle innovation or encroach upon our foundational liberties. While the request for
+comments is extensive, R Street has focused on the questions we believe to be most significant with respect to our
+work on copyright and AI.
+
+Question 8. "Under what circumstances would the unauthorized use of copyrighted works to train AI
+models constitute fair use?"
+
+The copyright dichotomy between idea and expression is a foundational principle in copyright law.[4] This distinction
+clarifies that while the unique way something is expressed (its expression) can be copyrighted, the general idea or
+concept behind it cannot be. When it comes to training AI models, this principle becomes pivotal. If an AI model is
+trained using copyrighted materials, determining the purpose of the use becomes crucial. If the intention is merely
+to understand the foundational concepts or ideas presented by a copyrighted work (e.g., general themes, topics,
+knowledge), then it might be seen as fair use.[5] However, if the goal is to make the AI replicate or reproduce the
+specific way those ideas are articulated or expressed in the copyrighted work, then it could be a copyright violation.
+For example, when a machine learning (ML) system processes images of stop signs, its primary objective is to
+recognize the sign's universal features, not to replicate the unique artistic nuances of each photograph. Similarly, a
+natural language processing system analyzing written content aims to understand general linguistic structures and
+patterns rather than to reproduce or capitalize on the distinct expressive qualities of the prose.[6]
+
+The fair use doctrine should be interpreted in a manner that supports AI technology advancement. Allowing ML
+systems to train on comprehensive datasets, even if they include copyrighted works, serves the broader societal
+interest. Such access ensures that AI systems are safer, more accurate and unbiased. Conversely, restricting AI
+training to smaller, proprietary datasets due to copyright constraints can result in suboptimal, potentially biased AI
+outputs.
+
+A pivotal consideration in this context is the concept of "fair learning." This principle posits that if an AI's primary
+objective in accessing a work is to learn from its non-copyrightable elements rather than to appropriate its
+copyrightable aspects, then such use should be deemed inherently fair under the first factor of the fair use analysis.
+
+Question 8.5. "Under the fourth factor of the fair use analysis, how should the effect on the potential market
+for or value of a copyrighted work used to train an AI model be measured?"
+
+                                                                                                    Page 3 of 7
+        Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                         Intelligence and Copyright
+
+In the realm of copyright law, the fourth factor of "fair use" analysis examines the impact of a copyrighted material's
+use on its potential market value.[7] When applying this factor to the training of AI models, it is important to consider
+the original intent behind the creation of copyrighted works like books or photographs. Typically, authors or
+photographers do not create these works with the expectation of selling them for AI use. Therefore, training an AI
+model on such materials does not inherently detract from the work's intended market or its value because AI
+learning models were never the target audience or consumer. In essence, the usage by AI does not replace the
+need for humans to purchase or access the original, nor does it directly compete with the core market intended by
+the copyright holder.[8] As such, even if the use aligns with the educational ethos of "fair learning," it is essential to
+recognize that AI's utilization is unlikely to undermine the creator's ability to benefit from their work in its intended
+market.
+
+Question 10 and Its Sub Questions. "If copyright owners' consent is required to train generative AI models,
+how can or should licenses be obtained?"
+
+The process of acquiring individual licenses for the vast amount of data required for AI training is not only
+burdensome, but also potentially unachievable. Navigating licensing agreements for each piece of data can give
+rise to various challenges, including disputes over rights and the logistical nightmare of ensuring compliance for
+extensive datasets.[9]
+
+Moreover, the costs associated with obtaining these licenses could make AI projects excessively expensive, thus
+impeding innovation and hindering industry growth. This approach may render many AI-driven projects
+unattainable, particularly for smaller entities or researchers with limited resources.
+
+Although direct voluntary licensing may appear feasible in certain creative sectors, implementing it across all
+sectors presents significant challenges. For example, while structures exist to protect works as unified entities in
+sectors like music, the complexities of obtaining licenses for each individual piece of content can give rise to
+numerous challenges. It would be impractical for a company to negotiate licenses with all copyright owners due to
+the large number of works. When contemplating the future of work, particularly in AI and data utilization, such a
+licensing approach could render many projects unachievable. Considering the vast amount of data required for AI
+training, obtaining licenses for every piece of copyrighted content can be burdensome and potentially unattainable.
+While a compulsory licensing regime may appear to address the challenges posed by voluntary licensing, it is
+essential to consider the broader implications. Although there are existing compulsory licenses in certain areas of
+copyright, the evidence does not necessarily support the notion that these licenses promote creativity or fair
+use.[10] Establishing a compulsory licensing regime is neither desirable nor effective in promoting creative activity.
+
+Question 13. "What would be the economic impacts of a licensing requirement on the development and
+adoption of generative AI systems?"
+
+Introducing a licensing requirement for the development and adoption of generative AI systems would have
+profound economic implications.
+    •    Barrier to Entry: Given the vast number of works an AI training dataset might need to use-and the fact
+         that thousands or millions of individuals might own those works-obtaining licenses for all underlying content
+         becomes a significant challenge. This could act as a barrier to entry for smaller companies or startups that
+         lack the resources to negotiate and secure such licenses.
+    •    Increased Costs: The process of identifying, negotiating and securing licenses for every individual piece
+         of content in a dataset would be resource-intensive. These increased costs could be passed on to
+         consumers or could deter companies from pursuing certain AI-driven projects altogether.
+    •    Stifling Innovation: The sheer complexity and cost associated with obtaining licenses might discourage
+         innovation. Companies might opt for safer, less ambitious projects to avoid potential copyright pitfalls,
+         thereby limiting the advancement of AI technologies.
+    •    Monopoly Concerns: Only large entities, like tech giants, that have the resources to navigate the
+         licensing landscape or have already amassed vast amounts of data might be able to compete effectively in
+
+                                                                                                    Page 4 of 7
+        Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                         Intelligence and Copyright
+
+         the AI space. This could lead to a monopolistic environment where only a few players dominate, thereby
+         reducing competition and potentially stifling innovation.
+    •    Economic Incentives for Litigation: Given the structure of copyright remedies, even small-value
+         infringements can lead to lawsuits due to the potential for statutory damages. This could encourage
+         opportunistic lawsuits, further increasing costs for AI developers.
+    •    Potential Negative Outcomes: While broader access to data can help mitigate some of the negative
+         outcomes associated with AI (e.g., biases), restricting access through licensing could exacerbate these
+         issues. For instance, limited data access might hinder the ability of AI systems to be trained on diverse
+         datasets and lead to biased outcomes.
+    •    Impact on Broader Economy: The ripple effects of these challenges could extend beyond the AI industry.
+         Reduced innovation in AI could slow advancements in sectors across the economy that rely on AI, such as
+         health care, finance and transportation.
+
+Question 18. "Under copyright law, are there circumstances when a human using a generative AI system
+should be considered the ''author'' of material produced by the system?"
+
+As AI continues to evolve and integrate more deeply into our creative and professional processes, the lines
+between human-led creations and those generated by AI blur. Recognizing and understanding these different
+scenarios can provide clarity on how to approach this intricate issue.
+    •    The Role of the Software Programmer: The original designer or programmer of an AI system provides it
+         with foundational algorithms, logic and structures.[11] If the final output predominantly aligns with this initial
+         framework without significant external influence, it can be argued that the programmer, having set the AI's
+         course, should be considered the author. Think of it as setting the initial conditions for a complex chain
+         reaction-even if the subsequent events are unpredictable, they all stem from those initial conditions.
+    •    Direct Influence by the User: In many scenarios, the end user or operator of an AI system plays a pivotal
+         role in shaping its output. This can be achieved by selecting specific training datasets or by guiding the AI
+         through a series of iterative commands or prompts. Here, the AI system is more akin to a musical
+         instrument-while it has the potential to create, the direction, tone and final output depend heavily on the
+         user. Thus, when the user's influence is significant, the user can be considered the primary author.
+    •    Collaborative Creation: Often, the final output is neither solely a result of the AI's initial programming nor
+         the user's guidance. It is a symbiotic relationship in which the AI's design and the user's real-time inputs
+         collaboratively shape the end product. This can be seen as a partnership or collaboration between the AI's
+         inherent capabilities and the user's creative intent, resulting in both parties potentially being regarded as
+         joint authors.
+    •    AI Operates Autonomously: Conversely, there are times when AI, armed with its algorithms and learned
+         behaviors, produces content with little to no human intervention.[12] In these cases, the output can be so
+         unpredictable and detached from human input that claiming human authorship becomes challenging.
+
+In the first three scenarios, we can consider a human as the author of an outcome work. There are instances in
+which AI serves purely as a tool, much like a canvas and brush for a painter. In these cases, the AI merely aids in
+translating the human's specific vision into reality without adding its unique flair or direction. Even if the AI speeds
+up the process or simplifies complex tasks, the creative essence and primary direction come from the human. Thus,
+in such scenarios, the human remains the sole author.
+
+In the final scenario, with AI operating autonomously, the concept of human authorship does not apply. Similarly,
+the use of copyright law to spur innovation does not apply in this case, making it difficult to justify a role for copyright
+law in such an instance. Indeed, it may be that such works fall within the public domain as stipulated by existing
+copyright law.
+
+                                                                                                    Page 5 of 7
+        Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                         Intelligence and Copyright
+
+Question 19. "Are any revisions to the Copyright Act necessary to clarify the human authorship
+requirement or to provide additional standards to determine when content including AI-generated material
+is subject to copyright protection?"
+
+There is no pressing need for revisions to the Copyright Act to address AI-generated content. The current
+framework is equipped to handle the challenges posed by AI and ML. As previously discussed, when there is
+significant human intervention and the output from the ML system aligns with the human's intended creative vision,
+it can be protected under existing copyright provisions. Historically, humans have employed various technological
+tools to aid in their creative processes, and AI can be viewed as a continuation of this trend. Just as the use of
+these tools did not necessitate a change in copyright laws, the advent of AI does not inherently demand a revision.
+The key lies in discerning genuine human creative contributions from purely machine-generated outputs.
+
+Question 20. "Is legal protection for AI-generated material desirable as a policy matter? Is legal protection
+for AI-generated material necessary to encourage development of generative AI technologies and
+systems?"
+
+From our discussions, it is evident that while legal protection for creative works is essential, extending this
+protection to AI-generated material requires careful consideration. The primary concern is reconciling copyright
+protection with the broader principle of freedom of expression. While copyright aims to protect original works, it
+should not stifle the free flow of ideas-especially in the realm of AI and ML. Existing copyright protection for
+computer code does offer some incentives for the development of generative AI technologies.[13] However, the
+focus should be on ensuring that these protections do not hinder the broader goals of innovation, education, and
+promoting science and art. In essence, AI and ML utilize the "idea" behind a work rather than replicating its unique
+"expression," which is what copyright traditionally protects.
+
+Question 20.1. "If you believe protection is desirable, should it be a form of copyright or a separate sui
+generis right?"
+
+The current copyright act is sufficiently equipped to handle the challenges posed by AI-generated content.
+Introducing a separate sui generis right would only complicate the landscape further. The existing framework of the
+Copyright Act-if interpreted and applied judiciously-can address the nuances of AI creations. While it is essential to
+protect creators and innovators, it is equally crucial to uphold the broader goals of freedom of expression, education
+and innovation. When approached with this balanced perspective, the current copyright act can serve these dual
+purposes without additional rights or protections.
+
+Question 21. "Does the Copyright Clause in the U.S. Constitution permit copyright protection for AI-
+generated material?"
+
+The Copyright Clause in the U.S. Constitution aims to "promote the progress of science and useful arts." While it
+does not explicitly address AI-generated material, the spirit of the clause is to foster creativity and innovation.
+Protecting AI-generated content could arguably align with this goal, but only if done judiciously. As emphasized
+throughout our comments, while protection is essential, it is equally crucial to ensure that works remain accessible
+for future AI and ML endeavors under the Fair Use doctrine. Such accessibility ensures that AI and ML can
+continue to evolve without the threat of infringement. By interpreting copyright narrowly, in line with Article 8 of the
+Constitution, we can strike a balance that upholds freedom, education and innovation. This approach respects the
+essence of the Copyright Clause while ensuring that AI and ML can operate within a framework that recognizes
+their unique nature and potential.
+
+Conclusion
+
+How can we navigate the complex and ever-changing intersection of copyright law and AI in a way that protects
+creators, encourages innovation and upholds fundamental liberties like freedom of expression? While the current
+copyright system can handle many AI-related challenges, it is necessary to approach this issue with a nuanced
+perspective to ensure that protections do not hinder the broader objectives of freedom of expression, education and
+
+                                                                                                   Page 6 of 7
+       Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                        Intelligence and Copyright
+
+innovation. We must find a middle ground that safeguards original works while allowing for the exchange of ideas. It
+is important to interpret the Copyright Clause in the U.S. Constitution, which aims to promote the progress of
+science and arts, in a manner that acknowledges the transformative potential of AI. However, we should always
+interpret copyright narrowly to minimize its impact on freedom of expression-a fundamental right that predates any
+government and is superior to copyright.
+
+As stated in Article 8 of the U.S. Constitution, copyright exists to serve a specific goal, and expanding its scope
+would undermine both freedom of expression and the philosophy behind copyright itself. Expanding the fair use
+doctrine can play a significant role in mitigating the damage caused by copyright to freedom of expression-
+especially in the context of AI and ML.
+Respectfully submitted,
+
+ A group of black letters Description automatically generated
+Wayne T. Brough
+Policy Director, Technology and Innovation
+The R Street Institute
+1411 K Street NW, Suite 900
+Washington, D.C. 20005
+202-525-5717
+[email protected]
+
+[1] Jacques Bughin et al., "Skill shift: Automation and the future of the workforce," McKinsey Global Institute, May
+23, 2018, pp. 3-84. https://www.mckinsey.com/featured-insights/future-of-work/skill-shift-automation-and-the-future-
+of-the-workforce.
+[2] Amanda Beshears Cook, "Copyright and Freedom of Expression: Saving Free Speech from Advancing
+Legislation," Chicago-Kent Journal of Intellectual Property 12:1 (2013); see also Craig W. Dallon, "The Problem with
+Congress and Copyright Law: Forgetting the Past and Ignoring the Public Interest," Santa Clara Law Review 44:2
+(2003), pp. 365-455.
+[3] Mark A. Lemley and Bryan Casey, "Fair learning," Texas Law Review 99:4 (2020), pp. 743-785.
+[4] Embodied in 17 U.S. Code § 102(b) - Subject matter of copyright: In general; see also Edward Samuel, "The
+Idea-Expression Dichotomy in Copyright Law," Tennessee Law Review 56 (1988), p. 321.
+[5] CFR § 202.1 - Material Not Subject to Copyright; see also Lemley and Casey, supra, note 3.
+[6] Lemley and Casey, supra, note 3, p. 749.
+[7] Pierre N. Level, "Toward a Fair Use Standard," Harvard Law Review 103:5 (1990), p. 1124.
+[8] Lemley and Casey, supra, note 3, p. 776; See also Bill Graham Archives v. Dorling Kindersley Ltd., 448 F.3d
+605, 614-15 (2d Cir. 2006).
+[9] Id. at p. 770.
+
+[10] Jason S. Rooks, "Constitutionality of Judicially-Imposed Compulsory Licenses in Copyright Infringement
+Cases,"        Journal   of    Intellectual   Property      Law 3:1     (October      1995),   pp.      255-276.
+https://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1112&context=jipl.
+
+[11] Margot E. Kaminski, "Authorship, Disrupted: AI Authors in Copyright and First Amendment Law," U.C. Davis
+Law Review 51 (2017), p. 597. https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=2193&context=faculty-
+articles.
+[12] Id. at p. 598.
+
+[13] Megan Svedman, "Artificial Creativity: A Case Against Copyright for AI-Created Visual Artwork," IP Theory 9:1
+(2020), p. 13. https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1053&context=ipt.
+
+
+Load-Date: October 28, 2023
+
+                                                                                                 Page 7 of 7
+     Regulatory Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial
+                                      Intelligence and Copyright
+
+
+

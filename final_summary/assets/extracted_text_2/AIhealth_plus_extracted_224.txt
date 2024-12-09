@@ -1,0 +1,99 @@
+
+
+                                                                                                         Page 1 of 2
+                             Governments Consider Ethics, Transparency in Cutting-Edge Tech
+
+
+
+
+         Governments Consider Ethics, Transparency in Cutting-Edge Tech
+                                                Government TechNology
+                                             December 1, 2021 Wednesday
+
+
+
+Copyright 2021 Government Technology
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 885 words
+Byline: Julia Edinger, Government Technology
+
+Body
+
+
+Dec. 1—As Stephen Hawking once said, "Our future is a race between the growing power of technology and the
+wisdom with which we use it." As the COVID-19 pandemic pushed government to rapidly modernize for the remote
+world in 2020, 2021 saw public agencies grapple with making this transition equitable, transparent and secure.
+During the past year, emerging technologies have reshaped not only what government is able to do for
+constituents, but also people's expectations of government.
+
+While public-sector agencies found their footing in the remote world, private-sector innovation has been reaching
+new heights — quite literally, as in the realm of space travel. Elon Musk's SpaceX launched multiple rockets into
+space, while Jeff Bezos and Richard Branson launched themselves. And the work of these three billionaires'
+extraterrestrial exploration is happening at a time when satellite Internet is becoming a more viable option to
+connect currently unserved communities to the Internet.
+
+And as satellite Internet options skyrocketed, the pandemic challenged governments, driving new public-private
+partnerships and solutions; for example, private partners are helping government make significant strides toward
+universal broadband.
+
+Other tech has followed a similar trajectory. Robots and drones are more commonly delivering food, medicine and
+other products. Some government uses though, like the New York City Police Department's robot dog Spot, spurred
+feedback from the public and civil liberties groups holding on to surveillance fears.
+
+One notable advance in recent months is the use of virtual and augmented reality in the public sector. While its
+specific value is still being studied by organizations like the National Institute of Standards and Technology, it is
+reshaping the way many agencies engage, train and retain talent. From workforce development to tourism to
+emergency response, it has been found to improve retention and reduce training costs.
+
+The pandemic also gave way to other significant changes in the workforce, highlighting the gaps that exist in certain
+sectors, including IT. While some state solutions, like Indiana's Hoosier Talent Network, use artificial intelligence to
+help match candidates with job openings, some experts have raised concerns about the technology's potential for
+bias — an issue which frequently gets raised during debates on government use. The World Health Organization
+
+                                                                                                              Page 2 of 2
+                          Governments Consider Ethics, Transparency in Cutting-Edge Tech
+
+released a report this year offering guidance for ethical use of AI within the health sector, but a comprehensive set
+of regulations for AI in government has yet to be established. Meanwhile, government continues to explore its use,
+notably to advance cybersecurity defenses and achieve workflow efficiencies using tools like robotic process
+automation.
+
+Ethical questions have also been raised about facial recognition as disparities are brought to light about the way
+this tech identifies transgender people, people of color and nonbinary individuals. Several cities and states have
+implemented regulations banning or restricting the use of facial recognition and other AI-powered tools to calm
+fears over their use, suggesting the tech still has some work to do in proving its value.
+
+Federal policymakers set their sights on deepfakes in 2021, videos that feature realistic audio and video of a person
+that has been fraudulently manipulated. For example, this technology could make it look like any authority figure is
+saying something they never said. These videos are an increasing concern in the misinformation discourse,
+prompting discussions on how to curb their proliferation online. Programs like Cyber Florida are offering students
+the skills to determine validity of information they find on the Internet and underlining the value of this particular skill.
+
+But while government entities have rapidly made modernization strides in the COVID-19 era, newer does not
+always mean better. In their rush to deploy new technology, some are quick to dismiss the value of legacy systems
+that can still capably do the important work of government. Take COBOL, for example, a programming language
+five decades old that surfaces often in conversations about the shameful state of legacy IT. But COBOL, and other
+older tech, is a known quantity with known capabilities. A more targeted problem-solving approach, rather than an
+abolish-all-legacy-tech approach, is likely the most prudent course, as new tech might not always add value to the
+enterprise.
+
+"And at the end of the day, what you now have is a new program that does exactly the same thing as the old
+program, and you sit down and you say, 'Why did I spend my money on that project?'" asked William Malik, vice
+president of infrastructure strategies at Trend Micro, in a piece examining COBOL this year on govtech.com.
+
+Ultimately, technology leaders in government must continue to smartly evangelize the benefits new tools can bring
+in making public-sector organizations better at their core missions. By advocating for scalable pilots where results
+are closely measured and transparently reported, CIOs have a key role to play in maintaining and growing the
+public's appetite for innovation using new technology.
+
+___ (c)2021 Government Technology Visit Government Technology at www.govtech.com Distributed by Tribune
+Content Agency, LLC.
+
+
+Load-Date: December 2, 2021
+
+
+  

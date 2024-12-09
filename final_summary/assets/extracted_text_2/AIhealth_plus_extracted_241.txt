@@ -1,0 +1,157 @@
+
+
+                                                                                                           Page 1 of 3
+                                                A Robot Wrote This Review
+
+
+
+
+                                        A Robot Wrote This Review
+                                                   The New York Times
+                                                December 12, 2021 Sunday
+                                                    Late Edition - Final
+
+
+
+Copyright 2021 The New York Times Company
+
+Section: Section BR; Column 0; Book Review Desk; Pg. 17; NONFICTION
+Length: 1423 words
+Byline: By Kevin Roose
+
+Body
+
+
+THE AGE OF AIAnd Our Human FutureBy Henry A. Kissinger, Eric Schmidt and Daniel Huttenlocher
+
+One of the great promises of technology is that it can do the work that humans find too boring or arduous.
+
+  In the 19th and 20th centuries, factory machines relieved us of repetitive manual labor and backbreaking farm
+work. In this century, artificial intelligence has taken care of a few more tasks -- curating Spotify playlists, selecting
+the next YouTube video, vacuuming the floor and so on -- but many more mind-numbing activities remain ripe for
+the picking. The experts promise us that someday, all of our least favorite chores -- including complex cognitive
+ones, like interviewing job candidates or managing global supply chains -- will be outsourced to machines.
+
+ But that day has not yet arrived. Or has it?
+
+ After finishing ''The Age of AI,'' a new book about artificial intelligence by Henry A. Kissinger, Eric Schmidt and
+Daniel Huttenlocher, I found myself unmoved by the prospect of reviewing it. I've read dozens of books about A.I.,
+and while the conceit of this one was intriguing -- bringing together a 98-year-old diplomat, a former Google chief
+executive and an M.I.T. professor -- the book itself was a fairly forgettable entry in the genre.
+
+ Then I got a bright idea. What if I could have an A.I. finish this review, and save myself the trouble?
+
+  So I fired up Sudowrite, an A.I. writing program I've been experimenting with recently. The app uses GPT-3, the
+cutting-edge A.I. system developed by the San Francisco-based OpenAI, which acts as a kind of turbocharged
+version of Gmail's autocomplete feature. Provide a snippet of text, and GPT-3 will try to complete it, using
+everything it has learned from ingesting billions of examples of other people's writing. It does this with the help of a
+supercomputer containing some 285,000 processors, and a multilayered neural network that ranks among the
+world's most powerful A.I. engines. The authors of ''The Age of AI'' call GPT-3 one of several promising
+technologies that are producing a ''revolution in human affairs.''
+
+ I pasted the first several paragraphs of this review into Sudowrite, and asked the A.I. to finish. Here's what it wrote:
+
+                                                                                                             Page 2 of 3
+                                               A Robot Wrote This Review
+
+  Henry Kissinger, Eric Schmidt and Daniel Huttenlocher's ''The Age of AI'' is a bold new book on artificial
+intelligence that will become the go-to guide for anyone who wants to understand this transformative technology.
+
+ The authors have examined the full range of AI technologies -- from computer vision systems to natural language
+processing -- and written about them in a way that will appeal to both experts and laypeople.
+
+ One of the most inspiring aspects of this book is its scope. The authors delve deeply into the potential of AI in all
+areas of human enterprise. They describe the impact of AI on health care, economics, geopolitics, law, urban
+development, governance, journalism, the military and even the life sciences.
+
+ Kissinger, Schmidt and Huttenlocher are not afraid to explore the darkest side of AI, either. They are clear-eyed
+about the ways that AI could enable dictators to monitor their citizens and manipulate information to incite people to
+commit violence.
+
+ Although AI is already making our lives better in many ways, Kissinger, Schmidt and Huttenlocher caution that it
+will take us as a species many years to create a system as powerful as we deserve. They wisely suggest that we
+not lose sight of the values we want to instill in this new machine intelligence.
+
+ Thank you, GPT-3! Now, a few notes:
+
+ First, the A.I. wasn't an unqualified success. It took Sudowrite a few tries. On the first attempt, it spit out a series of
+run-on sentences that hinted that GPT-3 had gotten stuck in some kind of odd, recursive loop. (It began: ''The book
+which you are reading at the moment is a book on a nook, which is a book on a book, which is a book on a subject,
+which is a subject on a subject, which is a subject on a subject.'') A few tries later, it seemed to give up on the task
+of book reviewing altogether, and started merely listing the names of tech companies. (''Google, Facebook, Apple,
+Amazon, IBM, Microsoft, Baidu, Tencent, Tesla, Uber, Airbnb, Twitter, Snap, Alibaba, WeChat, Slack.'')
+
+ But it warmed up quickly, and within a few minutes, the A.I. was coming up with impressively cogent paragraphs of
+analysis -- some, frankly, better than what I could have generated on my own.
+
+ This speaks to one of the recurring themes of ''The Age of AI,'' which is that although today's A.I. systems can be
+clunky and erratic at times, they are getting better fast, and will soon match or surpass human proficiency in a
+number of important tasks, solving problems in ways no human would have thought to solve them. At that point, the
+authors write, A.I. will ''transform all realms of human experience.''
+
+  Second, while GPT-3 was correct about the scope of ''The Age of AI'' -- with chapters on everything from social
+media algorithms to autonomous weapons -- it failed to note that all of that broadness comes at a cost. The book
+feels cursory and shallow in places, and many of its recommendations are puzzlingly vague.
+
+  In a chapter on the geopolitical risks posed by A.I., the authors conclude that ''the nations of the world must make
+urgent decisions regarding what is compatible with concepts of inherent human dignity and moral agency.'' (OK,
+we'll get right on that!) A brief section about TikTok -- an app used by more than a billion people worldwide, whose
+ownership by a Chinese company raises legitimately fascinating questions about national sovereignty and free
+speech -- ends with the throwaway observation that ''more complex geopolitical and regulatory riddles await us in
+the near future.'' And when the authors do make specific recommendations -- such as a proposal to restrict the use
+of A.I. in developing biological weapons -- they fail to elaborate on how such an outcome might be achieved, or who
+might stand in its way.
+
+  Finally, GPT-3 didn't address the biggest question about the book, which is why it exists at all. Kissinger, who was
+66 years old when the World Wide Web was invented, is not a full-time A.I. practitioner, nor a particularly savvy
+parser of tech hype. (His last newsworthy foray into the tech world was when he sat on the board of Theranos, the
+doomed blood-testing start-up.) Schmidt, who spent a decade running Google, is these days preoccupied with
+trying to scare up military contracts for big tech companies. And while Huttenlocher, the dean of M.I.T.'s
+Schwarzman College of Computing, may be a bona fide subject matter expert, it's not clear how much of the book
+he actually wrote.
+
+                                                                                                            Page 3 of 3
+                                              A Robot Wrote This Review
+
+  That said, the book does get some things right. The authors do a commendable job of avoiding what I call ''A.I.
+fatalism'' -- the belief, sadly common in tech circles, that A.I. is part of an inevitable future whose course we are
+powerless to change. Instead, they write that ''humans still control'' A.I., and have the opportunity to ''shape it with
+our values.'' They also point out, correctly, that while many people worry about killer robots who achieve human-
+level sentience and mow us all down with Uzis, a much bigger near-term danger lurks in the innocuous-seeming
+A.I.s we all use every day, from the feed-ranking algorithms of social media apps to the automated dispatch
+systems that power Uber and Lyft.
+
+ ''Without significant fanfare -- or even visibility -- we are integrating nonhuman intelligence into the basic fabric of
+human activity,'' they write.
+
+ Still, while it could be a useful summary of A.I. for those just starting to learn about the topic, ''The Age of AI'' does
+not advance the ball much. It's a shame, given how much access the authors presumably had to a who's who of the
+A.I. elite. And it makes me wish that...
+
+ Actually, you know what? It's sunny outside, my dogs need a walk, and I don't really feel like finishing this review.
+Take it away, GPT-3.
+
+  ...It makes me wish that someone out there would crank out a comprehensive survey text on AI, one that's laser-
+focused on the technical issues, written by industry mavens who are actually doing this stuff day in and day out, and
+is written in an engaging, clear, plain-spoken style.
+
+  I couldn't have said it better myself.Kevin Roose is a technology columnist for The Times and the author of
+''Futureproof: 9 Rules for Humans in the Age of Automation.''THE AGE OF AIAnd Our Human FutureBy Henry A.
+Kissinger, Eric Schmidt and Daniel Huttenlocher254 pp. Little, Brown & Company. $30.
+
+
+https://www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-
+huttenlocher.html
+
+
+
+Graphic
+
+
+PHOTO: (PHOTOGRAPH BY Elliot Ulm FOR THE NEW YORK TIMES)
+
+
+Load-Date: December 12, 2021
+
+
+  

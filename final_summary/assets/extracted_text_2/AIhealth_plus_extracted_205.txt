@@ -1,0 +1,436 @@
+
+
+                                                                                                        Page 1 of 8
+       Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                           replaced humans, but the technology is making business....
+
+
+
+
+   Smart Machines: AI technology's impact on Florida's business sectors;
+   Arificial intelligence hasn't quite replaced humans, but the technology is
+                             making business better.
+                                                        Tampa Bay Times
+                                                  February 16, 2021 Tuesday
+
+
+
+Copyright 2021 Times Publishing Company All Rights Reserved
+
+Section: NEWS; Business
+Length: 3867 words
+Byline: Amy Keller|Florida Trend
+
+Body
+
+
+Editor's note: This article originally was published in theFebruary issue of Florida Trend magazine.
+
+AI can't replace humans, but the technology is making inroads in more and more business sectors.
+
+In an oft-quoted interview with Life magazine in 1970, Marvin Minsky, an MIT researcher and pioneer in artificial
+intelligence, predicted that scientists were about three to eight years away from creating a machine as intelligent as
+the average human. Such a machine would "be able to read Shakespeare, grease a car, play office politics, tell a
+joke, have a fight," Minksy said, and it would learn at such a "fantastic speed" that it would reach genius level within
+just a few months.
+
+Fifty years later, Minksy's vision of a machine on par with the human brain still hasn't been realized - but popular AI
+tools, such as Google's search engine and Apple's Siri, have become part of everyday life, and machines are
+learning how to master an array of complex tasks, from operating self-driving cars to spotting tumors to monitoring
+crops.
+
+"It's no longer, 'is artificial intelligence going to work?' It does work, and there's numerous applications that are out
+there - medical imaging, credit fraud detection, movie selections - that use sophisticated artificial intelligence
+algorithms to make business better," says Jeff McFadden, chief technology officer for Xonar Technology, a Largo-
+based company that designed an AI-enabled security surveillance system to detect weapons. "It's really moved out
+of that research area and moved into where it's really a commercially viable technology set."
+
+The leaps forward have been made possible by powerful computer processing engines and advances in machine
+learning techniques. Computers with enough horsepower can crunch large data sets and use a series of algorithms
+to extract patterns and glean insights from that information. In Al recommendation systems, like that employed by
+Netflix, the algorithm looks at an individual's viewing history, considers the preferences of other members with
+similar tastes and evaluates other information to come up with a viewing suggestion. An algorithm in an intelligent
+
+                                                                                                       Page 2 of 8
+      Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                          replaced humans, but the technology is making business....
+
+credit card fraud detection service, on the other hand, flags suspect purchases by looking for outliers or anomalies
+that depart from a consumer's normal purchasing behavior.
+
+McFadden's Xonar uses an algorithm to spot concealed weapons based on their ultra-wide band radar signature.
+The system transmits an electromagnetic pulse toward a person as they walk through it. The pulse bounces back to
+a receiver. That reflected wave is then analyzed by machine's algorithm to see if it matches the shape, density and
+other characteristics of various weapons in its learning library. It's more discriminating than traditional technologies,
+which rely primarily on metal detection, and Xonar can differentiate between a knife or handgun and other harmless
+metal items, such as keys or money clips, making for fewer "false positives." It's also less obtrusive. McFadden
+says friends who've breezed through the system in place at the entrances of Ruth Eckerd Hall in Clearwater didn't
+even realize it was there.
+
+Inspired by neural networks in the brain, these "deep learning" systems can remember and build on observational
+patterns they find in data. In essence, they become smarter over time, but it's vital to control what data the systems
+receive. "The big AI in general, deep-learning specifically, learns everything. It learns what you want it to learn, but
+it learns what you don't want it to learn," McFadden cautions.
+
+In some cases, AI can outperform its human counterparts. A recent study in the journal Nature found that a Google
+AI system did a better job in predicting breast cancer from mammograms than radiologists did. And a new AI
+software engineered by the British company DeepMind has created a system of algorithms called AlphaFold that
+can rapidly and reliably predict the 3-D shape of proteins - a task that usually takes months or years. The
+breakthrough is expected to speed up and reduce the costs of pharmaceutical development.
+
+Here's a closer look what companies and researchers across Florida are doing with AI technology and why the
+experts say it will never completely replace humans.
+
+AGRICULTURE
+
+Gaps in Groves
+
+Designer: Yiannis Ampatzidis (UF spinoff Agriculture Intelligence)
+
+Product: Agroview, citrus tree counter
+
+UF technology is helping orange growers count their trees and optimize tree growth.
+
+Orange trees were easier to count before citrus greening struck. Fields were relatively uniform then, and farmers
+who had planted 160 trees per acre on 10 acres knew with reasonable certainty that they had about 1,600 trees.
+But when greening swept through Florida about a decade ago, groves became riddled with gaps where diseased
+and dead trees once stood. To get an accurate count, growers had to hire workers to drive through their groves,
+counting each tree, one by one, with a clicker.
+
+"It was very time consuming and very expensive," says Yiannis Ampatzidis, a University of Florida scientist
+stationed in Immokalee. To address the problem, Ampatzidis and his research team developed a system called
+Agroview that uses special images taken from drones and the ground to count the trees and assess their
+conditions. The method isn't perfect, but it's close. It tallied 175,977 citrus trees at one Hendry County farm with
+close to 98% accuracy. It's also quick, taking about 10% as long as a manual count.
+
+Florida growers seized on the technology in the aftermath of Hurricane Irma, when the U.S. Department of
+Agriculture began requiring them to submit accurate tree inventories to maintain insurance coverage. Others have
+used Agroview to pinpoint gaps in groves so they can replant where dead trees once stood. Growers can also use
+the technology to detect disease and optimize the health of plants.
+
+Agroview combines multispectral imaging and leaf analysis. The drones carry special cameras that capture image
+data of the trees across a broad portion of the electromagnetic spectrum, including wavelengths invisible to the eye.
+
+                                                                                                       Page 3 of 8
+      Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                          replaced humans, but the technology is making business....
+
+Data from those images are then fed into Agroview's AI software, where they're cross-referenced with data from
+leaves that have been analyzed in labs to identify plants with nutrient deficiencies, diseases or other types of stress.
+Armed with that information, growers can fine-tune their application of fertilizer, pesticide and other inputs. If the
+system indicates low levels of nitrogen or phosphorus, for instance, the grower can increase his application of those
+nutrients in the affected areas. If nutrient levels are high, the grower can ease up. If disease is detected, the grower
+can apply a treatment early, before it spreads through the entire crop.
+
+Farmers can purchase Agroview through a UF spinoff company called Agriculture Intelligence. The company will
+also collaborate with drone operators if growers don't have their own drone to collect the data. "Right now, we're
+working mainly with citrus, but tomato and other crops, other profiles, will come soon," Ampatzidis says.
+
+UF researchers are also collaborating with a farm equipment company in Clewiston called Chemical Containers to
+develop a "smart sprayer" that uses AI and "sensor fusion" for precise application of insecticides and weed killer. "If
+you have a traditional sprayer, it will spray everywhere with the same amount, but that doesn't make sense,"
+Ampatzidis says. "If you have a big tree, you need more chemicals to be sprayed, but if it's small, half the size, in
+theory you need half. If it's a gap, you don't spray at all."
+
+THE ARTS
+
+Dali, Resurrected
+
+Designer: Goodby Silverstein & Partners
+
+Product: Dali Lives, a re-creation of the artist
+
+Salvador Dali, the Spanish surrealist painter, died in 1989 at age 84. But visitors to the Dali Museum in St.
+Petersburg can interact with a life-like version of the artist that's been re-created using artificial intelligence.
+Unveiled in 2019 on what would have been Dali's 115th birthday, Dali Lives was created using AI and a faces-
+wapping technique known as a deep-fake. Using archived interview footage and other historical materials, an AI
+algorithm designed by San Francisco-based Goodby Silverstein & Partners was able to master Dali's mannerisms.
+
+Following 1,000 hours of machine learning, the AI tool generated a likeness of Dali's face that was superimposed
+over an actor's body and synced with a voice impressionist to create a talking digital replica of the flamboyant artist.
+The resulting exhibit includes 125 interactive videos, with 190,512 possible combinations depending on user
+response, meaning no two visitors are likely to have exactly the same experience. Museum visitors are treated to a
+selfie taken by the digital Dali that they can receive via a text message before they leave the museum.
+
+EDUCATION & RESEARCH
+
+Super Partnership
+
+Designer: Nvidia/University of Florida
+
+Product: HiPerGator supercomputer upgrade
+
+Nvidia and UF are partnering to create "higher education's most powerful AI supercomputer" (rendering). All
+colleges at the university are building AI courses related to their area of expertise.
+
+After graduating from the University of Florida in 1980 with his engineering degree, Chris Malachowsky landed his
+first job at Hewlett-Packard in California, where he designed a central processing unit, or CPU chip. He leveraged
+that experience into his second job at Sun Microsystems, where he worked on computer graphics until 1993, when
+he and some colleagues decided to start their own company, Nvidia.
+
+In the years since, Nvidia has transformed visual computing and come to dominate the artificial intelligence
+landscape with its graphics processing unit, or GPU, technology. Now, the Silicon Valley company is partnering with
+
+                                                                                                        Page 4 of 8
+       Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                           replaced humans, but the technology is making business....
+
+the University of Florida to supply an AI supercomputer that works with UF's existing HiPerGator system to create
+"higher education's most powerful AI supercomputer," which will be capable of delivering 700 petaflops of AI
+performance, or 1 quadrillion operations per second.
+
+The public-private partnership is anchored by a $60-million donation - including $25 million from Malachowsky and
+$25 million in technology, training and services from Nvidia. UF will contribute $20 million. The school has also
+committed to hiring 100 faculty members focused on AI and plans to incorporate AI broadly across its curriculum.
+
+While the school already offers courses in machine learning and AI ethics, each college at the university is building
+AI courses related to its area of expertise. UF's College of Business, for instance, is working on an AI course that
+will focus on AI in financial technologies. "We want to make it possible for every student who graduates from the
+University of Florida and who'd like to learn about AI the opportunity to either become acquainted with it, to become
+competent in it or become an expert in it," says Joe Glover, UF's provost and senior vice president of academic
+affairs.
+
+Glover says anyone in the State University System will be able to use its new supercomputer for educational
+purposes to teach students about machine learning and AI. Researchers at all the State University System schools
+will have access to the new supercomputer for educational purposes at no charge to teach students about machine
+learning and AI. UF will also provide limited support and training for using its computer resources.
+
+The partnership comes at a critical moment, with the federal government warning that United States is lagging in
+churning out AI-trained workers. "We think we have a unique approach here to helping to solve that issue. We
+intend to create the next generation of the AI-enabled workforce at scale, graduating 5,000 to 10,000 people who
+are going to pour into the economy and bring those skills with them to whatever their chosen occupation is," says
+Glover.
+
+RESEARCH
+
+COVID, Cancer & Cats
+
+Designer: Ulas Bagci
+
+Product: Predictive health care software
+
+Ulas Bagci, an assistant professor in University of Central Florida's department of computer science, has been
+working with an international team of researchers to develop AI tools that are helping doctors and nurses across the
+globe manage COVID-19 patients.
+
+Using images from chest CT scans, their algorithm is able to predict which patients have COVID-19 and the
+infection's severity, helping health care providers identify which patients need to go to ICU, which are likely to need
+intensive care or die and which ones can go home based on inflammation it detects in the lungs.
+
+The AI technology has proved especially helpful in countries such as Italy, Japan, China and the U.S. "The
+hospitals are full of COVID patients. They need to manage them in the optimal way," Bagci says.
+
+Bagci has developed similar predictive algorithms to diagnose lung cancer and pancreatic cancer from CT scans
+and MRI images. He says the algorithms can accomplish in seconds what it takes radiologists "ages to do." But he
+says the AI tools are not a replacement for their expertise, but rather an enhancement to lend them support and
+point them to the problem. "A human should always be in the loop for a trustworthy AI," he says.
+
+In the classroom, Bagci likes to use the "cat behind the tree" example for his students. "Let's say there's a cat
+behind a tree and on one side you see the head and the other side you see the tail. You understand, as a human,
+that there is only one cat. But artificial intelligence is too artificial. It allows for two cats. It will give labels like cat 1,
+tree, and cat 2," he explains. "With high-level knowledge, we are much better than AI, and for high-risk applications,
+
+                                                                                                       Page 5 of 8
+      Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                          replaced humans, but the technology is making business....
+
+none of these deep-learning algorithms give you reason. It's good. It's really helpful, but it's not going to replace
+humans. True intelligence is not there."
+
+HEALTH CARE
+
+AI-Powered Patient Monitoring
+
+Designer: Chakri Toleti (Care.ai)
+
+Product: Care.ai, patient monitoring software
+
+Chakri Toleti, a serial entrepreneur from the Orlando area, was taking a sabbatical "in between companies" in 2018
+when he learned that his 78-year-old mother had fallen in a bathroom in India. She was stranded there for nearly 30
+minutes before a caregiver found her. She recovered, but the incident motivated Toleti to create a company called
+Care.ai that makes AI-powered autonomous patient monitoring systems for hospitals, nursing homes and other
+health care facilities.
+
+Toleti says the system was inspired by his experience building motion capture systems at Disney 25 years earlier
+and sensor technology like that used in self-driving cars. Care.ai relies on similar tools - including sensors and an
+AI-powered "learning library" of behaviors and movements - to predict when a patient is at risk of falling or
+wandering off. If it senses something worrisome, it alerts nurses. It can also detect whether workers are washing
+their hands, delivering medications or coming in to check on patients when they should, in effect creating a "self-
+aware" room.
+
+When COVID-19 hit last year, Care. ai tweaked its platform to screen hospital visitors for signs of infection. The
+touch-free screening tool - which is used at Tampa General Hospital, Rush University Medical Center in Illinois and
+other facilities across the nation - has a contact-free thermal sensor to detect feverish visitors, sending a message
+to staff if a person's temperature exceeds 100 degrees.
+
+REAL ESTATE/DEVELOPMENT
+
+Real Estate Modeling
+
+Designer: Olivia Ramos (Deepblocks)
+
+Product: Deepblocks, early property analysis software
+
+Growing up in Cuba, where she lived until she was 10 years old, Olivia Ramos spent lots of time in the office where
+her mother worked as an architect. "At the time, they had no computers, so it was all a bunch of pencils and rulers,
+and I fell in love with all the little gadgets," she recalls.
+
+Two decades later, Ramos is perfecting her own gadget - a high-tech software application called Deepblocks that
+uses data and deep learning to streamline and automate the process of early property analysis. Developers using
+the software can zoom in to a specific parcel, set their building parameters - square footage, number of units,
+parking, etc. - and the program spits out a 3-D visual of the project and an analysis with a projected return on
+investment that takes into account everything from market demographics (such as rent-to-income ratios) to local
+zoning rules.
+
+"Zoning data, the rules of the city, are usually 400- page PDFs and are really expensive to go through and
+understand," says Ramos, who has a master's degree in architecture from Columbia University and a master's in
+real estate development from the University of Miami. "We developed models that understand that data and extract
+that data from those documents. You just select a piece of land, and it tells you what you can do."
+
+                                                                                                        Page 6 of 8
+       Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                           replaced humans, but the technology is making business....
+
+The software can shave considerable time off development planning. It took one customer a year to do 21 iterations
+of a particular parcel that Deepblocks can help do in a few hours, and users can do as many models as they want,
+Ramos says. It currently includes parcel data for more than 1,000 U.S. cities and zoning data for 30 cities.
+
+The Miami startup has a staff of six, including CEO and founder Ramos, and has raised $2 million through two
+funding rounds. It's raising $3 million in a third round. Real estate pros can buy a subscription to Deepblocks for
+$1,620 a month or $12,600 for a year. The software has seen a "big growth in adoption" amid the COVID-19
+pandemic because people can't travel as easily to visit potential markets, Ramos says.
+
+The goal is for the software to make suggestions on opportunities in the market and determine the highest and best
+use of any property, Ramos says. When that happens, she believes Deepblocks will help tackle even bigger
+problems, such as a lack of affordable housing.
+
+"It's really, really hard to make an affordable housing project profitable, and it requires a lot of government help, so if
+we use the inefficiencies and understand what to build and how to build and where to build it, then that projects a lot
+of savings on the front end," she says. "Every single penny you save in affordable housing in cost, it's going to
+make that project more likely to happen."
+
+LAW
+
+Legal AI
+
+Designer: Holland & Knight /Joe Dewey
+
+Product: Draft responses software
+
+Joe Dewey, a financial services and real estate attorney and "innovation partner" at Holland & Knight, says his firm
+has built an AI system that can generate about a dozen draft responses to pleadings for cases in high-volume
+practice areas. While a human must still sign off on the final version of a document, the law firm has been able to
+shave about two to three hours off the process of preparing a pleading. "With 50 to 100 cases a month, that starts
+to add up," he says.
+
+Dewey sees bigger things on the AI horizon for the legal world - such as a deep-learning tool that could help an
+attorney draft a motion based on prior decisions issued by a particular judge, or an algorithm that could synthesize
+all existing case law on a topic and create a memorandum. "If you could get something that could do that at 70% to
+80% accuracy, that would be a very valuable tool," he says. "The technology will need to evolve, but I think that's
+the direction we're headed."
+
+The Miami lawyer is skeptical that any machine could rival the human brain in a broad way. "For the most part, the
+machine learning models are good at one task. It's just a statistical model at the end of the day, and it applies the
+statistics to make a prediction about something," Dewey says. "They're very powerful with the tasks they're trained
+to do, but very limited, usually to a very narrow task. Beyond that, they're fairly dumb."
+
+Automation
+
+An increasing number of companies are leveraging AI to automate more mundane business tasks.
+
+The Tampa Bay Rays and Rowdies use an AI-power contract management system called IntelAgree, created by
+the Tampa-based startup CoLabs, to streamline their contract process.
+
+A 4-year-old Miami company called Chirrp has developed a platform that harnesses IBM Watson's conversation
+technology to create more "human-like" chatbots for businesses.
+
+Vinsa, a company that grew out of the AI-consulting firm Levatas in Palm Beach Gardens, uses its computer vision
+models along with robots created by Boston Dynamics to automate "labor-intensive" tasks such as reading and
+
+                                                                                                        Page 7 of 8
+       Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                           replaced humans, but the technology is making business....
+
+monitoring analog utility gauges at electric, oil and gas sites. Vinsa has also built computer vision models that can
+see whether workers on construction sites are wearing masks and complying with other safety requirements.
+
+AI Milestones
+
+Florida Atlantic University's College of Engineering and Science is implementing AI-oriented degree programs,
+including a master of science with a major in AI (the first such degree in Florida), a multi-disciplinary master of
+science in data and analytics and a joint degree that funnels honors students into a master's of science in data
+science.
+
+Researchers at FAU's College of Engineering and Computer Science recently landed a five-year, $2.4-million grant
+from the National Science Foundation to train graduate students in data science technologies and applications.
+
+With a $1-million gift from Rubin and Cindy Gruber, FAU is building a 3,400-sq.-ft. artificial intelligence lab within its
+Wimberly Library.
+
+Workforce Impacts
+
+When Ivan Garibay was invited to Washington, D.C., a few years ago to talk to lawmakers about artificial
+intelligence, many quizzed him about "the singularity" - a theoretical point in time when AI will surpass human
+intellect - and inquired about whether smart machines will be job killers.
+
+Garibay, founding director of the University of Central Florida's Complex Adaptive Systems Laboratory, told them
+the age of AI will be like other industrial revolutions. "Some types of jobs disappear, but it also brings new types of
+jobs," he said. "A few years down the road, we probably won't need Uber drivers or taxi drivers or truck drivers
+because AI's getting better and better at guiding cars, but that doesn't mean that many jobs won't appear in that
+new AI economy." As traditionally, retraining people with new skills, he says, will be key to weathering the
+disruption.
+
+A 2019 report from the Brookings Institution suggests that the impacts of AI won't be evenly felt. Those in "better-
+paid, white-collar occupations" are among the "most exposed" to AI, although the "most elite workers - such as
+CEOs - appear to be somewhat protected," according to Brookings' analysis. The report says that jobs involving
+"pattern-oriented or predictive work" may be "especially susceptible," whereas low-paying "rote" jobs involving food
+preparation, health care and personal care may be less affected.
+
+As for the notion of the singularity - "we're very, very far away," Garibay surmises. "That is something I don't even
+see in generations, having true intelligent machines that could replace or be a threat to humankind. It's almost like
+the Wizard of Oz. It's always amazing when you see the results, but when you see behind the curtain, you realize
+what's there is not as impressive. It's just mathematics and fast computers. I don't see it coming. Not in our lifetime
+at least."
+
+
+
+Graphic
+
+
+See image link
+Jeff McFadden, chief technology officer for Xonar Technology, stands between company sensors installed at Ruth
+Eckerd Hall to screen visitors and check their temperatures.
+
+See image link
+Yiannis Ampatzidis, UF assistant professor, Precision Agriculture and Smart Machines
+
+See image link
+
+                                                                                                       Page 8 of 8
+      Smart Machines: AI technology's impact on Florida 's business sectors Arificial intelligence hasn't quite
+                          replaced humans, but the technology is making business....
+
+Goodby Silverstein & Partners relied on hundreds of interviews, quotes and footage of Dali to train an AI algorithm
+to "Learn" aspects of the artist's face.
+
+See image link
+
+Nvidia and UF are partnering to create "higher education's most powerful AI supercomputer."
+
+See image link
+UCF assistant professor Ulas Bagci and his team created an algorithm that can predict the progression of COVID
+patients.
+
+See image link
+
+After a fall stranded his mother, Chakri Toleti (second from right) decided to create AI technology that could locate
+and identify individuals and their behaviors in real-time, "minimizing risks before they happen."
+
+See image link
+Olivia Ramos' software gives developers a 3-D peek at what a building will look like on a parcel.
+
+
+Load-Date: February 18, 2021
+
+
+  

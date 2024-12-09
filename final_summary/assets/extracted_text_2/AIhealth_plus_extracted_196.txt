@@ -1,0 +1,81 @@
+
+
+                                                                                                           Page 1 of 2
+                        Professor on using AI to detect medical errors, the future of AI in medicine
+
+
+
+
+  Professor on using AI to detect medical errors, the future of AI in medicine
+                                            The Stanford Daily: Stanford University
+                                                  August 26, 2020 Wednesday
+
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 545 words
+Byline: Amanda Zhu
+
+Body
+
+
+Scripps Professor of Molecular Medicine Eric Topol gave a talk on the future of artificial intelligence in medicine at
+the Stanford Artificial Intelligence in Medicine & Imaging Symposium on Aug. 5, where he discussed developing
+medicine that is much more accurate than it is now. According to Topol, there are over 12 million serious medical
+errors per year, leading to added costs and other complications.
+
+In one sense, machines are much more capable than humans at detecting errors, Topol said. Machines are able to
+find different medical complications that doctors themselves may not be able to find, such as tumor nodules, and
+can advance medical technology, as with mammographies.
+
+"If you show this picture [of a retina] to retinal authorities, their chance of getting [the gender] right is 50%," Topol
+said. "But interestingly, an AI algorithm can be trained to be 97 to 98% accurate."
+
+Machines can identify many other aspects of a patient simply from the retina, including one's possibility of kidney
+disease, Alzheimer's and diabetes and age and sex. Topol said applications of AI are not limited to images of the
+retina: AI can interpret all sorts of slides and images that pathologists cannot see or make conclusions.
+
+"This is going to affect, in the future, every medical discipline," he said. "There's no exception here. And it's not just
+those in the hospital. It's paramedics, it's all the paraprofessionals, pharmacists - the works."
+
+Topol said AI would transform the health and medical field with tasks such as interpreting scans, selecting embryos
+for in vitro fertilization and predicting death in hospitals. AI will also greatly improve the resolution and quality of
+medical scans.
+
+"Machines will not replace physicians," Topol said, quoting professor and neurosurgeon Antonio Di Leva. "But
+physicians using AI will soon replace those not using it."
+
+Even with the tremendous potential of AI applications, Topol still emphasized that humanistic medicine is important
+in the long-term advancement of AI in medicine.
+
+                                                                                                       Page 2 of 2
+                       Professor on using AI to detect medical errors, the future of AI in medicine
+
+Even now, Topol said that patients often feel rushed during their doctor visits. It's not uncommon to see physicians
+typing on computers or facing their screens, without making eye contact with patients during doctor visits.
+
+Topol said in medicine there is a lack of empathy, which companies and institutions should focus on improving.
+
+"We want to restore the humanistic side - the critical component - of what is medicine," Topol said.
+
+Contact Amanda Zhu at amandaz9888 'at' gmail.com.
+
+.css-10w0hkr{margin:0 auto;width:100%;}@media (min-width:1100px){.css-10w0hkr{width:650px;}}
+
+While you're here...
+
+We're a student-run organization committed to providing hands-on experience in journalism, digital media and
+business for the next generation of reporters. Your support makes a difference in helping give staff members from
+all backgrounds the opportunity to develop important professional skills and conduct meaningful reporting. All
+contributions are tax-deductible. Support the Daily $50$200$1,000OtherMake my donation a monthly donation. Get
+Our EmailsDigest Amanda ZhuAmanda Zhu is a high schooler writing as part of The Daily's Summer Journalism
+Workshop..css-qmqbsq{margin:0 auto;width:100%;}@media (min-width:1100px){.css-qmqbsq{width:600px;}}
+
+
+Load-Date: August 26, 2020
+
+
+  

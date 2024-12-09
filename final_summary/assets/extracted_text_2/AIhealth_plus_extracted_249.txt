@@ -1,0 +1,571 @@
+
+
+                                                                                                  Page 1 of 11
+         Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                             Opportunities for Canada
+
+
+
+
+ Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices
+           in South Korea and Strategic Opportunities for Canada
+                                                   Canadian Global Affairs Institute
+                                                     26 September 2023 Tuesday
+
+
+
+Copyright 2023 Content Engine, LLC.
+All Rights Reserved
+Copyright 2023 Canadian Global Affairs Institute All Rights Reserved
+
+Length: 6430 words
+Byline: cgai
+
+Body
+
+by Daniel Jacinto
+September 2023
+
+A joint publication with:
+
+Triple_Helix_Top_Logo.JPG
+
+
+Introduction
+
+Information technology is fundamental to national security in the 21st century. Advances in remote technology,
+sensors, communication networks and artificial intelligence (AI) have pushed the boundaries for defence innovation
+from anti-satellite (ASAT) weapons1 to hypersonic glide vehicles,2 to the drones famously deployed in the ongoing
+war in Ukraine.3 Increasing dependence on computer networking has also opened a new domain in cyberspace,
+with the past two decades alone witnessing high-profile cyberattacks on nation states or critical infrastructure.
+These include:
+            •      Distributed denial-of-service (DDoS) attacks against the Estonian government in 20074 and
+            Georgian government in 20085;
+     •      The Stuxnet worm used to sabotage Iranian uranium enrichment centrifuges in 2011;6
+     •      Data breaches of U.S. federal agencies during the 2020 SolarWinds hack;7 and
+     •    The ransomware attack that shut down the American Colonial Pipeline in 2021.8
+South Korea has grappled first-hand with the threat of advanced warfare. Neighboured by a North Korea intent on
+flexing its advanced missile and cyber-capabilities, and a China in the midst of a military modernization program,
+South Korea is situated in a threat environment that necessitates keeping up with the bleeding edge of
+contemporary high-tech war. As a fellow player in the Pacific arena, and sharing a mutual ally in the United States,
+this also makes South Korea a prospective partner for Canada's own ambitions in technological defence innovation.
+
+                                                                                              Page 2 of 11
+     Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                         Opportunities for Canada
+
+This paper examines defence technology practices in South Korea to identify strategic opportunities for Canada.
+The first section provides a brief overview of the relationship between technology and defence in the 21st century.
+The second and third sections assess defence technology practices in South Korea and Canada respectively,
+noting particular differences in each country's threat environment. Taking stock of these comparisons, the article
+concludes by highlighting potential strategic opportunities for Canada in pursuing closer defence technology ties
+with South Korea.
+
+ Technology and Defence in the 21st Century: The Nature of the Threat
+For observers of the information revolution, the primary challenge has been to comprehend the threat posed by
+these emerging technologies. Epitomized in then-U.S. Defense secretary Leon Panetta's 2012 warning of a "cyber-
+Pearl Harbor,"9 a substantial focus has historically been cyberwar - the coercive use of offensive information
+technologies against other states - as the primary threat. For the most part, this notion stems from the idea that with
+a few lines of code or key presses, a nefarious agent can subvert one's weapons or defence systems or else cripple
+a nation's critical infrastructure, a fear exacerbated by the experience of the 2011 Stuxnet worm which the U.S. and
+Israel reportedly launched against Iran's nuclear program. In a related line of thinking, the cyberwar threat also
+manifests in the capacity for cyber-tools to disrupt military, civilian or governance structures in a manner that states
+could perceive as an armed attack.10 For others, the escalatory potential rests in the fact that increased
+dependence on computing systems turns them into a key resource that states may seek to defend by a pre-emptive
+strike.11
+However, not all observers agree that cyberwar is the primary threat from emerging technologies. Running counter
+to the cyber-alarmists are the (seemingly more numerous) cyber-skeptics, those who view the cyberwar threat as
+overstated. Pointing to the empirical paucity of cyberattacks that possess any existential threat, the difficulty of
+relying on anonymous attacks to elicit political objectives and the inability of cyber-tools to supplant broader
+strategic paradigms like deterrence or conventional force, such experts have gone so far as to claim outright that
+"cyber war will not take place."12
+
+Thus, the zeitgeist of cyberwar has diminished somewhat;13 the scholarly consensus now appears to have settled
+on a more nuanced approach centred on two areas: offensive cyber-capabilities below the threshold of war, and
+correspondingly, a more subdued understanding of the threat posed by cyber-power. In the first area, scholars have
+pointed to the use of cyber-tools for the purposes of political subversion or social movements;14 cumulative
+campaigns of sabotage or espionage aimed at long-term shifts in balance of power rather than immediate attack;15
+or the deployment of cyber-tools not as a standalone, but to complement or support offensive capabilities.16 In the
+second area, one development has focused on how technological advances primarily enhance military capabilities
+through defence innovation; for example, in AI for autonomous weapons systems, or AI-guided command and
+control.17 Another development is that a broader understanding of cyber-threat appears to be emerging, with
+greater recognition of economic, social and psychological threats alongside purely those of national security,18 and
+a corresponding need for general cybersecurity.19
+
+Technology and Defence in South Korea
+
+Ranked 11th in internet access according to 2021 data from the International Telegraph Union,20 South Korea is
+often regarded as one of the most technologically advanced societies worldwide. In the defence realm, much of the
+impetus for South Korea's technological integration stems from the Northeast Asian regional threat environment.
+Defence analysts have frequently commented on China's military modernization towards informatized war that
+relies increasingly on advanced technology, support systems and information operations, and joint operations
+across domains (including the cyber-domain).21 The clearest advancement has been in the establishment of the
+People's Liberation Army Strategic Support Force, formed explicitly to harness electronic warfare capabilities.22
+More recent developments include China's move to incorporate AI technology into strategic planning and decision-
+making, as well as human-machine integration, shifting from purely informatized warfare to "intelligentized"
+combat.23 On the cyber-operations front, the U.S. government's Cybersecurity and Infrastructure Security Agency
+recognizes China as an advanced persistent threat, i.e., an adversary with the resources and expertise to conduct
+sophisticated malicious cyberattacks geared towards espionage, data theft or network disruption.24 South Korea
+has occasionally been on the receiving end of these capabilities. In March 2017, Chinese hacking groups launched
+
+                                                                                                 Page 3 of 11
+        Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                            Opportunities for Canada
+
+DDoS and malware attacks against the Ministry of Foreign Affairs and the Lotte Group, presumably in retaliation for
+the deployment of U.S. Terminal High Altitude Area Defense systems.25 In January 2023, Chinese hacking groups
+targeted a number of Korean universities, disrupting access to some of their websites.26
+North Korea is known to possess significant offensive cyber-capabilities. As noted in a 2023 report by a UN panel of
+experts tasked with investigating North Korean sanctions evasion, North Korea possesses an organized network of
+cyber-threat actors operating largely under the Technical Surveillance Bureau of North Korea's Reconnaissance
+General Bureau,27 with U.S. government estimates of up to 6,000-7,000 active personnel, some of whom are
+active abroad.28 These cyber-actors have launched numerous attacks on South Korea, with DDoS attacks on
+South Korean government and banking systems in 200929 and again in 2011,30 and a suspected virus against
+banks and TV broadcasters in 2013.31 Between 2016 and 2023, a number of incidents linked to North Korean
+hacking groups such as Thallium and Kimsuky have involved various actors in South Korea's defence structure.
+Notable among these are a data breach of an unnamed defence firm which stole information on submarine-
+launched ballistic missiles; a malware attack that compromised 3,200 Ministry of Defense computers (including that
+of then-minister Han Min-goo); and attacks against a battle simulation centre affiliated with U.S.-South Korean joint
+operations.32 Though not directed at the South, other major attacks reportedly attributed to North Korea occurred in
+2014 against Sony Pictures Entertainment in retaliation for the satirical film The Interview (about a fictional
+assassination attempt on Kim Jong-un).33 There was also a planned raid of up to $1 billion on Bangladesh Bank in
+2016 that ultimately netted $81 million34 and the 2017 WannaCry ransomware attack that infected computer
+systems in as many as 99 countries.35
+A more recent trend has been North Korea's targeting of crypto markets, such as the attack on South Korean
+cryptocurrency exchanges Bithumb in 201736 and UPbit in 2019,37 and against Vietnam-based Sky Mavis' crypto-
+incorporating digital pets game Axie Infinity in 2023 which stole $625 million in cryptocurrency.38 In its most recent
+crypto-crime report, blockchain firm Chainalysis estimates that the value of crypto assets North Korea stole totalled
+$1.65 billion in 2022, compared to roughly $429 million in 2021 and $300 million in 2020.39 Testifying before the
+U.S. Senate Committee on Homeland Security and Governmental Affairs in November 2022, Secretary of
+Homeland Security Alejandro N. Mayorkas noted that North Korea's cyber-heists have been used to fund the
+country's weapons-of-mass-destruction programs.40
+As a final observation, it is crucial to note that beyond China and North Korea, other actors in the region such as
+Japan41 and Taiwan42 have also experienced shifts in their cyber-securitization discourses, representing a broader
+regional salience of technological security.
+
+In light of this threat environment, integration of technology and defence in South Korea can be observed in two
+areas: defence innovation and general cybersecurity practices. Under the Moon administration (2017-2022),
+technological integration for defence innovation was covered under the policy of Defense Reform 2.0. Featured in
+both the country's 2018 and 2020 defence white papers,43 one of the policy's core tenets is to incorporate fourth
+industrial revolution technologies (data analysis, artificial intelligence, sophisticated networking technology) to
+enhance the country's operational capacity in response to resource constraints, such as demographic shifts
+affecting the country's military conscription program,44 and the character of future warfare. Examples of the
+weapons technologies include manned and unmanned systems and smart surveillance and strike systems. On the
+support systems front, these include virtual simulation and training facilities, and AI-supported barracks, personnel,
+health and materiel management systems. More recently, the Yoon administration's policy direction since 2022 has
+followed the Defense Innovation 4.0 policy line.45 As commentators have pointed out,46 this new policy places a
+greater emphasis on implementation tasks: strengthening research and development through private and military
+links; acquisition of AI-based forces and corresponding education and training; and broader strategic
+reconceptualization of AI technology. The policy notes technology applications including the transition from remote-
+controlled to semi-autonomous and autonomous weapons systems as well as robotics and drone technology.
+South Korea's cybersecurity approach is largely driven by its National Cybersecurity Strategy.47 Released under
+the Moon administration in 2019, the policy identifies six core tasks:
+    •      Increasing the safety of national core infrastructure;
+    •      Enhancing cyberattack response capabilities;
+    •      Establishing cybersecurity governance based on trust and co-operation;
+
+                                                                                                 Page 4 of 11
+        Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                            Opportunities for Canada
+
+    •      Fostering cybersecurity industry growth;
+    •      Fostering a cybersecurity culture; and
+   •      Leading international co-operation in cybersecurity.
+Though much of the policy's subtasks appear rather generic or aspirational, it does refer to several specific
+capabilities:
+    •      AI-based cyberattack detection and response;
+    •      The use of public-private-military readiness exercises;
+    •      Strengthening of legal frameworks and prosecutorial capacity against perpetrators of cybercrimes; and
+    •      Public education programs for cyber-ethics and security practices.
+
+Cybersecurity has also been picked up on the military front: the 2020 Defense white paper echoes the National
+Cybersecurity Strategy's efforts to engage with AI-based cyberattack detection systems and cyber-simulation
+training. It further mentions among its achievements the restructuring and reinforcement of its joint Cyber
+Operations Command, the creation of dedicated cyber-positions for its officers, noncommissioned officers and
+civilian military employees and the creation of dedicated courses in cyber-operations for military personnel.
+
+On a broader scale, the Yoon administration announced in September 2022 a new Digital Strategy of Korea.48
+Among other objectives, the strategy stipulates greater investments in AI and cybersecurity as two of six major
+innovative digital technology focuses, expanding cybersecurity talent by 100,000 individuals and increasing
+educational programing offerings in computer education, including graduate training. Korea's cybersecurity
+practices, however, are not without criticism. Observers have noted that the National Cybersecurity Strategy
+notwithstanding, the institutional backbone of cybersecurity governance is fragmentary, reliant on a patchwork of
+laws and response systems, and governance strategies separated among the military, government and public and
+private sectors.49
+Ultimately, however, what we observe of defence innovation and general cybersecurity is a high degree of
+technological integration tailored to the country's specific threat environment.
+
+Technology and Defence in Canada
+
+Canada faces a drastically different threat environment than South Korea. Though ongoing geopolitical
+uncertainties such as the war in Ukraine and global competition between the U.S. and China are likely to have long-
+term strategic implications, Canada appears to have fewer immediate threats. Among the core security trends
+identified in Canada's 2017 defence policy, Strong, Secure, Engaged (SSE),50 those with the greatest potential to
+necessitate defence innovation likely pertain to shifts in the nature of 21st century conflict and rapid technological
+change. On the cybersecurity front, whereas the cyber-threats Korea faces largely stem from state actors, the
+Canadian Centre for Cyber Security's National Cyber Threat Assessment reports for 2018,51 202052 and 2023-
+202453 have consistently identified cybercrime as the primary online threat to Canadians. A quick survey of
+reported cyberattacks over the past three years supports this conclusion. Although governments have been
+affected on occasion, for instance, the Newfoundland provincial health system in October 2021,54 Global Affairs
+Canada in January 202255 and Nova Scotia in June 2023,56 the remaining incidents have often been ransomware
+attacks aimed at municipal branches, private businesses or educational facilities. It should be stressed that these
+figures do not include the likely more numerous unreported cybercrimes targeted at individuals. State-sponsored
+cyber-operations, particularly in the realm of cyber-espionage against government and commercial actors, still
+remain a liability, evidenced in Canada's decision to ban Huawei from its 5G network infrastructure57 as well as the
+social media app TikTok from government devices.58
+Regarding technological integration for defence innovation, SSE identifies three critical categories of technological
+development: space, cyber and remotely piloted systems. For space, SSE points to space situational awareness,
+space-based Earth observation and maritime domain awareness, and satellite communications as the core
+applications for space technology with explicit reference to the Arctic region. In terms of cyber-capabilities, SSE is
+vague, mentioning only its intention to develop active cyber-operations capabilities, alongside requisite occupational
+
+                                                                                                 Page 5 of 11
+        Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                            Opportunities for Canada
+
+and training changes. For remotely piloted systems, SSE points to varying land, air and naval applications, again
+explicitly focused on their potential for northern surveillance. Puzzlingly, SSE makes little mention of applications for
+artificial intelligence, though this may be a function of timing.
+A 2021 report59 by the Canadian Army Land Warfare Centre identifies a variety of potential applications currently
+being considered:
+    •      AI assistance in command and control, communication flow (including translation), legal research and
+           other operational decision-making;
+    •      Optimizing of sensor technology;
+    •      Data mining, simulations and training;
+    •      Use in combination with unmanned vehicles or robotics;
+    •      Network protection;
+    •      Supervised autonomous weapons systems; and
+    •    Various logistical support functions such as predictive maintenance, supply chain management and
+         medical treatment.
+Canada is governed by its own National Cyber Security Strategy released in 2018.60 Among the policy tasks listed
+in the document are:
+    •      Enhancement of law enforcement capacities to respond to cybercrime;
+    •      Implementation support for cybersecurity measures for small and medium-sized organizations;
+    •      Investing in cyber-technology research and skills building; and
+    •      Intergovernmental and public-private partnership in developing cybersecurity capacities.
+
+Two gaps are worth noting: the first is that consistent with the National Cyber Threat Assessments, the policy's
+thrust appears directed towards the threat of cybercrime. As previous CGAI research has shown, the establishment
+of active cyber-defence capabilities continues to be a weak point in Canadian cybersecurity practice.61 A second
+concern, here echoing SSE, is the stark absence of reference to AI technology. While Canada has adopted several
+AI governance measures such as the Directive on Automated Decision-Making62 and the Pan-Canadian Artificial
+Intelligence Strategy,63 neither reflects the known cybersecurity threats posed by AI-enhanced cyberattacks or
+attacks capable of exploiting AI-based systems.64
+
+ Conclusion: Overlaps and Opportunities for Canada
+A clear takeaway from the above analysis is that South Korea and Canada experience vastly different threat
+environments. These environments in turn appear to be reflected in varied practices pertaining to the use of
+technology for defence innovation, as well as in general cybersecurity approaches. Such differences
+notwithstanding, there are a number of intersecting points that can facilitate productive bilateral co-operation and
+furthering of Canada's defence interests.
+
+In defence innovation, overlapping objectives pertaining to several core technologies such as unmanned or remote-
+operated systems and sensors and surveillance technology may be fruitful for public and private partnerships aimed
+at defence technology research or acquisition. These innovation partnerships would be especially beneficial for
+Canada in cases where South Korea already possesses the requisite technology, as with AI smart training facilities
+or logistical support systems. However, it remains to be seen what role AI will play in Canada's defence innovation
+as we await the results of the defence policy update announced in 2022.65 A creative take on these partnerships
+might, for instance, include jointly sponsored competitive projects, innovation contests and sandboxes or test drives
+akin to those deployed by the Department of National Defence's Innovation for Defence Excellence and Security
+(IDEaS) funding program.66
+Given the mutual threats posed in the cyber-domain, exchanges could also be pursued in cybersecurity. Efforts
+should be made with a view to exchanging best practices at all levels (government, military, private, individual), and,
+given the main threats Canada faces, may involve practices to raise general public awareness of cyber-threats, or
+
+                                                                                              Page 6 of 11
+     Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                         Opportunities for Canada
+
+pertain to joint readiness exercises such as those highlighted in Korea's cybersecurity strategy. These partnerships
+may also help to offset Canada's relative backwardness when it comes to cyber-defence, given Korea's experience
+with state-based cyber-threats.
+As a foundation for both defence innovation and cybersecurity, a final opportunity could perhaps be found in
+education. Academic exchanges or joint programming at the graduate or early research career levels would be an
+essential component in fostering future talent for technological integration for defence and further bilateral co-
+operation. This approach would be especially effective if it encourages disciplinary cross-pollination between STEM
+fields and strategic studies to satisfy both the technical and operational needs of contemporary defence. A
+dedicated funding stream for such exchanges, perhaps akin to DND's Mobilizing Insights in Defence and Security
+(MINDS) funding opportunities,67 could be leveraged for these purposes.
+Ultimately, despite facing its own unique threat environment and strategic priorities, Canada has much to gain in
+defence innovation and cybersecurity and would do well to foster deeper co-operation with South Korea on these
+fronts.
+
+End Notes
+
+1 Mark Smith, "Anti-satellite Weapons: History, Types and Purpose," space.com., August 10, 2022,
+https://www.space.com/anti-satellite-weapons-asats.
+
+2 Jeff Seldin, "What Are Hypersonic Weapons and Who Has Them?" Voice of America News, March 19, 2022,
+https://www.voanews.com/a/what-are-hypersonic-weapons-and-who-has-them-/6492459.html.
+
+3 Staff, "The War in Ukraine Shows How Technology Is Changing the Battlefield," The Economist, July 3, 2023,
+https://www.economist.com/special-report/2023/07/03/the-war-in-ukraine-shows-how-technology-is-changing-the-
+battlefield.
+
+4      Staff,   "The     Cyber      Raiders    Hitting     Estonia,"     BBC        News,     May      17,    2007,
+http://news.bbc.co.uk/2/hi/europe/6665195.stm.
+
+5 John Markoff, "Before the Gunfire, Cyberattacks,"                    New   York    Times,   August    12,   2008,
+https://www.nytimes.com/2008/08/13/technology/13cyber.html.
+
+6 Jonathan Fildes, "Stuxnet Worm 'Targeted High-value Iranian Assets,'" BBC News, September 23, 2010,
+https://www.bbc.com/news/technology-11388018.
+
+7 Rishi Iyengar, "Massive SolarWinds Hack Has Big Business on High Alert," CNN, December 19, 2020,
+https://www.cnn.com/2020/12/19/tech/solarwinds-hack-companies/index.html.
+
+8 Veronica Stracqualursi, Geneva Sands and Arlette Saenz, "Cyberattack Forces Major US Fuel Pipeline to Shut
+Down,"     CNN,    May     8,   2021,   https://www.cnn.com/2021/05/08/politics/colonial-pipeline-cybersecurity-
+attack/index.html.
+
+9 Elisabeth Bumiller and Thom Shanker, "Panetta Warns of Dire Threat of Cyberattack on U.S.," New York Times,
+October 11, 2012, https://www.nytimes.com/2012/10/12/world/panetta-warns-of-dire-threat-of-cyberattack.html.
+10 Mark R. Jacobson, "War in the Information Age: International Law, Self-Defense, and the Problem of 'Non-
+Armed Attacks," Journal of Strategic Studies 21, no. 3, (September 1998): 1-23; John Stone, "Cyber War Will Take
+Place!" Journal of Strategic Studies 36, no. 1, (2013): 101-108.
+11 Jacquelyn Schneider, "The Capability/Vulnerability Paradox and Military Revolutions: Implications for
+Computing, Cyber, and the Onset of War," Journal of Strategic Studies 42, no. 6, (2019): 841-863.
+12 Thomas Rid, "Cyber War Will Not Take Place," Journal of Strategic Studies 35, no. 1, (February 2012): 5-32. For
+other examples of these viewpoints, see: Bradley A. Thayer, "The Political Effects of Information Warfare: Why New
+Military Capabilities Cause Old Political Dangers," Security Studies 10, no. 1, (Autumn 2000): 43-85; Martin C.
+Libicki, "Cyberwar as a Confidence Game," Strategic Studies Quarterly 5, no. 1, (Spring 2011): 132-147; Adam P.
+
+                                                                                              Page 7 of 11
+     Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                         Opportunities for Canada
+
+Liff, "Cyberwar: A New 'Absolute Weapon'? The Proliferation of Cyberwarfare Capabilities and Interstate War,"
+Journal of Strategic Studies 35, no. 3, (June 2012): 401-428; Erik Gartzke, "The Myth of Cyberwar: Bringing War in
+Cyberspace Back Down to Earth," International Security 38, no. 2, (Fall 2013): 41-73; Jon R. Lindsay, "Stuxnet and
+the Limits of Cyber Warfare," Security Studies 22, no. 3, (2013): 365-404; Erik Gartzke and Jon R. Lindsay,
+"Weaving Tangled Webs: Offense, Defense, and Deception in Cyberspace," Security Studies 24, no. 2, (2015):
+316- 348; Ian Bowers and Sarah Kirchberger, "Not So Disruptive After All: The 4IR, Navies and the Search for Sea
+Control," Journal of Strategic Studies 44, no. 4, (2021): 613-636.
+13 Samuel Zilincik and Isabelle Duyvesteyn, "Strategic Studies and Cyber Warfare," Journal of Strategic Studies,
+(2023): 1-22.
+14 David Betz, "Cyberpower in Strategic Affairs: Neither Unthinkable nor Blessed," Journal of Strategic Studies 35,
+no. 5, (October 2012): 689-711; Lennart Maschmeyer, "A New and Better Quiet Option? Strategies of Subversion
+and Cyber Conflict," Journal of Strategic Studies 46, no. 3, (2023): 570-594.
+15 Christopher Whyte, "Power and Predation in Cyberspace," Strategic Studies Quarterly 9, no. 1, (Spring 2015):
+100-118; Martin C. Libicki, "The Convergence of Information Warfare," Strategic Studies Quarterly 11, no. 1,
+(Spring 2017): 49-65; Benjamin Jensen, Brandon Valeriano and Ryan Maness, "Fancy Bears and Digital Trolls:
+Cyber Strategy With a Russian Twist," Journal of Strategic Studies 42, no. 2 (2019): 212-234; Richard J. Harknett
+and Max Smeets, "Cyber Campaigns and Strategic Outcomes," Journal of Strategic Studies 45, no. 4 (2022): 534-
+567.
+16 Jacquelyn Schneider, Benjamin Schechter and Rachael Shaffer, "A Lot of Cyber Fizzle But Not A Lot of Bang:
+Evidence about the Use of Cyber Operations from Wargames," Journal of Global Security Studies 7, no. 2 (2022): 1
+-19; Harknett and Smeets, 534-567.
+
+17 Michael C. Horowitz, "When Speed Kills: Lethal Autonomous Weapon Systems, Deterrence and Stability,"
+Journal of Strategic Studies 42, no. 6 (2019): 764-788; James S. Johnson, "Artificial Intelligence: A Threat to
+Strategic Stability," Strategic Studies Quarterly 14, no. 1 (2020): 16-39; James Johnson, "Delegating Strategic
+Decision-making to Machines: Dr. Strangelove Redux?" Journal of Strategic Studies 45, no. 3 (2022): 439-477;
+Christopher Whyte, "Poison, Persistence, and Cascade Effects: AI and Cyber Conflict," Strategic Studies Quarterly
+14, no. 4 (Winter 2020): 18-46; James Johnson, "'Catalytic Nuclear War' in the Age of Artificial Intelligence &
+Autonomy: Emerging Military Technology and Escalation Risk Between Nuclear-armed States," Journal of Strategic
+Studies (2021): 1-41; Michael Raska, "The Sixth RMA Wave: Disruption in Military Affairs?" Journal of Strategic
+Studies 44, no. 4 (2021): 456-479.
+18 John B. Sheldon, "Deciphering Cyberpower: Strategic Purpose in Peace and War," Strategic Studies Quarterly
+5, no. 2 (Summer 2011): 95-112; Lucas Kello, "The Meaning of the Cyber Revolution: Perils to Theory and
+Statecraft," International Security 38, no. 2, (Fall 2013): 7-40; Nadiya Kostyuk and Carly Wayne, "The
+Microfoundations of State Cybersecurity: Cyber Risk Perceptions and the Mass Public," Journal of Global Security
+Studies 6, no. 2 (2021): 1-25; Ryan Shandler, Michael L. Gross and Daphna Canetti, "Cyberattacks, Psychological
+Distress, and Military Escalation: An Internal Meta-Analysis," Journal of Global Security Studies 8, no. 1 (2023): 1 -
+19.
+19 Gary McGraw, "Cyber War Is Inevitable (Unless We Build Security In)," Journal of Strategic Studies 36, no. 1
+(2013): 109-119.
+
+20 Internet usage statistics available from International Telegraph Union, https://www.itu.int/en/ITU-
+D/Statistics/Pages/stat/default.aspx.
+21 Jacqueline Newmyer, "The Revolution in Military Affairs with Chinese Characteristics," Journal of Strategic
+Studies 33, no. 4 (August 2010): 483-504; Dennis J. Blasko, "Integrating the Services and Harnessing the Military
+Area Commands," Journal of Strategic Studies 39, nos. 5-6 (2016): 685-708.
+22 Elsa B. Kania and John Costello, "Seizing the Commanding Heights: The PLA Strategic Support Force in
+Chinese Military Power," Journal of Strategic Studies 44, no. 2 (2021): 218-264; Nam Tae Park, Changhyung Lee
+and Soyeon Kim, "Analysis of Electronic Warfare Capability of the People's Liberation Army Strategic Support
+Force (PLASSF): Its Impacts and Implications on Korean Security," The Korean Journal of Defense Analysis 33, no.
+1 (March 2021): 119-140.
+
+                                                                                              Page 8 of 11
+     Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                         Opportunities for Canada
+
+23 Elsa B. Kania, "Artificial Intelligence in China's Revolution in Military Affairs," Journal of Strategic Studies 44, no.
+4 (2021): 515-542.
+
+24 Cybersecurity & Infrastructure Security Agency, "China Cyber Threat Overview and Advisories,"
+https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/china.
+
+25 Staff, "S. Korean Foreign Ministry Gets Several DDoS Attacks from China," Yonhap News Agency, March 28,
+2017, https://en.yna.co.kr/view/AEN20170328012651315; Ibid., "Lotte's Chinese Website Hacked in Protest of U.S.
+Missile Defense System," March 1, 2017, https://en.yna.co.kr/view/AEN20170301005600320.
+
+26 Kim Seung-yeon, "Chinese Hackers Attack 12 S. Korean Academic Institutions: KISA," Yonhap News Agency,
+January 25, 2023, https://en.yna.co.kr/view/AEN20230125002553320.
+
+27 United Nations Security Council, Final Report of the Panel of Experts Submitted Pursuant to Resolution 2627
+(2022),    S/2023/171.     Other     reports   from   the    Panel     of  Experts    can    be   found     at:
+https://www.un.org/securitycouncil/sanctions/1718/panel_experts/reports.
+
+28 Congressional Research Service, "North Korean Cyber Capabilities: In Brief," August 3, 2017,
+https://crsreports.congress.gov/product/pdf/R/R44912; "North Korean Cyber Activity," Presentation by the U.S.
+Department       of   Health    and      Human      Services   Cybersecurity Program,   March     25,   2021,
+https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf.
+
+29 Matthew Weaver, "Cyber Attackers Target South Korea and US," The Guardian, July 8, 2009,
+https://www.theguardian.com/world/2009/jul/08/south-korea-cyber-attack.
+
+30 Staff, "South Korea Hit by Cyber Attacks," BBC News, March 4, 2011, https://www.bbc.com/news/technology-
+12646052.
+
+31 Choe Sang-Hun, "Computer Networks in South Korea Are Paralyzed in Cyberattacks," New York Times, March
+20, 2013, https://www.nytimes.com/2013/03/21/world/asia/south-korea-computer-network-crashes.html.
+
+32 Staff, "S. Korean Defense Firms Vigilant Against Hacking: Ministry," Yonhap News Agency, September 26,
+2017, https://en.yna.co.kr/view/AEN20170926007400315; Ibid., "Military Investigators Raid Cyber Command in
+Hacking Probe," December 13, 2016, https://en.yna.co.kr/view/AEN20161213006500315; Shin Ji-hye, "NK
+Hacking Group Targets Korea-US Combined Exercise," The Korea Herald, August 20, 2023,
+https://m.koreaherald.com/view.php?ud=20230820000014. For other examples, see: Kwan-Seok Jang, "Hacking
+Attempts Made on 30 Computers of Defense Acquisition Agency," Dong-A Ilbo, January 15, 2019,
+https://www.donga.com/en/Home/article/all/20190115/1610238/1; Kim Boram, "N. Korea-linked Hackers Attempt to
+Break Into Emails of Seoul's Defense Panel Members," Yonhap News Agency, September 12, 2021,
+https://en.yna.co.kr/view/AEN20210912001000315.
+
+33 Staff, "The Interview: A Guide to the Cyber Attack on Hollywood," BBC News, December 29, 2014,
+https://www.bbc.com/news/entertainment-arts-30512032.
+
+34 Ibid., "The Lazarus Heist: How North Korea Almost Pulled Off a Billion-dollar Hack," June 20, 2021,
+https://www.bbc.com/news/stories-57520169.
+
+35 Ibid., "Massive Ransomware Infection                Hits   Computers      in        99   Countries,"   May   13,   2017,
+https://www.bbc.com/news/technology-39901382.
+
+36 Ibid., "North Korea 'Hacked Crypto-currency                   Exchange         in    South,'"   December     16,   2017,
+https://www.bbc.com/news/world-asia-42378638.
+
+                                                                                              Page 9 of 11
+     Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                         Opportunities for Canada
+
+37 Jon Biggs, "North Korean Hackers Target Crypto Exchange UPbit's South Korean Users," CoinDesk, May 30,
+2019,   https://www.coindesk.com/markets/2019/05/31/north-korean-hackers-target-crypto-exchange-upbits-south-
+korean-users/.
+
+38 Robert McMillan and Dustin Volz, "How North Korea's Hacker Army Stole $3 Billion in Crypto, Funding Nuclear
+Program," Wall Street Journal, June 11, 2023, https://www.wsj.com/articles/how-north-koreas-hacker-army-stole-3-
+billion-in-crypto-funding-nuclear-program-d6fe8782.
+
+39 Chainalysis, "2023 Crypto Crime Report," https://go.chainalysis.com/2023-crypto-crime-report.html.
+
+40 Alejandro N. Mayorkas, "Threats to the Homeland," Testimony before the U.S. Senate Committee of Homeland
+Security     and      Governmental       Affairs,   November       17,     2022,    https://www.hsgac.senate.gov/wp-
+content/uploads/imo/media/doc/Testimony-Mayorkas-2022-11-17.pdf.
+41 Paul Kallender and Christopher W. Hughes, "Japan's Emerging Trajectory as a 'Cyber Power': From
+Securitization to Militarization of Cyberspace," Journal of Strategic Studies 40, nos. 1-2 (2017): 118-145.
+42 Hon-min Yau, "Framing Cyber Security in Taiwan: A Perspective of Discursive Knowledge Production," The
+Korean Journal of Defense Analysis 32, no. 3 (September 2020): 457-474.
+
+43      Republic    of   Korea     Ministry   of    National    Defense,    2018      Defense    White    Paper,
+https://www.mnd.go.kr/cop/pblictn/selectPublicationUser.do?siteId=mndEN&componentId=51&categoryId=0&public
+ationSeq=846&pageIndex=1&id=mndEN_031300000000;               Ibid.,   2020       Defense      White      Paper,
+https://www.mnd.go.kr/cop/pblictn/selectPublicationUser.do?siteId=mndEN&componentId=51&categoryId=0&public
+ationSeq=1036&pageIndex=1&id=mndEN_031300000000.
+44 Byung-ook Choi, "The Future of the Korean Military Service System: Direction and Challenge for New Korean
+Military Service System Innovation," The Korean Journal of Defense Analysis 33, no. 3 (September 2021): 481-505.
+
+45      Republic   of    Korea      Ministry    of    National    Defense,      "Defense     Innovation   4.0,"
+https://www.mnd.go.kr/mbshome/mbs/mndEN/subview.jsp?id=mndEN_031406000000.
+46 Kihyun Yoo and Donghwan Yun, "The Conceptual Framework of Korean Defense Innovation 4.0: Transition to
+High-Tech Army in the Era of 4IR," The Korean Journal of Defense Analysis 35, no. 2 (June 2023): 165-188.
+
+47       Republic   of     Korea,      National    Cybersecurity     Strategy,    https://www.itu.int/en/ITU-
+D/Cybersecurity/Documents/National_Strategies_Repository/National%20Cybersecurity%20Strategy_South%20Ko
+rea.pdf.
+
+48 Republic of Korea Ministry of Science and ICT, "Korea to Come Up With the Roadmap of Digital ROK, Realizing
+the             New               York            Initiative,"        September              28,           2022,
+https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&mPid=2&bbsSeqNo=42&nttSeqNo=742.
+49 Do-Kyung Kim and Soon-Yang Kim, "Reframing South Korea's National Cybersecurity Governance System in
+Critical Information Infrastructure," The Korean Journal of Defense Analysis 33, no. 4 (December 2021): 689-713;
+So Jeong Kim and Sunha Bae, "Korean Politics of Cybersecurity and Data Resilience," in The Korean Way With
+Data, Evan A. Feigenbaum and Michael R. Nelson, eds. (Washington, DC: Carnegie Endowment for International
+Peace, 2021), 39-60.
+
+50 Canada Department of National Defence, Strong, Secure, Engaged: Canada's Defence Policy, 2017,
+https://www.canada.ca/en/department-national-defence/corporate/policies-standards/canada-defence-policy.html.
+
+51      Canadian   Centre     for   Cyber      Security,   National   Cyber        Threat    Assessment       2018,
+https://www.cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2018.
+
+52 Ibid., 2020, https://www.cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2020.
+
+53 Ibid., 2023-2024, https://www.cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2023-2024.
+
+                                                                                             Page 10 of 11
+     Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                         Opportunities for Canada
+
+54 Rob Antle, "N.L. Says Hive Ransomware Group Was Behind 2021 Cyberattack on Health Systems," CBC,
+March 14, 2023, https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyberattack-hive-ransomware-group-
+1.6778579.
+
+55 Peter Zimonjic, "Federal Government Investigating After Cyberattack Hits Global Affairs," CBC, January 24,
+2022, https://www.cbc.ca/news/politics/cyber-attack-federal-agencies-respond-1.6325792.
+
+56 Jean Laroche, "Members of the Public Among Those Affected By Massive N.S. Cyberattack," CBC, June 9,
+2023, https://www.cbc.ca/news/canada/nova-scotia/ns-government-cyberattack-data-personal-information-criminal-
+1.6871682.
+
+57 Catharine Tunney and Richard Raycraft, "Canada Bans Chinese Tech Giant Huawei From 5G Network," CBC,
+May 19, 2022, https://www.cbc.ca/news/politics/huawei-5g-decision-1.6310839.
+
+58 Richard Raycraft, "Federal Government Banning Social Media Platform TikTok From Government Phones,"
+CBC, February 27, 2023, https://www.cbc.ca/news/politics/government-tiktok-phones-ban-1.6761737.
+
+59 Geoffrey Priems and Peter Gizewski, "Leveraging Artificial Intelligence for Canada's Army: Current Possibilities
+and      Future    Challenges,"     Canadian        Army      Journal      19,      no.       2     (2021):     40-51,
+https://www.canada.ca/en/army/services/line-sight/articles/2022/05/leveraging-artificial-intelligence-for-canadas-
+army.html.
+
+60 Public Safety Canada, National Cyber Security Strategy: Canada's Vision for Security and Prosperity in the
+Digital Age, 2018, https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx.
+
+61 Alexander Rudolph, "Canada's Active Cyber-Defence Is Anything But Active," Canadian Global Affairs Institute,
+July 2021, https://www.cgai.ca/canadas_active_cyber_defence_is_anything_but_active; Ibid., "When Empty
+Promises     are    Literally Empty:   Canadian     Cyber-Defence    Policy    by   Ad-Hoc,"    July     2022,
+https://www.cgai.ca/when_empty_promises_are_literally_empty_canadian_cyber_defence_policy_by_ad_hoc.
+
+62 Government of Canada, Directive on Automated Decision-Making, https://www.tbs-sct.canada.ca/pol/doc-
+eng.aspx?id=32592.
+
+63 Ibid., Pan-Canadian Artificial Intelligence Strategy, https://ised-isde.canada.ca/site/ai-strategy/en.
+
+64 For a discussion of AI-enhanced and AI-exploiting cyberattacks, see Whyte (2020).
+
+65 Canada Department of National Defence, "We Want to Hear From You," https://www.canada.ca/en/department-
+national-defence/corporate/policies-standards/canada-defence-policy/we-want-to-hear-from-you.html.
+
+66 Ibid., "Innovation for Defence Excellence and Security," https://www.canada.ca/en/department-national-
+defence/programs/defence-ideas.html.
+
+67 Ibid., "Mobilizing Insights       in   Defence   and    Security,"   https://www.canada.ca/en/department-national-
+defence/programs/minds.html.
+
+About the Author
+
+Daniel Jacinto is a Ph.D. student in the Department of Political Science at McGill University. Daniel's research
+interests broadly span the areas of international security and global governance, with a regional interest in East
+Asia (and the Korean Peninsula, in particular). His doctoral research project looks at so-called 'rogue states'-such
+as North Korea-and their relationship to international society.
+Daniel holds a B.A. (Hons. Korean Language and Culture, International Relations) and an M.A. (Political Science)
+from the University of British Columbia.
+
+                                                                                            Page 11 of 11
+    Linking the Mugunghwa and the Maple Leaf: Defence Technology Practices in South Korea and Strategic
+                                        Opportunities for Canada
+
+
+Load-Date: September 27, 2023
+
+
+ 

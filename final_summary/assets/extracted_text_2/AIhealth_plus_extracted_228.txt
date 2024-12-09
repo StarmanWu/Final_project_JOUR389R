@@ -1,0 +1,126 @@
+
+
+                                                                                                        Page 1 of 3
+                        The 'PodoSighter' uses AI to identify a key indicator of early kidney disease
+
+
+
+
+ The 'PodoSighter' uses AI to identify a key indicator of early kidney disease
+                                               Island Dispatch (Grand Island, New York)
+                                                          October 29, 2021
+
+
+
+Copyright 2021 Niagara Frontier Publications
+Distributed by Newsbank, Inc. All Rights Reserved
+
+Section: SCHOOL
+Length: 959 words
+
+Body
+
+
+Journal is highlighting this artificial intelligence advance on the cover of the November issue
+
+By the University at Buffalo
+
+ In the early stages of kidney disease, a specialized type of kidney cell called the podocyte undergoes damaging
+changes in both its structure and function. Those changes are key indicators of the ultimately devastating damage
+that end-stage renal disease can cause, but these specialized cells are difficult to detect.
+
+ Now, University at Buffalo researchers have leveraged the power of digital pathology and computational modeling
+to develop a new approach to detecting and quantifying podocytes.
+
+The cloud-based tool, called the "PodoSighter," is described in a paper in the Journal of the American Society of
+Nephrology; the research is being highlighted on the cover of the journal's November issue.
+
+ The project is an example of how advanced computational capabilities are allowing scientists to glean new
+information from complex images of anatomical structures.
+
+Understanding Human Systems
+
+ "In the medical domain, understanding human systems depends on analyzing huge amounts of very different types
+of data," said Pinaki Sarder, Ph.D., senior author on the paper and associate professor of pathology and anatomical
+sciences in the Jacobs School of Medicine and Biomedical Sciences. "The question is, how do we combine all
+these data to try and understand fundamental human systems and disease?"
+
+ Working in the emerging area of computational nephropathology, Sarder and his colleagues are focused on
+developing a better understanding of the information found in images of kidney biopsy samples.
+
+ "It's been known for decades that the quantity and density of podocytes are important both for diagnosis and
+prognosis of end-stage kidney disease," said Darshana Govind, Ph.D., first author, who did her doctoral work in
+Sarder's lab. She is now a data scientist at Janssen Pharmaceuticals.
+
+                                                                                                           Page 2 of 3
+                    The 'PodoSighter' uses AI to identify a key indicator of early kidney disease
+
+ In the early stages of kidney disease, podocytes begin to change shape and, as the disease progresses, the
+number of them will fall.
+
+ "A healthy person has more podocytes than a sick person," Sarder explained. "If one day we can track the loss of
+podocytes, then we can determine the stage of the disease."
+
+Right now, that's not possible, but it's one of the goals of the UB research.
+
+ One of the biggest challenges in dealing with images of biopsied tissue is that they contain huge amounts of data.
+The additional challenge with podocytes is that they are found deep within the glomeruli, the sac-like bundles of
+capillaries that handle first-line filtration of blood in the kidneys.
+
+ "It's very challenging to identify podocytes in an image," Govind explained, noting there are so many cells in the
+glomerulus that it's hard even for trained pathologists to figure out which nuclei belong to podocytes. Different types
+of staining can be used to highlight the podocytes, but sometimes the staining causes other important image
+information to be lost.
+
+Convolutional Neural Networks
+
+ The solution they developed is to use a machine learning technique called convolutional neural networks, a
+learning algorithm that can distinguish specific objects in an image. It was developed based, to a certain degree, on
+the ways that the visual cortex in the human brain processes visual information.
+
+The technique involves essentially "training" the computer to detect podocytes.
+
+ "The tissue is prepared in the clinic and the AI-based method detects it for you," Govind said. "You click a button,
+and the podocytes are identified."
+
+Density information is also provided.
+
+ "The PodoSighter not only detects podocytes, but it spits out a report on how many of these cells are identified in
+each glomerulus and what the density is, a key indicator for disease progression," Sarder said. He explained that,
+as kidney disease progresses, the glomerulus grows in size while the number of podocytes goes down.
+
+ Currently primarily a research tool, the PodoSighter can work on samples from both animals and humans. The goal
+is to eventually get this into routine use in clinics for human use, which the researchers say may be possible in just
+a few years.
+
+The researchers conducted some of their work at the Center for Computational Research at UB.
+
+Sarder added there is tremendous potential for this kind of research that utilizes artificial intelligence in medicine.
+
+ "One of my goals at UB is not only to do research but also to develop a workforce, and that's very important," he
+said. "Dr. Govind has done excellent, very difficult work for her Ph.D. and has been published in a top journal."
+
+He noted that, while it's improving, there still aren't many women working in artificial intelligence right now.
+
+ "It's challenging," Govind said, "because you don't see a lot of women in the field. I'd like to see more women join
+STEM and data science. It's a great field to be in. It's hard to be one female in a room full of men, so I encourage
+more women to join AI teams. There's a lot of cutting-edge research and you're literally changing lives, using AI
+applied to health care."
+
+ This project was supported by several grants from the National Institute of Diabetes and Digestive and Kidney
+Diseases of the National Institutes of Health, including a Kidney Precision Medicine Project grant and a grant from
+the Human BioMolecular Atlas Program.
+
+                                                                                                    Page 3 of 3
+                    The 'PodoSighter' uses AI to identify a key indicator of early kidney disease
+
+ In addition to Sarder and Govind, other UB co-authors are Jeffrey Miecznikowski, Rabi Yacoub, Brendan Lutnick,
+Amber Worral, Imtiaz Mohammad and John Tomaszewski. Other co-authors are from University Hospital Cologne;
+Johns Hopkins University; Université de Paris; Kitware Inc.; University Hospital Hamburg Eppendorf; University
+Hospital Essen; University of California San Francisco; and University of California Davis.
+
+
+Load-Date: November 4, 2021
+
+
+  

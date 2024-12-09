@@ -1,0 +1,187 @@
+
+
+                                                                                                     Page 1 of 4
+                                      UC Berkeley community talks artificial intelligence
+
+
+
+
+                       UC Berkeley community talks artificial intelligence
+                                     Daily Californian: University of California - Berkeley
+                                                      May 20, 2021 Thursday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 1669 words
+
+Body
+
+
+Facial recognition, search engines, social media algorithms, ad recommendations and robots are rooted in a
+technology that is present in nearly all aspects of daily life: artificial intelligence.
+
+AI refers to the idea that humans can train computers to be "rational agents" that have preferences and make
+informed decisions, according to Sergey Levine, a UC Berkeley assistant professor in the electrical engineering and
+computer sciences department. AI systems aim to optimize a particular outcome that they have been instructed to
+prefer.
+
+The term artificial intelligence dates back to the 1950s when psychologists studied the human brain and explored
+how machines could simulate human intelligence, according to Levine. The basic concepts of AI are much older,
+Levine noted, referencing the writings of mathematician Alan Turing, who suggested that computers be
+programmed to act like children rather than adults.
+
+"If your preferences about outcomes in the world can be put into an ordering and assigned numerical values, then
+you are rational," Levine said. "From that basic idea, we can derive methods and computer algorithms that allow us
+to actually construct artificial agents that behave in rational ways."
+
+How do computers learn behavior?
+
+AI systems are designed to optimize a particular utility, according to campus senior Albert Yu, head TA for
+Computer Science 188, "Introduction to Artificial Intelligence."
+
+YouTube recommendations, for example, use AI to maximize the amount of time a user spends on the platform,
+which in turn increases profits, according to Yu. Other popular applications of AI in society today include search
+engines, which optimize for the most relevant web pages based on a given search query; self-driving cars, which
+are optimized to reach a destination safely and quickly and advertisements, which aim to maximize revenue.
+
+AI systems are most commonly taught to perform these and other functions through a mechanism known as
+supervised learning, Levine said. This technique consists of providing a computer with examples of data that are
+classified as a particular category.
+
+                                                                                                        Page 2 of 4
+                                 UC Berkeley community talks artificial intelligence
+
+AI is useful because it can perform these tedious computations over a large amount of data and quickly learn to
+recognize and classify objects in images, Yu added.
+
+"(AI is) able to process a ton of data in ways and at speeds that humans can't necessarily process," Yu said. "As
+long as we have internet access to all of the data and pictures and language in the world, it does have the potential
+of being more accurate than humans in some very specific tasks."
+
+Nikita Samarin, a GSI for CS 188, demonstrated the process using an example of an algorithm with the goal is to
+distinguish between apples and oranges. Instead of informing a machine about the differences between the fruits,
+the machine is shown several images of apples and several images of oranges, Samarin said. Over time, the
+system learns to differentiate between the two fruits at a high level of accuracy.
+
+Beyond teaching the systems, AI also entails studying what tools machines require to be capable of learning and
+having intelligence, Samarin added.
+
+Levine said his lab - the Robotics AI and Learning Lab - studies another type of AI learning mechanism known as
+reinforcement learning. Instead of telling a machine exactly what to do, reinforcement learning involves providing
+feedback on whether the machine is doing something good or bad.
+
+This type of learning is particularly helpful when considering applications of robots in the real world where it can be
+difficult to provide exact instructions on how a robot should accomplish a task such as navigating a forest, Levine
+noted. Reinforcement learning informs the robot on whether it performs well or poorly, and the robot adjusts its
+behavior accordingly.
+
+"A very effective way to use AI is to handle those aspects of decision-making that we're not so great at and provide
+support for human decision-making," Levine said. "Longer term, there is a lot of promise in AI systems that do
+interact with the physical world in meaningful ways."
+
+Fairness and transparency: Ethical considerations of AI
+
+While effective, AI presents pressing ethical concerns that call for regulation and governance of the technology.
+
+According to Samarin, AI machines are trained by the data they are given, which are inherently biased. Oftentimes,
+these systems will indirectly reflect the bias present in the data.
+
+There have been "disturbing" instances where AI use has yielded discriminatory outcomes, Samarin noted,
+including when it was used in hiring processes and when it was used to determine whether someone should be
+released from bail.
+
+Brandie Nonnecke, director of the Center for Information Technology Research in the Interest of Society and the
+Banatao Institute, said AI technologies should be developed with principles of fairness, accountability and
+transparency. She added that AI-enabled tools should be transparent in terms of the data used, how the model was
+built and any assumptions that were made.
+
+Nonnecke is also co-chair of the UC system's Presidential Working Group on Artificial Intelligence, which aims to
+develop a set of ethical principles to guide the university in its use of AI. The working group focuses on four main
+applications of AI: health, human resources, law enforcement and student experience.
+
+"Over the past few years, it's become apparent that AI-enabled systems can have harmful effects on society -
+especially, the revelations we've found that AI models can perpetuate bias and discrimination," Nonnecke said. "In
+light of these findings, there has been great effort to develop appropriate governance mechanisms for AI."
+
+Yu described a malicious application of AI known as generative adversarial networks, a form of AI that can not only
+generate realistic images of fake people but also be used to make videos of a person saying something very
+different from what they actually said.
+
+                                                                                                        Page 3 of 4
+                                   UC Berkeley community talks artificial intelligence
+
+This has particularly dangerous implications in the world of politics. The possibility for AI to generate a "deepfake"
+of a public figure such as a president saying something they did not actually say is "very concerning," Yu said.
+
+He added that AI also poses a problem when its objectives do not align with those held by the user. An AI that aims
+to increase users' watch time on a web page, for example, may not align with a person's objective to balance work
+and relaxation.
+
+"Right now, researchers can't explain the decision-making algorithms," Samarin said. "The direction of trying to
+understand how to make the systems more transparent, more accountable and fairer is very important, and we
+should really think about that as we go forward."
+
+Current and future impacts of AI
+
+AI's impact on society today has both positive and negative consequences for the world tomorrow.
+
+Mesut Yang, a GSI for CS 188, described AI's impact in the vast field of social media. Yang explained that AI
+algorithms aim to learn the behavior and opinions of individual users to continue recommending content that they
+know the users will enjoy. This often drives individuals down a "rabbit hole" to increase user engagement.
+
+Yang noted that this has dangerous ramifications in regard to extremism. When users go on social media,
+algorithms will feed them content that confirms their beliefs; one example is the role Facebook played in supporting
+Myanmar's ethnic cleansing campaign.
+
+"One of the issues with a lot of current AI systems is that they are not grounded in the same physical experience as
+we are and therefore they understand the world differently than we do," Levine said. "And that's the reason why
+these systems behave in a way that is counterintuitive to us."
+
+There are, nonetheless, several positive impacts of AI, and a lot of university research is being done to discover
+even more practical applications.
+
+Nonnecke described how California's Employment Development Department, or EDD, had a backlog of
+approximately 1.6 million unemployment claims in October 2020, as many people applied for unemployment
+benefits during the COVID-19 pandemic.
+
+She said the main reason for this backlog was that the application process required an employee to manually verify
+an individual's identity. To increase efficiency, EDD developed an automated process to verify unemployment by
+using a branch of AI known as computer vision.
+
+Computer vision bridges AI and the visual world and it allows AI agents to interpret and classify images, Yang said.
+
+Angjoo Kanazawa, a campus assistant professor in electrical engineering and computer sciences, specializes in
+computer vision research with a focus on modeling the 3D world. To illustrate computer vision's potential, she said
+AI systems can recover 3D features of someone's face simply from an image.
+
+Her research extends to 3D motion capture, which can be useful for medical diagnosis and rehabilitation.
+
+"My goal is to really take a single image or video and understand what's happening in the 3D world," Kanazawa
+said. "Ideally, this is getting close to what it means to perceive an image."
+
+Another important aspect of university research is natural language processing, Yu said, which relates to
+interpreting human language. Google Translate is an example of natural language processing.
+
+Yang is currently conducting research in the field of robotics, specifically to improve human-robot interactions. His
+research aims to identify how to train AI agents to understand human behavior and commands.
+
+                                                                                                        Page 4 of 4
+                                 UC Berkeley community talks artificial intelligence
+
+With all its potential for greatness yet possible manipulation, society's knowledge about the impacts of AI remains
+limited, according to Yang. He said more work should be done to increase the public's knowledge about AI,
+unlocking future opportunities.
+
+"Improving the general public's literacy about artificial intelligence is really important," Yang said. "After most of
+society is up to date on what AI is and what its strengths and flaws are when we are all standing on this common
+knowledge as a society, we're able to move forward a lot better and a lot faster."
+
+
+Load-Date: May 20, 2021
+
+
+  
