@@ -1,0 +1,777 @@
+---
+title: "Final project"
+author: "Xingman Wu"
+date: "2024-11-26"
+output: html_document
+---
+
+### In an R Markdown document, provide a summary of your final project. 
+
+## Include a link to the source data that you have compiled in your GitHub repository
+#2024 data
+https://github.com/StarmanWu/Final_project_JOUR389R/blob/main/final_summary/assets/PDF/AIhealth.XLSX
+https://github.com/StarmanWu/Final_project_JOUR389R/blob/main/final_summary/assets/PDF/Files.RTF
+#2020-2023 data
+https://github.com/StarmanWu/Final_project_JOUR389R/blob/main/final_summary/assets/PDF/new.xlsx
+https://github.com/StarmanWu/Final_project_JOUR389R/blob/main/final_summary/assets/PDF/new.PDF
+
+
+## Describe your data source 
+I searched qualified newspapers in LexisNexis using filters: 
+ - Keywords: AI, health
+ - Timeline: 01 Jan 2020 to 18 Nov 2024
+ - Source Location: North America, United States
+ - Source language: English
+ - Source type: newspapers
+ - I got 172+(300-3)= 469 articles in total.
+
+## Spell out your content analysis plan, including preliminary work on a code book
+1. Topic: What are people talking about? - topic modeling analysis
+2. Perception and concerns: How do people perceive it (positive or negative)? Why? What are they happy about or worried about? - sentimental analysis & word frequency (emotions scores). 
+3. Timeline: How do the aforementioned issues evolve as more models emerge? - articles will be analyzed in groups of specific periods.
+Preliminary work on a code book: Advanced tech introduction; Application in medicine, healthcare, and clinical settings; Industry forecast.
+
+## Provide a sample of the data and some descriptive statistics.
+## Load the appropriate software libraries
+```{r}
+library(tidyverse)
+library(pdftools)
+#install.packages("striprtf")
+library(striprtf)
+#install.packages("unrtf")
+library(unrtf)
+library("readxl")
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+library(janitor)
+
+
+### load the title xlsx
+AItitle <- read_excel("../final_summary/assets/PDF/AIhealth.XLSX")
+head(AItitle)
+
+### load the RTF doc and folder
+text <- unrtf("../final_summary/assets/PDF/Files.RTF", format = "text")
+writeLines(text, "../final_summary/assets/extracted_text/AIhealth.txt")
+
+
+### load the title xlsx for 2020 - 2023 articles
+AItitle_plus <- read_excel("../final_summary/assets/PDF/new.xlsx")
+head(AItitle_plus)
+
+### load the PDF for 2020 - 2023 articles
+#Using pdftools package. Good for basic PDF extraction
+text_plus <- pdf_text("../final_summary/assets/PDF/new.PDF") 
+#pdf_text reads the text from a PDF file.
+writeLines(text_plus, "../final_summary/assets/extracted_text_2/text_plus.txt")
+
+
+
+```
+
+### I load articles of 2020-2023 and 2024 seperately, and then combine them together in the data frame.
+## Load the data for 2024 articles first
+```{r}
+# Step 1: Read the entire text file into R
+#For Mac: In Finder, Cntl + click on the filename, NOW hold down Alt/Option, and an item to copy file path will appear as Copy "Filename" as Pathname
+file_path <- "../final_summary/assets/extracted_text/AIhealth.txt"
+text_data <- readLines(file_path)
+
+# Step 2: Combine lines into one single string
+text_combined <- paste(text_data, collapse = "\n")
+
+# Step 3: Split the text by the "End of Document" phrase
+documents <- strsplit(text_combined, "Load-Date")[[1]]
+
+# Step 4: Write each section to a new file
+output_dir <- "../final_summary/assets/extracted_text/"
+for (i in seq_along(documents)) {
+  output_file <- file.path(output_dir, paste0("AI_extracted_", i, ".txt"))
+  writeLines(documents[[i]], output_file)
+}
+
+cat("Files created:", length(documents), "\n")
+# 173 docs are created
+
+```
+
+
+## Delete the nonuseful lines in extracted.txts
+```{r}
+# Load required library
+library(stringr)
+
+# Function to process a single file
+process_file <- function(input_path, output_path) {
+  # Read the content of the file
+  file_content <- readLines(input_path, warn = FALSE)
+  
+  # Combine lines into a single text
+  full_text <- paste(file_content, collapse = "\n")
+  
+  # Find the last occurrence of ".jpg"
+  last_jpg_pos <- str_locate_all(full_text, "\\.jpg")[[1]]
+  if (length(last_jpg_pos) > 0) {
+    # Get the position of the last ".jpg"
+    last_jpg_end <- last_jpg_pos[nrow(last_jpg_pos), 2]
+    
+    # Keep the content after the last ".jpg"
+    modified_content <- substr(full_text, last_jpg_end + 1, nchar(full_text))
+  } else {
+    # If no ".jpg" is found, keep the content as is
+    modified_content <- full_text
+  }
+  
+  # Write the modified content back to a new file
+  writeLines(modified_content, output_path)
+}
+
+# Directory paths
+input_dir <- "../final_summary/assets/extracted_text"  # Replace with the path to your input files
+output_dir <- "../final_summary/assets/extracted_text"  # Replace with the path for output files
+
+# Get a list of .txt files in the input directory
+txt_files <- list.files(input_dir, pattern = "\\.txt$", full.names = TRUE)
+
+# Process each file
+for (file_path in txt_files) {
+  # Construct the output file path
+  output_path <- file.path(output_dir, basename(file_path))
+  
+  # Process the file
+  process_file(file_path, output_path)
+}
+
+cat("Processing completed. Modified files are saved in", output_dir, "\n")
+
+```
+
+
+## Build a final dataframe index. Mutate the content of the news as a new column
+```{r}
+#This creates an index with the file path to the stories. And then it compiles the stories into a dataframe
+
+###
+# List out text files that match pattern .txt, create DF
+###
+
+files <- list.files("../final_summary/assets/extracted_text", pattern="*.txt") %>% 
+  as.data.frame() |> 
+  rename(filename = 1) |> 
+  #create an index with the file name
+ mutate(index = str_extract(filename, "\\d+")) |> 
+  mutate(index = as.numeric(index))
+View(files)
+
+#Join the file list to the index
+
+#load final data if you haven't already
+#final_data <- read.csv("assets/final_data.csv")
+
+AItitle <- AItitle %>% mutate(index = row_number())
+final_index <- AItitle |> 
+  inner_join(files, c("index")) |> 
+#you need the actual hard-coded path on this line below to the text
+  mutate(filepath = paste0("../final_summary/assets/extracted_text/", filename))
+
+head(final_index)
+View(final_index) # this is the data set I will use
+```
+
+## Load the data for 2020-2023 articles
+# Split text to separate articles on common identifier
+```{r}
+# Step 1: Read the entire text file into R
+#For Mac: In Finder, Cntl + click on the filename, NOW hold down Alt/Option, and an item to copy file path will appear as Copy "Filename" as Pathname
+file_path_plus <- "../final_summary/assets/extracted_text_2/text_plus.txt"
+text_data_plus <- readLines(file_path_plus)
+
+# Step 2: Combine lines into one single string
+text_combined_plus <- paste(text_data_plus, collapse = "\n")
+
+# Step 3: Split the text by the "End of Document" phrase
+documents_plus <- strsplit(text_combined_plus, "End of Document")[[1]]
+
+# Step 4: Write each section to a new file
+output_dir <- "../final_summary/assets/extracted_text_2/"
+for (i in seq_along(documents_plus)) {
+  output_file <- file.path(output_dir, paste0("AIhealth_plus_extracted_", i, ".txt"))
+  writeLines(documents_plus[[i]], output_file)
+}
+
+cat("Files created:", length(documents_plus), "\n")
+```
+
+## Build a final dataframe index. Mutate the content of the news as a new column
+```{r}
+#This creates an index with the file path to the stories. And then it compiles the stories into a dataframe
+
+###
+# List out text files that match pattern .txt, create DF
+###
+
+files <- list.files("../final_summary/assets/extracted_text_2", pattern="*.txt") %>% 
+  as.data.frame() |> 
+  rename(filename = 1) |> 
+  #create an index with the file name
+ mutate(index = str_extract(filename, "\\d+")) |> 
+  mutate(index = as.numeric(index))
+View(files)
+
+#Join the file list to the index
+
+
+AItitle_plus <- AItitle_plus %>% mutate(index = row_number())
+final_index_plus <- AItitle_plus |> 
+  inner_join(files, c("index")) |> 
+#you need the actual hard-coded path on this line below to the text
+  mutate(filepath = paste0("../final_summary/assets/extracted_text_2/", filename))
+
+head(final_index_plus)
+View(final_index_plus) # this is the data set I will use
+```
+
+## now we combine the 2024 dataset "final_index" and 2020-2023 dataset "final_index_plus"
+```{r include=FALSE}
+colnames(final_index)
+colnames(final_index_plus)
+# rename the columns
+colnames(final_index_plus)[colnames(final_index_plus) == "Publication.1"] <- "Publication...16"
+colnames(final_index_plus)[colnames(final_index_plus) == "Publication type.1"] <- "Publication type...17"
+colnames(final_index_plus)[colnames(final_index_plus) == "Publication"] <- "Publication...4"
+colnames(final_index_plus)[colnames(final_index_plus) == "Publication type"] <- "Publication type...5"
+# combine
+final_index_new <- rbind(final_index, final_index_plus)
+
+## here we go, the final index we will analysis: final_index_new
+```
+
+
+## Provide a sample of the data and some descriptive statistics.
+```{r}
+#Using code, describe the number of rows and columns of the dataset
+dim(final_index_new) # 469 rows and 27 columns 
+
+# Clean and format the date
+final_index_new <- final_index_new |> 
+  janitor::clean_names() |> 
+  dplyr::mutate(
+    date2 = mdy(published_date),  # Convert to Date format
+    year_month = format(date2, "%Y-%m")  # Extract Year-Month (e.g., "2023-05")
+  )
+
+# Count the number of articles per year-month
+Year_month <- final_index_new %>%
+  count(year_month) %>% 
+  arrange(year_month)  # Ensure chronological order
+
+# Convert year_month to a factor to maintain the correct order
+Year_month$year_month <- factor(Year_month$year_month, levels = unique(Year_month$year_month))
+
+# Plot the data
+ggplot(Year_month, aes(x = year_month, y = n, fill = n)) +
+  geom_col(position = "dodge") + 
+  theme_minimal() +
+  theme(legend.position = "none", 
+        axis.text.x = element_text(angle = 45, hjust = 1)) +  # Rotate x-axis labels for readability
+  labs(
+    title = "AI-health related news articles by year-month, US",
+    subtitle = "2020-01-01 to 2024-11-18",
+    caption = "Graphic by Xingman Wu, 12-08-2024",
+    y = "Number of Articles",
+    x = "Year-Month"
+  )
+
+# Trend: increases significantly over years, starting from 2023-03
+```
+
+# Produce a list of top 20 bigrams
+#Text compiler
+```{r include=FALSE}
+###
+# Define function to loop through each text file 
+###
+
+create_article_text <- function(row_value) {
+  
+  #row_value is the single argument that is passed to the function
+  # Take each row of the dataframe
+  temp <- final_index_new %>%
+    slice(row_value)
+  
+  # Store the filename for  use in constructing articles dataframe
+  temp_filename <- temp$filename
+  
+  # Create a dataframe by reading in lines of a given textfile
+  # Add a filename column 
+  articles_df_temp <- read_lines(temp$filepath) %>%
+    as_tibble() %>%
+    mutate(filename = temp_filename)
+  
+  # Bind results to master articles_df
+  # <<- returns to global environment
+  articles_df <<- articles_df %>%
+    bind_rows(articles_df_temp)
+}
+
+###
+# Create elements needed to run function
+###
+
+# Create empty tibble to store results
+articles_df <- tibble()
+#running once to test
+#create_article_text(2) 
+# Create an array of numbers to loop through, from 1 to the number of rows in our index dataframe 
+row_values <- 1:nrow(final_index_new)
+
+###
+# Execute function using lapply
+# This loops through each row of the dataframe and append results to master file
+###
+
+lapply(row_values, create_article_text)
+
+###
+# Clean up articles_df and join to index dataframe
+###
+
+articles_df <- articles_df %>%
+  select(filename, sentence=value) %>%
+  inner_join(final_index_new)
+
+#View(articles_df)
+#After viewing articles_df, I see the first line from the index that I don't need. Cutting it 
+
+articles_df <- articles_df %>%
+  slice(-1) |> 
+  #gets rid of blank rows
+    filter(trimws(sentence) != "") %>%
+  slice(-1) 
+
+write.csv(articles_df, "../final_summary/assets/extracted_text/AIhealth.csv")
+# Now we get the data frame with one row per sentence
+```
+
+#Tokenize the data, one word per row 
+```{r}
+library(tidyverse)
+library(tidytext)
+library(janitor)
+library(lubridate)
+library(jsonlite)
+library(rio)
+library(quanteda)
+
+articles_df <- articles_df %>% mutate(text = str_squish(sentence)) 
+articles_df <- articles_df %>% 
+  mutate(text = tolower(text)) |>  
+  mutate(text = str_replace_all(text, "wiki|Copyright|All Rights Reserved|enwikipediaorg|length:|rights reserved|load-date|news service|publication-type|publication type|daily eastern|eastern  news|[0-9.]|identifier /keyword|twitter\\.", ""))
+
+data_use <- str_replace_all(articles_df$text, "- ", "")
+data_tok <- tibble(data_use,)
+head(data_tok) # The name of the column is data_use
+# create bigram
+data_tok_bi <- data_tok  %>%
+  unnest_tokens(bigram, data_use, token="ngrams", n=2)
+#View(data_tok_bi)
+
+data_tok_bi_count <- data_tok_bi %>%
+  separate(bigram, c("word1", "word2"), sep = " ")%>% # Seperate the words
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>% # remove stopwords
+  filter(!is.na(word1)) %>%
+  filter(!is.na(word2)) %>%  # remove NAs
+  count(word1, word2, sort = TRUE)
+data_tok_bi_count 
+
+# top 20 bigrams
+data_tok_bi_count_20  <- data_tok_bi_count  %>% 
+  slice_max(n, n=20) 
+data_tok_bi_count_20
+```
+
+#Create a ggplot chart showing the top 20 bigrams
+```{r}
+library(ggplot2)
+library(forcats)
+
+# combine the "word1" and "word2" into one column, and create a new data frame
+plot_bi <- data.frame(word= paste(data_tok_bi_count_20$word1, data_tok_bi_count_20$word2), n = data_tok_bi_count_20$n)
+head(plot_bi)
+View(plot_bi)
+
+plot_bi  %>%
+  ggplot(aes(n, fct_reorder(word, n, .desc = F), fill = n)) +
+  geom_col() +
+  labs(y = NULL) + 
+   labs(title = "Top 20 bigrams", 
+       subtitle = "In 469 articles about AI and Health",
+       caption = "Graphic by Xingman Wu, 12/08/2024",
+       y="word",
+       x="n")
+```
+
+
+## topic modeling analysis ##
+```{r}
+## install and load packages 
+#install.packages("tm")
+#install.packages("topicmodels")
+#install.packages("reshape2")
+#install.packages("ggplot2")
+#install.packages("wordcloud")
+#install.packages("pals")
+#install.packages("SnowballC")
+#install.packages("lda")
+#install.packages("ldatuning")
+#install.packages("kableExtra")
+#install.packages("DT")
+#install.packages("flextable")
+library(tm)
+library(NLP)
+library(topicmodels)
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(lda)
+library(ldatuning)
+library(kableExtra)
+library(DT)
+library(flextable)
+# install klippy for copy-to-clipboard button in code chunks
+#install.packages("remotes")
+#remotes::install_github("rlesur/klippy")
+library(remotes)
+library(klippy)
+library(dplyr)
+library(tidyr)
+library(tibble)
+
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+
+# activate klippy for copy-to-clipboard button
+klippy::klippy()
+
+```
+
+
+### Process into corpus object
+```{r}
+textdata <- articles_df %>%
+  select(filename, sentence, year_month) %>% 
+  as.data.frame() %>% 
+  rename(doc_id = filename, text= sentence)
+head(textdata)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(textdata))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+```
+
+```{r tm3a}
+#DTM: rows correspond to the documents in the corpus. Columns correspond to the terms in the documents. Cells correspond to the weights of the terms. (Girder)
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+textdata <- textdata[sel_idx, ]
+
+``` 
+
+### Set K Value for number of topics
+```{r}
+# number of topics
+# K <- 20
+K <- 6
+```
+
+### Run LDA, Latent Dirichlet Allocation
+```{r}
+# set random number generator seed
+set.seed(20777)
+#Latent Dirichlet Allocation, LDA
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 500, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+```
+### Mean topic proportions per decade
+
+```{r}
+# Step 1: Check dimensions
+n_theta <- nrow(theta)
+n_textdata <- length(textdata$year_month)
+
+cat("Number of rows in theta: ", n_theta, "\n")
+cat("Number of documents in textdata: ", n_textdata, "\n")
+```
+
+
+```{r}
+# Check if textdata contains all the documents in theta
+common_ids <- intersect(rownames(theta), textdata$doc_id) # Assuming textdata has a 'doc_id' column
+
+# Filter textdata to include only the documents present in theta
+textdata_filtered <- textdata[textdata$doc_id %in% common_ids, ]
+
+# Check dimensions after filtering
+n_textdata_filtered <- nrow(textdata_filtered)
+cat("Number of documents in filtered textdata: ", n_textdata_filtered, "\n")
+```
+
+```{r}
+# Ensure the lengths match now
+if (n_theta != n_textdata_filtered) {
+  stop("The number of rows in 'theta' still does not match the length of 'textdata_filtered$year_month'.")
+}
+
+# Align rownames of theta with filtered textdata
+theta_aligned <- theta[rownames(theta) %in% textdata_filtered$doc_id, ]
+
+# Optional: Verify the order of documents
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  # If the order doesn't match, reorder one to match the other
+  textdata_filtered <- textdata_filtered[match(rownames(theta_aligned), textdata_filtered$doc_id), ]
+}
+
+# Ensure they are now aligned and can be combined
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  stop("The document IDs still do not match. Please check the data alignment.")
+}
+
+# Step 2: Combine data
+topic_data <- data.frame(theta_aligned, year_month = textdata_filtered$year_month)
+
+# Step 3: Aggregate data
+topic_proportion_year_month <- aggregate(. ~ year_month, data = topic_data, FUN = mean)
+
+
+# get mean topic proportions year_month
+# topic_proportion_per_month <- aggregate(theta, by = list(decade = textdata$month), mean)
+# set topic names to aggregated columns
+colnames(topic_proportion_year_month)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame <- melt(topic_proportion_year_month, id.vars = "year_month")
+head(vizDataFrame)
+```
+#Examine topic names
+
+```{r}
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics
+```
+
+### Review the topics and determine a 1-2 word label after reading the source documents.
+
+```{r}
+
+theta2 <- as.data.frame(theta)
+
+library(stringr)
+
+
+topic5 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic5 = '5') |> # looking at topic5
+  top_n(20, topic5) |> 
+  arrange(desc(topic5)) |>  
+  select(file, line, topic5) 
+
+topic5 
+```
+
+
+### Add categories
+```{r}
+vizDataFrame <- vizDataFrame %>% 
+  mutate(category = case_when(
+    str_detect(variable,  "univers health school research student state offic center scienc institut") ~ "Academic_Research",
+    str_detect(variable, "year compani tech load-dat million time bodi rais week confer") ~ "Business_Funding",
+    str_detect(variable, "page govern copyright right artifici news intellig section reserv state") ~ "Technology_Governance",
+    str_detect(variable, "health care market compani innov technolog busi healthcar system develop") ~ "Healthcare_Innovation",
+     str_detect(variable, "patient health care medic doctor system hospit word time data") ~ "Healthcare_system",
+    str_detect(variable, "intellig human technolog artifici data learn peopl make work inform") ~ "AI_philosophy",
+    ))
+
+View(vizDataFrame)
+
+```
+
+# Fact Check and Validate Topics
+#Topic 1: Academic_Research - univers health school research student state offic center scienc institut
+Concentrates on university-related research and educational environments involving students and professors.
+#Topic 2: Business_Funding - year compani tech load-dat million time bodi rais week confer
+Deals with business-related topics, including company growth, funding programs, and financial aspects within smaller enterprises.
+#Topic 3: Technology Governance - page govern copyright right artifici news intellig section reserv state
+Relates to the management and development of data systems and digital privacy within a technological and governmental context.
+#Topic 4: Healthcare Innovation - health care market compani innov technolog busi healthcar system develop
+Highlights advancements in medical systems and technology, particularly those enhancing patient care through artificial intelligence.
+#Topic 5: Healthcare_system - patient health care medic doctor system hospit word time data
+Emphasizes the utilization of medical tools and healthcare system interactions, focusing on patient care.
+#Topic 6: AI_philosophy - intellig human technolog artifici data learn peopl make work inform
+Examines how the use of artificial intelligence influences human thought, learning and decision-making processes.
+
+# Visualize
+Plot topic proportions per decade as bar plot
+```{r}
+
+ggplot(vizDataFrame, aes(x=year_month, y=value, fill=category)) + 
+  geom_bar(stat = "identity") + ylab("proportion") + 
+  scale_fill_manual(values = paste0(alphabet(20), "FF"), name = "year_month") + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+   scale_fill_manual(values=c("#9933FF",
+                              "#33FFFF",
+                              "red",
+                              "yellow",
+                              "darkblue",
+                              "green"))+
+   #                           "blue"))+ 
+   #                           #"pink",
+   #                           #"gray",
+   #                           #"orange")) +
+  labs(title = "Common Narratives in AI & Health News",
+       subtitle = "Six probable topics in 2020-2024 news articles. n=469",
+       caption = "Aggregate mean topic proportions per year_month. 12-08-2024")
+
+# ggsave(here::here("../lynching_press/output_images_tables/Article_Images/Figure_15_white_topics_oct_19_2024.png"),device = "png",width=9,height=6, dpi=800)
+```
+
+
+
+## Sentimental analysis
+## Run a sentiment analysis using the Afinn lexicon
+```{r}
+library(tidytext)
+#load("afinn.rda")
+get_sentiments("afinn")
+
+#Tokenize the data, remove stop words
+data_tok_mono <- data_tok %>%
+  tidytext::unnest_tokens(word,data_use)
+View(data_tok_mono) # Tokenize, and create the dateframe of one word per row
+
+# remove stop words 
+data_tok_mono_filtered <- data_tok_mono  %>%
+  filter(!word %in% stop_words$word) %>%
+  filter(!is.na(word)) # I removed NA anyways.
+View(data_tok_mono_filtered)
+#data_tok_mono_filtered 
+
+# Generally speaking:
+afinn <- data_tok_mono_filtered  %>% 
+  inner_join(get_sentiments("afinn")) %>% 
+  summarise(sentiment = sum(value)) %>% 
+  mutate(method = "AFINN")
+afinn
+#The sum of afinn sentiment of the tokenized words is 10649. Since 10649 is way higher than 0, these articles, generally speaking, holding positive emotions when they are covering AI & Health.
+```
+
+```{r}
+# Let's see how each article reported it:
+# Grouped by articles
+article_grouped_data <- articles_df %>%
+  group_by(filename) %>%         # Tokenize it by articles   
+  unnest_tokens(word, text)            
+article_grouped_data
+
+# remove stop words 
+article_grouped_data_filtered <- article_grouped_data %>%
+  filter(!word %in% stop_words$word) %>%
+  filter(!is.na(word)) # I removed NA anyways.
+article_grouped_data_filtered 
+
+# Now, we calculate the sentiments by articles
+sentiment_art <- article_grouped_data_filtered  %>%
+  inner_join(get_sentiments("afinn")) %>%
+  group_by(filename) %>% 
+  summarise(sentiment = sum(value))
+sentiment_art # Here we go!
+
+# Plot sentiment over the articles
+sentiment_art$sentiment_factor <- cut(sentiment_art$sentiment, 
+                                      breaks = c(-Inf, 0, Inf),
+                                      labels = c("Negative", "Positive"))
+
+ggplot(sentiment_art , aes(x = filename, y = sentiment, fill = sentiment_factor)) +
+  geom_col() +
+  scale_fill_manual(values = c("Negative" = "red", "Positive" = "green")) +
+  labs(title = "Sentiment Analysis using AFINN",
+       x = "Article name",
+       y = "Sentiment Score") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))  
+
+ggsave("plot.png", width = 40, height = 8, dpi = 300)
+
+```
+
+```{r}
+# Let's see how sentiments shift as time goes on.
+# Grouped by year_month
+yearmonth_grouped_data <- articles_df %>%
+  group_by(year_month) %>%         # Tokenize it by year_month   
+  unnest_tokens(word, text)            
+yearmonth_grouped_data
+
+# remove stop words 
+yearmonth_grouped_data_filtered <- yearmonth_grouped_data %>%
+  filter(!word %in% stop_words$word) %>%
+  filter(!is.na(word)) # I removed NA anyways.
+yearmonth_grouped_data_filtered 
+
+# Now, we calculate the sentiments by articles
+yearmonth_sentiment_art <- yearmonth_grouped_data_filtered  %>%
+  inner_join(get_sentiments("afinn")) %>%
+  group_by(year_month) %>% 
+  summarise(sentiment = sum(value))
+yearmonth_sentiment_art # Here we go!
+yearmonth_sentiment_art <- yearmonth_sentiment_art[!is.na(yearmonth_sentiment_art$year_month), ]
+
+#yearmonth_sentiment_art$month <- factor(yearmonth_sentiment_art$month, levels = 1:12, labels = year_month)
+
+# Plot sentiment over the articles
+ggplot(yearmonth_sentiment_art, aes(x = year_month, y = sentiment, fill = sentiment)) +
+  geom_col(position = "dodge") +
+  labs(title = "Sentiment Analysis Using AFINN",
+       subtitle = "grouped by year_month",
+      caption = "Graphic by Xingman Wu, 12-8-2024",
+       x = "year_month",
+       y = "Sentiment Score") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+```
+
+
+
+
+
+
+
+
+
