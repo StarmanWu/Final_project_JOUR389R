@@ -1,0 +1,403 @@
+
+
+                                                                                                      Page 1 of 7
+                     THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+
+
+
+         THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and
+                                  Valentine's
+                                          The Brown Daily Herald: Brown University
+                                                      February 12, 2021 Friday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 4471 words
+
+Body
+
+
+On Friday, Feb. 12, the COVID Pod team sits down with Ashish Jha, dean of the School of Public Health, to
+discuss the variations underlying the COVID-19 pandemic and efforts to stop its spread: virus variants, new
+vaccines in development - and even a COVID-19-conscious approach to socializing on Valentine's Day. Jha also
+touches on the recently launched COVID-19 vaccination tracker established in-part through the School of Public
+Health, as well as Brown's new Pandemic Problem-Solving course for civil servants and other leaders, which will
+begin Feb. 16.
+
+Subscribe to the podcast on Spotify, Apple Podcasts or listen via the RSS feed and email us to contribute a
+question for the next episode: herald@browndailyherald.com
+
+Cate Ryan
+
+Welcome back to The COVID Pod with Dr. Ashish Jha. Today, we are talking about variation. And this year has
+been filled with so much change, but on today's episode, we are specifically focusing on virus variants, new vaccine
+types and possibly some variations to typical Valentine's day plans. Today is Friday, February 12, 2021. My name
+is Cate Ryan and I am joined by Emilija and Rahma from the Brown Daily Herald.
+
+Emilija Sagaityte
+
+Hello, my name is Emilija Sagaityte, and I am a senior editor at The Herald.
+
+Rahma Ibrahim
+
+And my name is Rahma Ibrahim. I am a science and research section editor.
+
+Cate Ryan
+
+As always we are so grateful to welcome Ashish Jha who is Dean of the School of Public Health here at Brown
+University. Thanks for listening, and feel free to email us if you have any questions.
+
+Cate Ryan
+
+                                                                                                            Page 2 of 7
+                    THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+The first thing that we were thinking about is the Centers for Disease Control and Prevention (recent change of)
+guidelines to say that anyone who is asymptomatic and has received the second dose of their vaccine does not
+need to quarantine if exposed to COVID-19. And last time, we talked about how it was sort of unclear whether the
+vaccine would completely reduce transmission. So what do you think is the implication of these new guidelines?
+
+Ashish Jha
+
+Yeah, so this is like the million dollar question, right? Do vaccines reduce transmission? And I think the C.D.C. is
+right in their decision or their recommendations. I think they're coming in line with what I think the emerging
+evidence is, and the emerging evidence is that vaccines reduce transmission. Am I 110 percent sure? No. But that's
+what all the data seem to suggest. And by the way, almost every vaccine, not every vaccine, but almost every
+vaccine reduces transmission of the disease, so why would we think this one is going to be different?
+
+And then the question is, how much? And could we envision that these vaccines would reduce transmission 100
+percent? I don't think so. So there probably will be still a little, but my best guess, based on all the data, is that it's
+probably in the 70 to 90 percent reduction range. But we're not sure. And I think the C.D.C. is basically saying, but
+that's where all the evidence is pointing and that's what we should focus on. And we will get better data. And I
+suspect that that's the range it will come out. And that's great news, by the way, because if it didn't reduce
+transmission, then my gosh, then we have a whole different set of problems.
+
+Emilija Sagaityte
+
+So speaking of vaccines, we wanted to transition to speaking about another development, the U.S. and Worldwide
+Vaccine Tracker that was developed through a collaboration between Brown's School of Public Health and
+Microsoft AI for Health, which just launched online February 5th. Could you tell us about the purpose of this tool,
+describe what all those numbers and maps show and explain a bit about how this tracker was created?
+
+Ashish Jha
+
+Absolutely. So we've had a collaboration with Microsoft for a while now. And if you go to the website,
+globalepidemics.org, which is run by us at the School of Public Health, we've been tracking cases by community,
+by congressional district. We've been doing a whole lot of work on testing and testing targets. And so vaccines
+seem like the obvious next place to go in terms of tracking the data.
+
+The data largely comes from - and there are other vaccine trackers, like Bloomberg has one - they all sort of come
+from the same place. They come from states, and they come from the C.D.C. So we're not doing our own personal
+tracking, but we're really pulling in data. And the idea behind this, and what I hope will be really useful for people,
+there are two sets of things that I think are going to be important.
+
+One is, there's a lot of information that we need to have beyond just how many people have gotten vaccines. We
+need to know who's getting vaccinated (and) how much it varies by age, by race and ethnicity. And we're starting to
+pull those together into one place. We're hoping that that's going to be a useful set of insights. But the other part is,
+I've described three sets of things now that we're tracking: cases, testing, vaccines. They are not unrelated to each
+other. In fact, you may think that it's really important to vaccinate people in places where there's a high number of
+cases happening, and I would agree with that. So what this tracker lets you do is start pulling these three things
+together. And so you can go to your community - and again, we don't have the data quite as granular as we would
+like, just because it isn't available yet, and it will be - but ideally, what we'd like to be able to get to in the weeks
+ahead, is you can go to your county, certainly your state, look at infection numbers, look at vaccination numbers,
+look at testing numbers and really get a sense of how the broader pandemic control's happening. And we're not
+aware, or I'm not aware, of any tracker that's really pulling it all together like that.
+
+Emilija Sagaityte
+
+Have you been able to notice any trends so far between those three factors?
+
+Ashish Jha
+
+                                                                                                            Page 3 of 7
+                    THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+Yeah. So I would say right now, we're just, well, a couple of things. I mean, we're just starting to pull this stuff
+together. It is true that we see no real correlation between places with high infections versus places that are doing a
+good job on vaccinations or a bad job, or vaccines are getting out. And that's unfortunate, because you actually
+want to see more aggressive vaccinations happening in places with high infection numbers. We don't see that yet.
+We don't see that happening, so that's a problem. And my hope is that we can take these kinds of data, go back to
+policymakers and say, 'You've got to really push on vaccinations, and especially in those areas.'
+
+Emilija Sagaityte
+
+And the tool also mentioned trying to see whether the U.S. can reach that goal of 100 million doses in 100 days,
+and kind of looking at the status of vaccine distribution right now, what does it seem to suggest about our nation's
+ability to reach that goal? And what factors or efforts do you think may influence those trends?
+
+Ashish Jha
+
+The 100 million in 100 days is what President Biden said in early December when he was President-Elect Biden, he
+wasn't in office yet. And that seemed like a really ambitious goal at the time. To be perfectly honest, we're at almost
+1.5 million doses a day right now, and that's what we've been averaging. So my gosh, we got to be able to hit 100
+million in 100 days, it's like something's gonna have to go horribly wrong for that not to happen.
+
+Personally - and the people in the administration don't like me saying this I don't think, but I'll say it - I think we
+should be hitting two million a day, like that's where we need to be. And I'm not saying they don't like me for saying
+this; I'm just saying that's a very ambitious agenda. And that's what I would like for us to do, and so we're targeting
+1 million a day. I think we're gonna hit that easily. You know President Biden did come out and say he thought we
+could do 150 (million). That's 1.5 (million) a day. I think we're gonna blow through that. I think the question is, are
+we going to get to 2 million a day? And the reason why I say 2 million a day is my target is, I'm not just making up a
+random number, I'm thinking about two things. I'm thinking about the U.K. variant, and how it's spreading and when
+it will become widespread in the United States. And I'm thinking about, what is it going to take to vaccinate all
+elderly, older, high-risk individuals. And if you try to get older, high-risk individuals all vaccinated before the U.K.
+variant becomes widespread, you (have) to be at 2 million a day in order to get there. And that's the challenge. So
+that's why that should be our internal target.
+
+Rahma Ibrahim
+
+Speaking of variants, which is a term that's been in the news a lot recently, could you give us and our listeners a
+quick overview on the difference between variants and strains?
+
+Ashish Jha
+
+You know, so it's a really good question. And ultimately, these things are really about functionality. So let's take a
+moment and actually take one more step back and talk about mutations versus variants versus strains.
+
+The way to understand the biology here is that RNA viruses, like this virus, are notorious at making mistakes. Every
+time they replicate, they're just a ton of mistakes that they make, a ton of mutations, and 99.9999 percent of those
+mutations are irrelevant, they have like little to no meaning. And the helpful part about these mutations is actually
+you can use them to track where the virus is spreading and who's spreading it to whom through these genomic
+sequencing analyses. But all of those different mutations are functionally the same.
+
+So what causes something to be a strain? It's a different strain if it takes on different functional capabilities. So if it
+becomes more contagious, if it becomes more or less deadly, if it is able to evade immune response much more
+effectively, if there's something functionally meaningfully different about it, then you call it a different strain. And
+while you're sorting out whether a set of mutations is a strain or not, we often talk about it as a variant. And variant
+is really kind of meant as a short-term, shorthand for, this probably is a different strain, but we're not 100 percent
+sure, and we're still sorting it out. So I think most biologists and immunologists I talked to would call the U.K. variant
+a different strain because I think we have pretty good evidence now that it really is functionally really different. And
+
+                                                                                                               Page 4 of 7
+                    THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+some of the other variants like, you know, there was a little talk of the L.A. variant that popped up in Los Angeles,
+and calling that a variant made sense because we didn't know, is it really a different strain, or is it just gonna turn
+out to be nothing? So I see variant as a short-term terminology used when you're not sure whether there's a
+different strain or not, and you're sorting it out.
+
+Rahma Ibrahim
+
+We've also heard of other variants, the South African, the Brazilian variants, and you've mentioned the U.K. - which
+might be a strain - and the L.A. variant. So how many variants do we know of so far? And what do we know about
+them? And how far have been traveled?
+
+Ashish Jha
+
+There are lots of variants. And the ones that I think we're all paying super close attention to right now are the U.K.
+one, the other one found initially in U.K. B.1.1.7. There's B.1.351 that's from South Africa. And there's one that's
+called P.1, which is the one from Brazil. And we don't, by the way, know that that's where they originated; that's
+where we first identified them. So that's the other part of it.
+
+But if we're going to shorthand it and say, the U.K., the South Africa and the Brazil, those are three that are all here
+in the United States. And we think the U.K. variant is circulating reasonably widely. I suspect it's in all 50 states or
+most of the states. It's been identified, I think, in 35, but my take is, the other 15 probably just haven't identified
+them yet. The South Africa variant is interesting in that it may be a bit more contagious. The U.K. variant is clearly
+more contagious. The South Africa variant may be more contagious, but it does seem to be more effective at
+evading immune response. I still am very optimistic, and we can talk more about this that our vaccines will work
+against it, but we're less sure - it may work a little less well, I wouldn't say we're less sure. And then on the Brazil
+variant, we know much less about it. There is some data to suggest that people who have been previously infected
+may not have protection against the Brazil variant. But I don't think we know enough about that right now, and
+there's a lot of work being done to sort that out.
+
+Rahma Ibrahim
+
+On that same note of people being previously infected with COVID-19 and their risks for being infected again with
+these variants, I know you mentioned we don't necessarily know much about that, but what does the data that we
+have currently say about people's ability to be infected twice, by another variant?
+
+Ashish Jha
+
+So the vast majority of the infections right now of the virus circulating is still the native strain, the original strain. And
+people getting reinfected with the original strain we think (is) exceedingly unlikely. We don't know the real number.
+Officially, it's about 10 or 12 people have been reinfected in the United States out of 25 million. I suspect the real
+reinfection rate is higher than that, but probably not much higher, meaning bottom line, if you've been infected, your
+chances of getting reinfected are not zero, but they're really, really low.
+
+How does the variant stuff change that? I don't know that I've seen any data that suggests that the U.K. variant
+changes that at all, so if you were previously infected, recovered, now you get exposed to the U.K. variant, I don't
+think it changes your likelihood of getting reinfected. But we're not sure. There is some evidence that South Africa
+and Brazil variants lead to more reinfections because of some amount of immune escape, but the evidence is really
+weak and certainly not perfect. I wouldn't be surprised if there is a little bit of immune escape, certainly from the
+South Africa variant where we may have the best data on that. But I actually think that the vaccines will protect us
+against that.
+
+What's interesting, right, here's the bottom line, natural immunity from having been previously infected may not
+protect you against the South Africa variant, but vaccines probably will. And that's interesting, just a reminder that
+vaccines can generate much, much better immunity than natural infection can. I think a lot of people assume that
+
+                                                                                                        Page 5 of 7
+                    THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+natural immunity is the best immunity, but we have very good evidence for lots of diseases that's not true, that we
+can generate much, much better immunity using vaccines than natural infection does.
+
+Emilija Sagaityte
+
+Kind of going back to vaccines, and how many have come about from research in recent months: I do think that
+Pfizer and Moderna seem to have become household names when talking about the COVID-19 vaccines. But last
+time, you had alluded to some other companies who are in the process of developing and testing their own
+vaccines, like Johnson and Johnson, Novavax, AstraZeneca, as well as some developed in other countries, like I
+believe Sputnik V was being developed in Russia. So what do you make of all of these different versions? How are
+they different? How are they similar?
+
+Ashish Jha
+
+So there are a lot of different ways of making vaccines, and you've seen companies around the world trying to
+make them in different ways. And my personal take is, we need all the vaccines we can get. As long as they're safe
+and effective, we should be able to come up with different modalities. Different modalities have advantages and
+disadvantages. mRNA vaccines, like the Moderna and Pfizer, which are fabulous vaccines, are really hard to store
+and manage, they need to be frozen. The Pfizer one particularly needs to be frozen, minus 96 degrees for extended
+periods of time, whereas (vaccines) like the Johnson and Johnson vaccine can be refrigerated, does not need to be
+frozen. And so you can imagine why that would be a huge advantage in many, many places.
+
+Here's where we are, as of today, February 12th. The Johnson and Johnson vaccine has been submitted for
+authorization to the F.D.A., and the F.D.A. is going to meet on February 26, two weeks from today, they're going to
+make a decision. I would be shocked if they don't authorize it based on the data we've seen, but they might not.
+F.D.A. has a pretty high bar, they're gonna do a very vigorous review. But I say I'd be shocked because I know the
+people that are working on developing that vaccine, and they wouldn't have submitted it unless the data was really
+very good. And so I expect an authorization in the day or two that follows. There are a few million doses sitting
+around, but not tens of millions. So in March, probably not a huge impact of the Johnson and Johnson vaccine;
+you'll start seeing some people get vaccinated. And then once we enter April and May, you'll see that become much
+more widespread.
+
+The one thing I will say about the Johnson and Johnson vaccine is its headline numbers seem to be not as good as
+Moderna and Pfizer. People are like, Oh, it's only 65 or 85 (percent effective). It's a very good vaccine based on all
+of the data I have seen so far. We'll see more in the next couple of weeks. It's a very, very good vaccine, I would
+recommend it for any family member. I would not be hesitant to get it myself. I've gotten the first dose of the
+Moderna vaccine, I'll be getting my second soon, but the point is, I would be very supportive of my wife getting it.
+She has not been vaccinated yet. So it's a very, very high quality vaccine. And I would not pay too much attention to
+the headline number.
+
+Novavax again, we were going to get more data on that. I think the AstraZeneca trials that are being done in the
+United States, I expect them to read out, meaning get some data on those, in the next month, so by the time we get
+to mid-March. And I can imagine a late March, early April F.D.A. review and an authorization.
+
+Sputnik V came out with their data. It's really good.
+
+So the good news here is, this is a virus where we figured out how to make good, effective vaccines, thank
+goodness. But there are just going to be challenges of producing enough, getting them out. And then by the time
+we get to May, we're gonna have a different problem, which is we're gonna have so much vaccines in the United
+States, and we're going to have not enough people who want to get vaccinated because we're going to run into all
+the people who have vaccine hesitancy, people who are worried about taking the vaccines, and we've got to start
+working on addressing those concerns now.
+
+Emilija Sagaityte
+
+                                                                                                            Page 6 of 7
+                   THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+And so I know you touched upon this a little bit before, but given the evidence to date, what do you think it suggests
+about then these vaccines' potential help with distribution as well as minimizing the impact from those variants we
+talked about both here in the U.S., as well as looking more globally?
+
+Ashish Jha
+
+So I think the evidence we have right now says that certainly the Moderna, Pfizer vaccine, also I think Johnson and
+Johnson, is going to work very well against the U.K. variants. So I'm not worried about that. I think it will work a little
+less well against the South Africa variant, but well enough that, if you got vaccinated, you're gonna do fine. Even if
+you might have a slightly higher risk of getting infected, I think people will not get sick and die, which is what we
+care about, preventing severe illness. So I'm really, really, at this point, very confident that these vaccines are going
+to hold up well against the variants we have. It doesn't mean that there won't be a variant in the future that will
+escape our immune response, and I actually think one of the things we need to be doing is much more genomic
+surveillance to look for those variants. And then if you see one emerging that looks like that, working on updating
+our vaccines so that they can be more effective.
+
+There's a lot of work here. This is not a one and done, like it's not going to be we all get vaccinated. We have to
+continue monitoring, continue paying attention. And the last point on this is because it's a global pandemic, if we
+just get America vaccinated, but the world isn't vaccinated, it's going to be a huge problem, obviously just from an
+equity point of view, but also if we see large outbreaks happening elsewhere, America's largely vaccinated, it's
+going to be the ground for emergence of new variants that will render our vaccines less effective. So there's both a,
+I think, a selfish as well as a more solidarity-oriented set of reasons for really having a global approach to vaccines.
+
+Cate Ryan
+
+Speaking of all of these complex problems, we sort of wanted to highlight something hopeful, which is the course
+that you're teaching with Dr. Megan Ranney called Pandemic Problem-Solving, which is for civil servants and other
+leaders. What do you think that will look like over the next month or so, and what are you looking forward to with
+that course?
+
+Ashish Jha
+
+I'm super excited about this. And the reason is, you know, the pandemic has felt kind of paralyzing, right? Like, it's
+just sort of disrupted our lives. And people feel like, I don't know how to manage problems, and like, what can I do,
+and we're all in this sort of suspended animation just waiting for these vaccines so we can start getting things back.
+
+And what Megan and I and our whole team realized was, there are lots of people who, during the pandemic, have
+confronted problems, and solved them, and made progress and done really remarkable things. And they have
+lessons for all of us on how we get through the rest of this pandemic, and how we deal with future ones. And so it's
+a very problem-solving kind of oriented course, where we have experts in business, political leaders, all sorts of
+folks who are going to participate and talk about how they dealt with uncertainty, how they made decisions. And
+then the hope is that the students in the course - a lot of them are from N.G.O.s or government or private sector -
+are going to talk about how those lessons apply to their real life. So it is very practical, supposed to be hands-on.
+And I guess for me, it's meant to give people hope and something they can actually do and teach them a set of
+skills. But I have to tell you, I'm going to learn a ton because while it's been really fun watching people make
+decisions and watching leaders figure out how to do this stuff, the course will actually teach us how to apply this to
+a much broader swath of issues. And so I expect to learn a lot about how to think about these things.
+
+And the last point is, it's an interesting foray for Brown, right, because we don't do this kind of stuff. We teach
+courses in pretty traditional ways to undergrads, graduate students, but I think the way in which the world is
+changing, universities have an obligation to teach people who are not our traditional students. And it's not even like
+executive education. It's just a different model. It's in the middle of crises, universities have to step up and pull
+together knowledge and share it widely and in constructive ways. And that's what this is about. So I think this is part
+of a broader strategy that Brown is thinking about, which is, how do we engage and be more relevant in the world in
+
+                                                                                                             Page 7 of 7
+                    THE COVID Pod with Dr. Ashish Jha: Virus Variants, Vaccines and Valentine's
+
+the middle of crises? How do we bring our expertise to bear, and I love that by the way, because that's, of course,
+what I think all universities should be doing, and I'm particularly excited that Brown is doing it.
+
+Cate Ryan
+
+Yeah, that sounds like such a great resource for so many people. So before we end, we wanted to also touch on
+something else kind of fun, which I guess is Valentine's Day, and we specifically wanted to bring up this article that
+was published in The Brown Noser, which is the satirical newspaper that's written by Brown undergrads. So this is a
+joke, but it was headlined, "Paxson Clarifies That Every Student Allowed One Little Kiss On Valentine's Day," and
+that it's obviously a joke, but we just wanted to ask in all seriousness, how should students on college campuses
+like Brown be approaching making new friends or new romantic relationships during this COVID semester?
+
+Ashish Jha
+
+Oh, boy, that is a really hard question. Because those are really important things. Social, personal, romantic
+relationships are like the heart of being human, right? And so how long can you continue to suspend these things?
+So look, I mean, first of all, it's much easier if you can do stuff in pods, you can't always. The issue around this, in
+my mind, is we have added a set of protections that obviously make life much, much easier here in terms of not just
+the mask stuff, but I think the fact that people are getting tested on an ongoing basis. I think it's totally safe for
+people to spend time outdoors together; I think there's things that people can do. And, obviously, I'm not going to
+say people should feel comfortable on Valentine's Day violating their pod rules because, you know, it is risky. And
+right now is particularly so with these variants circulating. But so I feel like I don't have a great answer beyond, I'm
+really sympathetic to the moment we're in, I think there are ways of socializing with people that is safer than others.
+And I guess the other thing I will say is, I expect that all of this is going to start really meaningfully turning around in
+the next couple of months, I think there'll be more vaccines, there'll be plenty of vaccines by April, May. So if people
+can hold on a little bit longer, that will help; if you can't, try to do things more safely. There is no perfect thing here.
+But it's hard to tell people to just completely ignore Valentine's Day if that's important to you. So some amount of
+risk is probably just a reality of life in a pandemic.
+
+How is that for a non-answer? I feel like I didn't really give you an answer. I went right up to the edge. It's very hard,
+right? Because on one hand, like the right answer is, you can't do anything. But the reality is like, that's just not life.
+And asking people to suspend life forever, I think it's not realistic. So I think people have to make trade-offs. And
+people have to make choices and understand there are risks. And as long as we're, I think, all open and transparent
+about it, that's really all you can expect.
+
+Cate Ryan
+
+Yeah, thank you, that makes a lot of sense. And we're all looking forward to these changes with the vaccination
+rates going up and everything over the next few months. So we'll continue to see everything unfold and hopefully a
+more bright way. But thanks so much, again, for being here with us this week, and we look forward to more
+conversations to come this semester.
+
+Ashish Jha
+
+That sounds great. See you all very soon and stay well.
+
+
+Load-Date: February 13, 2021
+
+
+  

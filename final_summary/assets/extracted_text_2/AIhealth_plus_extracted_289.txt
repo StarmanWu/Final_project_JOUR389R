@@ -1,0 +1,667 @@
+
+
+                                                                                                        Page 1 of 12
+                      The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+
+
+
+       The Superclusters Initiative: An Opportunity to Reinforce Innovation
+                                    Ecosystems
+                                      The Foundation For Research On Equal Opportunity
+                                                 October 8, 2020 Thursday
+
+
+
+Copyright 2020 Content Engine, LLC.
+All Rights Reserved
+Copyright 2020
+All Rights Reserved
+
+Length: 10038 words
+Byline: Catherine Beaudry and Laurence Solar-Pelletier
+
+Body
+
+
+      Introduction
+Canada has been performing below expectations when it comes to turning its excellent science and technology into
+innovation. This is worrisome because there is ample empirical evidence of a positive relationship between
+scientific research, technological innovation and economic growth.[1] Canada does well in terms of science and
+technology outputs. It ranks 5th worldwide in the number of publications per thousand inhabitants, 6th for research
+impact and 11th in the share of patents filed at three major patent offices, known as triadic patents (Council of
+Canadian Academies 2018; OECD 2014). But both gross domestic expenditure on research and development and
+business expenditure on research and development as percentages of gross domestic product are declining
+(OECD 2017). Canada’s ranking in innovation is also falling. Its commercialization successes are limited and the
+rate of cluster development is low (Canada 2016; Schwab 2019). This jeopardizes the country’s ability to
+innovate.[2]
+
+In addition to having difficulty translating science and technology performance into efficient solutions and
+commercial successes, the country is dealing with the rapid dissemination of discontinuous and potentially
+disruptive technologies.[3] These include big data analytics; artificial intelligence (AI); the Internet of things;
+advanced materials; additive manufacturing such as 3D printing; and blockchain, a digital ledger of transactions
+duplicated and distributed across a computer network. These technologies are drastically changing the way firms
+are designing, prototyping, testing and manufacturing new products and services. As Daniele Archibugi wrote in
+2017: “One of the key characteristics of disruptive technologies is that they do not knock gently at the door: they
+enter social and economic life suddenly and unexpectedly” (2017, 541). Clear illustrations of this phenomenon
+include the emergence of Uber, the exponential doubling of computer chip power and the rapid advances in DNA
+sequencing.
+Schumpeterian creative destruction forces such as autonomous vehicles, personalized medicine and the ongoing
+automation of traditional manufacturing and industrial processes using smart technology are forcing businesses and
+public organizations to rethink how they generate ideas and innovate. Governments are also under pressure to
+provide better adapted regulation and innovation policies. Given their slow rates of technology adoption, most
+
+                                                                                                       Page 2 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+Canadian firms appear ill equipped to overcome the challenges that stem from these technologies. Canada’s
+innovation policy framework needs to be redesigned to accommodate new ways of organizing and governing
+innovation.
+
+The Innovation Superclusters Initiative, which was put forward by the federal government in 2017, is the
+centrepiece of its plan to resolve Canada’s innovation paradox (Canada 2017b). Under this initiative, Ottawa is
+investing $950 million over five years to support five superclusters involving small, medium-sized and large
+companies, academic institutions and not-for-profit organizations. Each supercluster has its own focus: digital
+technologies, protein industries, next-generation manufacturing, supply chains powered by AI, and ocean
+technologies. The government says its aim is to promote commercial innovation and global presence, from ideation
+to value creation, while providing the means to organize innovation ecosystems to collectively face and benefit from
+groundbreaking technologies.[4] The objectives of the initiative are quite ambitious. The superclusters are expected
+to increase business spending on research and development, promote widespread collaboration, attract and retain
+the right talent, and increase the size and global reach of firms.
+Increasing domestic firms’ size and reach, also called scaling up, has been a top priority for decades for most
+countries. Yet Canada still fails to produce multinationals. Repeatedly hammering the same “scaling up” nail has not
+provided the expected benefits. It is time to try something else. We at the Partnership for the Organisation of
+Innovation and New Technologies hypothesize that the advantages accrued from collectively developing and
+commercializing innovations within ecosystems may counterbalance the extent of scaling up required, or expected,
+of firms to succeed. The superclusters initiative might prove that well-organized innovation ecosystems provide the
+necessary agility and performance to become engines of economic growth and wealth creation in the country.
+Working together could yield a collective performance that is larger than the sum of its parts, a win-win situation for
+the ecosystem and its constituents. In our view, the concept of innovation ecosystems provides the appropriate
+framework to rethink Canada’s innovation strategy.
+Even though the name of the initiative includes the word “cluster”, the superclusters are in fact more akin to
+innovation ecosystems. Unlike clusters, they are not locally or geographically constrained, and many of their
+constituent members are part of extensive networks of national and international firms or organizations. The
+concept of ecosystem, and more specifically of innovation ecosystem, is increasingly used by academics,
+practitioners and policy-makers. It provides a new lens for studying and understanding innovation that goes beyond
+clusters or networks. However, the concept is still not well defined and understood. And the empirical tools to
+measure its broad impact have yet to be designed. In this study, we briefly survey the relevant literature on clusters
+and superclusters, or innovation ecosystems, to examine the theoretical and empirical foundations that underlie the
+government’s initiative. We then explore the challenges and opportunities presented by this novel policy approach.
+The Building Blocks of Innovation Ecosystems
+While the concept of an innovation ecosystem was inspired by ecology, its foundations within the economics and
+management sciences derive from numerous strands of the literature that study and describe the way individuals
+and organizations interact and collaborate formally and informally. The theoretical foundations of the concept span
+industrial clusters, knowledge networks, geographic, social and cognitive proximities, collaboration and open
+innovation — all of which have been shown to have a positive impact on a firm’s propensity to innovate. To fully
+understand why and how innovation ecosystems have the potential to boost Canada’s innovation capacity, it is
+important to understand the foundations on which they are built.
+Industrial clusters
+There has long been a strong interest in clusters within the scientific community and among policy-makers. Since
+Michael Porter introduced the idea of clusters in 1990, few economic concepts have provoked such enthusiasm.
+Still, the benefits of clustering were studied long before Porter’s seminal work. He drew on the work of Alfred
+Marshall who, in his 1890 book Principles of Economics, emphasized the importance and advantages of
+geographical proximity for economic growth in reducing transportation and other transaction costs. Porter initially
+defined an industrial cluster as a group of geographically colocated, interconnected firms and organizations within a
+sector that share common elements and are complementary to each other. Silicon Valley is a well-known and
+envied example of a highly efficient and productive cluster. Other names have been given to this local concentration
+of enterprises, skills, cooperation and competition, including regional systems of innovation (Lundvall 1992), flexible
+specialization (Piore and Sabel 1984), smart specialization (Foray 2014) and industrial districts (Beccatini 1990).
+
+                                                                                                           Page 3 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+These concepts all focus on the importance of geographical proximity, which allows trust-building among
+stakeholders and access to a highly specialized labour force.
+Research has shown that firms that operate in clusters are more innovative than firms that operate in isolation.
+They generate more patents and have greater employment and revenue growth, partly due to specialization or
+diversification effects.[5] The presence of strong research universities as integral parts of clusters increases the
+propensity of small, local firms to patent and that of universities to coevolve along with local, private sector
+patenting (Helmers and Rogers 2015; Blankenberg and Buenstorf 2016). Silicon Valley would not be the same
+without the fundamental role played by Stanford University and the University of California, Berkeley. Researchers
+and students created spinoffs and start-ups, and went back and forth between private enterprises and the
+universities.
+The better performance of firms located in clusters is generally attributed to the geographical proximity that defines
+them. Reducing the distance of interactions improves coordination between members of the cluster and facilitates
+the sharing of tacit knowledge gained through experience or shared expertise (Bathelt and Cohendet 2014; Gertler
+2003). But geographical proximity is by no means essential when knowledge is exchanged more formally (Bathelt
+and Henn 2014). In other words, clusters are not a universal panacea.
+Since Porter’s seminal work, interpretations of the concept of “cluster” have multiplied and evolved to incorporate
+other types of proximity. The literature has shown that the degree of geographical proximity varies across local
+systems of innovation, or innovation clusters.[6] Table 1 portrays a four-quadrant framework for clusters. It was
+developed by André Torre in his 2006 work Clusters et systèmes locaux d’innovation. This framework helps us
+analyze two crucial dimensions of innovation clusters: the degree of colocalization or geographical proximity and
+the degree of organization of interfirm links or organizational proximity. The latter refers to the capacity to
+coordinate the transfer and exchange of information and knowledge either within or between organizations
+(Boschma 2005). Establishments within the same firm that share a common organizational culture are more likely to
+have strong links. So too do firms that share a common knowledge space and have developed formal collaborative
+agreements. This conceptual framework can be used to compare clusters and innovation ecosystems, as it shows
+there are various ways to organize both.
+Quadrant 1 represents clusters as defined by Porter. They rely to a significant degree on colocation and strong
+organizational ties. Emerging clusters very likely start this way, with strong relationships between a few local actors.
+They are often the result of a specific regional policy to create a cluster. Silicon Valley fits in this category. Quadrant
+2 illustrates the case of clusters with weak local anchoring and strong interfirm relations. These clusters can exist at
+a national and regional level. They are more akin to knowledge or innovation networks. The development and
+production of Airbus aircraft, which spans the European continent and other countries, is a clear example. Airbus
+has plants in China, France, Germany, Spain and the United States. Yet interfirm relations are strong. Quadrant 3
+shows the third type of cluster, characterized by a high spatial concentration of firms but weak interfirm links where
+knowledge is exchanged more formally. Synergy in this case can be encouraged through various national policies,
+for example by bringing together firms that may benefit from fiscal incentives to colocate their research and
+development activities in a science park. This type of incentive gave rise to the strong electronic games industry in
+Montreal. Over time, interactions between individuals often lead to more organized links between firms in these
+clusters. Quadrant 4 is not considered to be a type of cluster because it lacks both geographical and organizational
+proximity.
+The measured impact of clusters depends on the type of cluster being considered as well as the precision and level
+of aggregation of the indicators used to gauge this impact (Beaudry and Schiffauerova 2009). Performance
+indicators commonly found in the literature include the propensity to innovate and the number of innovations; the
+number of patents and their citation-based quality or value; and employment and revenue growth. There is a need
+to better define and assess these indicators. They are measured either at the firm level, to assess the performance
+of firms within clusters compared to more isolated firms, or at the cluster level, to examine the overall performance
+of the organizations therein. Rarely are both levels examined jointly to assess the extent to which the arrangement
+is a win-win for the firm and the cluster. This is something that the ecosystem framework enables.
+Although some view geographical proximity as an advantage in facilitating collaboration, it is neither sufficient nor
+necessary for successful collaboration. Collaboration can be coordinated at a distance through temporary proximity
+(Torre 2008), for instance short trips of a few days to a few weeks or months for the team to meet face to face.
+Researchers have also come to recognize the importance of cognitive and social proximity for the success of
+ecosystems. Cognitive proximity measures the degree to which individuals or organizations share a common
+
+                                                                                                      Page 4 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+knowledge base. Social proximity refers to how socially close individuals are, or how well they know each other and
+interact. Several researchers argue that cognitive proximity is the principal cause of tacit knowledge spillovers from
+one firm to another (Breschi and Lissoni 2001). This can happen regardless of whether the firms are colocated or
+geographically dispersed within a community that shares a common knowledge base. For more efficient knowledge
+transmission (Agrawal, Kapur and McHale 2008), however, a degree of social proximity is also required, that is,
+strong trust relations between actors based on friendship, kinship and experience (Boschma 2005).
+Coherent and efficient coordination of innovation can take place at the subnational level, such as in the provinces,
+territories or smaller regions in Canada. Yet national and international links to other organizations are often
+beneficial to the innovation process (Walshok, Shapiro and Owens 2014). To fully understand innovation
+ecosystems, we must consider another layer of links and relationships beyond geographically bound clusters. The
+literature on knowledge networks provides this second building block.
+Knowledge networks
+The literature on innovation ecosystems often refers to the networking aspects of the relationships (the links of the
+networks) between actors (the nodes of the networks), which are not necessarily geographically bound as is often
+assumed in the cluster literature (figure 1). Marco Iansiti and Roy Levien describe ecosystems as being “formed of
+large, loosely connected networks of entities” (2004 35). Erik Den Hartigh, Michiel Tol and Wouter Visscher
+describe them as consisting of “a network of actors around a core technology, who depend on each other for their
+success and survival” (2006, 2). The geographical proximity of actors is rarely considered in this literature.
+Organizations, units within organizations and individuals that occupy a key network position are generally more
+productive and innovative.[7] This can be a function of how highly connected (or central) these individuals and
+organizations are within the network and whether their collaborators are interconnected (form a close-knit
+community). For example, firms that collaborate with multiple university teams, collaborate with both suppliers and
+clients to codevelop technologies, and use technologies from several providers are considered technology
+integrators. They occupy central positions in their respective networks.
+In highly interconnected or dense networks, knowledge and information travels relatively fast. This facilitates
+knowledge sharing. Basic science networks are predominantly highly dense networks (Wagner 2018), where
+access to the opposite side of the networks requires only a few handshakes. The individuals and organizations that
+link different parts of a network that would otherwise be disjointed (see nodes highlighted in figure 1), often bridge
+the gaps between communities, sectors, disciplines or industries. Burt refers to such gaps as structural holes
+(1992). The firms and researchers that first combined biology, computer science and information engineering to
+create the bioinformatics interdisciplinary field occupied such intermediary positions in their network (Freeman
+1977). Since innovation often stems from the new combination of existing knowledge, these intermediaries play an
+important role.
+At the other end of the spectrum in terms of network structure are less dense or sparser networks. An example is
+shown in figure 2. Such networks are characteristic of applied science fields and most innovation networks. As a
+technology matures, moves toward market application and transforms into product innovation, firms require fewer
+collaborators with which they have strong relationships, and they distance themselves from governments and
+universities. That is not say that they completely isolate themselves from centres of science and knowledge
+generation, but the latter are no longer in the immediate network surroundings of the firm for the technology in
+question.
+As such, innovation ecosystems and the superclusters are networks built to integrate different strong science
+communities, well-integrated sectors and supply chains, as well as other organizations and firms interested in the
+use of common key technologies. We therefore expect to find that the networks of members and researchers within
+the superclusters are relatively sparse, with dense clusters of nodes united by structural holes occupied by
+innovative individuals or organizations.
+There is an ongoing debate in the literature about which type of knowledge network, dense or sparse, is more
+conducive to innovation. Both have their strengths and weaknesses. A dense network can facilitate close
+collaboration but may be impervious to outside innovation. A sparse network, with its structural holes, can
+contribute to the creative process by combining ideas from diverse sectors. But it may lack the capacity for intensive
+collaboration. Both models can be complementary within a sparser network structure, however. Pockets of dense,
+closely linked communities connected by one or more structural holes can create strong ties among members and
+intersectoral exchanges that are beneficial to knowledge exchange, idea generation and exploration (Wang 2016),
+as well as innovation (Rost 2011).
+
+                                                                                                       Page 5 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+The literature on knowledge networks is neither abundant nor conclusive regarding their role in generating
+innovation in the case of the specific disruptive technologies[8] at the heart of the Innovation Superclusters
+Initiative. It remains to be seen whether the players developing these technologies will be able to successfully
+establish strong links with organizations using other technologies or with other sectors within the superclusters. Will
+the individuals and organizations expected to occupy structural holes between technologies, and between new and
+more traditional sectors, foster the recombination of knowledge necessary to accelerate innovation?
+Beyond their structure, the strength of network links is also important (Baum, Cowan and Jonard 2014). Informal
+relationships and collaborations, such as social ties, participation in associations and their events, trade fairs and
+international community gatherings, and even knowledge trading, play a crucial role in catalyzing knowledge within
+innovation ecosystems as well as in open innovation (Henkel, Schöberl and Alexy 2014; West et al., 2014). These
+informal ties, which are implicit in the cluster literature and are formally acknowledged but considered difficult to
+measure in the network literature, are what make innovation ecosystems work. This is particularly important in the
+case of disruptive technologies, where problem solving requires more extensive collaboration and a certain degree
+of openness. As AnnaLee Saxenian pointed out, Silicon Valley engineers who once worked together remained in
+contact after moving firms and often interacted formally and informally to exchange information and solve
+technological problems (1994). Social, organizational and cognitive proximity between individuals was crucial to the
+rise and maintenance of the Silicon Valley advantage. This collaboration culture blurred the boundaries of firms.
+Collaboration
+If innovation clusters and knowledge networks are the building blocks of innovation ecosystems, collaboration is the
+glue that brings both concepts together. Collaboration within and between organizations or sectors acts as a
+catalyst. It accelerates the sharing of information, skills and resources; improves the generation, valuation and
+validation of ideas; increases the capacity of organizations to innovate; and spans disciplines, organizations,
+sectors and users.[9] Firms that collaborate with their clients, suppliers and universities are generally more
+innovative. Firms are often located close to their clients or to their suppliers, but that does not necessarily mean
+they collaborate with them. Collaboration can occur across different types of proximity, be it geographical, cognitive
+or social, and at different stages of the innovation value chain, such as at the knowledge, ideas or project stage.
+The challenges posed by discontinuous and potentially disruptive technologies will demand broader intersectoral
+and interdisciplinary collaboration from firms seeking to benefit from such changes. The speed at which these
+technologies impose themselves on the market will force the codevelopment of new innovation practices, policies
+and regulation involving all stakeholders. It is therefore imperative to rethink the roles of and collaborative
+relationships between policy-makers, decision-makers, experts, academics and final users.
+For instance, universities and other contributors to science and technology are expected to help develop new
+technologies and commercialize the fruits of their research through mechanisms such as technology transfers,
+licensing and the creation of spinoffs, or with the help of the private sector (Breznitz and Feldman 2012). In
+particular, research collaboration between the private and public sectors is seen as essential, which is why
+university-industry links have become an integral part of the university funding landscape (Goldfarb 2008). The
+nature, process and value of the resulting innovations are well documented (OECD 2015). Far from being
+detrimental to science, university-industry links lead to research that has more impact (Lebeau et al. 2008). This
+raises the question of Canada’s poor performance in this regard. University-industry links that bridge the gaps
+between knowledge, technology and innovation[10] were expected to be the key to improving Canada’s innovation
+performance. The results have been disappointing.
+Innovation Ecosystems as a Metaphor
+The concept of innovation ecosystems draws broadly on the literature and research investigating the benefits of
+innovation clusters, various types of proximities, knowledge networks and collaboration. Because innovation
+clusters and knowledge networks are known to have a positive influence on innovation, we expect that
+organizations involved in strong innovation ecosystems should also be more innovative (Adner 2006).
+The economist Michael Rothschild was the first to use the term “ecosystem” as a metaphor in the economics and
+management of innovation literature. His 1990 book, Bionomics: Economy as Ecosystem, inspired James Moore to
+describe firms and their networks as business ecosystems. “In a business ecosystem, companies coevolve
+capabilities around a new innovation: they work cooperatively and competitively to support new products, satisfy
+customer needs, and eventually incorporate the next round of innovation” (Moore 1993, 76). By transposing the
+notion of the biological ecosystem to the economy, he also redefined the economic system as an ecosystem where
+
+                                                                                                         Page 6 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+organizations and consumers represent living organisms intertwined in mutually dependent relationships (Moore
+1996).[11]
+
+Business ecosystems include small and large businesses, universities, research centres and public sector
+organizations and tend to position themselves around a leading company (Peltoniemi 2005). Such ecosystems may
+include a company’s competitors as well as its customers, whose behaviour is likely to influence the company’s
+performance. The diversity of the actors involved is partly attributable to the digital transformation of several
+industrial sectors. It also reflects the convergence of a variety of technologies and industries, such as data science
+in precision medicine, industrial Internet of things in aerospace, 3D printing in health, and AI in mobility services. By
+coevolving their skills, the various organizations that constitute the business ecosystem create value for their
+customers (Moore 1996). The term “ecosystem” emphasizes the crucial role of networking and the participation of
+varied actors in the innovation process (Smorodinskaya et al. 2017).
+The concept of business ecosystem focuses on the firm and its network. Some researchers built on this concept as
+they examined the way firms were using external as well as internal resources in the innovation process. This led to
+the notion of innovation ecosystems and of open innovation ecosystems (Adner 2006; Rohrbeck, Hölzle and
+Gemünden 2009). Open innovation provides key insights on how innovation ecosystems work and perform.
+Open innovation
+Collaboration, cooperation and open innovation are of paramount importance to well-functioning ecosystems. This
+was implied in the cluster literature and formally measured in the literature on knowledge networks. Many firms had
+already adopted at least some forms of open innovation before the concept was first described by Henry
+Chesbrough in his 2003 book, Open Innovation: The New Imperative for Creating and Profiting from Technology.
+Indeed, since the 1970s, research and development is no longer performed entirely within the firm. The locus of
+innovation has migrated out of a company and into the value network to which it belongs (Brandenburger and
+Nalebuff 1996). The value network has replaced the concept of value chain because products and services have
+become dematerialized and the value chain no longer has a purely physical dimension. In value networks, value is
+cocreated by a combination of players in the network. This compels a degree of open innovation, defined as “the
+use of purposive inflows and outflows of knowledge to accelerate internal innovation, and to expand the markets for
+external use of innovation respectively” (Chesbrough, Vanhaverbeke and West 2006).
+Open innovation encompasses three main groups of activities: inbound activities, outbound activities and a mixture
+of the two generally referred to as coupled activities.[12] An organization undertakes inbound activities when it
+mobilizes external resources and knowledge acquired, for example, through licensing or crowd-sourcing. Firms with
+greater market knowledge may acquire new innovations in order to sell them to other organizations. Outbound
+activities refer to the external use and exploitation of internal knowledge. Such activities consist of transferring
+knowledge and the results of internal research and development to external partners for them to commercialize. For
+example, a firm could benefit from selling or granting access to some of its intellectual property to a company that
+has a business model better suited to the commercialization of that technology. A company may also decide to
+externalize the commercialization of internal knowledge when the latter does not match its strategic objectives. This
+can generate revenues from technologies, goods or services that would otherwise have remained on the shelf.
+Coupled activities are a combination of the first two, where sharing complementary resources among partners can
+lead to critical innovation.
+As the previous paragraph suggests, open innovation does not necessarily involve collaboration. A firm may, for
+instance, find an external path to market for a technology that it does not want or need to commercialize itself.
+Conversely, firms may contract out research and development activities or obtain a licence for patented
+technologies without signing a collaborative agreement.
+With open innovation, innovation is no longer confined to the boundaries of a firm. It is developed at least partly
+outside the organization with other firms, governments or universities. Many factors contributed to this change in the
+way organizations innovate, among them the increasing complexity and cost of research and development, and
+accelerated technological change. Opening to other organizations allows firms to break down silos, acquire more
+resources, reduce risk and share knowledge and resources.[13] Linear and closed innovation processes, as well as
+traditional business models, have evolved toward more open and interactive structures, where informal links adjoin
+formal relationships (Cohendet and Simon 2017; Autio and Thomas 2014). The concept of open innovation
+perfectly complements the literature on clusters and networks in characterizing the links between different types of
+organizations within innovation ecosystems.
+
+                                                                                                      Page 7 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+Ecosystem diversity
+Open innovation underscores the importance of collaboration between diverse stakeholders, each of whom
+contributes to innovation in its own way. Within innovation ecosystems, the focus of analysis is on the interactions
+between interdependent actors whose objective is to create and market innovations benefiting the end user. While
+business ecosystem studies concentrate on the firm and its environment, innovation ecosystem studies focus on
+innovation and the constellation of actors that support it.
+An organization can be involved in various ecosystems (knowledge, innovation or business ecosystems) and play a
+different role in each (Valkokari 2015). Similarly, while the same set of diverse actors from different sectors,
+businesses, universities or government institutions may populate business and innovation ecosystems, their role
+and importance differ from one ecosystem to another. A firm can be the leader of an ecosystem, but leadership can
+also fall to another type of organization, such as a university or a government entity. Relationships are not strictly
+hierarchical among ecosystem members but rather collaborative. This makes network literature useful when
+studying these interorganization links.
+The core of business ecosystems consists of firms, suppliers, consumers and distributors. Other organizations are
+only weakly involved. In contrast, innovation ecosystems are characterized by the importance of research
+institutions, local intermediaries and policy-makers. They include participants from outside the traditional value
+chain (Valkokari 2015). These can be customers, universities that provide science and technology, regulators,
+innovation coordinators or intermediaries, and firms that coevolve with the ecosystem, often in symbiotic
+relationships (Mazzucato and Robinson 2017).These participants are often geographically concentrated, which is
+why the cluster literature remains relevant in studying innovation ecosystems.
+Silicon Valley clearly functions as an innovation ecosystem. While governments have tried to imitate or reproduce
+Silicon Valley, few have succeeded by adopting a simple cluster approach. With the superclusters initiative,
+deliberately anchored in Canada’s technological, sectoral and economic strengths, Ottawa is experimenting with
+something different. It is trying to encourage intersectoral collaboration, which does not come naturally to most
+firms.[14]
+Innovation Ecosystems in Practice — the Canadian Superclusters
+According to the government’s program overview, the Innovation Superclusters Initiative is meant to encourage the
+establishment of “large-scale industry partnerships, supported by other innovation ecosystems players.” Aspiring
+superclusters were asked “to work together on ambitious market-driven proposals to supercharge their regional
+innovation ecosystems, enhancing the growth and competitiveness of participating firms and maximizing economic
+benefits, including good, well-
+paying jobs and prosperity for Canada” (Canada 2017a). A key objective is to promote widespread wealth creation
+through the adoption of new and potentially disruptive technologies within innovation ecosystems, particularly by
+small and medium-sized enterprises.
+This bold approach aims to reverse Canada’s deteriorating innovation performance, accelerate the adoption by
+Canadian firms of several key transformative technologies and foster a strong entrepreneurial or start-up culture.
+The government hopes that by facilitating the involvement of all stakeholders in the superclusters, bottlenecks such
+as the snakes-and-ladders game between regulation and innovation and other difficulties in translating science and
+technology into successful products can be overcome. Under the initiative, universities, government laboratories,
+innovation intermediaries and firms of all sizes are having to work together to develop a functional governance
+structure for these very large innovation ecosystems. This is expected to help flag problems along the innovation
+value chain and create the climate of trust necessary for greater collaboration among different disciplines and
+sectors.
+More generally, promoting the emergence of strong innovation ecosystems that span several sectors, even beyond
+those involved in the superclusters initiative, has the potential to strengthen Canada’s innovation capacity and
+competitiveness. The literature surveyed in this article certainly hints at the potential benefits of innovation
+superclusters, although their true economic impact has yet to be accurately measured. Learning from the
+experience of the innovation superclusters and that of other innovation ecosystems is timely and crucial for the
+Canadian economy.
+Despite their names, the five superclusters are centred on technologies rather than industrial sectors. These are
+detailed in box 1. While all superclusters have a strong local base, they span several regions of the country,
+building on numerous strong, local technology hubs. The concept of innovation ecosystem is the appropriate
+framework to study the supercluster initiative but, as we have shown, it is a concept that encompasses several
+
+                                                                                                        Page 8 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+others. No single strand of the literature can fully describe the ways in which the superclusters initiative can help
+reverse Canada’s downward innovation spiral, nor how it can become a successful Canadian innovation in and of
+itself. The lens needed to understand how the superclusters operate, to measure whether they achieve their goals
+and to evaluate their performance does not yet exist. More research is needed to equip organizational actors with a
+comprehensive conceptual framework and the appropriate indicators and decision-making tools to bring about the
+necessary transformations.[15]
+Key performance indicators: Measuring what matters
+The initial program guide provided to applicants wishing to take part in the superclusters initiative included four
+clearly stated objectives and a list of seven key performance indicators to measure expected outcomes over the life
+of the program. These are detailed in box 2. This signalled the government’s intention to monitor the impact of its
+investment. Although they broadly cover the main goals of the initiative, the initial key performance indicators
+consist mainly of generic indicators that, in our view, overemphasize basic metrics such as the number of
+collaborative projects, participating companies and organizations, and the number of jobs created in small and
+medium-sized enterprises. These provide a good starting point to measure results, but are too simplistic to gauge
+the full impact of the superclusters initiative on innovation and collaboration. Since the initiative was launched,
+Innovation, Science and Economic Development Canada has been consulting with experts and working with
+members of the five superclusters to develop a more detailed and precise set of indicators. Some of these are
+included in box 3. [16]
+The first group of key performance indicators in box 3 underline the need to boost investment in industrial research
+and development. Business enterprise research and development has been chronically below par in this country.
+Canada has been falling behind other OECD countries on this indicator for more than a decade (CCA 2018). The
+revised indicators are an improvement on the initial indicators proposed by recognizing the importance of investing
+in demonstration and commercialization activities, which often become increasingly costly as the technology moves
+toward the market. It will be important to track whether and where these investments take place.
+More generally, the updated performance indicators are directly aligned with the government’s strategy to advance
+business-led innovation and technology leadership activities, and to boost productivity, performance and
+competitiveness. The dollar value of such investments provides a strong indication of business commitment to
+innovate, but we also need to be able to monitor how the superclusters go about implementing the necessary
+changes. Boosting a firm’s productivity, performance and competitiveness requires putting together the best teams
+and mobilizing the right set of resources to foster innovation. The former requirement can be gauged in part by the
+number of science and technology professionals participating in supercluster activities, the number of jobs created
+and the rate of employment growth in small and medium-sized enterprises. Whether the right set of resources has
+been assembled can be measured by the outcomes: the number of products and processes developed, improved
+and commercialized.
+The third set of indicators also includes the number of patents or copyrights. This is an important addition to the list
+because, in some cases, the technologies being promoted by the superclusters are at a relatively embryonic stage
+of development. It is likely that some of the most ambitious projects will only reach a relatively early stage of
+technology maturity by the end of the five-year program. Having an interim indicator, such as the number of patents
+and copyrights, will provide an idea of the innovation potential of the supercluster.
+
+Translating investment in research and development into innovation is a necessary step to improving economic
+growth. Yet the actual economic impact of these activities in terms of increases in revenue, market share or exports
+was absent from the government’s initial list of indicators, although such indicators are included in the strategic
+plans of most superclusters. They are now on the government’s list, focusing on two elements: increases in
+contributions to gross domestic product and in the share of small and medium-sized enterprises that export goods
+or services. This definition of wealth creation, however, is considerably narrower than the aggregate economic,
+social and environmental benefits contemplated by the Council of Canadian Academies in its 2018 report.
+Canadians expect government investments in innovation to lead to improved quality of life, pollution reduction,
+health improvements and poverty reduction. Ultimately, these are the types of outcomes that we should be
+measuring. But it is notoriously difficult to do so.
+The idea behind the second set of key performance indicators is that more collaboration between private, academic
+and public sector organizations will improve the country’s commercialization performance. The extent of university-
+industry collaboration is used as an input indicator in the innovation literature and by the World Economic
+
+                                                                                                      Page 9 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+Forum.[17] But simply counting the number of collaborative projects will not be conducive to large-scale
+collaboration and may even be counterproductive as it encourages a multiplicity of small projects. Having an
+excessive number of small projects or larger projects broken down into smaller ones to meet performance indicator
+requirements will make it more difficult to coordinate and to measure the overall impact. These biases may be
+partially counterbalanced by also counting the number of member organizations involved in each project, although
+this is more suitable for larger or more important projects. And, while these metrics may be indicators of scale and
+potential reach, they fail to convey any information about the quality of the links and relationships within the
+ecosystem or how productive they are in terms of outcomes. Indicators aimed at characterizing these relationships
+should be developed to monitor progress over the course of the initiative. Finding ways to measure the benefits of
+collaboration would be a further challenge, but it would help offset potential biases linked to simple project counts.
+The expanded set of indicators emphasizes innovation ecosystems’ growth, monitoring employment growth in
+participating small and medium-sized enterprises and the number of new jobs created overall. Tracking the number
+of new firms created and the number of high-growth firms involved in the supercluster is consistent with the scale-
+up objective. Some caution is warranted, however. Beyond the desired spinoffs, start-ups and gazelles alluded to in
+the government’s objectives, many of the high-growth firms that will be added to the count likely already belong to
+existing sectors. Many of the so-called new employees come from somewhere else. Although this is not a zero-sum
+game, employees who leave their current employment to move to small and medium-sized firms involved in the
+superclusters will deplete firms, sectors, regions and ecosystems elsewhere.
+The inevitable but beneficial workforce mobility involved in the innovation process should be taken into account. For
+example, when an aerospace firm is developing a new aircraft, its workforce is likely to decrease if demand is
+declining for its older aircraft models. Yet this is often the most innovative period for the company. Simply counting
+the number of employees, or employment growth, will not reflect the firm’s innovative capacity embodied in its
+employees. We suggest that measures of the quality and innovative capacity of human capital in relation to the
+stage of development of the technology be added to the indicator list. Existing innovation surveys already gather
+information on the number of employees with technical, science and engineering degrees, PhDs, or those devoted
+to research and development or tasks related to commercialization. A culture that encourages employees to
+innovate is an important contributor to the innovation process. Mercan and Goktas (2011) used elements of the
+Global Innovation Index developed by the World Economic Forum and INSEAD, a graduate business school
+(Schwab 2019), to measure innovation culture. With the power of big data analytics at our fingertips, we can go one
+step further and account for the experience employees have had in past projects and their involvement in
+successful innovations.
+
+Given the government’s focus on technologies rather than sectors in designing the superclusters program, an
+important missing performance indicator relates to the transfer and adoption of technologies by firms and
+organizations in sectors other than those that produce them. As shown in box 1, there is a particular focus on
+promoting the adoption of digital technologies and AI by Canadian firms. How transformative these technologies will
+be for the firms that adopt them will need to be assessed. Successful adoption is likely to occur through informal
+relationships and the sharing of tacit knowledge, which are difficult to measure. It is the key to greater competitive
+advantage and wealth creation for the adopting firms and organizations.
+The contribution of innovation ecosystems to economic growth, competitiveness and wealth creation cannot simply
+be measured in terms of the number of new products or processes or increases in exports, productivity and gross
+domestic product. Some of the superclusters such as NGen, the supercluster focused on next- generation
+manufacturing, have adopted more extensive performance ­indicators. Yet their overall approach is the same as
+that of the government.[18] Such indicators may be easier to quantify, but they are at best proxies for innovation
+and its impact. Ultimately, the government and the superclusters will need to develop more sophisticated indicators
+to truly measure the potential and the impact of innovation ecosystems. This will enable stakeholders to adapt
+innovation practices and policies to provide a win-win environment for the ecosystems and their constituent
+organizations.
+Supporting effective innovation ecosystems: Addressing knowledge gaps
+The Innovation Supercluster Initiative provides a unique opportunity to advance knowledge about superclusters
+beyond a few simple metrics aimed at demonstrating value for the public investment. Gaining a better
+understanding of supercluster dynamics would benefit not only policy-makers but all stakeholders. Indeed, the
+supercluster initiative should be viewed as somewhat of a Canadian experiment. Identifying the factors that facilitate
+
+                                                                                                    Page 10 of 12
+                 The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+the emergence and success of these superclusters and other ecosystems will help policy-makers better design and
+fine-tune innovation policies and programs. The timing is certainly propitious. Having mobilized their communities
+around specific technologies or sectors, groups that applied but were not chosen to become superclusters in 2017
+have tried to maintain momentum by setting up more formal governance structures and accessing various
+government programs. Identifying and measuring the commonalities and divergences of other innovation
+ecosystems as they emerge would help governments target the right policies to foster their success.
+We urgently need to design and test new metrics adapted to the reality of innovation ecosystems. The tools
+currently at our disposal provide measurements that are at best proxies for true innovation potential. We need
+indicators that accurately reflect the complex dynamics of collaborating across provinces, sectors and organizations
+on the digital transformation of traditional sectors while making the most of the discontinuous and potentially
+disruptive technologies.
+There is still much we need to learn. For instance, the way in which innovation ecosystems emerge, adapt to
+paradigm shifts brought about by new disruptive technologies, and bridge the gap between science and technology
+and the commercialization of innovation is still poorly understood. Ecosystems are not static. They evolve as
+innovations develop. It is therefore important to identify the characteristics and similarities of different types of
+innovation ecosystems at different points in their life cycle. This includes their contribution to and impact on the
+generation and conversion of ideas and on the commercialization and implementation of innovation.
+We do not yet know how to assess the different governance structures that span informal and formal relationships
+within innovation ecosystems. To ensure that the superclusters and other innovation ecosystems operate efficiently
+requires a deeper understanding of the organizations and individuals at the core of these networks and the specific
+roles they play as the convenors or facilitators of their ecosystems. There are numerous examples of successful
+governance structures, shared intellectual property and trust-based collaborative groups in Canada. But they are
+often well-guarded secrets. The Consortium de recherche et d’innovation en aérospatiale au Québec (CRIAQ) is
+one example. Under the CRIAQ contract between universities and aerospace firms, all prior intellectual property is
+declared and new intellectual property is shared among the industrial partners, without preventing academics from
+conducting further research on the subject. This model has existed for several years and has contributed to
+enhancing Quebec’s aerospace innovation performance.
+A crucial task is to accurately gauge the win-win conditions for both individual organizations and ecosystems. It
+would be counterproductive to adopt key performance indicators at the level of the individual organization, whether
+it is a firm, university, government organization or innovation intermediary, that are incompatible with those at the
+level of the innovation ecosystem. A minimum degree of coherence is necessary to ensure the success of well-
+organized innovation ecosystems. That raises questions. How much self-organization or self-governance do
+ecosystem members require as opposed to, or in addition to, a more top-down approach? How loose or formalized
+should the decision-making process be within the ecosystem? How should its convenors oversee decision-making
+to foster innovation? In the case of the superclusters, a strong sectoral governance structure may dominate and
+impose itself, but it may not produce the expected innovation boost.
+Developing new and validated key performance indicators for innovation ecosystems is one of the main goals of the
+Partnership for the Organisation of Innovation and New Technologies. Although the scope of our project is broader
+than measuring the impact of the superclusters, our research community has much to learn from innovation
+ecosystem dynamics and the success factors underlying their performance. The superclusters initiative provides
+fertile ground to test new ways to assess industrial and ecosystem performance and to compare those results with
+more traditional metrics such as those mentioned in boxes 2 and 3. It is encouraging that the department of
+Innovation, Science and Economic Development wishes to remain at the forefront of new research and is open to
+developing news ways to measure the impact of its supercluster program. It has been a partner of our organization
+since the beginning and is codeveloping with us these new indicators of ecosystem innovation and performance.
+Challenges for Innovation Ecosystems and the Superclusters
+In Canada, we are still looking for the recipe to scale up firms. How to scale up ecosystems is an even greater
+challenge. We know, for instance, that stakeholders take part in ecosystems because they see an opportunity to
+resolve issues and develop market opportunities. Firms scale up when their market expands locally or
+­internationally. Ecosystems should help in that regard. However, multiorganization collaboration requires the
+integration of working practices and processes. This can be challenging, especially when multiple organizations
+from multiple sectors are involved. But aligning scaling up with multiorganization or sectoral collaboration is
+precisely where the potential advantage of innovation ecosystems and superclusters lies.
+
+                                                                                                        Page 11 of 12
+                  The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+A related question to be investigated is whether innovation ecosystems are agile enough to provide an alternative to
+the need for firms to scale up to succeed. Organizations and ecosystems are increasingly seeking to coordinate a
+variety of activities that were formerly scattered across diverse entities focused on different technologies. They are
+doing this not only to accelerate the innovation trajectory toward commercialization but also to overcome the cost
+pressures, technological complexity and social acceptability issues that are making innovation projects more
+complex. Complexity is forcing firms to collaborate. More research is needed to develop and implement new
+practices, platforms, roles and functions to operationalize and govern ecosystems and their member firms as they
+scale up. This is particularly important when multiple sectors are involved, as is the case for most superclusters.
+
+As traditional economic sectors (aerospace and manufacturing in general) look to benefit from advances in big data
+analytics and AI technologies, it is important to document and understand how ecosystems successfully evolve in
+response to the challenges brought about by these technologies. Gaining better knowledge of these new networks
+and collaborative spaces will contribute to the development of effective public policies and industry practices that
+are conducive to the sustainability of ecosystems.
+
+In this context, it is particularly important to understand the “modularity of technological artifacts” within innovation
+ecosystems (Beltagui, Rosli and Candi 2020). This term refers to the degree to which the components of a
+technology can be separated and recombined. At the heart of the supercluster initiative is the government’s wish for
+a wide-scale digital transformation of the Canadian industrial fabric. Adoption of new digital modules within an
+industry or sector, such as manufacturing or health care, will disrupt traditional innovation processes and constitute
+a paradigm shift in all the sectors that will be affected. For instance, big data analytics is transforming the health
+care ecosystem by recombining specific technological and medical modules (such as AI, genomics and
+pharmacology), further personalizing medical treatment and fostering the emergence a new digital health
+ecosystem. In the manufacturing sector, 3D printing will revolutionize and shorten the product development
+process, displacing some of the traditional ways used to produce and assemble complex objects. The
+manufacturing sector will need to evolve to benefit from these new technologies.
+The integration of new technologies in more traditional sectors may require the use of specific creativity methods,
+such as design thinking, to explore how to best combine knowledge from unrelated disciplines and sectors.[19] This
+will likely involve other ­stakeholders, such as users and non-experts, which adds a level of complexity.
+Organizations must come up with new configurations to support the development of creative ideas through both
+internal and external initiatives (Cohendet, Grandadam and Simon 2010). Identifying the instigators of these
+transformations will help trigger change in laggard sectors, clusters or ecosystems.
+
+To fully benefit from their innovation ecosystems, individual firms will also need to adopt more open and agile
+business models adapted to constant ecosystem evolution (Attour and Burger-Helmchen 2014). Analyzing how
+sectors that have successfully adopted these advanced technologies have managed the transition would provide
+invaluable knowledge for other sectors and ecosystems about to experience similar transformations. Worldwide,
+efforts are being deployed to implement industry 4.0 (the adoption of digital technologies by manufacturing), smart
+cities, self-driving cars, personalized medicine and smart electric grids. What these innovations have in common is
+that they combine knowledge and technologies from a variety of sectors or disciplines. Their impact is also cross-
+cutting. For instance, industry 4.0 and its underlying technologies will not only affect the manufacturing sector, but
+also health, transport and agri-food. Breaking down disciplinary and sectoral silos within ecosystems will be crucial.
+Yet public policy and regulation are still developed in sectoral silos that struggle to adapt to these disruptive
+technologies. Moreover, the speed at which these radical innovations enter the market leaves decision-makers in
+catch-up mode. This limits the innovation potential of the country.
+
+Canadian public policy needs to change to enable the necessary transformations within firms, universities,
+government and society in general. New policies are needed to support the extensive combination of knowledge
+that spans multiple disciplines and sectors. Regulatory harmonization for sectors such as aerospace and health,
+which are already undergoing a vast digital transformation, and information and communication technology is
+urgently needed to avoid stopping transdisciplinary and cross-industry innovation in its tracks. To take one example,
+the extent of data collection and the stringency of the cybersecurity required for precision medicine to fully deploy
+suggest a clear shift is needed in the way we address regulation. One avenue that holds promise is for
+governments to codevelop targeted public policies and appropriate regulations with innovation intermediaries in
+
+                                                                                                      Page 12 of 12
+                    The Superclusters Initiative: An Opportunity to Reinforce Innovation Ecosystems
+
+ecosystems. Innovation support mechanisms also have to be developed in parallel with regulation. This would
+provide a reinforcing policy framework where regulation is no longer seen as an obstacle to the adoption of new
+technologies and to innovation in heavily regulated domains. [20]
+Conclusion
+At the beginning of this study, we highlighted the growing concern that Canada has failed to benefit from its strength
+in science and technology when it comes to ­successfully commercializing innovation. The last two decades have
+seen a proliferation of university-industry funding programs. Yet these have failed to produce the desired outcomes.
+Something different is needed. Taking the bull by the horns, so to speak, the government initiated the Innovation
+Superclusters Initiative to try to reverse the downward trajectory of innovation. Starting from the premise that united
+we stand, the program aims to build a critical mass of partnerships between research facilities and industry that will
+boost innovation, productivity and competitiveness. Encouraging a more coordinated approach to ensure that
+transformative technologies[21] reinvigorate industrial capabilities is a bold move that is being followed closely by
+other countries.
+Noting that the Canadian superclusters are in fact more akin to innovation ecosystems than clusters, we briefly
+surveyed the pertinent literature on the building blocks of innovation ecosystems. These include industrial clusters,
+knowledge networks, collaboration and open innovation. As none of the lenses suffices to comprehend the
+dynamics of innovation ecosystems, we argued that a multidisciplinary framework needs to be developed to fully
+understand how the superclusters operate, to measure whether their goals are achieved, and to evaluate their
+performance.
+
+Furthermore, as they prepare for the adoption, diffusion and impact of discontinuous and potentially disruptive
+technologies such as AI and industry 4.0, Canadian firms are having to acquire a whole new set of skills that they
+may not have the capacity to absorb on their own. The speed at which new technologies are being developed
+forces all stakeholders to be involved from the beginning in well-coordinated collaborative entities, such as
+innovation ecosystems or superclusters. Accurately monitoring the success of innovation ecosystems and of the
+firms and organizations therein requires the development of new indicators. These indicators would complement the
+traditional key performance indicators that we automatically turn to because they are relatively easy to measure,
+master and understand. Herein lies the challenge. The extent of the coordination required to ensure the success of
+the superclusters, or to propose how to change tack in real time if need be, is unprecedented. So too is the task
+entailed in accurately measuring that success.
+Developing, testing and providing new and more appropriate performance indicators for innovation ecosystems is
+the challenge our team took on in 2018. Such indicators will be invaluable. They will ensure that the cross-cutting
+impact and innovation potential of integrating knowledge and technology from multiple sectors and disciplines is
+taken into account. They will also help Canada develop effective and reinforcing innovation policies and regulatory
+frameworks adapted to innovation ecosystems. The results of our research will help Canadian innovation
+ecosystems, including the superclusters, evolve and have a long-lasting positive impact on our economy.
+
+
+Load-Date: October 9, 2020
+
+
+  
