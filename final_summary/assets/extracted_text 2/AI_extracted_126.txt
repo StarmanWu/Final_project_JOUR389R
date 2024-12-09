@@ -1,0 +1,18 @@
+
+In the five years since Chris Callison-Burch has been teaching an artificial intelligence class at the University of Pennsylvania, his class has grown from around 100 to 400 students in person and another 200 joining remotely, he said.
+"On campus, we fill the biggest lecture hall available, which seats 400. I can't grow bigger than that unless we move to the sports stadium," said Callison-Burch, an associate professor at Penn Engineering.
+Starting next spring, the University of Pennsylvania will expand its AI course offering with a new online master's degree program focused on AI.
+"The fact that [AI is] just in the public imagination to the degree that it is at the moment, it really makes this one of the most exciting things for students to be able to study," said Callison-Burch, who will be the faculty director of the new online program.
+Applications for the new AI master's program open in June, and classes will begin the following spring. The courses can be completed asynchronously, allowing students to continue to work while pursuing a degree. Courses will cover topics including mathematics, computing, machine learning, applications of AI, and large-scale data sets, according to Vijay Kumar, the dean of Penn Engineering.
+One of the pillars of the program is also ethical considerations of AI, says Callison-Burch.
+"This is exceptionally important for our graduate students to understand and be able to be in a position to help shape policy be that at the national level or the state level, if they enter government. I think equally as impactful is shaping policy within companies," he said.
+While there is "a lot of exceptional potential" from the benefits of artificial intelligence, which includes enhanced productivity and creative potential, it also comes "at great peril as well," he says.
+"Americans experienced automation in the factory worker, blue-collar job sector, but never had to deal with it from the white-collar sector," Callison-Burch said. "There's some core things that we're going to have to grapple with. Depending on how rapidly that change happens, it could be really devastating to a large sector of the U.S. workforce. There's some really important policy considerations there."
+Hollywood screenwriters went on strike last year including over issues of AI being used in their work. Screenwriters were concerned about chatbots such as ChatGPT, being able to write scripts, according to the Associated Press, and have since secured some protections for their work.
+One challenge to teaching AI is that the field is advancing very rapidly, Callison-Burch said. "It's going so fast that I feel like we have to constantly refresh our materials."
+While graduates who complete the program could enter different fields that are adopting applications of AI including in health care and drug development, students are also preparing for jobs that might not exist yet, Kumar said.
+"We want the students to be prepared for jobs that we can't yet imagine," Kumar said. "It's hard to predict the future, especially in this field."
+aperezcastells@inquirer.com
+arianapeca2
+
+

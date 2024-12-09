@@ -1,0 +1,45 @@
+
+By Talker
+By Stephen Beech via SWNS
+Our love of french fries and other carbs dates back over 800,000 years to our cavemen ancestors, suggests a new study.
+The origins predate agriculture and maybe even our split from Neanderthals, say scientists.
+American researchers have found that the gene for starch-digesting saliva may have first duplicated more than 800,000 years ago, seeding the genetic variation that shapes our modern diet.
+It has long been known that humans carry several copies of a gene that allows us to begin breaking down complex carbohydrate starch in the mouth, providing the first step in metabolizing starchy foods such as bread, potatoes and pasta.
+However, it has been difficult for scientists to determine how and when the number of those genes expanded.
+Now a new study, led by scientists at The University of Buffalo and The Jackson Laboratory , showcases how early duplications of the gene set the stage for the wide genetic variation that still exists today, influencing how effectively humans digest starchy foods.
+By Talker
+The findings, published online by the journal Science, reveal that the duplication of the gene - known as the salivary amylase gene (AMY1) - may not only have helped shape human adaptation to starchy foods but may have occurred as far back as more than 800,000 years ago, long before the advent of farming.
+Study corresponding author Professor Omer Gokcumen, of The University of Buffalo, said: "The idea is that the more amylase genes you have, the more amylase you can produce and the more starch you can digest effectively."
+He explained that amylase is an enzyme that not only breaks down starch into glucose but also gives bread its taste.
+Gokcumen used optical genome mapping and long-read sequencing, a methodological breakthrough crucial to mapping the AMY1 gene region in extraordinary detail.
+He said traditional short-read sequencing methods struggle to accurately distinguish between gene copies due to their near-identical sequence.
+Krista Stucchio
+By Talker
+However, long-read sequencing allowed the team to overcome the challenge in present-day humans, providing a clearer picture of how AMY1 duplications evolved.
+Analyzing the genomes of 68 ancient humans, including a 45,000-year-old sample from Siberia, the researchers found that pre-agricultural hunter-gatherers already had an average of four to eight AMY1 copies per diploid cell.
+The team say that suggests humans were already walking around Eurasia with a wide variety of high AMY1 copy numbers well before they started domesticating plants and eating excess amounts of starch.
+More from this section
+When Complications Strike After Heart Surgery, Women More Likely to Die Than Men
+3 Years of Med School Might Be Enough to Produce Quality Doctors
+Most Older Americans Don't Trust AI-Generated Health Info, Survey Finds
+The study also found that AMY1 gene duplications occurred in Neanderthals and Denisovans.
+Study co-lead author Dr. Kwondo Kim, of JAX, said: "This suggests that the AMY1 gene may have first duplicated more than 800,000 years ago, well before humans split from Neanderthals and much further back than previously thought."
+Gokcumen said: "The initial duplications in our genomes laid the groundwork for significant variation in the amylase region, allowing humans to adapt to shifting diets as starch consumption rose dramatically with the advent of new technologies and lifestyles."
+(Photo by Nadin Sh via Pexels)
+The researchers say the initial duplication of AMY1 was like the first ripple in a pond, creating a genetic opportunity that later shaped our species.
+As humans spread across different environments, the flexibility in the number of AMY1 copies provided an advantage for adapting to new diets, particularly those rich in starch.
+Co-lead author Dr. Charikleia Karageorgiou, who works in Gokcumen's Buffalo lab, said: "Following the initial duplication, leading to three AMY1 copies in a cell, the amylase locus became unstable and began creating new variations.
+"From three AMY1 copies, you can get all the way up to nine copies, or even go back to one copy per haploid cell."
+The study also highlights how agriculture impacted AMY1 variation.
+While early hunter-gatherers had multiple gene copies, European farmers saw a surge in the average number of AMY1 copies over the past 4,000 years, likely due to their starch-rich diets.
+(Photo by Sergey Meshkov via Pexels)
+By Talker
+Previous research by Gokcumen's showed that domesticated animals living alongside humans, such as dogs and pigs, also have higher AMY1 copy numbers compared to animals not reliant on starch-heavy diets.
+Gokcumen said: "Individuals with higher AMY1 copy numbers were likely digesting starch more efficiently and having more offspring.
+"Their lineages ultimately fared better over a long evolutionary timeframe than those with lower copy numbers, propagating the number of the AMY1 copies."
+The findings follow a University of California-led study published last month in the journal Nature, which found that humans in Europe expanded their average number of AMY1 copies from four to seven over the last 12,000 years.
+Study co-lead author Dr. Feyza Yilmaz, of JAX, said: "Given the key role of AMY1 copy number variation in human evolution, this genetic variation presents an exciting opportunity to explore its impact on metabolic health and uncover the mechanisms involved in starch digestion and glucose metabolism."
+She added: "Future research could reveal its precise effects and timing selection, providing critical insights into genetics, nutrition, and health."
+Originally published on talker.news, part of the BLOX Digital Content Exchange.
+
+

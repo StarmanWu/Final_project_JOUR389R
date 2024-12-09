@@ -1,0 +1,59 @@
+
+For years, Mishuris, a primary care physician at Brigham and Women's Hospital, repeated the ritual herself. 
+But no more.
+Since last summer, she's been piloting two competing software applications that use large-language models and generative artificial intelligence to listen in on, transcribe and summarize her conversations with patients. At the end of a patient visit it takes her just two to three minutes to review the summary for accuracy, cut and paste a few things into the patient's health record and hit save.
+"I look at my patients now (during a visit)," said Mishuris, who oversees the pilot project across 450 Harvard-affiliated providers and plans to expand to 800 within the next month. "It's a technology that puts me back in the room with my patient as opposed to putting up a barrier between me and the patient."
+Mishuris, chief medical information officer and vice president of digital at Mass General Brigham, is among the earliest adopters of artificial intelligence in medicine, a field known for being slow to adapt to change. ("Legit, there's a fax machine at the front of my clinic," she said.) 
+Link to Image
+While some other doctors have incorporated AI and large-language models, such as ChatGPT that analyze reams of online language, into their practices, Mishuris and a team 200 miles away at NYU Langone Health are among the few who have opted to study its use. 
+They want to ensure the technology improves overall care before they adopt it more widely. 
+"We're not racing to get this out there. We really are trying to take a measured course," said Dr. Devin Mann, strategic director of digital innovation at NYU Langone's Medical Center Information Technology. "We really like to understand how these tools really work before we let them loose."
+The much-maligned electronic health record
+No one wants to make a mistake that will lose the trust of patients or doctors when using this technology.
+After all, digital technology has disappointed both before.
+Electronic health records have become essential tools in medicine, replacing the rooms full of paper documents that were hard to maintain and subject to fires and other losses. 
+But patients hated the shift to electronic health records. 
+Rather than building a relationship with a physician, they felt they were now talking to the back of a caregiver's head as they listened to clacking fingers rather than making eye contact and listening to the murmurs of someone paying close attention. 
+Doctors disliked them even more. 
+Link to Image
+Dr. Christine Sinsky, vice president of professional satisfaction at the American Medical Association, calls the shift to electronic health records the "great work transfer." Physicians, rather than nurses, medical assistants or clerical workers, were suddenly responsible for recording most of their patients' data during clinic visits.
+In a 2016 study, Sinsky and her colleagues showed that after "the great work transfer," doctors were spending two hours on desk work for every hour face-to-face with patients. 
+"It is time on (electronic health records) and particularly time on physician order entry that is a source of burden and burnout for physicians," she said.
+Burnout hurts everyone
+Burnout leads to medical errors, increases malpractice risk, reduces patient satisfaction, damages an organizations reputation and reduces patients loyalty, according to Sinsky, who worked as a general internist in Iowa for 32 years.
+She calculated the cost of a doctor leaving the profession due to burnout at $800,000 to $1.4 million per physician. The lost funds include the cost of recruitment, a sign-on bonus and onboarding costs.
+In a recent survey of doctors, nurses and other health care workers conducted by the AMA, nearly 63% reported symptoms of burnout at the end of 2021, up from 38% in 2020. 
+Inbox work also contributes to burnout, Sinsky said. 
+The volume of inbox work rose 57% in March 2020, as the pandemic set in, "and has stayed higher since that time," Sinsky said. Meanwhile, the rest of their workload hasn't dropped to compensate for the increase, so physicians are working more during their off hours, she said. 
+Link to Image
+The amount of time doctors put in during their personal time  commonly called "work outside of work" or "pajama time"  is often a good predictor for burnout. Doctors in the top quarter of pajama-time workers are far more likely to feel burnout than those in the lowest quarter. 
+Among the other new requirements adding to burnout is the expectation doctors will be "texting while doctoring"  typing throughout a medical visit. This experience is as deeply unsatisfying for the doctor as it is for the patient, Sinsky said. 
+Notetaking means synthesizing
+Still, she's not convinced that generative AI and large-language models are the only or best solution to all these problems. 
+In her former practice, Sinsky said, what worked well was having a nurse in the room with the physician, sharing information, pulling up additional information from the electronic health record and entering orders in real time. That way, the doctor can focus on the patient and the nurse will be familiar enough with the patient's care to answer most follow-up questions that may arise between visits.
+"When we build systems that synthesize care and consolidate care and prioritize the relationships among the people  between the doctor and the patient, between the doctor and the staff  that's when the magic happens. That's when quality is better cost is lower," she said. "I see AI as a technology solution to a technology problem and its balance of risks and benefits hasnt yet been determined."
+Sinsky said she worries that something will be lost when doctors completely stop dictating or writing their own notes. 
+As anyone who writes regularly knows, it is in the act of writing that you truly begin to understand your subject, she said. Without that connection, that requirement to synthesize the material, Sinsky worries doctors will miss clues about their patients' health. 
+"How much (AI) is going to help and how much it's going to distract us, that's TBD," she said. "I fear that some physicians may just accept the AI output and not have that pause and that reflection that then helps you consolidate your understanding."
+Offers of hugs and other signs of promise
+Still, early responses to the AI notetaking technology from Harvard and NYU Langone have been positive. 
+"Some people say it's okay, but maybe not for them," Mishuris said, while most are more effusive. Many have reported "drastic changes in their documentation burden," saying in some cases that they've been able to leave their clinic for the first time without paperwork hanging over them, she said. "I've had people offer to hug me."
+Mishuris' study also measures how much time doctors spend on their visit notes, in the electronic health records after clinical hours, and how much they change the AI-drafted notes. If the doctor makes a lot of changes, it suggests they are unhappy with the drafted note.
+Each doctor participating in the study fills out a survey after using one of two technologies for two weeks, then after eight weeks and again at three months. At this point, participants are just about to hit the 8-week mark, so the data about burden and burnout is coming soon, Mishuris said.
+She hopes studies like hers will determine whether the technology is useful and for whom. "It might be that the technology is not right for an oncologist yet," she said, or maybe it's not appropriate for every visit, "but that is what we're trying to determine."
+At NYU Langone, where the AI experiment is happening on a smaller scale, early results show the technology was able to translate visit notes, which doctors typically write at a 12th-grade level or above, to a 6th-grade level  which is more understandable to patients, said Dr. Jonah Feldman, medical director of clinical transformation and informatics for Langone's Medical Center Information Technology. 
+When the doctors wrote the notes, only 13% broke the content into simple chunks, while 87% of the Chat-GPT4 notes were written in easy-to-understand bits, he said. 
+Feldman said the goal of using AI is not to put anyone out of work  typically the greatest fear workers have about artificial intelligence  but to get more done in the limited time allotted. 
+That will allow doctors to spend more quality time with patients  hopefully improving interactions and care and reducing burnout, he said. Were focusing on making the doctor more efficient, making the experience in the room better, Feldman said.
+Link to Image
+Mann, who oversees digital innovation at NYU Langone, said he hopes to avoid AI-written notes that read awkwardly and waste clinicians' time on "double-work," spending more time rewriting notes than they would have spent writing them in the first place. For this to work, he said, "It's got to be a lot better, a lot easier."
+The Langone team is also experimenting with using AI to respond to patients' emails. Mann said providers want the email to sound personalized, so a doctor who previously would have sent patients "haikus" doesn't suddenly start sending "sonnets." 
+Next, the team wants to expand to home monitoring, so that someone who has been instructed, say, to check their blood pressure at home every day and upload that information to their doctor, can get questions answered via AI, rather than "chasing us down with phone tag," Mann said. "A lot of quick answers can be done faster, so we can put our limited time and energy into more complicated things."
+He's also focused on providing these kinds of services first to people with limited resources since they are often the last to receive technological advances.
+Ultimately, the success of this kind of technology will come down to whether doctors are willing to adopt it and patients are comfortable with it.
+A recent Mishuris patient, Rachel Albrecht, had no problem with AI listening in on her medical appointment. 
+"It sounds like a good tool," Albrecht, 30, an accountant from Boston, said at the end of her appointment. She liked the idea of getting an easy-to-understand summary of results after a visit. "I'm pro-AI in general."
+Karen Weintraub can be reached at kweintraub@usatoday.com .
+This article originally appeared on USA TODAY: Your doctor (and ChatGPT) will see you now. A peek into AI-assisted medical visits.
+
+

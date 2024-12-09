@@ -1,0 +1,30 @@
+
+Becky Litvintchouk didn't think she'd be able to manage the mountain of tasks needed to become an entrepreneur. Every other part of her life has been overwhelming because of ADHD, which can impact her ability to concentrate.
+So, she turned to AI. The app Claude helps her decide which contracts made the most sense for her hygienic-wipes business, GetDirty, without having to read them word for word. She also created business plans by telling the generative AI bot what her goals were and having it create steps for her to get there.
+"It's been just massively instrumental. I probably would not be where I am today," she said of using AI for about two years.
+Experts say generative AI tools can help people with attention deficit hyperactivity disorder - who experience difficulties with focusing, organizing and controlling impulses - get through tasks quicker. But they also caution that it shouldn't replace traditional treatment for ADHD, and they expressed concerns about potential overreliance and invasion of privacy.
+
+Will apps replace ADHD treatment?
+Emily Kircher-Morris, a counselor who focuses on neurodivergent patients, said she's seen the tools be useful to her clients with ADHD. She even uses them herself, because she has ADHD.
+Her clients, she said, seem to have varying levels of comfort with the idea of using AI. But for those who take to the technology, "it really can help to hook people in, like, 'Oh, this is kind of a fancy new thing that catches my interest. And so I really want to dig in and explore it.'"
+She also said it's good to use caution. John Mitchell, an associate professor at Duke University School of Medicine, added that AI apps should be used as "one tool in a toolbox" instead of replacing traditional treatments such as developing organizational skills or taking prescription medications.
+"If you're kind of treading water in your job and AI's a life preserver, well, that's great you're staying above water, but, you know, you still don't know how to swim," he said.
+
+What else can the apps do?
+Litvintchouk, a married mother of four living in New York City, dropped out of high school and left the workforce - all things that research shows are more likely to happen to people with ADHD, putting them at higher risk of economic instability.
+Aside from helping with her business, she uses ChatGPT to help with grocery shopping - another thing that can be fraught for people with ADHD because of the organization and planning skills needed - by having it brainstorm easy-to-prepare recipes with a corresponding grocery list.
+When she shared her technique with another mom who also has ADHD, she felt more people needed to know about it, so she started creating videos on TikTok about various AI tools she uses to help manage her ADHD struggles.
+"That's when I was like, 'You know what? I need to, like, educate people,'" she said.
+Generative AI tools can help people with ADHD break down big tasks into smaller, more manageable steps. Chatbots can offer specific advice and can sound like you're talking with a human. Some AI apps can also help with reminders and productivity.
+Software engineer Bram de Buyser said he created Goblin.tools with his neurodivergent friends in mind. Its most popular feature is the "magic to-do," in which a user can enter a task and the bot will spit out a to-do list. The software can even break down items on the list into smaller tasks.
+"I'm not trying to build a cure," he said, "but something that helps them out (for) two minutes out of the day that they would otherwise struggle with."
+
+What kinds of problems could apps create?
+Husson University professor Russell Fulmer describes the research around AI and ADHD as "inconclusive." While experts say they see how artificial intelligence could have a positive impact on the lives of people with anxiety and ADHD, Fulmer said, it may not work perfectly for everyone, such as people of color with ADHD.
+He pointed to chatbot responses that have been racist and biased at times.
+Valese Jones, a publicist and founder of Sincerely Nicole Media, was diagnosed with ADHD as a child and uses AI bots to help with reading and responding to emails and proofreading public relations plans. But the responses don't always capture who she really is.
+"I'm southern, so I talk like a southerner. There are cadences in my writing where you can kind of pick up on the fact that I'm southern, and that's on purpose," said Jones, who is Black. "It doesn't pick up on Black women's tone, and if you do put in, like, 'Say it like African American,' it automatically goes to talking like 'Malibu's Most Wanted.'"
+And de Buyser said that while he sees a future where AI chatbots function more like a personal assistant that is "never tired, never sleeps," it could also have privacy implications.
+"If you say, 'Oh, I want an AI that gives me personal information and checks my calendar' and all of that, you are giving that big company access to your emails, your calendar, personal correspondence, essentially your deepest, darkest secrets just so it can give you something useful back," he warned.The following fields overflowed: REFERENCE = 09-10 B1 MED--Be Well-ADHD Apps_B01
+
+

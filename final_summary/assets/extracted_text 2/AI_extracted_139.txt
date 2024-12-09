@@ -1,0 +1,46 @@
+
+Hal introduced himself to the Emory University nursing class gathered around his bedside. He shook a students hand and provided his medical history. No allergies, no surgeries. He has high blood pressure but isnt taking any medication.
+The students had not expected the demonstration to feel so real. Because heres the thing about Hal: Hes a robot. (Its official name is HAL S5301.) A $135,000 patient simulator with silicone skin, uncanny eye movements and artificial intelligence.
+Hal is the right-hand mannequin to Kim Fugate, senior simulation operations specialist at the Emory Nursing Learning Center.
+Its not just students who have turned to AI programs such as ChatGPT for help with assignments and essays. Their professors are also increasingly relying on the emerging technology to enhance and personalize learning. Theyre exploring how to use AI to conduct oral assessments, brainstorm curricula, generate multiple choice questions for tests or train future teachers and nurses by replicating scenarios theyll encounter in classrooms and hospitals.
+The technologys rapid advancement in the classroom has elicited both lighthearted fun  an April Fools Day edition of the University of Mississippi student newspaper carried the headline UM reveals plan to replace professors with artificial intelligence  and deep unease. In July, California enacted a law to require human faculty to teach community college courses. Professors can still use AI as a tool for developing courses, tutoring and grading, according to the bills sponsor.
+I dont think AI will ever fully replace teachers because I think teaching is one of the hardest professions in the world, said David Joyner, executive director of online education at Georgia Techs College of Computing.
+But, he said, more people are recognizing ways it can help and realizing students need to learn to use it. As a result of AI and the online shift during the COVID-19 pandemic, he expects college classrooms to look very different in the next decade.
+Were going to see a lot more embracing of the fact that class is not the four walls, Joyner said.
+A new kind of teaching assistant
+This fall, Morehouse College professor Muhsinah Morris, who directs the schools Metaversity, is introducing students to her new AI teaching assistant. Shell still teach education courses in person, but if a student misses a class or has a question, theyll have 24/7 access to her online helper.
+Its kind of like having someone who sits in all of the classes, and they can tell you exactly what happened in all of these classes, said Morris.
+Using an avatar designed to look like her  down to the colorful eyeglasses she prefers  the assistant can recap lessons by pulling from content curated by Morris. It also speaks multiple languages.
+Students can still visit with Morris during her normal office hours or catch her after class. But she thinks the AI tool may appeal to shy students reluctant to raise their hand in class or night owls with late-night study questions.
+There are safeguards in place that aim to redirect a student if a query veers off-topic or to prevent the sharing of bias and misinformation.
+Its not going to tell you how to make a bomb even though its a chemistry class, Morris said.
+A handful of other Morehouse professors are also trying out the tool in history, sociology, business and other courses this semester.
+Personalized learning
+Georgia State University was an early pioneer of classroom chatbots, with promising results.
+The school started using bots in 2016 to guide students through the admissions process by sending timely texts to their cellphones. Then, GSU deployed the tool in one of its biggest courses, American government. When test grades come in, the bot can send out personalized, congratulatory texts or urge them to go to class if theyd been skipping.
+Timothy Renick, executive director of Georgia States National Institute for Student Success, said it relieved some of the workload from professors and graduate assistants who had been fielding the same questions over and over from the 100 or more students in each class.
+Overall, final grades in the sections that piloted use of the chatbot were 7 points higher on a 100-point grading scale compared to sections without the bot, Renick said. It made an even bigger impact for first-generation college students, whose marks averaged 11 points higher, more than a full letter grade. Renick said thats huge for HOPE Scholarship recipients, who must maintain a 3.0 grade-point average in college to continue receiving the state aid.
+A $7.6 million federal grant will expand the chatbots use starting this school year in first-year math and English courses at Georgia State, Morgan State University and the University of Central Florida.
+The service will be layered on top of traditional student supports, such as tutoring and office hours with professors. Renick believes such technology can help large public universities, community colleges and minority-serving schools provide the kind of personal attention that elite schools with low student-to-faculty ratios boast about.
+Catching academic problems early makes it so much easier for students to fix the issue before they fail a big exam, Renick said.
+Its allowed us to begin to level the playing field, he said.
+What AI cant replace
+Health care instructors have long used human actors, known as standardized patients, to portray patients and simulate medical conditions.
+Fugate doesnt see AI tools such as Hal replacing those humans. Before breaking bad news to a real patient, for example, it helps to practice on someone who can respond with authentic emotion.
+Hal has other shortcomings. If a group of students are all talking at once, Hal may chime in even when not being directly addressed.
+Its similar to how an Alexa device will wake up and respond if it picks up a stray sound. When Hal keeps interrupting, Fugate will tell it to listen for a minute or to take a little nappy-nap.
+The technology, however, is well suited for other scenarios. When Fugate recently showed off Hal to nursing students, they marveled at its conversational abilities and thought it would be easier to focus while practicing on an AI patient.
+Better for us to make our mistakes here than to go in the hospital and do it, said Indyia Singleton.
+The mannequin can be programmed to control the pulse or mimic specific symptoms, such as tongue swelling. Students can practice intubation and defibrillation. And, Hal offers an extra level of believability during training because the mannequin can move its face, head, arms and mouth while talking, Fugate said.
+A balancing act
+The AI revolution has forced universities to grapple with its fast-moving impacts on education.
+This year, Georgia States Center for Excellence in Teaching, Learning and Online Education is hosting a yearlong training series to equip faculty to use AI effectively.
+Professors are discussing how to best use AI for their own research and data analysis and how to review assignments for clarity and assess what students are learning.
+Theyre also keen to protect academic integrity and develop students critical thinking skills.
+I think weve been surprised to see a lot greater desire to learn about it and to implement it and to see what it can do, said Jennifer Hall, the centers associate director.
+The Southern Regional Education Board, an Atlanta-based advisory group to 16 states, including Georgia, launched a Commission on Artificial Intelligence in Education to provide guidance on the best ways to use AI in K-12 and college classrooms.
+Schools and universities need to carefully consider AI technology purchases, said Stephen Pruitt, the boards president. Leaders should ask: How and when students will have access to the tool? Who is in charge of updating the app or maintaining the gadget? Who will train faculty to use it? And, most importantly, how will it be the difference maker for students.
+This is probably the biggest disruption in education weve seen maybe ever, but certainly over the last 50 years, said Pruitt. This is having the world as your classroom.
+I dont think AI will ever fully replace teachers because I think teaching is one of the hardest professions in the world. David Joyner, executive director of online education at Georgia Techs College of Computing.
+
+
