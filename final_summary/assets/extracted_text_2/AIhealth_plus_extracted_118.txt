@@ -1,0 +1,118 @@
+
+
+                                                                                                          Page 1 of 3
+                                        Who Should Be Regulating AI Classroom Tools?
+
+
+
+
+                         Who Should Be Regulating AI Classroom Tools?
+                                                  Government TechNology
+                                                   August 18, 2023 Friday
+
+
+
+Copyright 2023 Government Technology
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 1047 words
+Byline: Brandon Paykamian, Government Technology
+
+Body
+
+
+Aug. 18—Though educators are gradually growing comfortable with the use of artificial intelligence tools for
+functions such as grading and lesson planning, concerns still linger about how ChatGPT and other generative AI
+technologies could be misused by students for plagiarism, as well as to what extent AI should be utilized in
+education generally. As schools and universities grapple with these questions, federal and state lawmakers are
+beginning to take a closer look at the impact of AI in education and the public sector for future regulation
+considerations.
+
+According to a July report from the ed-tech publication Tech & Learning, at least 15 U.S. states have introduced
+bills to study how AI is used across government. Among them is Connecticut's SB 1103, which would require the
+state's Department of Administrative Services to assess AI programs and systems being used by state agencies, as
+well as a resolution in Louisiana asking the state's Joint Legislative Committee on Technology and Cybersecurity to
+study the impact of AI tools in the public sector. At the federal level, the Department of Education released a report
+recently that urged pragmatism when it comes to weighing the risks and benefits of AI ed-tech tools and
+recommended that federal policymakers work more closely with states, higher-ed institutions and K-12 schools to
+develop and assess guidelines specific to the use of AI in education. The report also recommended that schools
+and universities involve educators in discussions about tech procurement.
+
+Consortium for School Networking (CoSN) CEO Keith Krueger wrote in an email to Government Technology that
+discussions about regulating AI in education are still largely in their infancy at the state and federal levels. However,
+he said, state and federal lawmakers may play a critical role in giving schools and universities direction on how to
+make use of AI.
+
+"Clearly federal standards will be helpful for national consistency, but may take a while to happen," he wrote.
+"Therefore, it makes sense for states/districts to understand and require disclosure by companies in how they are
+using AI. We welcome states' desire to better understand the landscape — as demonstrated by common focus on
+studies — before rushing to regulate the technology's use by educators."
+
+                                                                                                          Page 2 of 3
+                                   Who Should Be Regulating AI Classroom Tools?
+
+Krueger pointed to the White House's Blueprint for an AI Bill of Rights — which outlines some of the risks and
+benefits of using AI in fields like law enforcement, health care and education — as a good foundation for how to
+think about the technology amid today's policy discussions.
+
+"Guardrails around ethical use of generative AI in education, commerce, health industry and government will likely
+call for federal regulations, licensing, and the creation of an independent commission to study the AI environment
+and consider the creation of a U.S. AI agency aligning to global efforts," he wrote. "As we know, the wheels of
+government do not move fast, yet AI is moving at warp speed."
+
+As we know, the wheels of government do not move fast, yet AI is moving at warp speed.
+
+CoSN CEO Keith Krueger
+
+Julia Fallon, executive director of the State Educational Technology Directors Association, wrote in an email that
+she believes states will play a key role in developing AI policies for students and teachers.
+
+"It's encouraging to see New Jersey, Connecticut and Louisiana acknowledging the profound potential of this
+technology and attempting to proactively explore AI's impact on their state agencies' operations, procurement and
+workforce readiness," Fallon wrote. "As we embrace AI-powered tools in education, it's crucial that all students,
+regardless of their background or location, have equitable access to these resources. State education agencies can
+work to bridge the digital divide by allocating resources to underserved communities, ensuring that AI technologies
+reach every corner of the education system."
+
+Fallon said one of the first major steps in formulating policies at the institutional, district, state and federal levels
+about how to use AI tools safely and ethically is understanding how the technology works, as well as collaboration
+between educators, policymakers, technology developers and other stakeholders to make sure particular AI tools
+align with the specific needs of the school district. She said it's also important to take digital privacy and
+cybersecurity concerns into consideration when adopting and deploying AI tools.
+
+"Data privacy and security are non-negotiable. States should establish stringent guidelines for the collection,
+storage and use of student data within AI systems," she wrote. "Protecting students' privacy is paramount, and
+policies must be in place to safeguard their sensitive information while still enabling meaningful use of AI-driven
+insights."
+
+Neil Heffernan, a computer science professor at Worcester Polytechnic Institute and developer of the AI-driven
+homework assistance tool ASSISTments, said future AI regulations should avoid stifling research and development
+efforts. He added that he believes recent calls from tech companies such as ChatGPT-developer OpenAI to
+regulate the technology could lead to the monopolization of AI research and development, which could ultimately
+impede tech advances.
+
+"OpenAI knows one way to cripple the open-source movement of using large language models — like LLaMA 2 that
+Meta put out last week — is to enforce all sorts of [rules that place] regulatory burden on the little guys. OpenAI
+would love to say you cannot use LLM [tech] unless you have done a $100,000 fairness test for bias. OpenAI can
+so easily pay that fee but the open-source folks can't," he said.
+
+John Bailey, a senior fellow with the policy think tank American Enterprise Institute, echoed Heffernan's concerns.
+He added that since AI technology is still fairly new, it's difficult to say just how AI tools should be regulated.
+
+"I'd encourage a bit of a cautionary approach about regulating this. I think we're so early into the [development of]
+the technology, and it's changing at such a rapid pace," he said. "With that kind of speed, it's easy to get the
+regulation wrong in many respects."
+
+___ (c)2023 Government Technology Visit Government Technology at www.govtech.com Distributed by Tribune
+Content Agency, LLC.
+
+                                                                            Page 3 of 3
+                             Who Should Be Regulating AI Classroom Tools?
+
+
+Load-Date: August 19, 2023
+
+
+  

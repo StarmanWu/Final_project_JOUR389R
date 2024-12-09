@@ -1,0 +1,91 @@
+
+
+                                                                                                           Page 1 of 2
+                                        The AI Bill of Rights Is 'Mile One of a Long Marathon'
+
+
+
+
+                     The AI Bill of Rights Is 'Mile One of a Long Marathon'
+                                                      Government TechNology
+                                                    December 6, 2022 Tuesday
+
+
+
+Copyright 2022 Government Technology
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 677 words
+Byline: Julia Edinger, Government Technology
+
+Body
+
+
+Dec. 6—The White House Office of Science and Technology Policy (OSTP) issued the Blueprint for an AI Bill of
+Rights in October 2022, but many questions remain about what is next for AI.
+
+During a Dec. 5 event hosted by The Brookings Institution, experts explored the topic and what the technology
+could bring and how to best address it from a policy perspective.
+
+There are, of course, many ethical questions surrounding the use of emerging technologies in and by government,
+and these systems could have serious consequences for vulnerable populations.
+
+The Blueprint for an AI Bill of Rights was the Biden administration's first step in addressing this issue, and it offers a
+resource that provides principles and guidance around equitable use of AI systems.
+
+"The principles outline the kind of world we should live in," said Sorelle Friedler, OSTP's assistant director for data
+and democracy, during her opening remarks. "Leaders across the U.S. federal government are already taking
+action protecting workers' rights, making the financial system more accountable, and ensuring health-care
+algorithms are nondiscriminatory."
+
+This follows other federal advances in this space, such as the creation of a National Artificial Intelligence Advisory
+Committee earlier this year and prioritization of AI research as directed by an executive order under the Trump
+administration. And while the World Health Organization has released guidance for ethical use of AI in health care,
+this bill of rights is the first comprehensive guidance of its kind from the federal level.
+
+Alex Engler, fellow in Governance Studies at The Brookings Institution during the panel, explained that this bill of
+rights is unique in large part because it has the weight of the federal government behind it. His belief is that
+because the resource is thorough and application-specific, it will help drive governance as well as individual use.
+
+And while this document is comprehensive, experts agreed that there are still gaps that must be addressed.
+
+                                                                                                                 Page 2 of 2
+                                  The AI Bill of Rights Is 'Mile One of a Long Marathon'
+
+"I think what's clear is that this document represents mile one of a long marathon," said Harlan Yu, executive
+director of Upturn, "And it's really clear that the hard work is still in front of federal agencies and in front of all of us."
+
+This resource offers critical guidance for technologies that are already being deployed by government agencies; but
+it is not without blind spots. Experts pointed to the exemption for law enforcement agencies that was included within
+this bill of rights as one such example.
+
+"I think this Blueprint for an AI Bill of Rights is a step forward, but it's not the end all be all," Yu said.
+
+Friedler stated that the hope of releasing this resource is that by putting the weight of the White House behind this
+effort, it will help begin the process of creating a road map to help create policy around AI use moving forward.
+
+The U.S. approach to AI policy differs from that of other nations in some ways. For example, the European Union
+has introduced the AI Act, a law that would assign risk levels to different AI applications to guide deployments.
+
+While legislation obviously differs from a bill of rights, there is a lot of overlap in terms of the actual standards being
+set. However, Engler noted the difficulty of the AI Act's comprehensive approach, arguing that there are advantages
+to the U.S. taking a more sectoral approach to offer specific guidance for specific use cases.
+
+When it comes to U.S. laws on AI, pieces of related legislation have been introduced. Most notably, there is data
+privacy legislation on the table, but there are also other bills related to things like transparency and sector-specific
+harms, Yu explained.
+
+The solution will not be one single piece of legislation to address ethical use of AI in the U.S., Engler said, but
+rather, it will be an ongoing adoption of many laws that complement each other and work together to address the
+different impacts of this technology.
+
+___ (c)2022 Government Technology Visit Government Technology at www.govtech.com Distributed by Tribune
+Content Agency, LLC.
+
+
+Load-Date: December 7, 2022
+
+
+  

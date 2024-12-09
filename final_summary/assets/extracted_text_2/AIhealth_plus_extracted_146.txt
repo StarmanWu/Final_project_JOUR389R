@@ -1,0 +1,109 @@
+
+
+                                                                                                        Page 1 of 2
+                                      Will Artificial Intelligence ever live up to its hype?
+
+
+
+
+                       Will Artificial Intelligence ever live up to its hype?
+                                          The Stute: Stevens Institute of Technology
+                                                      April 9, 2021 Friday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 1072 words
+Byline: John Horgan
+
+Body
+
+
+When I started writing about science decades ago, artificial intelligence was ascendant. IEEE Spectrum, the
+technology magazine for which I worked, produced a special issue on how AI would transform the world. I edited an
+article in which computer scientist Frederick Hayes-Roth predicted that AI would soon replace experts in law,
+medicine, finance and other professions.
+
+That was 1984. That period of exuberance gave way to a slump known as an "AI winter," when disillusionment set
+in and funding declined. In 1998, I tracked Hayes-Roth down to ask how he thought his predictions had held up. He
+laughed and replied, "You've got a mean streak." AI had not lived up to expectations, he acknowledged. Our minds
+are hard to replicate, because we are "very, very complicated systems that are both evolved and adapted through
+learning to deal well and differentially with dozens of variables at one time." Algorithms that can perform a
+specialized task, like playing chess, cannot be easily adapted for other purposes. "It is an example of what is called
+nonrecurrent engineering," Hayes-Roth explained.
+
+Today, according to some measures, AI is booming once again. Programs such as voice and face recognition are
+embedded in cell phones, televisions, cars and countless other consumer products. Clever algorithms help me
+choose a Valentine's present for my girlfriend, find my daughter's building in Brooklyn and gather information for
+columns like this one. Venture-capital investments in AI doubled between 2017 and 2018 to $40 billion, according
+to WIRED. A Price Waterhouse study estimates that by 2030 AI will boost global economic output by more than $15
+trillion, "more than the current output of China and India combined."
+
+Some observers fear that AI is moving too fast. New York Times columnist Farhad Manjoo calls an AI-based
+reading and writing program, GPT-3, "amazing, spooky, humbling and more than a little terrifying." Someday, he
+frets, he might be "put out to pasture by a machine." Elon Musk made headlines in 2018 when he warned that
+"superintelligent" AI represents "the single biggest existential crisis that we face." (Really? Worse than climate
+change? Nuclear weapons? Psychopathic politicians? I suspect that Musk, who has invested in AI, is trying to
+promote the technology with his over-the-top fearmongering.)
+
+Experts are pushing back against the hype, pointing out that many alleged advances in AI are based on flimsy
+evidence. Last year, for example, a team from Google Health claimed in Nature that their AI program had
+
+                                                                                                       Page 2 of 2
+                                 Will Artificial Intelligence ever live up to its hype?
+
+outperformed humans in diagnosing breast cancer. A group led by Benjamin Haibe-Kains, a computational
+genomics researcher, criticized the Google Health paper, arguing that the "lack of details of the methods and
+algorithm code undermines its scientific value."
+
+Haibe-Kains complained to Technology Review that the Google Health report is "more an advertisement for cool
+technology" than a legitimate, reproducible scientific study. The same is true of other reported advances, he said.
+Indeed, artificial intelligence, like biomedicine and other fields, has become mired in a replication crisis.
+Researchers make dramatic claims that cannot be tested, because researchers-especially those in industry-do not
+disclose their algorithms. One recent review found that only 15 percent of AI studies shared their code.
+
+There are also signs that investments in AI are not paying off. Technology analyst Jeffrey Funk recently examined
+40 startup companies developing AI for health care, manufacturing, energy, finance, cybersecurity, transportation
+and other industries. Many of the startups were not "nearly as valuable to society as all the hype would suggest,"
+Funk reports in IEEE Spectrum. Advances in AI "are unlikely to be nearly as disruptive-for companies, for workers,
+or for the economy as a whole-as many observers have been arguing."
+
+The longstanding goal of "general" artificial intelligence, possessing the broad knowledge and learning capacity to
+solve a variety of real-world problems, as humans do, remains elusive. "We have machines that learn in a very
+narrow way," Yoshua Bengio, a pioneer in the AI approach called deep learning, recently complained in WIRED.
+"They need much more data to learn a task than human examples of intelligence, and they still make stupid
+mistakes."
+
+Writing in The Gradient, an online magazine devoted to tech, AI entrepreneur and writer Gary Marcus accuses AI
+leaders as well as the media of exaggerating the field's progress. AI-based autonomous cars, fake news detectors,
+diagnostic programs and chatbots have all been oversold, Marcus contends. He warns that "if and when the public,
+governments, and investment community recognize that they have been sold an unrealistic picture of AI's strengths
+and weaknesses that doesn't match reality, a new AI winter may commence."
+
+Another AI veteran and writer, Eric Larson, questions the "myth" that one day AI will inevitably equal or surpass
+human intelligence. In his new book The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do,
+Larson argues that "success with narrow applications gets us not one step closer to general intelligence." Larson
+says "the actual science of AI (as opposed to the pseudo-science of Hollywood and science fiction novelists) has
+uncovered a very large mystery at the heart of intelligence, which no one currently has a clue how to solve. Put
+bluntly: all evidence suggests that human and machine intelligence are radically different. And yet the myth of
+inevitability persists."
+
+When I first started writing about science, I believed the myth of AI. One day, surely, researchers would achieve the
+goal of a flexible, supersmart, all-purpose artificial intelligence, like HAL. Given rapid advances in computer
+hardware and software, it was only a matter of time. Gradually, I became an AI doubter, as I realized that our
+minds-in spite of enormous advances in neuroscience, genetics, cognitive science and, yes, artificial intelligence-
+remain as mysterious as ever. Here's the paradox: machines are becoming undeniably smarter-and humans, it
+seems lately, more stupid, and yet machines will never equal, let alone surpass, our intelligence. They will always
+remain mere machines. That's my guess, and my hope.
+
+John Horgan directs the Center for Science Writings at Stevens. This column is adapted from one originally
+published on ScientificAmerican.com.
+
+
+Load-Date: May 8, 2024
+
+
+  

@@ -1,0 +1,161 @@
+
+
+                                                                                                       Page 1 of 3
+                                           TECH ROLE GROWS IN DIABETES CARE
+
+
+
+
+                                TECH ROLE GROWS IN DIABETES CARE
+                                                  Star Tribune (Minneapolis, MN)
+                                                    October 29, 2023 Sunday
+                                                        METRO EDITION
+
+
+
+Copyright 2023 Star Tribune All Rights Reserved
+
+Section: BUSINESS; Pg. 1D
+Length: 1310 words
+Byline: NICK WILLIAMS; STAFF WRITER, STAR TRIBUNE (Mpls.-St. Paul)
+Highlight: Mpls. firm's app helps patients monitor, control blood sugar levels
+
+Body
+
+
+At the Hennepin Healthcare Center of Diabetes and Endocrinology in downtown Minneapolis, 66-year-old Mark
+Harris tries to recall his medication intake and sleep schedule from the past week.
+
+Laura LaFave, an endocrinologist at the center, listens attentively while seated at a computer desk, looking at
+metrics of Harris' blood sugar levels extracted from the Bluetooth-connected continuous glucose monitor (CGM) he
+wears daily. Harris' glucose levels are low, which leads LaFave to pry deeper into how his insulin pump is
+functioning.
+
+At the center, as many as 70% of patients with diabetes wear some sort of glucose monitoring, insulin-administering
+technology, LaFave said. It's vital the device works properly for Harris, a Type 1 diabetic, meaning his body
+produces little to no insulin. The combination of an insulin pump and CGM allows the pump to adjust insulin
+automatically injected into his abdomen through a slender plastic tube. The CGM tests his glucose levels through
+sensors patched to his skin.
+
+For the roughly 500,000 Minnesotans diagnosed with diabetes, technology that automates the formerly manual
+finger-pricking and shot-giving has been an essential development and a relief for many who now can trust
+technology instead of just themselves to help manage a disease that was the seventh-leading cause of death in the
+U.S. in 2019, according to the
+
+American Diabetes Association.
+
+Nationwide, more than 10 million Americans diagnosed with diabetes use insulin and benefit from CGM devices,
+per the association. That's out of 133 million currently living with diabetes or prediabetes in the U.S.
+
+"The technology is new, and we are still learning how all the pieces fit together, but there's no question that we're
+starting to see treatments and technology that can transform the lives of people with diabetes," said Francisco
+Prieto, chair of the National Advocacy Committee within the American Diabetes Association.
+
+                                                                                                      Page 2 of 3
+                                   TECH ROLE GROWS IN DIABETES CARE
+
+A tech solution
+
+For so long, the burden was on the patient to know their medication doses and glucose levels, said LaFave, who's
+worked with diabetics for 16 years. The finger prick remains a barrier, as some are reluctant to do it.
+
+With technology, the ability to remotely download a patient's data from a CGM and conduct follow-up consultations
+has changed the delivery of care, LaFave said.
+
+"There's good studies showing that when patients are able to see that data laid out, and they can go through what
+happened in this period of time, that really increases engagement of their care," she said.
+
+That's the premise of CGM innovation at companies like Abbott, said Jared Watkin, senior vice president of the
+Illinois-based medical technology company's diabetes care business. Abbott is one of four major providers of CGMs
+along with Medtronic, whose operational headquarters are in Fridley; Dexcom; and Senseonics.
+
+Watkin worked on the research and development team that created the company's first generation FreeStyle Libre
+CGM, first launched in Europe in 2014. Now on its third version, more than 5 million users wear it worldwide,
+including 2 million in the U.S. A companion smartphone app allows friends, family and caregivers to follow care
+remotely.
+
+Abbott recently won FDA breakthrough designation for a new sensor that would measure glucose and ketones at
+the same time, Watkin said. Ketones are acidic and can cause major disruptions to the body's biochemistry.
+
+Before having a CGM, Harris was in the intensive care unit for ketoacidosis, a condition that develops when the
+body can't transfer glucose into cells, and broken-down fat creates ketones. He was homeless at the time, and
+insulin was hard to find.
+
+A year after that in 2010, he received his first CGM through a medical-assistance program.
+
+"We think this can be a very powerful new tool, certainly in Type 1 diabetes management in children and adults,
+because it tells you when you need to do something about it and need to contact a health care professional,"
+Watkin said. "In the past, they wouldn't have necessarily been doing that."
+
+Adding other measurables to sensors, not just a single sensor for glucose in Type 1 diabetics, could offer more
+benefits to people, Watkin said. That includes sensors for people who might be prediabetic or not yet in full Type 2
+diabetes who can use readings from sensors for pharmaceutical or diet-based prevention.
+
+More innovation needed
+
+A Minneapolis tech company is working with the Centers for Disease Control and Prevention (CDC) to engage
+millions of prediabetic people.
+
+In September, the CDC awarded AmVentureX a $12.5 million grant to help scale the health organization's national
+diabetes prevention program. AmVentureX's app, called BioCoach, focuses on metabolic lifestyle management
+through subscription-based content and curated meals shipped to users' homes.
+
+The company also makes and sells a variety of take-home test kits and devices, including a ketone monitor that
+users can connect to the app for better health management.
+
+AmVentureX will use the funding through the next five years to market the CDC's program and partner with
+community organizations, insurance companies and health systems to reach people at risk of developing Type 2
+diabetes. The funding also helps AmVentureX drive people to the BioCoach app, chief executive Matt Payne said.
+
+Through the app, users upload and monitor their metabolic health information. A multilingual team of health
+experts provide meal suggestions, fitness tips and other daily routines based on a person's health data, Payne
+said. The cost for a subscription is $35 per month.
+
+                                                                                                       Page 3 of 3
+                                      TECH ROLE GROWS IN DIABETES CARE
+
+By the end of 2024, Payne expects to have as many as 30,000 users on the app, more than double what it has
+now.
+
+Though medical device companies developed CGMs for Type 1 diabetics, and thus those are the majority of users,
+95% of people with diabetes are Type 2, meaning they are insulin resistant.
+
+With research, more tech-focused solutions are in the pipeline for those with Type 2, Watkin said.
+
+"The great news is we've got 5 million people using FreeStyle Libre, and a fair number of them around the world
+now have Type 2 diabetes, and we're able to analyze that data, and it shows that these sensors are really just as
+effective in Type 2 diabetes as they are in Type 1," he said. "Those lessons of ease of use, affordability and
+accessibility, you've got to put that on steroids for the Type 2 market because it's such a large group of people."
+
+The use of artificial intelligence would accelerate the ability to deliver care through CGMs, Watkin said. AI, Watkin
+said, introduces an opportunity to determine personalized care using not only data on glucose levels but a person's
+overall health picture, where AI systems can recommend insulin doses, exercises and evening meals to keep blood
+sugar at certain levels.
+
+A new ally
+
+Harris received his Type 1 diagnosis more than 40 years ago. In the 1970s, glucose test strips that required urine or
+blood samples were his only options, along with having to inject himself with insulin.
+
+With his previous CGM, Harris had to manually input glucose readings. And while Harris still pricks his finger - just
+to double check his CGM - that practice could be obsolete in many parts of the world within a decade, Watkin said.
+
+"There are children diagnosed with diabetes who never pricked their finger," Watkin said. "Would I say they're going
+to disappear across the world? Probably not because there's going to be certain barriers. But from large parts of the
+population around the world, they will not be putting any children on blood testing. It will be CGM as a standard
+care."
+
+Harris lives alone, so having technology to manage his illness enables him to live a somewhat normal life with less
+fear of having a diabetic episode.
+
+"I don't have to rely on myself," he said, "if I'm having low blood sugar."
+
+Nick Williams · 612-673-4021
+
+SEE MICROFILM OR PDF FOR CHART.
+
+
+Load-Date: October 29, 2023
+
+
+  

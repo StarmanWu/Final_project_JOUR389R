@@ -1,0 +1,113 @@
+
+
+                                                                                                        Page 1 of 3
+                                  How Europe is leading the world in the push to regulate AI
+
+
+
+
+                How Europe is leading the world in the push to regulate AI
+                                                    Chicago Daily Herald
+                                                  June 15, 2023 Thursday
+      WEB EditioneBlast EditionCLFM EditionMC1 EditionMC3 EditionMD1 EditionMF12 EditionML2 EditionNC
+     EditionNC1 EditionNC14 EditionNC14C EditionNC2 EditionNC3 EditionNC4 EditionNL1 EditionNM1 Edition
+
+
+
+Copyright 2023 Paddock Publications, Inc.
+
+Section: NEWS; Pg. 0
+Length: 1114 words
+Byline: By KELVIN CHAN AP Business Writer
+
+Body
+
+
+LONDON — Lawmakers in Europe signed off Wednesday on the world's first set of comprehensive rules for
+artificial intelligence, clearing a key hurdle as authorities across the globe race to rein in AI. The European
+Parliament vote is one of the last steps before the rules become law, which could act as a model for other places
+working on similar regulations. A yearslong effort by Brussels to draw up guardrails for AI has taken on more
+urgency as rapid advances in chatbots like ChatGPT show the benefits the emerging technology can bring — and
+the new perils it poses. Here's a look at the EU's Artificial Intelligence Act: HOW DO THE RULES WORK?
+
+ The measure, first proposed in 2021, will govern any product or service that uses an artificial intelligence system.
+The act will classify AI systems according to four levels of risk, from minimal to unacceptable. Riskier applications,
+such as for hiring or tech targeted to children, will face tougher requirements, including being more transparent and
+using accurate data. It will be up to the EU's 27 member states to enforce the rules. Regulators could force
+companies to withdraw their apps from the market. In extreme cases, violations could draw fines of up to 40 million
+euros ($43 million) or 7% of a company's annual global revenue, which in the case of tech companies like Google
+and Microsoft could amount to billions. WHAT ARE THE RISKS? One of the EU's main goals is to guard against
+any AI threats to health and safety and protect fundamental rights and values. That means some AI uses are an
+absolute no-no, such as "social scoring" systems that judge people based on their behavior. Also forbidden is AI
+that exploits vulnerable people, including children, or uses subliminal manipulation that can result in harm, for
+example, an interactive talking toy that encourages dangerous behavior. Predictive policing tools, which crunch
+data to forecast who will commit crimes, is also out. Lawmakers beefed up the original proposal from the European
+Commission, the EU's executive branch, by widening the ban on real-time remote facial recognition and biometric
+identification in public. The technology scans passersby and uses AI to match their faces or other physical traits to
+a database. A contentious amendment to allow law enforcement exceptions such as finding missing children or
+preventing terrorist threats did not pass. AI systems used in categories like employment and education, which
+would affect the course of a person's life, face tough requirements such as being transparent with users and taking
+steps to assess and reduce risks of bias from algorithms. Most AI systems, such as video games or spam filters, fall
+into the low- or no-risk category, the commission says. WHAT ABOUT CHATGPT? The original measure barely
+mentioned chatbots, mainly by requiring them to be labeled so users know they're interacting with a machine.
+
+                                                                                                           Page 2 of 3
+                              How Europe is leading the world in the push to regulate AI
+
+Negotiators later added provisions to cover general purpose AI like ChatGPT after it exploded in popularity,
+subjecting that technology to some of the same requirements as high-risk systems. One key addition is a
+requirement to thoroughly document any copyright material used to teach AI systems how to generate text, images,
+video and music that resemble human work. That would let content creators know if their blog posts, digital books,
+scientific articles or songs have been used to train algorithms that power systems like ChatGPT. Then they could
+decide whether their work has been copied and seek redress. WHY ARE THE EU RULES SO IMPORTANT? The
+European Union isn't a big player in cutting-edge AI development. That role is taken by the U.S. and China. But
+Brussels often plays a trendsetting role with regulations that tend to become de facto global standards and has
+become a pioneer in efforts to target the power of large tech companies. The sheer size of the EU's single market,
+with 450 million consumers, makes it easier for companies to comply than develop different products for different
+regions, experts say. But it's not just a crackdown. By laying down common rules for AI, Brussels is also trying to
+develop the market by instilling confidence among users. "The fact this is regulation that can be enforced and
+companies will be held liable is significant" because other places like the United States, Singapore and Britain have
+merely offered "guidance and recommendations," said Kris Shrishak, a technologist and senior fellow at the Irish
+Council for Civil Liberties. "Other countries might want to adapt and copy" the EU rules, he said. Businesses and
+industry groups warn that Europe needs to strike the right balance. "The EU is set to become a leader in regulating
+artificial intelligence, but whether it will lead on AI innovation still remains to be seen," said Boniface de Champris, a
+policy manager for the Computer and Communications Industry Association, a lobbying group for tech companies.
+"Europe's new AI rules need to effectively address clearly defined risks, while leaving enough flexibility for
+developers to deliver useful AI applications to the benefit of all Europeans," he said. Sam Altman, CEO of ChatGPT
+maker OpenAI, has voiced support for some guardrails on AI and signed on with other tech executives to a warning
+about the risks it poses to humankind. But he also has said it's "a mistake to go put heavy regulation on the field
+right now." Others are playing catch up on AI rules. Britain, which left the EU in 2020, is jockeying for a position in
+AI leadership. Prime Minister Rishi Sunak plans to host a world summit on AI safety this fall. "I want to make the
+U.K. not just the intellectual home but the geographical home of global AI safety regulation," Sunak said at a tech
+conference this week. WHAT'S NEXT? It could be years before the rules fully take effect. The next step is three-
+way negotiations involving member countries, the Parliament and the European Commission, possibly facing more
+changes as they try to agree on the wording. Final approval is expected by the end of this year, followed by a grace
+period for companies and organizations to adapt, often around two years. Brando Benifei, an Italian member of the
+European Parliament who is coleading its work on the AI Act, said they would push for quicker adoption of the rules
+for fast-evolving technologies like generative AI. To fill the gap before the legislation takes effect, Europe and the
+U.S. are drawing up a voluntary code of conduct that officials promised at the end of May would be drafted within
+weeks and could be expanded to other "like-minded countries." This story has been corrected to show that Kris
+Shrishak's last name was misspelled.
+
+
+
+Notes
+Eds: UPDATES: Updates with comment from tech industry group. With AP Photos. Eds: UPDATES: Updates with
+higher maximum amounts for fines of 40 million euros or 7% of global revenue. With AP Photos.
+
+
+
+Graphic
+
+
+Associated Press/May 18, 2023 Authorities worldwide are racing to rein in artificial intelligence, including in the
+European Union, where groundbreaking legislation is set to pass a key hurdle.
+
+
+Load-Date: June 15, 2023
+
+                                                                               Page 3 of 3
+                  How Europe is leading the world in the push to regulate AI
+
+
+

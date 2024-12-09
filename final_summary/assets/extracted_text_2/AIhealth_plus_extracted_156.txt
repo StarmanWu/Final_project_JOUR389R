@@ -1,0 +1,79 @@
+
+
+                                                                                                          Page 1 of 2
+                    UMaine hosts webinar on artificial intelligence and its applications for healthcare
+
+
+
+
+      UMaine hosts webinar on artificial intelligence and its applications for
+                                   healthcare
+                                            The Main Campus: University of Maine
+                                                      October 5, 2020 Monday
+
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 635 words
+Byline: David DiMinno
+
+Body
+
+
+On Oct. 1, 2020, the University of Maine hosted a webinar over Zoom to talk about the practical applications of
+artificial intelligence in today's society. The webinar focused on artificial intelligence applications in the fields of
+industry, government, healthcare, and the environment. The seminar was the first in the UMaine AI lunch and learn
+series. Speaking during the program was Associate Dean of Engineering Mohamad Musavi, President and Co-
+founder of MedRhythms Inc. Owen McCarthy and Software Architect at Activas Diagnostics Somayeh Khosroazad.
+
+Musavi opened up as the first speaker, and mainly spoke on the background of artificial intelligence and how it
+works. The main purpose of this technology is to act similarly to that of humans, to properly demonstrate how to
+learn tasks. The key is using artificial neural networks, which try to mimic similar functions of the human brain. The
+human brain is a network of 80-100 billion neurons, and computers try and replicate that with billions of transistors
+that can perform trillions of micro-operations in seconds. This wiring is the way to craft artificial neurons that mimic
+processing functions and adaptability. By imputing pieces of data, the program can learn over time, and acquires
+knowledge to better accomplish tasks. According to Musavi's presentation, four primary functions of artificial
+intelligence in industry are classification, clustering, function and prediction. This can range from chromosome
+classification in the medical field to predicting brightness and opacity. Several industries can make use of neural
+networks to accomplish tasks in an automated and effective fashion.
+
+"Whenever there is data, neural networks can provide insight into an event or process," Musavi stated.
+
+McCarthy took a deeper dive into the benefits of AI in regulated health care. While there are fears that AI has the
+potential to make physicians obsolete, McCarthy made the argument for why that isn't the case. AI can serve the
+purpose of autonomous actions of treatment, dominantly in radiology as of right now. Programs are able to learn
+from imputed data and better diagnose cases for patients. AI has also been helping the United States Food and
+Drug Administration as well.
+
+"Products that are FDA approved are ones that have to do with safety and efficacy related to treating, diagnosing
+and curing a disease," McCarthy said. She also spoke on how AI is working in the field of dermatology, being able
+to detect malignancies in skin abnormalities and deduce whether or not they are detrimental to one's health.
+
+                                                                                                          Page 2 of 2
+                    UMaine hosts webinar on artificial intelligence and its applications for healthcare
+
+Khosroazad focused her presentation on AI in healthcare as well. AI works well to categorize problems and better
+craft a plan to diagnose issues.
+
+"We categorize AI problems, from a specific view to two groups, some specific problems in which a huge amount of
+data is collected and AI, supervised or unsupervised, tries to classify the data to multiple groups by finding by
+finding one or more thresholds or some limits, based on all statistical and problematic logics that are predefined for
+it. The AI then directly works with that data," Khosroazad said.
+
+The AI can then differentiate the data into either an expected outcome, and try to diagnose it, or can recognize
+abnormalities in the data, and bring it to the attention of physicians. AI is also being used in asleep signal analysis
+for early detection of Alzheimer's disease and dementia. The AI records sleep signals and is able to recognize what
+those signals represent for deteriorating brain activity with the help of physicians.
+
+Artificial intelligence has come a long way in the past decades, and will continue to take steps forward to better aid
+society in government, healthcare and the environment. The webinar will be made available to everyone on
+UMaine's AI homepage.
+
+
+Load-Date: October 6, 2020
+
+
+  

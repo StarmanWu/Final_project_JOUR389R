@@ -1,0 +1,137 @@
+
+
+                                                                                                        Page 1 of 3
+                  Pausing AI development would be a mistake. Congress shouldn't meddle – for now.
+
+
+
+
+ Pausing AI development would be a mistake. Congress shouldn't meddle –
+                               for now.
+                                                        USA Today Online
+                                                          May 22, 2023
+
+
+
+Copyright 2023 Gannett Media Corp All Rights Reserved
+
+Section: US NEWS
+Length: 1094 words
+Byline: Christopher Koopman and Neil Chilson
+
+Body
+
+
+Key tech leaders have been worried about artificial intelligence lately. Bill Gates is scared. OpenAI’s Sam Altman
+just testified before the Senate Judiciary Committee that Congress should reform liability laws and create a national
+or international body to license AI developers. Apple co-founder Steve Wozniak, former presidential hopeful Andrew
+Yang and Elon Musk have joined 30,000 others in calling for a six-month pause in AI experiments.
+
+Nonetheless, the U.S. AI industry shouldn’t pause or even ease up. It should extend our lead in the global AI
+research race. Our government, on the other hand, should pump the brakes and take a pit stop.
+
+AI could result in the most transformative technologies of our time, a giant engine of growth, and a powerful
+example of American ingenuity and global leadership. It is also fraught with challenges. For AI to reach its full
+potential and to appropriately address the technology’s challenges, we must learn by doing. That means letting the
+technology develop.
+
+Pausing AI research and deployment for six months would squander the technological lead the United States holds
+and for little benefit. We would benefit more if Congress committed to pausing its legislative involvement for at least
+one year.
+
+Opinions in your inbox:Get exclusive access to our columnists and the best of our columns
+
+Biden should put AI regulation on hold so US can expand innovation lead
+
+Likewise, a hiatus on new regulation across the Biden administration and federal agencies would help the United
+States expand its lead in this area. Such a commitment will require all levels of government to exhibit a high level
+of restraint and humility, but there is good reason to slow regulatory efforts.
+
+The government doesn’t know enough about AI to regulate it. For example, in Tuesday’s hearing, senators kept
+comparing AI with social media. But automated vehicles, AI health diagnostic tools and tech support chatbots have
+little in common with each other, let alone with social media. If Congress doesn’t fully understand this technology, it
+has no shot at sensible regulation.
+
+                                                                                                         Page 2 of 3
+                Pausing AI development would be a mistake. Congress shouldn't meddle – for now.
+
+Link to Image
+
+Furthermore, the rapid pace of AI innovation means policies set today could be out of date by the end of the month.
+Worse, misinformed or outdated legislation could block unforeseen and unforeseeable innovations by applying
+today’s understanding to tomorrow's technology.
+
+Imagine what would happen if government required licenses and pre-release testing for AI models. The currently
+successful companies would have a government-created moat to protect them from competition. In particular, open
+source and other decentralized approaches − where some very interesting experimentation is happening − would
+be left in the cold.
+
+Can AI write 'Ted Lasso'? Writers strike may open door to ChatGPT-written scripts.
+
+'Godfather of AI' is right: If humans don't get on top of technology, it will destroy us
+
+Some particularly important existing AI applications could suffer as a result. For example, last year, Google
+prevented 1.43 million policy-violating apps, and prevented over $2 billion in fraudulent and abusive transactions
+leveraging machine learning systems. Apple disabled or blocked more than 400 million fraudulent accounts last
+year.
+
+Obviously, this isn’t being done by humans alone. Just last month, Google announced a new AI language model
+called Sec-PaLM, which will detect potentially malicious scripts, detect threats and respond instantly. The
+cybersecurity threats won't pause. Why should our best efforts to preempt them?
+
+In contrast, when anyone can develop and deploy AI technologies, there is more competition and more ideas are
+being tested. More experimentation means more failure but also more success. There are already thousands of AI
+applications in the world, and while many might look frivolous or useless, some have already saved lives.
+
+Experimentation with AI can help fulfill technology's potential
+
+And we should welcome more experimentation. The current wave of AI is still new, and we don't yet know all of its
+potential.
+
+Not your parents' Google: Why universities should embrace, not fear, ChatGPT and AI
+
+Science fiction come to life? AI holds promise for future generations – but also peril.
+
+We should also be concerned about diversity of thought. No one person’s vision of the future should shape this
+technology. Simply because a few voices have risen above the fray does not necessarily mean that their point of
+view is correct. But preemptive regulation must reflect something. Without further development of the technology, it
+will be a direct reflection of the most prominent and loudest voices in the conversation.
+
+Now, anyone can participate in the development of AI. This brings a wider range of perspectives to the table. We
+should continue to welcome those voices rather than stifle attempts to enter the ongoing development of the
+technology.
+
+Opinion alerts: Get columns from your favorite columnists + expert analysis on top issues, delivered straight to
+your device through the USA TODAY app. Don't have the app? Download it for free from your app store.
+
+Certainly, there are ethical concerns about the various uses of AI. Politicians and regulators should drill down to
+actual applications: How will AI be used to make decisions that affect people's lives? Are there new risks from
+specific applications of AI? Are those risks addressed under current regulatory framework?
+
+It is only after asking and answering these questions that Congress might consider how it could fill identified gaps.
+
+                                                                                                        Page 3 of 3
+                Pausing AI development would be a mistake. Congress shouldn't meddle – for now.
+
+The rapid pace of AI development over the past year has certainly caught Congress by surprise. But that should not
+cause Congress to jump straight to legislation. Concern about an issue is not a justification for national policy, and
+many new ethical issues are resolved without new legislation.
+
+Instead, we should all be experimenting and learning how to use these technologies. As we do that, we will develop
+norms and principles to guide AI use. We can do this without Congress. For at least a year.
+
+Neil Ch i lson is former chief technologist for the Federal Trade Commission. Christopher Koopman is executive
+director of the Center for Growth and Opportunity.
+
+You can read diverse opinions from our Board of Contributors and other writers on the Opinion front page, on
+Twitter @usatodayopinion and in our daily Opinion newsletter. To respond to a column, submit a comment to
+letters@usatoday.com .
+
+This article originally appeared on USA TODAY: Pausing AI development would be a mistake. Congress shouldn't
+meddle – for now.
+
+
+Load-Date: May 22, 2023
+
+
+  

@@ -1,0 +1,132 @@
+
+
+                                                                                                      Page 1 of 3
+    Area hospitals using AI to improve processes, patient outcomes; Predictive software is providing doctors with
+                                 risk assessments for patients prior to procedures ....
+
+
+
+
+ Area hospitals using AI to improve processes, patient outcomes; Predictive
+  software is providing doctors with risk assessments for patients prior to
+                           procedures being done.
+                                                    Dayton Daily News (Ohio)
+                                                     May 18, 2023 Thursday
+
+
+
+Distributed by Newsbank, Inc. All Rights Reserved
+Copyright 2023 Cox Ohio Publishing.
+
+Section: BUSINESS
+Length: 853 words
+Byline: Samantha Wildow
+
+Body
+
+
+As artificial intelligence continues to find its way into more industries each day, area hospitals have been eyeing
+what predictive software can do to help improve patient outcomes.
+
+Kettering Health cardiologists spoke with Cox First Media about how they are utilizing the predictive software of
+ePRISM, developed by the medical tech company Terumo, to determine patients' risks for negative outcomes, such
+as bleeding or kidney complications, before they undergo certain procedures.
+
+"AI is coming into health care in every possible way," said Dr. Niranjan Reddy, chief of interventional cardiology for
+Kettering Health. "Kettering has gone with the new approach of using AI to improve their processes to get best
+outcomes."
+
+If a patient had a complication or negative outcome following a procedure, doctors used to analyze that patient data
+about every three months after the fact, said Dan Halvorsen, integration manager of care pathways at Terumo.
+
+The future of AI: How tech could transform our lives in the Dayton region
+
+"We used to look retrospectively and say, 'What could we have done differently?'" Halvorsen said. "And that's great,
+it helps you to improve. But now, with technology like artificial intelligence, we don't have to wait until three months
+after the patient has left to look at their data. In fact, we can look at it before we treat them."
+
+Doctors can determine patient risk factors based on the data and demographics they input in to the software,
+helping doctors decide the best path forward for the patient, depending on their potential risks.
+
+"We can look at their data when we're interviewing them in the clinic, and we can decide how to move forward in a
+way that will reduce unwanted outcomes," Halvorsen said. "It will allow the patient to get discharged sooner, and
+
+                                                                                                     Page 2 of 3
+   Area hospitals using AI to improve processes, patient outcomes; Predictive software is providing doctors with
+                                risk assessments for patients prior to procedures ....
+
+also we can educate the patient on exactly why we're doing what we're doing and show them their specific,
+personalized story."
+
+The software does not tell the doctors what to do, but it provides them a risk assessment on if patients may be
+prone to experience a negative outcome, Reddy said.
+
+Some of the other ways doctors are using predictive software at area hospitals is in diagnostics, determining if
+patients have a certain disease or cancer, or are at risk for one, based on certain demographics like patient and
+family history, said Dr. Albert Bonnema, Kettering Health's chief medical information officer. From that, doctors are
+also using technology to determine which treatments patients may respond to best.
+
+"We're using software to be able to choose the right therapy," Bonnema said.
+
+Can AI catch self-harming actions in pre-teens? Wright State students are working to find out
+
+Another area is in prognosis prediction, Bonnema said, where technology can help doctors determine what the
+course of a disease will look like in a specific patient. Such as for cancer, it can help the patient and their doctors
+determine whether to do radiation or surgery depending on where the patient is in the course of their illness and
+how the patient may respond to each of those treatments.
+
+Doctors are using predictive algorithms to determine if patients may be at risk for falls, or at risk for being
+readmitted to the hospital soon after being discharged, which would help doctors and nurses know if a patient
+needs extra care while in the hospital.
+
+"It's quite a complex aggregation of data," Bonnema said. The data can include a patient's vital signs, like their body
+temperature, pulse, and blood pressure, as well as other factors like age, prior procedures, and family history.
+
+Local hospitals are also using AI to determine if patients are at risk of developing sepsis, a severe infection that can
+be life-threatening.
+
+"We have a sepsis detection algorithm running in the system that looks for patients who might be heading down a
+path of becoming septic," said Dr. Walter Reiling, Premier Health's chief medical informatics officer. "Early
+intervention in taking care of those patients is really important.
+
+This program scans through large amounts of data that Premier has on patients, including vital signs and lab
+results, to determine if they may be heading for sepsis prior to when a doctor may detect it. This allows doctors to
+intervene quickly, Reiling said.
+
+'I don't feel threatened by it': How Dayton artists react to rise of artificial intelligence
+
+"We have a lung nodule detection and management program," Reiling said. The system will look through patient
+reports from CAT scans and chest x-rays, looking for changing in the lungs that may be putting a patient at risk for
+developing lung cancer.
+
+"Then we have a program on an ongoing basis that makes sure they're getting the follow-up x-rays or scans that
+they need to make sure that we detect any problems early and are able to intervene and take care of the patient
+with the goal of catching it earlier and saving lives," Reiling said.
+
+Premier launched these programs during the pandemic, so some of the software has been in place for a couple
+years.
+
+"We're definitely seeing good outcomes in the groups that are being impacted by these," Reiling said.
+
+
+
+Graphic
+
+                                                                                                     Page 3 of 3
+   Area hospitals using AI to improve processes, patient outcomes; Predictive software is providing doctors with
+                                risk assessments for patients prior to procedures ....
+
+
+
+
+From left, Kettering Health cardiologists Dr. Niranjan Reddy, chief of interventional cardiology at Kettering Health;
+Dr. Ammar Safar, chief of cardiology at Kettering Health Main Campus; and Dr. Brian Schwartz, director for the
+heart and vascular service line at Kettering Health, use predictive software from Terumo, which utilizes patient data
+to determine their risks and reduce unwanted outcomes, to improve their processes in cardiology. MARSHALL
+GORBYSTAFF
+
+
+Load-Date: May 18, 2023
+
+
+  

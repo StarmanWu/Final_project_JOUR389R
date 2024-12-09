@@ -1,0 +1,245 @@
+
+
+                                                                                                  Page 1 of 5
+   ChatGPT is poised to change medical care AI technology can empower patients, but glitches make some wary
+
+
+
+
+    ChatGPT is poised to change medical care; AI technology can empower
+                   patients, but glitches make some wary
+                                                            USA TODAY
+                                                      March 6, 2023 Monday
+                                                           FIRST EDITION
+
+
+
+Copyright 2023 Gannett Company, Inc. All Rights Reserved
+
+Section: NEWS; Pg. 5A
+Length: 1956 words
+Byline: Karen Weintraub, USA TODAY
+
+Body
+
+
+It's almost hard to remember a time before people could turn to "Dr. Google" for medical advice. Some of the
+information was wrong. Much of it was terrifying. But it helped empower patients who could, for the first time,
+research their own symptoms and learn more about their conditions.
+
+Now, ChatGPT and similar language processing tools promise to upend medical care again, providing patients with
+more data than a simple online search and explaining conditions and treatments in language nonexperts can
+understand.
+
+For clinicians, these chatbots might provide a brainstorming tool, guard against mistakes and relieve some of the
+burden of filling out paperwork, which could alleviate burnout and allow more facetime with patients.
+
+But - and it's a big "but" - the information these digital assistants provide might be more inaccurate and misleading
+than basic internet searches.
+
+"I see no potential for it in medicine," said Emily Bender, a linguistics professor at the University of Washington. By
+their very design, these large-language technologies are inappropriate sources of medical information, she said.
+
+Others argue that large language models could supplement, though not replace, primary care.
+
+"A human in the loop is still very much needed," said Katie Link, a machine learning engineer at Hugging Face, a
+company that develops collaborative machine learning tools.
+
+Link, who specializes in health care and biomedicine, thinks chatbots will be useful in medicine someday, but it isn't
+yet ready.
+
+And whether this technology should be available to patients, as well as doctors and researchers, and how much it
+should be regulated remain open questions.
+
+                                                                                                 Page 2 of 5
+  ChatGPT is poised to change medical care AI technology can empower patients, but glitches make some wary
+
+Regardless of the debate, there's little doubt such technologies are coming - and fast. ChatGPT launched its
+research preview on a Monday in December. By that Wednesday, it reportedly already had 1 million users. In
+February, both Microsoft and Google announced plans to include AI programs similar to ChatGPT in their search
+engines.
+
+"The idea that we would tell patients they shouldn't use these tools seems implausible. They're going to use these
+tools," said Dr. Ateev Mehrotra, a professor of health care policy at Harvard Medical School and a hospitalist at
+Beth Israel Deaconess Medical Center in Boston.
+
+"The best thing we can do for patients and the general public is (say), 'hey, this may be a useful resource, it has a
+lot of useful information - but it often will make a mistake and don't act on this information only in your decision-
+making process,'" he said.
+
+How ChatGPT it works
+
+ChatGPT - the GPT stands for Generative Pre-trained Transformer - is an artificial intelligence platform from San
+Francisco-based startup OpenAI. The free online tool, trained on millions of pages of data from across the internet,
+generates responses to questions in a conversational tone.
+
+Other chatbots offer similar approaches with updates coming all the time.
+
+These text synthesis machines might be relatively safe to use for novice writers looking to get past initial writer's
+block, but they aren't appropriate for medical information, Bender said.
+
+"It isn't a machine that knows things," she said. "All it knows is the information about the distribution of words."
+
+Given a series of words, the models predict which words are likely to come next.
+
+So, if someone asks "what's the best treatment for diabetes?" the technology might respond with the name of the
+diabetes drug "metformin" - not because it's necessarily the best but because it's a word that often appears
+alongside "diabetes treatment."
+
+Such a calculation is not the same as a reasoned response, Bender said, and her concern is that people will take
+this "output as if it were information and make decisions based on that."
+
+Bender also worries about the racism and other biases that may be embedded in the data these programs are
+based on. "Language models are very sensitive to this kind of pattern and very good at reproducing them," she
+said.
+
+The way the models work also means they can't reveal their scientific sources - because they don't have any.
+
+Modern medicine is based on academic literature, studies run by researchers published in peer-reviewed journals.
+Some chatbots are being trained on that body of literature. But others, like ChatGPT and public search engines, rely
+on large swaths of the internet, potentially including flagrantly wrong information and medical scams.
+
+With today's search engines, users can decide whether to read or consider information based on its source: a
+random blog or the prestigious New England Journal of Medicine, for instance.
+
+But with chatbot search engines, where there is no identifiable source, readers won't have any clues about whether
+the advice is legitimate.
+
+"Understanding where is the underlying information coming from is going to be really useful," Mehrotra said. "If you
+do have that, you're going to feel more confident."
+
+Potential for doctors and patients
+
+Mehrotra recently conducted an informal study that boosted his faith in these large language models.
+
+                                                                                                 Page 3 of 5
+  ChatGPT is poised to change medical care AI technology can empower patients, but glitches make some wary
+
+He and his colleagues tested ChatGPT on a number of hypothetical vignettes - the type he's likely to ask first-year
+medical residents. It provided the correct diagnosis and appropriate triage recommendations about as well as
+doctors did and far better than the online symptom checkers that the team tested in previous research.
+
+"If you gave me those answers, I'd give you a good grade in terms of your knowledge and how thoughtful you
+were," Mehrotra said.
+
+But it also changed its answers somewhat depending on how the researchers worded the question, said co-author
+Ruth Hailu. It might list potential diagnoses in a different order or the tone of the response might change, she said.
+
+Mehrotra, who recently saw a patient with a confusing spectrum of symptoms, said he could envision asking
+ChatGPT or a similar tool for possible diagnoses.
+
+"Most of the time it probably won't give me a very useful answer," he said, "but if one out of 10 times it tells me
+something - 'oh, I didn't think about that. That's a really intriguing idea!' Then maybe it can make me a better
+doctor."
+
+It also has the potential to help patients. Hailu, a researcher who plans to go to medical school, said she found
+ChatGPT's answers clear and useful, even to someone without a medical degree.
+
+"I think it's helpful if you might be confused about something your doctor said or want more information," she said.
+
+ChatGPT might offer a less intimidating alternative to asking the "dumb" questions of a medical practitioner,
+Mehrotra said.
+
+Dr. Robert Pearl, former CEO of Kaiser Permanente, a 10,000-physician health care organization, is excited about
+the potential for both doctors and patients.
+
+"I am certain that five to 10 years from now, every physician will be using this technology," he said. If doctors use
+chatbots to empower their patients, "we can improve the health of this nation."
+
+Learning from experience
+
+The models chatbots are based on will continue to improve over time as they incorporate human feedback and
+"learn," Pearl said.
+
+Just as he wouldn't trust a newly minted intern on their first day in the hospital to take care of him, programs like
+ChatGPT aren't yet ready to deliver medical advice. But as the algorithm processes information again and again, it
+will continue to improve, he said.
+
+Plus the sheer volume of medical knowledge is better suited to technology than the human brain, said Pearl, noting
+that medical knowledge doubles every 72 days. "Whatever you know now is only half of what is known two to three
+months from now."
+
+But keeping a chatbot on top of that changing information will be staggeringly expensive and energy intensive.
+
+The training of GPT-3, which formed some of the basis for ChatGPT, consumed 1,287 megawatt hours of energy
+and led to emissions of more than 550 tons of carbon dioxide equivalent, roughly as much as three roundtrip flights
+between New York and San Francisco. According to EpochAI, a team of AI researchers, the cost of training an
+artificial intelligence model on increasingly large datasets will climb to about $500 million by 2030.
+
+OpenAI has announced a paid version of ChatGPT. For $20 a month, subscribers will get access to the program
+even during peak use times, faster responses, and priority access to new features and improvements.
+
+The current version of ChatGPT relies on data only through September 2021. Imagine if the COVID-19 pandemic
+had started before the cutoff date and how quickly the information would be out of date, said Dr. Isaac Kohane,
+
+                                                                                                 Page 4 of 5
+  ChatGPT is poised to change medical care AI technology can empower patients, but glitches make some wary
+
+chair of the department of biomedical informatics at Harvard Medical School and an expert in rare pediatric
+diseases at Boston Children's Hospital.
+
+Kohane believes the best doctors will always have an edge over chatbots because they will stay on top of the latest
+findings and draw on experience.
+
+But maybe it will bring up weaker practitioners. "We have no idea how bad the bottom 50% of medicine is," he said.
+
+Dr. John Halamka, president of Mayo Clinic Platform, which offers products and data for artificial intelligence
+programs, said he sees potential for chatbots to help providers with tasks such as drafting letters to insurance
+companies.
+
+The technology won't replace doctors, he said, but "doctors who use AI will probably replace doctors who don't use
+AI."
+
+What ChatGPT means for research
+
+As it currently stands, ChatGPT is not a good source of scientific information. Just ask pharmaceutical executive
+Wenda Gao, who used it recently to search for information about a gene involved in the immune system.
+
+Gao asked for references to studies about the gene and ChatGPT offered three "very plausible" citations. But when
+Gao went to check those research papers for more details, he couldn't find them.
+
+He turned to ChatGPT. After suggesting Gao had made a mistake, the program admitted the papers didn't exist.
+
+Stunned, Gao repeated the exercise and got the same fake results, along with two completely different summaries
+of a fictional paper's findings.
+
+"It looks so real," he said, adding that ChatGPT's results "should be fact-based, not fabricated by the program."
+
+ChatGPT itself told Gao it would learn from these mistakes.
+
+Microsoft, for instance, is developing a system for researchers called BioGPT that will focus on clinical research, not
+consumer health care.
+
+Guardrails for medical chatbots
+
+Halamka sees tremendous promise for chatbots and other AI technologies in health care but said they need
+"guardrails and guidelines" for use.
+
+"I wouldn't release it without that oversight," he said.
+
+Halamka is part of the Coalition for Health AI, a collaboration of 150 experts from academic institutions like his,
+government agencies and technology companies, to craft guidelines for using artificial intelligence algorithms in
+health care. "Enumerating the potholes in the road," as he put it.
+
+U.S. Rep. Ted Lieu, a Democrat from California, filed legislation in late January (drafted using ChatGPT) "to ensure
+that the development and deployment of AI is done in a way that is safe, ethical and respects the rights and privacy
+of all Americans, and that the benefits of AI are widely distributed and the risks are minimized."
+
+Halamka said his recommendation would be to require medical chatbots to disclose sources they used for training.
+"Credible data sources curated by humans" should be the standard, he said.
+
+Then, he wants to see ongoing monitoring of the performance of AI, perhaps via a nationwide registry, making
+public the good things that came from programs like ChatGPT as well as the bad.
+
+                                                                                                 Page 5 of 5
+  ChatGPT is poised to change medical care AI technology can empower patients, but glitches make some wary
+
+Health and patient safety coverage at USA TODAY is made possible in part by a grant from the Masimo
+Foundation for Ethics, Innovation and Competition in Healthcare. The Masimo Foundation does not provide editorial
+input.
+
+
+Load-Date: March 6, 2023
+
+
+  

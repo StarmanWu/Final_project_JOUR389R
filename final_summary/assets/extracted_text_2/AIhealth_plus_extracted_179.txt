@@ -1,0 +1,99 @@
+
+
+                                                                                                        Page 1 of 2
+                           Amazon 's creepy new health wearable analyzes your voice and body
+
+
+
+
+       Amazon's creepy new health wearable analyzes your voice and body
+                                                 Chicago Daily Herald
+                                               August 30, 2020 Sunday
+WEB EditionNC1 EditionNC2 EditionMF12 EditionNC3 EditionNM1 EditionNC EditionNC14 EditionMC1 EditionMC3
+       EditionMD1 EditionML2 EditionNL1 EditionNC14C EditionNC4 EditionCLFM EditioneBlast Edition
+
+
+
+Copyright 2020 Paddock Publications, Inc.
+
+Section: BUSINESS; Pg. 0
+Length: 973 words
+Byline: Geoffrey A. Fowler The Washington Post
+
+Body
+
+
+I couldn't pick just one crazy thing to say about the Halo, Amazon's new wearable health gadget. So here are three:
+1. Mirror, mirror on the wall, Amazon thinks you're fat. 2. The artificial intelligence would like you to stop sounding
+overwhelmed now. 3. That nagging voice inside your head is now on your wrist.
+
+The Halo is a $100 wrist-worn device that, among other functions, listens to your conversations so you can
+understand how you sound to others. And it comes with a companion app that 3D-scans your body to track your
+progress at gaining your quarantine-15. Amazon is upfront about these invasive functions, which users of the Halo
+have to opt into using. What's revealing is that one of tech's biggest companies thinks consumers in 2020 might
+want them. Amazon CEO Jeff Bezos owns The Washington Post, but I review all tech with the same critical eye.
+Amazon declined to let me speak with an executive about the product, nor did it offer me the chance to get my
+hands on one for first impressions. (Anyone can sign up for the product's waiting list, and I did. Hope they pick me!)
+It makes sense that Amazon wants to push into health. This year in particular, tech companies are trying to
+transition their body-worn devices from fitness trackers into health and wellness assistants. Earlier this week, Fitbit
+launched a new $330 smartwatch called the Sense that includes a temperature sensor, an electrocardiogram app
+and an electrodermal activity sensor to detect the body's response to stress. In September, Apple is expected to
+unveil a new version of its Watch with more health bells and whistles. The makers of Fitbits, Oura rings and other
+wearables have also been participating in clinical studies to see if the data they gather can be used to predict the
+onset of covid-19 symptoms before patients even realize they're sick. In some ways, Amazon's Halo is a me-too
+health tracker. There's no screen, but like Fitbits it has sensors that collect data about your activity, sleep,
+temperature and heart activity. Covered in fabric or silicone, the water-resistant Halo Band looks like a style of
+bracelet that might have been popular in high school in the 1980s. Its accompanying app and paid service nudge
+you to healthier habits with content from companies including Headspace and Orangetheory Fitness. Unlike the
+Apple Watch and other devices, Amazon's Halo hasn't received Food and Drug Administration clearance for any of
+its functions. It doesn't count as a medical device. But the Halo and Amazon's $4-per month service attempt to use
+AI to be a more "comprehensive" wellness guide — and that's where things get weird. The Halo can't track your
+weight on its own, but it asks you to take photos of your body (wearing minimal, tight clothing) with its app so it can
+estimate your body fat percentage. A motivational slider in the app shows you what you would look like if you lost
+
+                                                                                                        Page 2 of 2
+                       Amazon 's creepy new health wearable analyzes your voice and body
+
+weight. And then there's the tone-monitoring. Amazon says understanding emotion is key to overall health, so it
+uses AI to analyze "energy and positivity" in a customer's voice recorded from microphones on the band. (It knows
+your voice, as opposed to those around you, by making a profile of you speaking.) Amazon says tone results may,
+for example, "reveal that a difficult work call leads to less positivity in communication with a customer's family, an
+indication of the impact of stress on emotional well-being." Say what? Why would you want to know what an AI
+thinks about your tone? Are you supposed to make behavior changes — or seek counseling? Amazon says you
+could use it for feedback on public speaking, or to understand how sleep impacts your tone. Amazon spokeswoman
+Molly Wade said its tech does not make "judgments" about tone, but determinations such as "friendly," "hesitant,"
+and "overwhelmed" sure sound like judgments to me. Also, why should we trust what AI has to say about this? The
+whole idea of "tone" is fraught with ideas about gender, ethnicity and class. Will it judge women more harshly than
+men? Amazon's Wade says the company trained its system with data from "all demographic groups." Privacy is
+also clearly a stumbling block. Many owners of Amazon's popular Echo speakers are, rightly, concerned the Alexa
+assistant is eavesdropping on their conversations. (Police are increasingly turning to those recordings for evidence.)
+Unlike Echo speakers, the Halo doesn't send Amazon the words you say — instead, it listens on the band itself,
+where it runs an analysis of your tone and then deletes the files. (You can press a button on the band to deactivate
+its microphone.) Amazon says body scan images are sent to its cloud but are deleted from its computers after
+processing. But using the Halo does mean Amazon is going to learn even more about you. Amazon says no one
+can view your health data without your explicit permission, and it won't sell it. The giant retailer also says it won't
+use the data gathered by the Halo to sell you things. But it has already announced a partnership with health
+insurance company John Hancock to share your data for savings. Amazon has a long history of being the try-
+anything company in consumer tech. It doesn't have its own smartphone on the market, so it has to think outside
+the box. Over the years, I've reviewed Amazon products including a closet camera that judges your fashion sense
+(the now defunct Echo Look), a TV streaming box you operate via voice (the FireTV Cube), and most recently
+glasses that let you have private conversations with Alexa everywhere you go (the Echo Frames). Like many of
+those other Amazon product launches, you can't just buy the Halo directly — at least not yet. Customers in the U.S.
+can sign up on Amazon's website to request "early access" that includes the device and six months of service for
+an introductory price of $65.
+
+
+
+Graphic
+
+
+Amazon's Halo Band and app track the wearer's fitness, health and even emotional state. Courtesy of AmazonThe
+Halo app uses photos you take of your body in minimal, tight clothing to estimate your body fat composition.
+Courtesy of AmazonThe Halo uses microphones on its band to listen to snippets of conversation and analyze how it
+thinks you come across to others. Courtesy of Amazon
+
+
+Load-Date: August 31, 2020
+
+
+  

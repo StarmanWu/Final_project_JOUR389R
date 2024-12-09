@@ -1,0 +1,299 @@
+
+
+                                                                                                             Page 1 of 6
+                  IU faculty to help shape the future at Luddy School's new artificial intelligence center
+
+
+
+
+         IU faculty to help shape the future at Luddy School's new artificial
+                                 intelligence center
+                                              Herald-Times (Bloomington, Indiana)
+                                                      August 9, 2021 Monday
+
+
+
+Copyright 2021 The Herald-Times (Bloomington, Ind.)
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 2941 words
+Byline: Tristan Jackson, Herald-Times, Bloomington, Ind.
+
+Body
+
+
+Aug. 9—From the technology that helps self-driving cars recognize stop signs, to medical advancements that help
+produce COVID-19 vaccines, to studying the unconscious bias found in algorithms, the Luddy School of
+Informatics, Computing and Engineering is involved in all parts of AI development.
+
+As artificial intelligence continues to infiltrate everyday life, IU's researchers are focused on developing these
+technologies, while working to ensure their research is safe and ethical. The Luddy Center for Artificial Intelligence
+is set to open this month, providing researchers a place to focus on the intersection of robotics, complex networks,
+health and social media.
+
+Kay Connelly, Luddy School's associate dean of research, studies proactive health and AI technologies that can
+help the terminally ill and older people as they age, specifically wearable devices. She said proactive health is like
+"Fitbit before Fitbit."
+
+Her work is key in one of IU's Grand Challenges, and it tackles how to get the right treatment to patients at the right
+time. To research how to treat gestational diabetes, women are given wearable devices to track their heart rate,
+sleep and physical activity. The hope is to prevent development of the disease and stop it from becoming Type 2
+diabetes.
+
+Gestational diabetes diagnoses come during a woman's pregnancy, according to mayoclinic.org, and the data
+collected from these wearable devices allows researchers to detect which women are at higher risk to develop
+gestational diabetes.
+
+Former Luddy School dean Raj Acharya's work in AI also influences the medical community, especially as variants
+of COVID-19 continue to arise. Acharya currently has a National Science Foundation grant dedicated to
+reconstructing the genome of viruses using DNA and RNA sequencing, which is essential to the vaccine
+development process.
+
+                                                                                                          Page 2 of 6
+               IU faculty to help shape the future at Luddy School's new artificial intelligence center
+
+He takes short, cut-up strands of DNA and RNA, then uses the information they contain to solve questions about
+the full strands, which scientists are not able to fully read.
+
+He said viruses want to fool the immune system — this is why viruses mutate — so AI and machine-learning
+techniques are used to reconstruct viruses to understand the structure and order of characters which make them
+up.
+
+He said the interaction between our immune system and viruses is a type of game theory. When a virus enters our
+body, our immune system learns and stores a sequence of the virus so it can fight it, but recombination of its
+character makeup allows the virus to trick our immune system.
+
+While Acharya uses sequencing for developments in the medical field, AI can also help researchers understand the
+evolutionary process called phylogenetic analysis, which is used to construct evolutionary trees showing which
+animals evolved from another.
+
+IU computer scientist David Crandall's expertise is computer vision, the part of AI that tries to get computers to
+recognize things and make decisions based on what they see. Self-driving cars use this kind of research because
+they need to recognize things like stop signs and be able to make the decision to stop.
+
+This process uses machine learning, which trains computers to recognize things based on a large data set.
+Machine learning is an important development because in the past it would take months or even years to program
+specific commands, but now machine learning can expedite the process by having the computer teach itself,
+Crandall said.
+
+Crandall said studying how children learn has been influential to this type of research. In the same way children
+begin to understand things by observing them over and over, so do the programmed machines.
+
+This is also how programs like Alexa learn to respond to a person's command. Amazon engineers have given the
+computers powering Alexa thousands of collected audio clips and taught the algorithm how to recognize certain
+commands, Crandall said. These are examples of the black box model, which is a system used to study the inputs
+something is given and what outputs it gives back.
+
+Beth Plale, a professor and executive director of the Pervasive Technology Institute at IU, does research in data
+provenance, which is essentially data auditing. Her job is to study algorithms and their similarities to unconscious
+human bias, which can be encoded because of structural issues in our society, she said.
+
+Plale said studying the outcomes of AI is important because if their work can be misused, people can use machine-
+learning algorithms to teach robots to be bigoted and do bad things. She brought up Microsoft's conversational bot
+Tay, which was pulled from Twitter because just hours into its launch users had taught it to be racist and use
+inflammatory political speech.
+
+AI needs to be accountable, she said, and her work is focused on looking into issues that arise and mitigating them,
+like unconscious biases in algorithms or people's ability to manipulate outcomes. She says while trust in science is
+still high, transparency in the work researchers are doing is critical. Researchers need to jump on the important
+conversations early so they don't become politicized.
+
+"There's only so much a researcher — an academic researcher — there's only so much we can do or say because
+there are forces that squelch our voices," Plale said.
+
+As Michael McRobbie's tenure as Indiana University's president was coming to an end this June, one of his final
+moves was to dedicate the Luddy Center for Artificial Intelligence, a new "state of the art" facility for advanced AI
+research and machine learning.
+
+The $35 million center is part of a $60 million gift from alumnus Fred Luddy, who is the namesake of IU's school of
+informatics, computing and engineering. Construction began in February 2020 and it is set to open this month.
+
+                                                                                                           Page 3 of 6
+                IU faculty to help shape the future at Luddy School's new artificial intelligence center
+
+According to a news release from IU, the center's initial focus will be robotics, complex networks, health and social
+media.
+
+"The explosion worldwide of the uses and applications of AI, building on decades of steady research progress,
+made this the perfect time for IU to establish a major holistic initiative in artificial intelligence," McRobbie said.
+
+During McRobbie's tenure he also launched the Grand Challenges program, a $300 million investment into solving
+some of Indiana's most pressing issues. These challenges include research into precision medicine, environmental
+change and addiction crises.
+
+While artificial intelligence research can lead to breakthroughs that make people's lives easier, IU's faculty also is
+concerned about what consequences it will have and what conversations need to be had as the field develops.
+
+Both Plale and Crandall point to automated military drone strikes as an example of ethical problems society will
+have to grapple with. This discussion is particularly relevant in Crandall's field of study, because computer vision
+would be used in such drones, and he said AI is notoriously bad at understanding things out of context.
+
+"I think they struggle in certain circumstances. For example we know that they struggle often when they encounter
+situations that they've never encountered before," Crandall said.
+
+For example, a sticker on a stop sign may cause an autonomous car to not recognize it or act accordingly. The
+stakes are even higher when considering autonomous drones having the power to kill people without human
+intervention, and Plale said the ethical implications of whether military drones should have the power to do so is a
+problem society will have to face.
+
+She tied this in with the conversation of the moral considerations a sentient AI robot would be given if researchers
+are able to develop one. The moral considerations are broad questions that AI researchers should contribute to the
+discussion of, she said, but ultimately society will be responsible for coming up with the answers.
+
+However, Connelly believes IU and universities in general are a good place for ethical discussions because there
+are diverse voices at the table and the structure of funding and research is different compared with a corporation.
+
+"You find that people who are advocating for the ethics often get pushed aside, or pushed out completely because it
+doesn't fit in that profit model," she said.
+
+Corporations also tend to ignore the populations Connelly's research is focused on because there's less profit
+incentive in low-income communities. Her research is specifically targeted to making sure people with increased
+risk of health disparities get access.
+
+In addition to the less-profit-based research IU is able to engage in, Connelly believes the university setting is
+perfect because diverse voices will be heard and be able to point out when research is short-sighted or
+developments don't take into account their communities.
+
+She mentioned problems with facial recognition not working for people of color in some cases as a potential way
+more diverse voices can shape the future of AI. She believes IU does a good job mentoring students from all
+backgrounds, including first-generation or students with a non-English primary language, because IU's
+apprenticeship-style research helps students learn the "nitty gritty" of the field.
+
+"They are bringing their perspectives to the table, so students are critical," Connelly said.
+
+In terms of research resources, IU is well situated thanks to top-notch researchers in all fields of AI and having
+medical professionals and experts within other schools at IU, Acharya said. He said with IU's Grand Challenges
+there is a lot of cross pollination between the Luddy School and IU Health faculty in Indianapolis.
+
+In the three ways of looking at AI — algorithmic or computer science, cognitive science and hardware — IU has
+great people in all three, Acharya said. Plale also pointed out IU's well positioned infrastructure, including Big Red
+
+                                                                                                           Page 4 of 6
+                IU faculty to help shape the future at Luddy School's new artificial intelligence center
+
+200, a supercomputer designed to support research in artificial intelligence, machine learning and data analytics,
+which was installed in January 2020.
+
+Plale noted Crandall's research in the cognitive science department is a collaborative effort with the psychology
+department, where studies are looking at how babies learn, which allows the cognitive science department of the
+Luddy School to apply those methods to machine learning development.
+
+"I think what it suggests is that the collaborative activity that goes on in the academic setting can infuse new
+thinking," Plale said.
+
+Another collaborative effort Connelly brought up was IU's Observatory on Social Media, a joint project between the
+Luddy School, The Media School and Network Science Institute. This project unites data scientists and journalists
+to study the role of media and technology in society.
+
+Connelly worries about manipulation of entire segments of the population, which she believes algorithms on social
+media can propagate. She sees it as a direct threat to democracy. She said people fall into silos of information and
+when that happens you're not exposed to a breadth of information and alternative viewpoints.
+
+In 2017, former FBI agent and cybersecurity expert Clint Watts testified before Senate Intelligence Committee about
+the role Russian bots played in the 2016 presidential election. He said Russians used "armies" of Twitter bots to
+spread misinformation about the election, and in 2017 he'd already been tracking this kind of activity for more than
+three years.
+
+Connelly said everyone is susceptible to this regardless of their views, and she thinks social networks can enforce
+seeking approval and conforming to whichever way you lean on issues. When you start to sway on issues, those
+silos are an effective way to pull you back in.
+
+Artificial intelligence has been a part of science fiction media since at least the 19th century, and in the same way
+science fiction has had different portrayals of how AI will become part of our lives, IU's researchers have different
+attitudes toward the depiction of AI in literature and film.
+
+Crandall, for example, rolls his eyes at a lot of the depictions of AI in the media because it's very dramatic,
+especially concerning things like an AI ignoring its programming and thinking for itself.
+
+For example, recent movies like "Ex Machina" and "Her" explore the potential relationships between humans and
+sentient forms of AI. "Ex Machina" (2015) ponders the idea of the creation surpassing the creator and whether an
+AI can escape the black box, and "Her" (2013) explores whether humans can fall in love with an AI.
+
+"The state of robotics is that just doing something like folding a piece of clothing is like, beyond what any robot is
+able to do right now in any reasonable amount of time," he said.
+
+While the more dramatic depictions of AI are a bit laughable to him, Crandall recognizes the more subtle ways AI
+can control parts of people's lives, such as using Facebook to influence elections. He said it seems innocent, but it
+can become something that controls what people see. While this is much more subtle, Crandall said conversations
+are needed about these negative impacts and where AI goes from here.
+
+Plale did not want to speculate too much about media representation, but she is also skeptical about some of the
+sci-fi portrayals of AI. She said from what she's seen, AI in the media has been given much more sentience than
+what exists today, and while robots in factories are very well developed, the ability to get them to process things
+and react the way a human brain does is limited.
+
+Acharya is a bit more optimistic about the role of sci-fi in the development of AI, and thinks in many ways the genre
+helps researchers be more imaginative.
+
+"I think in a way that the media people might be ahead," he said. "The science fiction is probably ahead because
+the scientists are constrained by what can happen today. Media people can imagine."
+
+                                                                                                               Page 5 of 6
+                 IU faculty to help shape the future at Luddy School's new artificial intelligence center
+
+As artificial intelligence continues to carve out a role in our lives, IU's researchers are determined to make the future
+of AI a positive influence on the lives of Hoosiers. To make sure they usher in technology as a social good, Plale
+believes the conversations on ethics and the research being conducted need to move forward simultaneously.
+
+Acharya brought up deepfakes, which use a form of artificial intelligence called deep learning to make realistic-
+looking images of fake events, as an example of AI being abused by people with bad intentions. In September
+2019, AI firm Deeptrace found that 96% of deepfake videos were pornographic, and Boston University law
+professor Danielle Citron said "Deepfake technology is being weaponized against women" because it can fuel
+things such as hate porn.
+
+Still, Acharya is optimistic about the role AI will play in the lives of people moving forward. He said continued AI
+research in the medical field will be important in the lives of retired people, as it will allow more of them to live more
+fully as they age and develop medical problems. Human and machine becoming one is the ultimate goal, he said, in
+the sense that research into artificial limbs and organs can extend and have a positive impact on people's lives.
+
+Also, hypothesis generation, a new type of AI application which speeds up the process of developing hypotheses
+and comes up with new ones researchers might have overlooked, helps make research more efficient, Acharya
+said. Overall, his outlook on the future of AI is positive.
+
+For research as a whole, one issue Crandall sees is some researchers' eagerness to present things without full
+context because they want their work to seem like a breakthrough. It's not anyone's fault, he said, and it might not
+even be a bad thing because it gets people talking about the work, but the hype about some developments in AI
+aren't always centered in reality.
+
+"The reality is much more boring," he said.
+
+People have also blown the hype around AI's impact on the job market out of proportion, Crandall said, and he
+compared it with the same type of hype around the internet being a job killer when it came out. Forbes reported that
+in a Gallup poll from 2018, 73% of Americans believed AI would be a net job destroyer, but only 23% of them were
+worried about it, partially because they didn't believe their jobs would be affected.
+
+"It's hard for me now to really predict what really the impact will be of AI," Crandall said. "Except that like, I think it
+really is something that we have under our control."
+
+He brought up self-driving trucks as an example of something that could push people out of certain jobs, but he's
+curious what effect that will have on the job market as a whole. Automating 99.9% of what goes into driving is easy,
+he said, but in the 0.1% of cases where unexpected things happen, AI is not good at anticipating and reacting the
+way a human would.
+
+He said he's comfortable with the current situation of trusting the people around him to make responsible and
+rational decisions while he's driving.
+
+"Somehow we've grown accustomed and we've grown comfortable with this situation, which when you think about it
+that way is quite terrifying," he said. "Every time you get on the road you have to trust everyone else who's driving
+to do the right thing."
+
+He thinks on one hand AI is good because you can program it to make decisions, but problems arise because
+society has to grapple with what decisions it should make. What or who an automated car should focus on
+protecting when a crash can't be avoided altogether is one example of the discussions Crandall says need to be
+had.
+
+"I think the tricky part is we're going to have to decide, 'What is the right thing for it to do?'" he said.
+
+___ (c)2021 the Herald-Times (Bloomington, Ind.) Visit the Herald-Times                            (Bloomington,   Ind.)     at
+www.heraldtimesonline.com Distributed by Tribune Content Agency, LLC.
+
+                                                                                                          Page 6 of 6
+               IU faculty to help shape the future at Luddy School's new artificial intelligence center
+
+
+Load-Date: August 10, 2021
+
+
+  

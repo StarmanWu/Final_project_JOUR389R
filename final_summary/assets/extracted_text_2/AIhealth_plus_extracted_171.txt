@@ -1,0 +1,85 @@
+
+
+                                                                                                     Page 1 of 2
+                              Chatbots Bring Buzz, but the Real Money Will Come From APIs
+
+
+
+
+            Chatbots Bring Buzz, but the Real Money Will Come From APIs
+                                                        New York Observer
+                                                     February 24, 2023 Friday
+
+
+
+Copyright 2023 The New York Observer, L.P. All Rights Reserved
+
+Length: 700 words
+Byline: Alex Kantrowitz
+
+Body
+
+
+This story is syndicated from the Substack newsletter Big Technology; subscribe for free here.
+
+The chatbots did their job. They inspired awe, mockery, and even some fear. Most importantly, they drew attention.
+Front-page headlines, cover stories, and word of mouth caused millions to try them, leading businesses and
+developers to ask how they could put the technology to use.
+
+The APIs, of course, were always the point. ChatGPT and Bing's chatbot were never the end product. They were
+demos meant to sell other companies on tools they could use to build their own. And it worked. Now, the war to
+build the leading generative AI platform is underway.
+
+"For OpenAI, the vast majority of the money they will ever make will come from developers," Ben Parr, president
+of Octane AI, told me via phone Thursday. "ChatGPT is just the entry road into everything else."
+
+Even before this wave of AI chatbots reached the public, the companies behind them prepared APIs for developers.
+When ChatGPT gained momentum in January, OpenAI president Greg Brockman teased an API "coming soon."
+That same week, Microsoft made OpenAI models available through Azure. On the day Google introduced its BARD
+chatbot, CEO Sundar Pichai promised to make some of the underlying technology available by March. And this
+week, just a bit late, Amazon announced it would partner with Hugging Face to make a generative language tool
+available through AWS.
+
+"Everybody who develops software is either alerted, or shocked into alert, or actively working on something that is
+like ChatGPT to be integrated into their application, or integrated into their service," NVIDIA CEO Jensen Huang
+said during his company's earnings call Wednesday. NVIDIA provides the chips the tech runs on, so it stands to
+benefit too. Its stock jumped 14% Thursday.
+
+Finding broad, useful applications for generative AI will be challenging, but some obvious early applications stand
+out. Customer service departments, for instance, could use chatbots that can hold a conversation. Gaming
+companies could build intelligent characters and make NPCs a thing of the past. And marketers could attempt to
+use generative language models to forge deeper bonds with customers.
+
+                                                                                                       Page 2 of 2
+                          Chatbots Bring Buzz, but the Real Money Will Come From APIs
+
+This is all moving fast. On Tuesday, OpenAI announced it had partnered with Bain to help clients build on its API.
+Zack Kass, OpenAI's chief customer officer, said in a launch video that OpenAI couldn't keep up with the interest in
+its technology. "We are inundated at this point with enterprise demand that we sort of waited for, for a long time,
+and here it is," he said. "Now we just need to figure out how we field it."
+
+Later in the video, Coca-Cola executives said they planned to use the tech in their marketing efforts "to deliver
+creative content at speed." Coca-Cola CEO James Quincey also mentioned he believed the tech would change
+knowledge work, but without going into specifics.
+
+Coca-Cola is a fitting launch partner. In a recent presentation, investor Chamath Palihapitiya mentioned that Coke
+succeeded thanks to another invention: refrigeration. Coca-Cola made more money than the people that invented
+the refrigerator, he said, and that could happen here too. "If AI/LLMs are the refrigeration," he asked. "Who will be
+the next Coca-Cola?"
+
+The companies that enable successful AI applications-the refrigeration, in Palihapitiya's analogy-still stand to
+benefit tremendously though. And so those developing the underlying technology are doing what they can to help
+launch the next big thing on their platform, and perhaps take a chunk of it too. OpenAI, for instance, has a $100
+million startup fund meant to work with AI companies in health care, climate, education, and elsewhere. "Look at
+some of the companies that OpenAI's invested in," said Parr. "There are real use cases."
+
+The APIs, amid the commotion, are what matter. They're why Microsoft was willing to release an unproven chatbot
+into Bing, even when it knew it was a bit crazy. And why the company didn't seem to mind when the bot's
+flaws exploded into public view. It was never about Bing or ChatGPT, but about the potential future they previewed.
+And now, given the demos' success, the race to enable that future is underway.
+
+
+Load-Date: February 28, 2023
+
+
+  

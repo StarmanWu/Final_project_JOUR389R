@@ -1,0 +1,224 @@
+
+
+                                                                               Page 1 of 4
+         TALK TO ME THE CHATGPT BOT IS PUSHING GENERATIVE AI FORWARD, WITH POWERFUL
+                              POTENTIAL IN HEALTH CARE SETTINGS
+
+
+
+
+TALK TO ME; THE CHATGPT BOT IS PUSHING GENERATIVE AI FORWARD,
+      WITH POWERFUL POTENTIAL IN HEALTH CARE SETTINGS
+                                               Pittsburgh Post-Gazette
+                                               March 26, 2023 Sunday
+                                                TWO STAR EDITION
+
+
+
+Copyright 2023 P.G. Publishing Co.
+
+Section: HEALTH; Pg. H-1
+Length: 1723 words
+Byline: Hanna Webster Pittsburgh Post-Gazette
+
+Body
+
+
+Asked to pull up a few studies on chronic fatigue syndrome from the past six months, ChatGPT responded with
+confidence, listing five scientific studies published in 2022 and 2023, complete with author, year and publication.
+
+But there was a caveat: Every study the AI-driven chatbot cited was made up or could not be found online.
+
+Shortly after its launch by OpenAI in November, ChatGPT shocked users with its breadth of knowledge. It became
+the fastest-growing consumer app to date, with 100 million users just two months after its release, per UBS data
+reported by Reuters.
+
+OpenAI is upfront about ChatGPT's current limitations.
+
+When signing up for the artificial intelligence tool, users are alerted that it has not been trained on information past
+2021, a factor that could have led to the aforementioned errors.
+
+So the same question was run again, refined to pull from studies published between 2015 and 2019. It still yielded
+studies that didn't exist.
+
+After posing a hypothetical about an enlargement in the abdomen and concern for cancer (mirroring some of what
+the general public might search when seeking medical advice), the bot responded with surprising clarity. It was
+thorough, almost compassionate.
+
+ChatGPT is still evolving - a version four was released earlier this month. But it could be useful in health care
+settings, potentially freeing up doctors and other care providers to be there for patients in new ways.
+
+It runs on software created by OpenAI, a San Francisco-based company originally started as a nonprofit and co-
+founded in 2015 by Greg Brockman, Ilya Sutskever and numerous others.
+
+                                                                              Page 2 of 4
+        TALK TO ME THE CHATGPT BOT IS PUSHING GENERATIVE AI FORWARD, WITH POWERFUL
+                             POTENTIAL IN HEALTH CARE SETTINGS
+
+Brockman is a San-Francisco-based researcher who was formerly the CTO for Stripe, and Sutskever is a Canadian
+computer scientist who previously worked at Google. OpenAI's mission, they say, is to "ensure that artificial general
+intelligence â€¦ benefits all of humanity."
+
+Tesla CEO Elon Musk was also on OpenAI's founding board; he resigned in 2018 but remains a donor. Microsoft is
+a major investor, pledging a multibillion dollar investment earlier this year.
+
+OpenAI's ChatGPT-4, available for paid subscribers, is expected to be more accurate and more precise, amid
+concerns that the tool occasionally misdiagnoses conditions and fabricates sources.
+
+The success of the generative AI tool has pushed other tech companies to create their own versions of advanced
+chatbots. While computer scientists and ethics experts have raised concerns about privacy and the need for
+stringent guidelines, ChatGPT may have a home in the health care setting, starting, say, with administrative tasks.
+
+A helping AI hand
+
+Experts assure that the end goal is not to replace doctors, and ChatGPT is a far cry from being involved in real
+patient diagnosis any time soon. There are, however, ways that AI can offload work from nurses and other staff in
+the short-term.
+
+Note writing is one of these ways, something F. Perry Wilson, an associate professor of medicine at Yale
+University, called "low-hanging fruit" in terms of ChatGPT's feasible implementation in the foreseeable future.
+Wilson specializes in using data-science tools to target effective patient medical care.
+
+"The medical note is highly structured," he said. "It's necessary for billing purposes, and it takes time."
+
+Currently, the medical scribe position typically is filled by pre-med and medical students. ChatGPT taking over this
+task could reduce the "busywork of medicine," though Wilson, a nephrologist, urged that a physician should check
+the final product for accuracy.
+
+This may also force doctors and nurses to write better, giving clearer explanations. For instance, when asked to
+explain rheumatoid arthritis in lay terms, it responded:
+
+Rheumatoid arthritis (RA) is a type of chronic (long-term) disease that affects your joints. It's an autoimmune
+disorder, which means that your immune system attacks healthy cells in your body by mistake.
+
+In the case of RA, your immune system attacks the lining of your joints, which causes inflammation (swelling,
+redness, and warmth). This inflammation can damage your joints and cause pain, stiffness, and reduced mobility. If
+left untreated, RA can lead to deformities in your joints and even affect other organs in your body.
+
+RA can affect anyone at any age, but it's more common in women and usually begins in middle age. It's a lifelong
+condition, but there are treatments available that can help manage symptoms and prevent joint damage. If you think
+you may have RA, it's important to talk to your doctor for a proper diagnosis and treatment plan.
+
+Ari Lightman, a professor of digital media and marketing at Heinz College of Carnegie Mellon University, said
+ChatGPT could technically be used tomorrow to help turn information from a doctor into a story to better
+communicate medical terminology and clearly explain a concept to patients.
+
+Lightman created one of the first courses on social and digital health for physicians in 2011. Usage of this
+technology in the medical setting could show doctors better ways to frame explanations for patients, as well as push
+doctors to individualize their write-ups.
+
+"You'd have to distinguish yourself from an AI," said Wilson. "You'd have to write like a human."
+
+Future versions of ChatGPT, he said, could also act as an extra "set of eyes" when scanning patients' imaging
+results.
+
+                                                                              Page 3 of 4
+        TALK TO ME THE CHATGPT BOT IS PUSHING GENERATIVE AI FORWARD, WITH POWERFUL
+                             POTENTIAL IN HEALTH CARE SETTINGS
+
+"Radiologists work in the dark all day," Wilson said. "They're experts at this, but stuff still gets missed." ChatGPT
+could scan an image for abnormalities in addition to what the radiologist found and send an alert if it catches
+anything for the radiologist to review.
+
+Wilson and colleagues are currently running a clinical trial to better understand whether an alert system could help
+doctors prescribe more of a certain class of medications, called Mineralocorticoid Receptor Antagonists, or MRAs,
+to treat a type of heart failure. According to Wilson, these medications are safe for widespread use but rarely
+prescribed.
+
+The researchers hypothesize that sending an alert will increase the prescription of these medications and ultimately
+reduce deaths from heart failure. The alert could say something like: "Your patient has been diagnosed with heart
+failure. MRAs are safe and effective at treating heart failure. Would you like to prescribe this medication?" And a bot
+could send it.
+
+ChatGPT could also be utilized for online mental health care, as therapists are in short supply.
+
+The opportunity for conversation can help people work through hardships, said Joanna Bryson, a professor of
+ethics and technology at the Hertie School in Berlin, Germany.
+
+"Talking to someone is essential to being human," she said. Rather than replace therapists entirely, ChatGPT could
+fill a gap where care is needed, as millions process collective trauma from three years in the COVID-19 pandemic.
+
+Privacy matters
+
+Still, there are concerns over ethical uses of the technology - and privacy.
+
+"We have to worry about cybersecurity," said Bryson. "We can't assume it will be in place."
+
+OpenAI CEO Sam Altman, in a mid-March interview with ABC News, ruminated on having a healthy fear of the
+tech. "I think people should be happy that we're a little bit scared of this," Altman said.
+
+The United States does not have a centralized monitoring body, equivalent to something like the European Union's
+General Data Protection Regulation, which aims to protect individual rights to data privacy and to promote
+transparency of personal data storage and processing.
+
+The U.S. does, however, participate in the International Medical Device Regulators Forum, which formed in 2011 to
+help apply standardization and regulatory oversight to medical devices. Participating countries include but are not
+limited to Canada, China, South Korea and Australia. The organization has a working group for AI use in medical
+settings.
+
+Bryson does worry that the tech companies creating these AI tools aren't used to the same oversight or liability of
+medical systems.
+
+To her knowledge, OpenAI and Microsoft are "working really hard to be compliant, and are doing a lot of the right
+things." But when other versions of ChatGPT emerge from startup companies, there won't be a General Data
+Protection Regulation to hold them accountable in a uniform way.
+
+In a related concern, Anh Nguyen, a Carnegie Mellon University assistant professor of economics who studies
+information flow in health care systems, wonders about the implications of how chatbots are trained. If ChatGPT,
+for instance, were to be exposed to previous doctor/patient interactions, what health privacy considerations are in
+place to protect sensitive patient data from getting leaked?
+
+AI is vulnerable to misinformation, too, said Nguyen. When trained on biased data, it treats that data with the same
+weight as unbiased data - in other words, it can't detect if data has been manipulated.
+
+                                                                              Page 4 of 4
+        TALK TO ME THE CHATGPT BOT IS PUSHING GENERATIVE AI FORWARD, WITH POWERFUL
+                             POTENTIAL IN HEALTH CARE SETTINGS
+
+"This is too much of a phenomenally powerful tool not to be misused," said Lightman. "It's inevitable that it will be
+used for bad."
+
+Bryson echoed that statement: "I really, really worry about this technology being misused."
+
+Is it worth it? Absolutely, Lightman said.
+
+Healthy fears
+
+The general population is not in agreement. In a December survey of more than 11,000 Americans conducted by
+Pew Research Center, 60% reported discomfort with their provider relying on an AI tool in their health care.
+
+"AI is difficult to understand, therefore scary," said Wilson. "The cultural zeitgeist about it is informed by 'The
+Terminator,' '2001: A Space Odyssey,' 'Ex Machina.' It speaks to a deep human fear of a loss of autonomy."
+
+Lightman concurred, referencing the "mystique" surrounding AI. "It looks like magic - it's not. It's based on training
+data it was exposed to over many years."
+
+The best way to chip away at fears? Play around with it, said Wilson. "Experiencing it firsthand takes the mystery
+out. This isn't an actual thinking being behind the screen."
+
+Wilson, crediting a graduate student for the idea, used the analogy of nurses on rounds: When they put their heads
+together to tackle a problem, ChatGPT could be "just another head." Ultimately, they recommend that a human
+make the final decision when it comes to direct patient care.
+
+"It's best that this technology is used in tandem with human scrutiny," said Wilson. "There's very little appetite in
+medicine to take humans out entirely."
+
+Hanna Webster: hwebster@post-gazette.com
+
+
+
+Graphic
+
+
+PHOTO: Shutterstock: Open AI launched its ChatGPT chatbot in November, and it quickly became the fastest-
+growing consumer app to date.
+
+PHOTO: Associated Press: OpenAI CEO Sam Altman.
+
+PHOTO: Associated Press: OpenAI CEO Sam Altman.
+
+
+Load-Date: March 27, 2023
+
+
+  

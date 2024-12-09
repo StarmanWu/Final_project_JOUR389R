@@ -1,0 +1,197 @@
+
+
+                                                                                                           Page 1 of 4
+                         Biden administration focuses on AI Action comes amid public wariness
+
+
+
+
+    Biden administration focuses on AI; Action comes amid public wariness
+                                                      USA Today
+                                               December 26, 2023 Tuesday
+                                                        1 Edition
+
+
+
+Copyright 2023 USA Today All Rights Reserved
+
+Section: NEWS; Pg. A1
+Length: 1549 words
+Byline: By, Maureen Groppe, USA TODAY
+
+Body
+
+
+"Government cannot govern AI if it does not understand AI."
+
+Daniel Ho
+
+Stanford law professor who serves on the national committee advising the White House on AI policy
+
+WASHINGTON What if artificial intelligence could prepare the nation for disastrous weather events, root out fraud
+and tax cheats, speed up benefit determinations, enforce workplace safety rules and even find illegal rhino horns?
+
+This cutting-edge technology also can undermine privacy, embed discrimination into decision making, erode trust
+and create public safety risks.
+
+But now, the federal government has become a proving ground for whether rapidly advancing artificial intelligence -
+which President Joe Biden has called "the most consequential technology of our time" will be, or even can be,
+embraced by an increasingly wary public.
+
+Biden administration officials, who say they want the federal government to lead by example in the responsible use
+of AI, say they're aware how important it is to earn public confidence.
+
+"AI can't build trust. But bad AI can certainly break trust between VA and veterans," Veterans Affairs Secretary
+Denis McDonough said in September. "So, we need to get these emerging AI technologies right. If we do,
+trustworthy AI can help VA scale our impact, improve our outcomes and speed the delivery of our care."
+
+In October, Biden announced new actions, including proposed rules for how federal agencies can use the
+technology, requiring each agency put someone in charge of overseeing AI, and launching a talent search to recruit
+AI experts to work for the government.
+
+"Getting technical talent into the federal workforce is the single biggest obstacle for effective regulation," said Daniel
+Ho, a law professor at Stanford University who serves on the national committee advising the White House on AI
+policy. "Government cannot govern AI if it does not understand AI."
+
+                                                                                                       Page 2 of 4
+                         Biden administration focuses on AI Action comes amid public wariness
+
+Ho made that comment at one of the many congressional hearings this year on the uses of AI across the public and
+private sectors. Lawmakers are working on legislation to regulate the technology beyond what the administration
+can do through executive action.
+
+California Rep. Jay Obernolte, the only member of Congress with an advanced degree in artificial intelligence, said
+in March his colleagues needed time to understand the risks of a technology with which few are familiar.
+
+The focus comes as a growing share of Americans are expressing concern about the role AI is playing in daily life.
+
+Only 1 in 10 Americans surveyed this summer by the Pew Research Center said they are more excited than
+concerned about the increased use of artificial intelligence. About half (52%) were more concerned than excited, a
+14 percentage point increase from eight months earlier.
+
+'Deep accountability challenges'
+
+Researchers at Stanford University and New York University concluded in a 2020 report that AI promises to
+transform how government agencies function. But little was known at the time about how the federal government
+was using AI beyond a few headline grabbing examples or surface-level descriptions.
+
+And while use was widespread, it was not sophisticated and posed "deep accountability challenges," researchers
+warned.
+
+For example, although the law generally requires the government to give a reason for denying a benefit, such as
+disability assistance, decisions made by many of the more advanced AI tools are not, by their structure, fully
+explainable.
+
+"Even the engineers who design them do not always understand how they reach the conclusions they reach,"
+Michigan Sen. Gary Peters, the chairman of the Senate Homeland Security and Governmental Affairs Committee,
+said at a March hearing he conducted.
+
+Slow public disclosure
+
+Months after the 2020 report came out, then-President Donald Trump issued an executive order on artificial
+intelligence, part of which required agencies to list all nonclassified or nonsensitive uses of AI.
+
+But two years later, about half the large agencies that were known to have used some AI hadn't published the
+required inventory, according to a December 2022 study by the Stanford Institute for Human-Centered Artificial
+Intelligence.
+
+And some of the published inventories lacked important information. For example, Customs and Border Protection
+did not report it was using facial recognition technology to track who is entering and exiting the country.
+
+"The initiative to start cataloging those use cases was an important one, and it's very much work in progress," Arati
+Prabhakar, director of the White House Office of Science and Technology Policy, said at a September
+congressional hearing when asked about the disclosure rate.
+
+Meanwhile, federal agencies are being inundated with sales pitches from AI companies promising the next big
+thing.
+
+"We're hearing from our federal procurement officers that they're basically being bombarded by companies wanting
+to demonstrate the promise of their products," Peters said at a September hearing.
+
+Hundreds of AI uses
+
+The government's growing public list of current and planned AI uses includes more than 700 examples. It does not
+cover sensitive areas like intelligence gathering and the military. The Defense Department alone has more than 685
+unclassified AI projects, according to the nonpartisan Congressional Research Service.
+
+                                                                                                         Page 3 of 4
+                        Biden administration focuses on AI Action comes amid public wariness
+
+Disclosures from other agencies show AI is being used to document suspected war crimes in Ukraine, test whether
+coughing into a smartphone can detect COVID-19 in asymptomatic people, stop fentanyl smugglers from crossing
+the southern border, rescue children being sexually abused and find illegal rhino horns in airplane luggage - among
+many other things.
+
+In 2021, the VA became one of the first federal agencies to release an AI strategy. The agency says it's uniquely
+suited to advance the use of AI because of its vast data sets of administrative, financial and medical records. And
+because many doctors get at least some of their medical training at the VA, the agency can train them in AI as well.
+
+"There's no reason that the VA shouldn't be the world leader in adopting AI into health care practices," Sen. Joe
+Manchin, D-W.Va., said at a November hearing on the agency's research.
+
+How the VA is using AI
+
+Early in the coronavirus pandemic, the VA developed a machine learning model to predict how sick a patient would
+get from COVID-19.
+
+Another tool uses real-time data to anticipate episodes of post-traumatic stress disorder or the risk of suicide.
+
+For those who've reached out to the Veterans Crisis Line, a natural language processing engine could more quickly
+identify and help veterans in crisis.
+
+While the administration touts the benefits of AI, the sweeping executive order that Biden announced in October
+tasks federal agencies with roughly 150 action items with urgent deadlines, including proposed new rules to
+address issues like privacy and bias.
+
+Well-documented bias in AI
+
+Bias in AI is well-documented, Fei-Fei Li, co-director of the Stanford Institute of Human Centered Artificial
+Intelligence, told Congress at a September hearing. For example, predictive tools used to approve or reject loans
+are less accurate for low-income minority groups because there's not as much data in their credit histories.
+
+A Stanford study found the IRS audits Black taxpayers at least three times more often than non-Black taxpayers
+because of problems in the algorithms used to spot potential tax cheats.
+
+Under the draft policy Biden announced that is still being finalized, safeguards include real-world testing,
+independent evaluations and public notification.
+
+If an agency wants to use AI to help determine who qualifies for a social safety net program, officials "would be
+required to address algorithmic discrimination and build in an avenue for appeal," Prabhakar, the director of the
+White House Office of Science and Technology Policy, said recently. "This is how we get to more responsible use
+of AI by government."
+
+Role for Congress regulating AI
+
+Rob Weissman, president of the consumer advocacy organization Public Citizen, said Biden's executive order is
+impressive in the breadth and relatively depth of issues it covers.
+
+"However, it's just a first step in that it instructs agencies to take action across a diverse set of areas," he added.
+"How impactful the (executive order) is ultimately will depend on those agencies' actions."
+
+It's also, he said, no substitute for Congress putting rules and restrictions into law.
+
+Rep. Nancy Mace, R-S.C., one of the lawmakers working on AI legislation, noted that the administration's recent
+guidance to federal agencies arrived two years after the deadline Congress previously set. That makes her
+skeptical agencies will meet their new deadlines, "because their track record is pretty useless," she said at a
+hearing she chaired this month.
+
+                                                                                                        Page 4 of 4
+                       Biden administration focuses on AI Action comes amid public wariness
+
+Rumman Chowdhury, a data and social scientist who has built AI for the past decade, told Mace that AI being used
+by the public sector "needs to work for 100% of the people from Day One."
+
+"This is not an Uber for puppies," she said. "These are things that critically matter to individuals. So, we have to be
+very careful in how we roll things out so that they're equitable for all."
+
+"Government cannot govern AI if it does not understand AI."
+
+Daniel Ho
+
+Stanford law professor who serves on the national committee advising the White House on AI policy
+
+
+Load-Date: December 26, 2023
+
+
+  

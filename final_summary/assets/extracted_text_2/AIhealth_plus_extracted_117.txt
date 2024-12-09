@@ -1,0 +1,82 @@
+
+
+                                                                                                      Page 1 of 2
+                              AI makes MRIs 4 times faster, NYU and Meta researchers find
+
+
+
+
+              AI makes MRIs 4 times faster, NYU and Meta researchers find
+                                       Washington Square News: New York University
+                                                      January 30, 2023 Monday
+
+
+
+University Wire
+Copyright 2023 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 574 words
+Byline: Annabelle Wang
+
+Body
+
+
+Artificial intelligence improves the speed and clarity of MRIs as compared with traditional scanning, according to a
+recent study from the radiology department at NYU Langone Health and an AI research team at Meta. The study,
+published on Jan. 17, demonstrates the efficacy of a machine learning algorithm that can construct high-quality MRI
+scans with just one-fourth of the data typically needed, reducing the time required for a scan to as little as five
+minutes.
+
+MRIs provide more detailed information than other medical scans such as CTs and X-rays. They also use
+noninvasive magnetic fields instead of potentially-harmful radiation to produce images, but typically take much
+longer and are more expensive. Faster MRIs can reduce the cost of performing a scan in terms of both time and
+money, making them more accessible to patients.
+
+In addition to making the technology easier to access, AI assistance may make scans more comfortable for
+patients, according to Patricia Johnson, an assistant professor at Langone who co-authored the study.
+
+"It's going to make the experience better," Johnson said. "You're in there for five minutes versus 20 - you're much
+less likely to move. That's why the images look better, too. They're less likely to have distortions."
+
+The AI model is part of fastMRI, a Langone initiative established in 2018 in partnership with Meta - formerly
+Facebook - to increase the speed of MRI scanning. FastMRI's AI model used a data set of 298 MRIs to recognize
+patterns in scans, allowing it to recreate the unscanned parts of the 3D image.
+
+Image reconstruction for MRI scans of a patient's knee. The top two scans are conventional MRI scans, and the
+bottom two were aided by AI technology. (Courtesy of Patricia Johnson)
+
+Meta invests in AI technology to support the development of the metaverse - a virtual world within Meta's social
+media platform. In a press release published alongside Meta's 2021-22 revenue report, company founder and CEO
+Mark Zuckerberg said that Meta's AI investments had produced positive results.
+
+                                                                                                    Page 2 of 2
+                          AI makes MRIs 4 times faster, NYU and Meta researchers find
+
+Meta's AI researchers worked with Langone for two years to produce the study - which focused on knee scans -
+and plan to continue their research into how AI technology can improve MRIs for other parts of the body, including
+the brain.
+
+The study took both conventional and AI-aided MRI scans of 170 study participants' knees. It found that AI scans
+were just as helpful as conventional scans in making diagnoses and also resulted in higher-quality images.
+
+"Our new study translates the results from the earlier laboratory-based study and applies it to actual patients,"
+Michael Recht, chair of the radiology department at NYU's Grossman School of Medicine, said in a statement.
+"FastMRI has the potential to dramatically change how we do MRI and increase accessibility of MRI to more
+patients."
+
+In addition to developing its own algorithms, fastMRI makes anonymized data available to other researchers who
+may not have the same access to MRI scanners, which can cost more than $500,000. By publicizing their data, the
+researchers behind the program hope to incentivize competition and innovation in the field.
+
+"We're so unique in that the NYU medical center has something like 50 MRI scanners, which is more than some
+countries," Johnson said. "We just have a very unique ability to collect large volumes of patient data. We want to
+facilitate research in this area."
+
+Contact Annabelle Wang at [email protected]
+
+
+Load-Date: January 30, 2023
+
+
+  

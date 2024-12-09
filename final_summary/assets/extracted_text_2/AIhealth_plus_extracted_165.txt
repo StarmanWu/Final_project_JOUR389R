@@ -1,0 +1,157 @@
+
+
+                                                                                                      Page 1 of 3
+            Algorithms used in tracking OD risk rating AI may influence whether one can receive pain meds
+
+
+
+
+                          Algorithms used in tracking OD risk rating
+                      AI may influence whether one can receive pain meds
+                                                        Daily News (New York)
+                                                      September 24, 2023 Sunday
+                                                            1STAR Edition
+
+
+
+Copyright 2023 Daily News, L.P. All Rights Reserved
+
+Section: LIFESTYLE; CS; Pg. 44
+Length: 1281 words
+Byline: Andy Miller and Sam Whitehead KFF Health News
+Highlight: Narx Scores and an algorithm-generated overdose risk rating are produced by Bamboo Health's
+NarxCare platform. Dreamstime
+
+Body
+
+
+Elizabeth Amirault had never heard of a Narx Score. But she said she learned last year the tool had been used to
+track her medication use.
+
+During an August 2022 visit to a hospital in Fort Wayne, Indiana, Amirault told a nurse practitioner she was in
+severe pain, she said. She received a puzzling response.
+
+"Your Narx Score is so high, I can't give you any narcotics," she recalled the man saying, as she waited for an MRI
+before a hip replacement.
+
+Tools like Narx Scores are used to help medical providers review controlled substance prescriptions. They influence
+- and can limit - the prescribing of painkillers, similar to a credit score influencing the terms of a loan. Narx Scores
+and an algorithm-generated overdose risk rating are produced by health care technology company Bamboo Health
+(formerly Appriss Health) in its NarxCare platform.
+
+Such systems are designed to fight the nation's opioid epidemic, which has led to an alarming number of overdose
+deaths. The platforms draw on data about prescriptions for controlled substances that states collect to identify
+patterns of potential problems involving patients and physicians. State and federal health agencies, law
+enforcement officials, and health care providers have enlisted these tools, but the mechanics behind the formulas
+used are generally not shared with the public.
+
+Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care
+landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with
+rapidly advancing technology.
+
+The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone
+enough independent testing outside of the companies that developed them, making it hard to know how they work.
+
+                                                                                                    Page 2 of 3
+          Algorithms used in tracking OD risk rating AI may influence whether one can receive pain meds
+
+Lacking the ability to see inside these systems leaves only clues to their potential impact. Some patients say they
+have been cut off from needed care. Some doctors say their ability to practice medicine has been unfairly
+threatened. Researchers warn that such technology - despite its benefits - can have unforeseen consequences if it
+improperly flags patients or doctors.
+
+"We need to see what's going on to make sure we're not doing more harm than good," said Jason Gibbons, a
+health economist at the Colorado School of Public Health at the University of Colorado's Anschutz Medical
+Campus. "We're concerned that it's not working as intended, and it's harming patients."
+
+Amirault, 34, said she has dealt for years with chronic pain from health conditions such as sciatica, degenerative
+disc disease and avascular necrosis, which results from restricted blood supply to the bones.
+
+The opioid Percocet offers her some relief. She'd been denied the medication before, but never had been told
+anything about a Narx Score, she said.
+
+In a chronic pain support group on Facebook, she found others posting about NarxCare, which scores patients
+based on their supposed risk of prescription drug misuse. She's convinced her ratings negatively influenced her
+care.
+
+"Apparently being sick and having a bunch of surgeries and different doctors, all of that goes against me," Amirault
+said.
+
+Database-driven tracking has been linked to a decline in opioid prescriptions, but evidence is mixed on its impact on
+curbing the epidemic. Overdose deaths continue to plague the country, and patients like Amirault have said the
+monitoring systems leave them feeling stigmatized as well as cut off from pain relief.
+
+The Centers for Disease Control and Prevention estimated that in 2021 about 52 million American adults suffered
+from chronic pain, and about 17 million people lived with pain so severe it limited their daily activities. To manage
+the pain, many use prescription opioids, which are tracked in nearly every state through electronic databases
+known as prescription drug monitoring programs, or PDMPs.
+
+The last state to adopt a program, Missouri, is still getting it up and running.
+
+More than 40 states and territories use the technology from Bamboo Health to run PDMPs. That data can be fed
+into NarxCare, a separate suite of tools to help medical professionals make decisions. Hundreds of health care
+facilities and five of the top six major pharmacy retailers also use NarxCare, the company said.
+
+The platform generates three Narx Scores based on a patient's prescription activity involving narcotics, sedatives
+and stimulants. A peer-reviewed study showed the "Narx Score metric could serve as a useful initial universal
+prescription opioid-risk screener."
+
+NarxCare's algorithm-generated "Overdose Risk Score" draws on a patient's medication information from PDMPs -
+such as the number of doctors writing prescriptions, the number of pharmacies used, and drug dosage - to help
+medical providers assess a patient's risk of opioid overdose.
+
+Bamboo Health did not share the specific formula behind the algorithm or address questions about the accuracy of
+its Overdose Risk Score but said it continues to review and validate the algorithm behind it, based on current
+overdose trends.
+
+Guidance from the CDC advised clinicians to consult PDMP data before prescribing pain medications. But the
+agency warned that "special attention should be paid to ensure that PDMP information is not used in a way that is
+harmful to patients."
+
+This prescription-drug data has led patients to be dismissed from clinician practices, the CDC said, which could
+leave patients at risk of being untreated or undertreated for pain. The agency further warned that risk scores may
+be generated by "proprietary algorithms that are not publicly available" and could lead to biased results.
+
+                                                                                                    Page 3 of 3
+          Algorithms used in tracking OD risk rating AI may influence whether one can receive pain meds
+
+Bamboo Health said that NarxCare can show providers all of a patient's scores on one screen, but that these tools
+should never replace decisions made by physicians.
+
+Some patients say the tools have had an outsize impact on their treatment.
+
+Bev Schechtman, 47, who lives in North Carolina, said she has occasionally used opioids to manage pain flare-ups
+from Crohn's disease. As vice president of the Doctor Patient Forum, a chronic pain patient advocacy group, she
+said she has heard from others reporting medication access problems, many of which she worries are caused by
+red flags from databases.
+
+Some doctors who treat chronic pain patients say they, too, have been flagged by data systems and then lost their
+license to practice and were prosecuted.
+
+Lesly Pompy, a pain medicine and addiction specialist in Monroe, Michigan, believes such systems were involved in
+a legal case against him.
+
+His medical office was raided by a mix of local and federal law enforcement agencies in 2016 because of his
+patterns in prescribing pain medicine. A year after the raid, Pompy's medical license was suspended. In 2018, he
+was indicted on charges of illegally distributing opioid pain medication and health care fraud.
+
+"I knew I was taking care of patients in good faith," he said. A federal jury in January acquitted him of all charges.
+He said he's working to have his license restored.
+
+Prosecutions against doctors through the use of prescribing data have attracted the attention of the American
+Medical Association.
+
+"These unknown and unreviewed algorithms have resulted in physicians having their prescribing privileges
+immediately suspended without due process or review by a state licensing board," said Bobby Mukkamala, chair of
+the AMA's Substance Use and Pain Care Task Force.
+
+Even critics of drug- tracking systems and algorithms say there is a place for data and artificial intelligence systems
+in reducing the harms of the opioid crisis.
+
+"It's just a matter of making sure that the technology is working as intended," health economist Gibbons said.
+
+
+Load-Date: September 25, 2023
+
+
+  

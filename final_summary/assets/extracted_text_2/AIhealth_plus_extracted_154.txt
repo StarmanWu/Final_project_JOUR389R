@@ -1,0 +1,120 @@
+
+
+                                                                                                        Page 1 of 3
+                                   European leaders OK first comprehensive rules for AI
+
+
+
+
+                    European leaders OK first comprehensive rules for AI
+                                                Telegraph Herald (Dubuque, IA)
+                                                    June 15, 2023 Thursday
+
+
+
+Copyright 2023 Woodward Communications, Inc. All Rights Reserved
+
+Section: B; Pg. 6
+Length: 833 words
+Byline: KELVIN CHAN The Associated Press
+
+Body
+
+
+BY KELVIN CHAN
+
+The Associated Press
+
+LONDON - Lawmakers in Europe signed off Wednesday on the world's first set of comprehensive rules for artificial
+intelligence, clearing a key hurdle as authorities across the globe race to rein in AI.
+
+The European Parliament vote is one of the last steps before the rules become law, which could act as a model for
+other places working on similar regulations.
+
+A yearslong effort by Brussels to draw up guardrails for AI has taken on more urgency as rapid advances in
+chatbots such as ChatGPT show the benefits the emerging technology can bring - and the new perils it poses.
+
+The European measure, first proposed in 2021, will govern any product or service that uses an artificial intelligence
+system. The act will classify AI systems according to four levels of risk, from minimal to unacceptable.
+
+Riskier applications, such as for hiring or tech targeted to children, will face tougher requirements, including being
+more transparent and using accurate data.
+
+It will be up to the EU's 27 member states to enforce the rules. Regulators could force companies to withdraw their
+apps from the market.
+
+In extreme cases, violations could draw fines of up to 40 million euros ($43 million) or 7% of a company's annual
+global revenue, which in the case of tech companies like Google and Microsoft could amount to billions.
+
+One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights
+and values.
+
+That means some AI uses are an absolute no-no, such as "social scoring" systems that judge people based on
+their behavior.
+
+                                                                                                         Page 2 of 3
+                                European leaders OK first comprehensive rules for AI
+
+Also forbidden is AI that exploits vulnerable people, including children, or uses subliminal manipulation that can
+result in harm, for example, an interactive talking toy that encourages dangerous behavior.
+
+Predictive policing tools, which crunch data to forecast who will commit crimes, is also out.
+
+Lawmakers beefed up the original proposal from the European Commission, the EU's executive branch, by
+widening the ban on real-time remote facial recognition and biometric identification in public. The technology scans
+passers-by and uses AI to match their faces or other physical traits to a database.
+
+A contentious amendment to allow law enforcement exceptions such as finding missing children or preventing
+terrorist threats did not pass.
+
+AI systems used in categories such as employment and education, which would affect the course of a person's life,
+face tough requirements such as being transparent with users and taking steps to assess and reduce risks of bias
+from algorithms.
+
+Most AI systems, such as video games or spam filters, fall into the low- or no-risk category, the commission says.
+
+The original measure barely mentioned chatbots, mainly by requiring them to be labeled so users know they're
+interacting with a machine. Negotiators later added provisions to cover general purpose AI like ChatGPT after it
+exploded in popularity, subjecting that technology to some of the same requirements as high-risk systems.
+
+One key addition is a requirement to thoroughly document any copyright material used to teach AI systems how to
+generate text, images, video and music that resemble human work.
+
+That would let content creators know if their blog posts, digital books, scientific articles or songs have been used to
+train algorithms that power systems like ChatGPT. Then they could decide whether their work has been copied and
+seek redress.
+
+The European Union isn't a big player in cutting-edge AI development. That role is taken by the U.S. and China. But
+Brussels often plays a trend-setting role with regulations that tend to become de facto global standards and has
+become a pioneer in efforts to target the power of large tech companies.
+
+The sheer size of the EU's single market, with 450 million consumers, makes it easier for companies to comply than
+develop different products for different regions, experts say.
+
+But it's not just a crackdown. By laying down common rules for AI, Brussels is also trying to develop the market by
+instilling confidence among users.
+
+"The fact this is regulation that can be enforced and companies will be held liable is significant" because other
+places like the United States, Singapore and Britain have merely offered "guidance and recommendations," said
+Kris Shrishak, a technologist and senior fellow at the Irish Council for Civil Liberties.
+
+"Other countries might want to adapt and copy" the EU rules, he said.
+
+Businesses and industry groups warn that Europe needs to strike the right balance.
+
+"The EU is set to become a leader in regulating artificial intelligence, but whether it will lead on AI innovation still
+remains to be seen," said Boniface de Champris, a policy manager for the Computer and Communications Industry
+Association, a lobbying group for tech companies.
+
+"Europe's new AI rules need to effectively address clearly defined risks, while leaving enough flexibility for
+developers to deliver useful AI applications to the benefit of all Europeans," he said.
+
+
+Load-Date: June 15, 2023
+
+                                                                         Page 3 of 3
+                  European leaders OK first comprehensive rules for AI
+
+
+
+

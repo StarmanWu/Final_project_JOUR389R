@@ -1,0 +1,84 @@
+
+
+                                                                                                    Page 1 of 2
+                                 White Paper Offers Ethics Advice for Government Use of AI
+
+
+
+
+               White Paper Offers Ethics Advice for Government Use of AI
+                                                 Government TechNology
+                                                 August 16, 2022 Tuesday
+
+
+
+Copyright 2022 Government Technology
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 592 words
+Byline: Zack Quaintance, Government Technology
+
+Body
+
+
+Aug. 16—A new white paper seeks to help government and other groups build a responsible future for artificial
+intelligence as the technology continues to evolve, specifically stressing the importance of creating redress
+mechanisms that can handle flaws as they emerge.
+
+Published by the University of California, Berkeley, the paper is titled AI's Redress Problem, and it joins an
+accelerating, cross-sector conversation about how to ensure that ethics and responsibility are part of artificial
+intelligence's future. Government is no stranger to this conversation, with New York City, for example, having
+released a 116-page strategic vision for how to responsibly benefit from AI. This new white paper encourages all
+stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing
+that.
+
+It was authored by Ifejesu Ogunleye, a graduate of the university's Master of Development Practice program, and
+Ogunleye conducted this research at the Center for Long-term Cybersecurity's AI Security Initiative.
+
+In a recent conversation about the white paper with Government Technology, Ogunleye discussed some of her key
+findings, including the potential for incidental harm, often tied to data sources that have systemic or historical
+inequity issues.
+
+"By and large, I don't think you have companies or engineers sitting down and developing things they want to be
+biased or harmful," Ogunleye said. "And if you have an AI system that is continuously learning, you haven't mapped
+out all the ways it could potentially go wrong, either."
+
+For these reasons, one of Ogunleye's key pieces of advice for government as well as private companies —
+including vendors who sell to government — is the idea of redress mechanisms within AI technologies. Essentially,
+what that means is that developers include mechanisms in advance that have the ability to stop harmful behaviors
+that AI might develop. This, Ogunleye notes, is of increasing importance to society writ large as more sectors
+become more reliant on AI, from health care to government to law enforcement to finance.
+
+                                                                                                       Page 2 of 2
+                            White Paper Offers Ethics Advice for Government Use of AI
+
+In terms of the practical, the paper goes on to cite some government measures that establish redress mechanisms
+in other technologies, specifically within data protection, those being Europe's General Data Protection Regulation
+(GDPR) and the California Privacy Rights Act (CPRA), both of which have been much-lauded by advocates for
+ethical use of technology.
+
+Higher-level legislation and regulations aside, there are things that lower levels of government can do in this area
+as well. For all levels of government, Ogunleye advises that it is important for decision-makers to consider members
+of the community as they make use of AI, and to do so in a meaningful way.
+
+"The community is a very important stakeholder that the industry often hasn't kept in touch with or engaged with in a
+meaningful way," she said. "It's not just about town hall meetings, it's about taking in feedback in a meaningful way
+as you develop these systems."
+
+And, to be sure, these systems have vast potential for government, with proven capabilities to automate tasks
+formerly done by humans, improving governmental efficiency and clearing the way for real people to take on higher-
+level challenges.
+
+It is not, as of yet, a technology that needs to be feared. Provided, Ogunleye said, it continues to be deployed with
+"the proper safeguards and guardrails."
+
+___ (c)2022 Government Technology Visit Government Technology at www.govtech.com Distributed by Tribune
+Content Agency, LLC.
+
+
+Load-Date: August 17, 2022
+
+
+  

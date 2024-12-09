@@ -1,0 +1,110 @@
+
+
+                                                                                                            Page 1 of 2
+              "Even if you can do it, should you?" Researchers talk combating bias in artificial intelligence
+
+
+
+
+    "Even if you can do it, should you?" Researchers talk combating bias in
+                               artificial intelligence
+                                            The Stanford Daily: Stanford University
+                                                      February 4, 2021 Thursday
+
+
+
+University Wire
+Copyright 2021 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 810 words
+Byline: Patricia Wei
+
+Body
+
+
+As artificial intelligence becomes increasingly common in several areas of public life - from policing to hiring to
+healthcare - AI researchers Timnit Gebru, Michael Hind, James Zou and Hong Qu came together to criticize Silicon
+Valley's lack of transparency and advocate for greater diversity and inclusion in decision making.
+
+The event, titled "Race, Tech & Civil Society: Tools for Combating Bias in Datasets and Models," was sponsored by
+the Stanford Center on Philanthropy and Civil Society, the Center for Comparative Studies in Race and Ethnicity
+and the Stanford Institute for Human-Centered Artificial Intelligence.
+
+Qu, the moderator of the panel and a CCSRE Race & Technology Practitioner Fellow who developed a tool called
+AI Blindspot that discovers bias in AI systems, opened the conversation by discussing how there are two definitions
+of combating bias: ensuring that algorithms are "de-biased" and striving for equity in a historical and cultural
+context.
+
+Gebru '08 M.S. '10 Ph.D. '15 said that she was introduced to these issues as they relate to machine learning in AI
+after seeing a ProPublica article about recidivism algorithms, and a TED Talk by Joy Buolamwini, a graduate
+researcher at MIT, who discovered that an open-source facial recognition software did not detect her face unless
+she wore a white mask.
+
+As Gebru moved higher up in the tech world, she noticed a severe lack of representation - a pressing inequity she
+is working to redress. "The moment I went to grad school, I didn't see any Black people at all," Gebru said.
+
+"What's important for me in my work is to make sure that these voices of these different groups of people come to
+the floor," she added.
+
+Michael Hind is an IBM Distinguished Researcher who leads work on AI FactSheets and AI Fairness 360, which
+promote transparency in algorithms. Hind agreed with Gebru, noting the importance of "having multiple disciplines
+and multiple stakeholders at the table."
+
+                                                                                                          Page 2 of 2
+            "Even if you can do it, should you?" Researchers talk combating bias in artificial intelligence
+
+But not everyone has affirmed Gebru's mission of inclusion. Last month, Google fired Gebru from her role as an AI
+ethics researcher after she had co-written a paper on the risks of large language models. Her paper touched on
+bias in AI and how social linguists, who study how language relates to power, culture, and society, were left out of
+the process.
+
+Since the news of her firing broke, computer science educators and students showed their support and solidarity for
+Gebru and her work. When Qu asked the panelists how to increase racial literacy, Gebru responded, "I tried to do it
+and I got fired."
+
+She cited the "high turnover" of employees tasked to spearhead diversity initiatives, whose efforts to enact
+institutional change were often dismissed.
+
+"They don't have any power," Gebru said. "They're miserable. They leave." Despite Google's many ethics
+committees, "there's just no way that this will work if there's no incentive to change," she added
+
+Citing this culture of complacency as one of the reasons he left Silicon Valley, Zou said, "For me, I believe it's more
+pernicious to be passively complicit than even to be intentionally malicious."
+
+In many cases, technology companies may even step beyond passive complicity, Gebru said. She cited Microsoft's
+partnership with the New York Police Department to develop predictive policing algorithms. Because these
+technological tools rely on historical data, some researchers say they may reinforce existing racial biases.
+
+"For any Black person in the United States who has had experiences with police," Gebru said, "you would
+understand, you know, why predictive policing would be an issue."
+
+Zou, however, remained optimistic about the use of AI for social good. He noted that because of the pandemic, the
+need for telehealth has exploded. Doctors are now relying on patients on images from patients to help diagnose
+them, and computer vision technology can help patients take better photos, he said.
+
+Even cases of algorithmic bias can present valuable learning opportunities, Zou added. Pointing to language
+models he worked on as a member of Microsoft Research, Zou said that the models' gender biases offered a way
+to "quantify our stereotypes."
+
+However, Zou was reluctant to place too much faith in AI.
+
+"If it's a scenario that affects someone's health or safety, AI should not be the sole decision maker," he said.
+
+As the conversation ended, the researchers agreed on the need to continue questioning the role of using AI in tools
+that affect our daily lives.
+
+"A lot of features certainly should not be ones a data scientist or engineer should be deciding," Hind said.
+
+He referred to how the virtual interviewing company HireVue used AI to analyze applicants' videos to measure skills
+such as empathy and communication.
+
+"Even if you can do it, should you?" Gebru asked.
+
+Contact Patricia Wei at patwei 'at' stanford.edu and Jared Klegar at jkklegar 'at' stanford.edu.
+
+
+Load-Date: February 4, 2021
+
+
+  

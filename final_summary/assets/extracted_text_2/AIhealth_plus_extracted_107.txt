@@ -1,0 +1,193 @@
+
+
+                                                                                                          Page 1 of 4
+                          White House Executive Order Threatens to Put AI in a Regulatory Cage
+
+
+
+
+     White House Executive Order Threatens to Put AI in a Regulatory Cage
+                                                             R Street Institute
+                                                      October 30, 2023 Monday
+
+
+
+Copyright 2023 Content Engine, LLC.
+All Rights Reserved
+Copyright 2023 R Street Institute, USA All Rights Reserved
+
+Length: 2295 words
+
+Body
+
+
+This analysis is based on breaking news and will be updated. To connect with the author, please e-mail
+[email protected].
+
+The Biden administration today released a long-awaited major Executive Order (EO) on "Safe, Secure, and
+Trustworthy Artificial Intelligence (AI)" that represents the latest effort by the White House to unilaterally advance AI
+policy as Congress continues to struggle with the issue. Despite intense interest and a flurry of proposals,
+comprehensive AI legislation appears unlikely in the near-term. The White House has been looking to fill the federal
+AI policy vacuum through various policy statements, agency actions and other steps. Biden's new 100+ page EO
+includes "sprawling directives to over a dozen agencies," ordering them to look into implications of algorithmic
+systems and processes for a wide variety of issues, including: copyright, competitiveness, cybersecurity, education,
+health, housing, infrastructure, labor and privacy.
+
+While some will appreciate the whole-of-government approach to AI required by the order, if taken too far, unilateral
+and heavy-handed administrative meddling in AI markets could undermine America's global competitiveness and
+even the nation's geopolitical security. AI is a critical new technology with the potential to fundamentally expand
+productivity and economic growth, with benefits accruing across many sectors and for all consumers. AI has
+particularly important implications for advancing public health. AI and computational science also have national
+security ramifications, which is why a strong and secure domestic technology base is essential to countering
+challenges or threats from China and other nations. Excessive preemptive regulation of AI systems could impede
+the growth of these technologies or limit their potential in various ways.
+
+Dystopian Narratives Driving Calls for AI Regulation
+
+Unfortunately, the policy debate around AI thus far has been mostly driven by worst-case scenarios pulled from the
+plots of dystopian science fiction books and movies. These fears have triggered calls for sweeping regulatory
+controls for AI - including new regulatory agencies, licensing schemes, and expanded liability - that will significantly
+hamper the adoption of beneficial new algorithmic applications.
+
+The EO comes just two days before the United Kingdom's AI Safety Summit, which is a multi-nation effort focused
+on addressing risks with more powerful "frontier AI" technologies, which are advanced supercomputing systems.
+Wired refers to the coming summit as "a doom-obsessed mess" because of the focus on so-called "existential risks"
+
+                                                                                                         Page 2 of 4
+                      White House Executive Order Threatens to Put AI in a Regulatory Cage
+
+and extreme regulatory steps to address them. Surprisingly, the UK government has turned quickly from being a
+leading exponent of light-touch regulation for AI systems into a platform for considering some of the most extreme
+solutions for controlling computation as part of a new effort under UK Prime Minister Rishi Sunak to "write the AI
+rulebook" for the world. The Biden administration has been coordinating with the UK government on this and other
+AI issues, but it remains to be seen whether the administration steers the U.S. down a similarly radical regulatory
+path for advanced AI systems.
+
+Thus far, the Biden administration has primarily focused on pressuring major AI innovators to make voluntary
+concessions regarding AI safety and data sharing. Building on this, the new EO stretches the broad stipulations of
+the Defense Production Act to require that "companies developing any foundation model that poses a serious risk
+to national security, national economic security, or national public health and safety must notify the federal
+government when training the model, and must share the results of all red-team safety tests." Red-team safety tests
+are already regularly used by developers to stress-test AI models for deficiencies and make corrections. Through
+the new EO, the White House is now pushing for this process to become more formalized through standards
+created by the National Institute of Standards and Technology (NIST) and applied by agencies such as the
+Departments of Energy and the Department of Homeland Security through an AI Safety and Security Board. The
+EO also contains vague language about the need to "accelerate development and implementation of vital AI
+standards with international partners" in an effort to "establish robust international frameworks" for AI, but it offers
+few details before simply noting that the Vice President Harris will participate in Wednesday's AI Safety Summit in
+the UK.
+
+The EO focuses on other priorities beyond just frontier AI systems, however. It calls for broad-based efforts to
+expand privacy protections, including through the development of additional guidelines on how algorithmic systems
+collect and use data. Other provisions in the EO call for enhanced cybersecurity protections to expand upon the "AI
+Cyber Challenge" program launched this summer to "challenge competitors across the United States, to identify
+and fix software vulnerabilities using AI." The EO also includes requirements that the military and intelligence
+community "use AI safely, ethically, and effectively in their missions." The EO also calls for greater efforts to
+address fraudulent or deceptive uses of AI and calls on the Department of Commerce to craft guidance for content
+authentication and watermarking to clearly label AI-generated content.
+
+On other issues, the new EO continues the rhetorical approach the administration initially sketched out in its
+October 2022 "Blueprint for an AI Bill of Rights," which focused on fears about AI and claimed algorithmic systems
+are "unsafe, ineffective, or biased" and "deeply harmful." For example, fearing that AI systems will "exacerbate
+discrimination" in housing, the workplace, or federal benefits programs, the EO calls for additional steps to combat
+"algorithmic discrimination."
+
+Empowering the Administrative State
+
+The new EO highlights how the administration is adopting an everything-and-the-kitchen-sink approach to AI policy
+that is, at once, extremely ambitious and potentially over-zealous. The implementation details on all the matters
+here are mostly left to the various federal agencies to work out, and it remains unclear how far they can stretch their
+statutory authority to enforce many of these stipulations.
+
+Even so, taken together with other recent administration statements, the EO represents a potentially sea change in
+the nation's approach to digital technology markets as federal policymakers appear ready to shun the open
+innovation model that made American firms global leaders in almost all computing and digital technology sectors.
+With the U.S. now facing fierce competition from global AI companies from China and other nations, the danger
+exists that the U.S. could put algorithmic innovators in a regulatory cage that would encumber them with many
+layers of bureaucratic permission slips before any new product or service could launch. Biden's new EO could
+accelerate the move to tie the hands of algorithmic entrepreneurs, even if Congress does not pass any new
+legislation on this front.
+There are some positive and much-needed elements to the EO, however, including its call "to expand the ability of
+highly skilled immigrants and nonimmigrants with expertise in critical areas to study, stay, and work in the United
+States by modernizing and streamlining visa criteria, interviews, and reviews." For some time, there has been a
+
+                                                                                                         Page 3 of 4
+                      White House Executive Order Threatens to Put AI in a Regulatory Cage
+
+pressing need to expand efforts to retain skilled immigrant workers, with many technology companies and experts
+worried about losing top-notch talent to other nations.
+
+But most of the EO focuses on broader and extremely amorphous calls for expanded government oversight across
+many other issues and agencies, raising the risk of a "death by a thousand cuts" scenario for AI policy in the US.
+For example, while there is nothing wrong with federal agencies being encouraged through the EO to use NIST's AI
+Risk Management Framework to help guide sensible AI governance standards, it is crucial to recall that framework
+is voluntary and meant to be highly flexible and iterative, not an open-ended mandate for widespread algorithmic
+regulation. The Biden EO appears to be empowering agencies to gradually convert that voluntary guidance and
+other new amorphous guidelines into a sort of back-door regulatory regime for AI (a process which would be made
+easier by the lack of congressional action on AI issues).
+
+Of greater concern is the executive order's green light for the Federal Trade Commission (FTC) to expand its focus
+on AI policy. While the FTC does possess broad powers to police unfair and deceptive practices for all markets, the
+danger of preemptive overreach exists with the EO's call for the FTC to exercise greater regulatory authority over
+the AI ecosystem in particular. The FTC's controversial Chair Lina Khan has radicalized the agency and pursued
+aggressive actions against digital technology companies since her tenure began. The FTC has made it clear that AI
+systems are in its sights and the agency could be positioning itself to serve as America's de facto AI regulator.
+Because the Biden administration's new EO and its previous AI Bill of Rights suggested that broad-based harms
+were omnipresent in algorithmic systems, it could serve as an open-ended invitation for the FTC to over-zealously
+harass AI innovators and micromanage markets that are still developing.
+
+Meanwhile, the new EO hints how agencies could use federal procurement procedures as a method of regulating
+AI indirectly. Because the federal government invests significant resources in digital systems (through grants and
+contracts), it gives the Executive Branch considerable leverage to dictate how that money is used by private parties,
+including how they develop AI. Analysts have pointed to the risks inherent in politicizing procurement policies and
+using the so-called "power of the purse" to shape social or market outcomes, however. They note that "it's unclear
+whether the federal government has the market power to succeed and unclear what 'market shape' officials are
+imagining." Worse yet, rigging procurement rules to steer technology decisions to achieve predetermined political
+preferences or market outcomes could undermine the benefits associated with the rapid development and diffusion
+of algorithmic technologies.
+
+Shooting Ourselves in the Foot as the Race Gets Underway
+
+The Biden administration's actions this week with its new Executive Order and its negotiations with the UK at the AI
+Safety Summit could go down as a historic moment in the history of technology policy, but perhaps not in a positive
+way some hope. Many nations will be taking part in Wednesday's AI summit and looking to pursue aggressive
+regulation of leading algorithmic technologies and innovators, many of which are U.S.-based. "Every other country
+that will be represented at the summit wishes it had a technology industry like we have in the United States," argues
+Wall Street Journal columnist James Freeman. "This means we have more to lose by far than anyone else if the
+direction of technological development is moved from the marketplace to the halls of governments. This ought to
+give U.S. politicians pause before joining such multinational efforts," he correctly notes.
+
+This is particularly true of the European regulators who will be in attendance who have been looking to aggressively
+regulate U.S. tech companies in recent years. The European Union has become an innovation backwater, with
+almost no leading digital innovators to show for all their regulatory and industrial policy efforts. The continent's
+leading digital export is now regulation, not world-class products or services, which has forced some analysts to
+conclude that the E.U. has become "The Biggest Loser" in the global digital technology race and that, "the future
+will not be invented in Europe." Despite this, the E.U. is now doubling-down on its top-down regulatory approach by
+advancing a massive new regulatory regime for AI among other new digital regulatory schemes. U.S. tech
+companies are typically the target of most of these rules since so few major European digital innovators exist.
+
+With the administration's recent actions, one can't help but worry that the Biden administration is looking to follow in
+the E.U.'s footsteps on AI policy with more comprehensive controls on computation and meddling in digital tech
+
+                                                                                                      Page 4 of 4
+                      White House Executive Order Threatens to Put AI in a Regulatory Cage
+
+markets. There is still time to pursue a more enlightened path. To balance innovation and safety, AI governance
+must be focused on flexible, collaborative, iterative, bottom-up governance solutions through risk-based policies
+that are focused on system outcomes, not on system inputs or design.
+
+To achieve a truly safe, secure and trustworthy technological base, the U.S. must first ensure that it crafts an
+innovation policy culture that is hospitable to algorithmic entrepreneurialism and investment. We should not forget
+how the nation embraced and encouraged the Internet and digital technology a quarter century ago with sensible
+policies that encouraged a massive inflow of talent and capital. This fueled an explosion of world-class tech start-
+ups, and created a strong technology base that remains the envy of the rest of the world. While the new AI
+Executive Order can help promote positive AI outcomes along certain dimensions, it also opens the door to
+administrative overreach and bureaucratic micro-management of fast-moving set of technologies that are just
+starting to more fully develop and have enormous potential to improve human welfare and national security along
+multiple dimensions. Prudence and humility should guide AI policy at this stage so as not to derail that potential.
+
+
+Load-Date: October 31, 2023
+
+
+  

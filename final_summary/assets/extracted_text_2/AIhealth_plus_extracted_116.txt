@@ -1,0 +1,115 @@
+
+
+                                                                                                       Page 1 of 3
+                                         Healthcare decisions are about to get easier
+
+
+
+
+                            Healthcare decisions are about to get easier
+                                          The Stute: Stevens Institute of Technology
+                                               September 23, 2020 Wednesday
+
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+
+Section: NEWS; Pg. 1
+Length: 803 words
+Byline: Samantha Winter
+
+Body
+
+
+The crossover between artificial intelligence and healthcare has arrived.
+
+If the thought of machine learning in healthcare makes you imagine an eerie, Brave New World-esque universe,
+don't worry. This technology will help bridge the communication gap between doctors and patients. It could also
+save lives.
+
+Samantha Kleinberg, a computer science professor and researcher at the Stevens Health & AI Lab, was recently
+awarded three grants from the National Science Foundation and the National Institutes of Health totaling $2.3
+million.
+
+Her goal? To develop artificial intelligence that personalizes the information patients receive in order to help them
+make better-informed health decisions.
+
+Kleinberg said she hopes to "improve human health through computing." Her aim mirrors the growing need for
+artificial intelligence and big data in healthcare. Though the method is technologically-based, the focus is on the
+patient. This adds unprecedented personalization to diagnosis, treatment, and prevention.
+
+The three diabetes-focused investigations use artificial intelligence and machine learning in their calculation
+methods to help patients.
+
+One $917,879 grant from the NSF is titled "Uniting Causal and Mental Models for Shared Decision-Making in
+Diabetes."
+
+Kleinberg and her team will create computational methods to personalize information for patients with diabetes so
+that they can pick optimal treatment plans. Since the technology combines machine and human input, it uses a
+collaborative decision-making approach so that the patient and the clinician can work together to develop the best
+treatment plan.
+
+                                                                                                        Page 2 of 3
+                                      Healthcare decisions are about to get easier
+
+Kleinberg recognizes that each patient, doctor, and caregiver has different beliefs about preferred treatment. With
+this in mind, she will create training modules to educate clinicians about how patient beliefs influence both trust and
+decision-making.
+
+The next grant comes from NIH. This $864,220 award is put towards "Harnessing Patient Generated Data to
+Identify Causes and Effects of Nutrition during Pregnancy."
+
+About 9% of women develop gestational diabetes during pregnancy. According to March of Dimes, a non-profit
+focused on mother and baby health, this type of diabetes can result in premature birth or stillbirth.
+
+For this investigation, Kleinberg will collaborate with Andrea Deierlein, a researcher at New York University. They
+will collect patient-generated data through wearable activity monitors.
+
+With this technology, patients will log meals in real time using photos that can sense food types and calories.
+Additionally, the monitors can record symptoms to observe what happens before the illness develops. Kleinberg
+aims to pinpoint which factors cause this disease, as this technology could help guide important decisions during
+pregnancy.
+
+The last award, "Moving Beyond Knowledge to Action: Evaluating and Improving the Utility of Causal Inference,"
+worth $499,454, comes from the NSF.
+
+Kleinberg wants to create artificial intelligence that directly benefits patients.
+
+"My group's work aims to potentially prevent people from developing chronic diseases in the first place, and to
+otherwise help them better manage their illnesses," she says. "It will hopefully help many people lead healthier
+lives."
+
+The research will focus on understanding how the output of an algorithm can be useful for human decision-makers.
+For conclusive results, algorithms should be evaluated based on their ability to be helpful for decision-making rather
+than their effectiveness (how many causes they find or how fast they accomplish finding them).
+
+This investigation will introduce new methods for making such models more personalized, allowing patients to
+improve their everyday decisions around diet, exercise, and overall treatment.
+
+Kleinberg's research is innovative. However, if you think that overlap between health and AI is an invasion of
+privacy, you aren't alone.
+
+Public outrage was recently sparked by the revelation that Google quietly partnered with Ascension to collect and
+analyze patient data. This raised questions about the security of the initiative and if safeguards have been enacted
+for consumers.
+
+Some critics are worried about the protection of their information. Others think that such technology will eliminate
+the need for humans in the healthcare community.
+
+While Google waits to update the public on the implementation of this service, critics should consider both sides of
+the matter. Though risky, artificial intelligence and machine involvement in healthcare could be the newest trend in
+fostering an innovative and personalized healthcare system.
+
+Navigating the world of health can be tricky, but Kleinberg's work could spark a major shift in personalized
+healthcare, one that doctors and patients alike appreciate. After all, Kleinberg says, her work is "to aid humans - not
+replace them."
+
+
+Load-Date: September 23, 2020
+
+                                                                 Page 3 of 3
+                  Healthcare decisions are about to get easier
+
+
+

@@ -1,0 +1,614 @@
+
+
+                                                                                                        Page 1 of 11
+                            Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+
+
+
+      Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+                                                             R Street Institute
+                                                      December 5, 2022 Monday
+
+
+
+Copyright 2022 Content Engine, LLC.
+All Rights Reserved
+Copyright 2022 R Street Institute, USA All Rights Reserved
+
+Length: 6727 words
+Byline: Adam Thierer
+
+Body
+
+From Medium [1]:
+Many books and reports have been written about the nature and history of artificial intelligence and machine
+learning technologies.[1] This brief survey offers some basic definitions and highlights the promise of these
+technologies, as well as some of the unique policy challenges they create. This document will be updated regularly
+to reflect the latest developments in this rapidly evolving field. A PDF of this document can also be found on
+SSRN.[2]
+
+Definitional Difficulties Complicate AI Governance
+
+Defining the nature and scope of artificial intelligence is notoriously tricky and this is the first of many factors
+complicating its governance. The Stanford Encyclopedia of Philosophy speaks of the "remarkably difficult, maybe
+even eternally unanswerable" questions involved in formulating a consensus definition for AI.[3] "There is no single
+universally accepted definition of AI, but rather differing definitions and taxonomies," a U.S. Government
+Accountability Office report concludes.[4]
+
+At the most basic level, however, artificial intelligence involves the exhibition of intelligence by a machine. Machine
+learning refers to the processes by which a computer can train and improve an algorithm or computer model without
+step-by-step human involvement. An algorithm is "similar to a recipe for a dish," notes computer scientist Ethem
+Alpaydin, in that it is "a sequence of instructions that are carried out to transform the input to the output."[5] More
+simply, an algorithm is a "set of instructions that describe the way to solve particular problems."[6] When people
+speak of regulating AI or ML, at root, they are really suggesting the need to control algorithms and algorithmic
+processes because they are at the heart of all machine learning. Moreover, because AI and ML are computational
+sciences, to regulate them means at some level we are regulating computing and mathematical modeling
+techniques. These realities also complicate AI governance.
+
+The effectiveness of most AI/ML tools depends upon enormous computing power (or compute for short), large data
+sets (so-called big data), and powerful computational analysis tools that power deep learning models and other AI
+learning methods.[7] These building blocks of AI, especially big data, raise policy issues in their own right,
+especially on privacy and data security grounds. Indeed, many of today's AI governance discussions are simply
+extensions of policy debates that have been going on for many years in big data circles.[8]
+
+                                                                                                       Page 2 of 11
+                       Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+Finally, so-called foundational models, which are "models trained on broad data... that can be adapted to a wide
+range of downstream tasks,"[9] are capturing great attention today because they can be widely used by the public
+for various tasks. Popular foundational models like DALL-E, GPT-3, and LaMDA let users create AI-powered art,
+scripts, and conversations. Foundational models hold the potential to help democratize the use of AI/ML, but in the
+process give rise to various new risks of misuse, which also makes AI governance more complicated.[10]
+
+
+Strong/broad AI
+
+There are both strong and weak forms of AI, but even these terms are regularly contested. Strong AI typically refers
+to broad-based machine capabilities and is sometimes also called artificial general intelligence, (AGI) reflecting
+near-human levels of comprehension or ability. AGI, which is also sometimes more ominously referred to as
+superintelligence,[11] tends to capture considerable public attention because it "conjures up a vast array of doom-
+laden scenarios."[12] AGI also figures prominently in the plots of many dystopian depictions of artificial intelligence
+found in popular culture, including many science-fiction books, movies, and television shows.[13]
+
+This has often led to over-hyping of AI's potential to attain human-like capabilities,[14] with sensationalism and
+speculation often dominating discussions.[15] It doesn't help that both supporters and critics of powerful AGI
+sometimes play up predictions of AI superintelligence and speak in fatalistic terms about the coming of a
+"singularity," or moment in the future when machine intelligence surpasses that of humans. For example,
+flamboyantly titled books by AI boosters like Ray Kurzweil (The Singularity Is Near) and detractors like Nick
+Bostrom (Superintelligence: Paths, Dangers, Strategies) reflect an air of inevitability about machines coming to
+possess greater intelligence than humans, for better or worse.
+
+However, the majority of AI experts agree that such superintelligence predictions are wildly overplayed and that
+there is no possibility of machines gaining human-equivalent knowledge any time soon - or perhaps ever.[16] "In
+any ranking of near-term worries about AI, superintelligence should be far down the list," says AI expert Melanie
+Mitchell, author of Artificial Intelligence: A Guide for Thinking Humans.[17] "A close inspection of AI reveals an
+embarrassing gap between actual progress by computer scientists working on AI and the futuristic visions they and
+others like to describe," says Erik Larson, author of, The Myth of Artificial Intelligence: Why Computers Can't Think
+the Way We Do.[18] Larson refers to this extreme thinking about superintelligent AI as "technological kitsch," or
+exaggerated sentimentality and melodrama that is untethered from reality.[19] Whether it is the proponents of idea
+of "apocalyptic or fearsome AI" or "utopian or dreamy AI," both are guilty of oversimplifying complicated ideas, he
+says.[20] Andrew Ng, a leading AI scientist, has humorously observed that, "Worrying about killer AI is like worrying
+about overpopulation on Mars."[21]
+
+Extreme speculation about superintelligent AI represents an underappreciation of the complexity of actual human
+intelligence and our unique ability to navigate so many unique situations.[22] As an important report from Stanford
+University noted, most AI experts are still struggling to figure out how "to imbue machines with common sense
+abilities" and find, "methods [that] can scale to the more diverse and complex problems the real world has to
+offer."[23] Leading AI experts Gary Marcus and Ernest Davis, authors of Rebooting AI: Building Artificial
+Intelligence We Can Trust, conclude that, "[t]o a large extent, public discussion about AI has been unmoored from
+any sort of understanding of the reality of how difficult broad AI would be to achieve."[24] Machines "lack even a
+basic understanding of how the world works," they note, and "unfortunately, acquiring common sense is much
+harder than one might think."[25] They refer to the challenge of imbuing machines with common sense as "the
+mountain that the field needs to climb" and argue that "we have a long journey in front of us."[26] Again, this is the
+consensus opinion among leading AI experts. Nonetheless, a later chapter will do a deeper dive into claims about
+superintelligent AI and the global regulatory systems that some recommend to address the existential risk it would
+pose.
+
+Weak/Narrow AI
+
+Practically speaking, it is more useful and important to focus on today's more pertinent and realistic AI challenges,
+which involve various types of weak AI. Weak AI is a bit of a misnomer, however, because weak AI can be quite
+
+                                                                                                      Page 3 of 11
+                       Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+powerful, but it is just narrower in its application. Weak AI applications can often excel in doing one specific task
+extraordinarily well, such as paying games, offering language translation, or even operating certain vehicles or
+machines without much human assistance.
+
+When the public saw sophisticated AI programs defeat the world's best players of games like chess and Go, it
+raised fears about how machines had already come to possess human-level intelligence. For example, when IBM's
+"Deep Blue" famously defeated chess grandmaster Garry Kasparov in 1997, a headline in Newsweek declared it to
+be "The Brain's Last Stand,"[27] and many other media reports engaged in dystopian handwringing about the
+triumph of machines over humanity. Similar fears were raised when DeepMind's AlphaGo beat Go champion Lee
+Sedol in 2016.[28]
+
+Yet, neither of these programs possessed the general capacity to do much beyond what they were trained to
+do.[29] They could not, for example, teach themselves how to master many other games, including simple ones like
+checkers or poker. This is the way almost all AI systems work today: they are good (and getting better) at one task,
+but incapable of high-level human-like reasoning across many simple activities.
+
+Ironically, 20 years after losing his famous match with Deep Blue, Kasparov authored a book, Deep Thinking:
+Where Machine Intelligence Ends and Human Creativity Begins, seeking to debunk dystopian thinking about
+machine-learning and AI. He noted that, "doomsaying has always been a popular pastime when it comes to new
+technology" and that, "[w]ith every new encroachment of machines, the voices of panic and doubt are heard, and
+they are only getting louder today."[30]
+
+AI's Multiple Dimensions Also Complicate Its Governance
+
+Debates continue to rage over both how to conceptualize of AI and how to advance its capabilities. One notable
+2014 study spoke of the need to embrace AI's "anarchy of methods" when it comes to teaching machines how to
+think because there were so many subfields, techniques, and abstractions of concepts.[31] Thomas Edison once
+spoke of how electricity was a "field of fields" that would transform life in many ways. The same is true of AI, and
+this is another factor complicating its governance.
+
+AI/ML builds upon knowledge and capabilities developed through many other important technologies and sectors,
+including computing, microprocessors, the internet, high-speed broadband networks, data storage/processing
+systems, GPS and geolocation, sensors, and others. Hal Varian, chief economist at Google, observes that we live
+in an era of rapid-fire combinatorial innovation in which new technologies are building on top of one another in a
+symbiotic fashion, further accelerating their development and sophistication.[32] This is precisely what powers
+AI/ML. Many other scientific fields of study are closely related to AI/ML. "Machine learning is at the intersection of
+statistics and computer science, occasionally also taking inspiration from cognitive science and neuroscience," says
+Alpaydin.[33] These factors also complicate AI governance because attempts to regulate AI/ML could have
+profound implications for many other technologies, sectors, and fields of science. Thus, when one blithely suggests
+"we should take steps to control AI," they are (perhaps unknowingly) recommending that we should take steps to
+control or influence many other things alongside it.
+
+By extension, AI/ML is set to become the "most important general-purpose technology of our era."[34] General-
+purpose technologies come to be intertwined with almost every other sector of the economy and used ubiquitous
+throughout society.[35] For example, AI will be used by almost all organizations to help improve analytics and
+marketing, enhance customer service, and boost sales or performance in various new ways. And it will completely
+upend the way production and work is done in countless fields and professions.
+
+This is what makes AI so important for future innovation and growth, but this fact also complicates its
+governance.[36] Much like electronics, computing, and the internet before it, it is easier to imagine how to govern
+individual components or outputs than the broader concept itself. This is one reason that governance frameworks
+for things like driverless cars, drones, and robotics are developing more rapidly than overarching regulation for
+general AI.
+
+                                                                                                        Page 4 of 11
+                        Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+Finally, AI also raises special governance challenges because it is a dual-use (and often open source) technology
+that, like chemical and nuclear technologies before it, has both beneficial peaceful uses, but also potentially
+concerning military or law enforcement applications.[37] This fact is particularly important when discussing so-called
+existential risk, which I address elsewhere.[38] Meanwhile, many current regulatory discussions focus on affective
+computing and biometric technologies, such as facial recognition, which are dual-use technologies that monitor
+human attributes and, when used improperly, raise serious security and privacy risks.[39]
+
+AI Promises to Drive Growth in Many Sectors
+
+Over the past half century, there have been waves of both hype and hysteria about the prospects for AI
+advancement.[40] Much of this was driven by both irrational exuberance and fear about high-level AGI that never
+came about. As a result, AI historians often speak of the many AI "springs" and "winters" that have come and gone
+over the past half century. Others describe it as AI "booms and busts."
+
+It did not help that some of AI's early pioneers over-exuberantly predicted powerful AGI would be with us very
+quickly. In the late 1960s, for example, noted AI researchers confidentially predicted that, "machines will be
+capable, within twenty years, of doing any work a man can do," (Herbert A. Simon), and that, "Within a generation
+... the problem of creating 'artificial intelligence' will substantially be solved" (Marvin Minsky). Such exuberance was
+replaced by pessimism in the 1970s and a resulting "winter" period for AI research and investment.
+
+Today, however, AI is generally thought to be in the midst of another "spring" period as enthusiasm grows around
+specific capabilities and applications. The power of AI/ML technologies is already all around us in products and
+services such as speech and image recognition tools on our smartphones as well as the recommender systems
+that many media providers and other companies use to tailor goods, services, and content to our interests.
+
+Other times, AI/ML is operating behind the scenes to help with fraud and spam detection, computer virus filtering,
+content       management/moderation,[41]       mapping/navigation,    weather     forecasting,[42]    warehouse
+automation/inventory management,[43] supply chain management,[44] and various other office logistics.[45] For
+example, in 2021, McKinsey & Company estimated that "[s]uccessfully implementing AI-enabled supply-chain
+management has enabled early adopters to improve logistics costs by 15 percent, inventory levels by 35 percent,
+and service levels by 65 percent, compared with slower-moving competitors."[46] These productivity enhancements
+are likely to accelerate as AI/ML techniques are further refined.
+
+AI and ML capabilities also power most of devices that make up the so-called Internet of Things, or various
+connected "smart" devices, including many wearable technologies and other devices with embedded sensors.[47]
+Another related term here is ambient computing[48] or ubiquitous computing, which essentially means "using
+computers without knowing that you are using one," or at least without explicitly calling them computers when one
+is using smart systems.[49] These technologies have powerful health and medical applications, among other
+things.
+
+Meanwhile, various AI-powered robotic technologies are already at work in many industrial sectors.[50] AI, ML, and
+advanced robotics technologies promise to revolutionize many fields, including financial services,[51]
+transportation,[52] retail,[53] agriculture,[54] entertainment,[55] energy,[56] environmental protection,[57]
+education,[58] aviation,[59] the automotive industry,[60] and many others.[61] Going forward, every segment of the
+economy will be touched by AI and robotics in some fashion, and it should be equally clear that public policy in
+these fields will be transformed in the process. Eventually, all policy will involve AI policy at some level.
+
+The potential exists for AI to drive explosive economic growth.[62] According to Grand View Research, a market
+research and consulting company based in India and the US, the global artificial intelligence market was valued at
+USD 93.5 billion in 2021 and is projected to expand at a compound annual growth rate of 38.1% from 2022 to
+2030.[63] Many other studies forecast that "AI will have a significant economic impact" on growth and
+productivity.[64] A 2018 study by McKinsey consultants estimated that "AI has the potential to deliver additional
+global economic activity of around $13 trillion by 2030, or about 16 percent higher cumulative GDP compared with
+today. This amounts to 1.2 percent additional GDP growth per year," the report concluded.[65] Even if AI's
+
+                                                                                                      Page 5 of 11
+                       Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+economic impact falls far short of that estimate, it would still clearly be generating enormous growth opportunities
+across many segments of the economy.
+
+But it is what AI will mean for every individual that matters most. AI has to ability to help people improve their
+health, extend their lives, expand transportation options, avoid accidents, improve community safety, enhance
+educational opportunities, access superior financial services, and much more. AI-driven machines and robot will
+assist with many dangerous jobs, thus making many workplaces safer.[66]
+
+Case Study: AI's Potential for Medicine and Health Care
+
+Consider what AI is already accomplishing in the field of health care and the practice of medicine.[67] Increasingly
+powerful algorithmic systems - often combined with new wearable technologies - are already helping many people
+better monitor their health and fitness. More sophisticated AI tools are allowing doctors and scientists to create
+highly personalized care options and develop new medical treatments tailored to the unique needs of each
+patient.[68] More broad-based AI capabilities could have a profound impact on public health. In 2022, for example,
+an AI technology called AlphaFold from Deep Mind was able to model the structure of nearly all known proteins,
+which represented "a significant advance in biology that will accelerate drug discovery and help address problems
+such as sustainability and food insecurity."[69]
+
+AI, ML, and robotics are driving many other major medical advances today:
+    •   Organ donation: In the field of organ donations, "[p]aired kidney donation is one of the great success
+        stories of artificial intelligence," helping doctors and patients by taking "an incredibly complex problem and
+        solves it faster and with fewer errors than humans can, and as a result saves more lives."[70]
+    •   Heart attack detection & treatment: AI and ML tools are helping detect and treat heart disease and heart
+        attacks, which is a leading cause of death globally. Scientists at Cedars-Sinai developed an algorithmic
+        tool that can quantify coronary plaque buildup in five to six seconds compared to at least 25 to 30 minutes
+        before.[71] This will greatly improve ability to predict who will have a heart attack. Other researchers have
+        developed AI tools to help improve personalized treatment for women who have had heart attacks.[72]
+        Women who suffer a heart attack have a higher mortality rate than men, often because their symptoms are
+        not properly understood or diagnosed. Meanwhile, the British National Health Service recently started
+        using a new AI tool that can detect heart disease in just 20 seconds while patients are in an MRI scanner,
+        compared with the 13 minutes, or more it usually takes doctors to manually analyze images after a scan is
+        performed.[73]
+    •   Cancers: Cancer is the second leading cause of death behind heart disease, claiming 602,350 lives in
+        2020.[74] AI and ML-enabled technologies are poised to help reduce that staggering death toll. Mayo Clinic
+        researchers have shown how ML models can help diagnose and treat pancreatic cancer at an earlier
+        stage.[75] Pancreatic cancer is the third lead cause of cancer death, claiming 46,774 lives in 2020.[76]
+        British scientists have also recently reported on new AI software that can spot signs of pre-cancer during
+        endoscopies in 92 per cent of patient, which could significant lower deaths from oesophageal cancer.[77]
+        AI/ML techniques are also helping with early detection and treatment of lung cancer,[78] breast cancer,[79]
+        brain cancer,[80] and many other types of cancer[81] (including undiagnosable cancers[82]), aided by
+        increasingly personalized screening techniques.[83]
+    •   Sepsis & superbugs: Recent medical studies have also documented how AI-powered monitoring systems
+        are helping to detect antibiotic-resistant "superbugs"[84] and sepsis,[85] and will save thousands of lives
+        each year as a result. Roughly 1.7 million adults develop sepsis every year in the U.S. and more than
+        250,000 of them die.[86]
+    •   Mental health: AI can help identify and address mental health problems through textual analysis, which
+        can supplement human-based analysis at a time when there is a nationwide shortage of health care
+        workers in this area.[87]
+
+AI and ML will power other advanced learning capabilities that will help doctors and scientific research access and
+understand massive amounts of patient and health data - and then put it to even better use. In 2022, I served as a
+
+                                                                                                         Page 6 of 11
+                        Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+member of the U.S. Chamber of Commerce "AI Commission on Competition, Inclusion, and Innovation," a group
+formed to study AI governance. At a Spring 2022 field hearing, our Commission heard remarks from Dr. Tom
+Mihaljevic, MD, CEO and President at the Cleveland Clinic, as well as several of his colleagues.[88] These
+Cleveland Clinic doctors and scientists highlighted how they were already using AI/ML to improve patient care and
+save lives. They noted how teams of doctors and researchers are now able to share information from tissue
+samples with much larger teams of medical experts, who can - with the help of algorithmic systems - work together
+at a distance to better understand and use all the information they will have at their fingertips. They have also
+developed better AI-driven methods to detect irregular heartbeats and strokes, and diagnose degenerative brain
+disease (Alzheimer's, dementia, Parkinson's).
+
+This only scratches the surface of what AI/ML will mean for patient care.[89] Dr. Mihaljevic noted that, when he
+started practicing medicine in the 1980s, the overall volume of medical information doubled roughly every seven
+years while today it is doubling every 73 days.[90] Marcus and Davis note that seven thousand medical papers are
+now published every day.[91] Meanwhile, in the closely related field of medical robotics, the number of scientific
+papers has grown exponentially from less than 10 published in 1990 to more than 5200 in 2020 according to a
+recent study in Science.[92] These numbers are in line with broader trends in technical and scientific literature.
+"Since the scientific literature doubles roughly every 12 years, this means that of all scientific work ever produced,
+half of it has been produced in the last 12 years," Dashun Wang and Albert-Laszlo Barabasi report in their book,
+The Science of Science.[93]
+
+The only way to take full advantage of this explosion of knowledge is with the power of machine reading and
+learning technologies. As the National Cancer Institute summarizes, "what scientists are most excited about is the
+potential for AI to go beyond what humans can currently do themselves. AI can 'see' things that we humans can't,
+and can find complex patterns and relationships between very different kinds of data."[94]
+
+AI/ML will also help share medical knowledge across far more institutions and reach more patients as a result. Dr.
+Mihaljevic estimated that the Cleveland Clinic, which is one of the most important medical research facilities in the
+nation, is only able to reach an estimated 1.5% of Americans using its traditional means of care. Machine learning
+and artificial intelligence can change that equation by greatly expanding opportunities for Americans to access the
+benefits of scientific knowledge and medical care from the Cleveland Clinic and America's many other world-class
+medical facilities, labs, and universities. Dr. Mihaljevic specifically highlighted how AI was the key to improving
+home-based medical care, which will become an essential way to help a rapidly aging population in the future,
+regardless of where they live. AI will also become crucial for various surgeries in terms of both improving outcomes
+when operations are necessary (often through robotic assisted surgery)[95] or, better yet, avoiding the need for
+invasive procedures altogether.[96]
+
+For these reasons, policymakers should not underestimate the importance of AI/ML technology, and they must
+work diligently to ensure that America remains a leader in this field. While some experts predict another AI winter
+could be coming following some notable narrow AI disappointments, they oftentimes fail to identify how public policy
+effects that outcome.[97] The overall amount of innovation we can expect to flow from this space is fundamentally
+tied up with the question of whether America creates the right innovation culture for artificial intelligence. To achieve
+the full potential that AI offers, America will need to set its policy defaults in such a way to both encourage
+innovation while also addressing the many legitimate concerns about various AI capabilities.
+__________
+Key Takeaways:
+    •   Defining the nature and scope of artificial intelligence and its many components and related subsectors is
+        complicated. This fact creates many governance challenges.
+    •   Many other things about AI complicate its governance, including the fact that it is both a general purpose
+        and dual-use technology. AI builds upon knowledge and capabilities developed through many other
+        important technologies and sectors in a combinatorial fashion, meaning that AI governance decisions will
+        affect them as well.
+
+                                                                                                   Page 7 of 11
+                      Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+   •    There are both strong and weak forms of AI, but public imagination and public policy has been too focused
+        on hyper-powerful forms of strong AI that are distant and unlikely. The more important focus today should
+        be on the challenges associated with more targeted applications of weak or narrow AI.
+   •    AI has experienced many "springs" and "winters" over the past half century, reflecting waves of irrational
+        exuberance and pessimism over its potential. Today the field is maturing rapidly.
+   •    Every segment of the economy will be touched by AI in some fashion and AI developments will likely drive
+        economic growth in the future. By extension, all policy matters and governance issues will eventually
+        involve AI considerations in some fashion.
+   •    AI technologies offer individuals and society meaningful improvements in living standards across multiple
+        dimensions. The most profound of these will likely be what AI means for the practice of medicine and
+        personalized health care.
+
+Additional reading by Adam Thierer
+
+· Adam Thierer & Neil Chilson, "The Coming Onslaught of 'Algorithmic Fairness' Regulations," Regulatory
+Transparency Project of the Federalist Society, November 2, 2022.
+
+· Adam Thierer, "We Really Need To 'Have a Conversation' About AI ... or Do We?," Discourse, October 6,
+2022.
+
+· Adam Thierer, "How the Embedding of AI Ethics Works in Practice & How It Can Be Improved," Medium,
+September 22, 2022.
+
+· Adam Thierer, "AI Eats the World: Preparing for the Computational Revolution and the Policy Debates
+Ahead," Medium, September 10, 2022.
+
+· Adam Thierer, "'Running Code and Rough Consensus' for AI: Polycentric Governance in the Algorithmic
+Age," Medium, September 1, 2022.
+
+· Adam Thierer, "AI Governance 'on the Ground' vs 'on the Books,'" Medium, August 19, 2022.
+
+· Adam Thierer, "Responses to Jack Clark's AI Policy Tweetstorm," Medium, August 8, 2022.
+
+· Adam Thierer, "Why the Future of AI Will Not Be Invented in Europe," Technology Liberation Front, August 1,
+2022.
+
+· Adam Thierer, "How Science Fiction Dystopianism Shapes the Debate over AI & Robotics," Discourse, July
+26, 2022.
+
+· Adam Thierer, "Why is the US Following the EU's Lead on Artificial Intelligence Regulation?" The Hill, July
+21, 2022.
+
+· Adam Thierer, "Algorithmic Auditing and AI Impact Assessments: The Need for Balance," Medium, July 13,
+2022.
+
+· Adam Thierer, "The Proper Governance Default for AI," Medium, May 26, 2022.
+
+· Adam Thierer, "What I Learned about the Power of AI at the Cleveland Clinic," Medium, May 6, 2022.
+
+· Adam Thierer, Governing Emerging Technology in an Age of Policy Fragmentation and Disequilibrium,
+American Enterprise Institute (April 2022).
+
+· Adam Thierer and John Croxton, "Elon Musk and the Coming Federal Showdown Over Driverless Vehicles,"
+Discourse, November 22, 2021.
+
+                                                                                                           Page 8 of 11
+                        Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+· Adam Thierer, "A Global Clash of Visions: The Future of AI Policy," The Hill, May 4, 2021.
+
+· Adam Thierer, "A Brief History of Soft Law in ICT Sectors: Four Case Studies," Jurimetrics, Vol. 61 (Fall
+2021): 79-119.
+
+· Adam Thierer, "U.S. Artificial Intelligence Governance in the Obama-Trump Years," IEEE Transactions on
+Technology and Society, Vol, 2, Issue 4 (2021).
+
+· Adam Thierer, "The Worst Regulation Ever Proposed," The Bridge, September 2019.
+
+· Ryan Hagemann, Jennifer Huddleston Skees & Adam Thierer, "Soft Law for Hard Problems: The Governance
+of Emerging Technologies in an Uncertain Future," Colorado Technology Law Journal, Vol. 17 (2018).
+
+· Adam Thierer & Trace Mitchell, "No New Tech Bureaucracy," Real Clear Policy, September 10, 2020.
+
+· Adam Thierer, "OMB's AI Guidance Embodies Wise Tech Governance," Mercatus Center Public Comment,
+March 13, 2020.
+
+· Adam Thierer, "Europe's New AI Industrial Policy," Medium, February 20, 2020.
+
+· Adam Thierer, "Trump's AI Framework & the Future of Emerging Tech Governance," Medium, January 8,
+2020.
+[1] Michael Wooldridge, A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are
+Going (Flatiron Books, 2020); Melanie Mitchell, Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus
+and Giroux, 2019); Pedro Domingos, The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
+Remake Our World (Basic Books, 2015).
+
+[2] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292207.
+
+[3]     "Artificial    Intelligence,"     Stanford       Encyclopedia    of     Philosophy,         July      12,    2018.
+https://plato.stanford.edu/entries/artificial-intelligence.
+
+[4] U.S. Government Accountability Office, "Artificial Intelligence: Emerging Opportunities, Challenges, and
+Implications," Technology Assessment, GAO-18-142SP, (Mar. 28, 2018), p. 15. https://www.gao.gov/products/gao-
+18-142sp.
+[5] Ethem Alpaydin, Machine Learning (The MIT Press, 2021), p. 16.
+[6] Louridas, Algorithms, p. xiii.
+
+[7]    Chris  Meserole,    "What    is   Machine     Learning?"         Brookings      Institution,    Oct.     4,   2018.
+https://www.brookings.edu/research/what-is-machine-learning.
+
+[8] Adam Thierer, "Big Data, Innovation, Competitive Advantage & Privacy Concerns," Technology Liberation Front,
+Apr. 27, 2012. https://techliberation.com/2012/04/27/big-data-innovation-competitive-advantage-privacy-concerns.
+
+[9] Rishi Bommasani and Percy Liang, "Reflections on Foundational Models," Stanford University Human-Centered
+Artificial Intelligence (2021). https://crfm.stanford.edu/2021/10/18/reflections.html.
+
+[10] Rishi Bommasani, "On the Opportunities and Risks of Foundation Models," Center for Research on Foundation
+Models (July 2021). https://arxiv.org/abs/2108.07258.
+
+[11] K. Eric Drexler, "Reframing Superintelligence: Comprehensive AI Services as General Intelligence," Technical
+Report #2019-1 (Future of Humanity Institute, University of Oxford, 2019).
+[12] Darcy W.E. Allen, Chris Berg, and Sinclair Davidson, The New Technologies of Freedom (American Institute
+for Economic Research, 2020), p. 95.
+
+                                                                                                           Page 9 of 11
+                        Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+[13] Adam Thierer, "How Science Fiction Dystopianism Shapes the Debate over AI & Robotics," Discourse, July 26,
+2022,        https://www.discoursemagazine.com/culture-and-society/2022/07/26/how-science-fiction-dystopianism-
+shapes-the-debate-over-ai-robotics/; Jill Lepore, "A Golden Age for Dystopian Fiction," The New Yorker, June 5 &
+12, 2017. https://www.newyorker.com/magazine/2017/06/05/a-golden-age-for-dystopian-fiction.
+
+[14] Kevin Kelly, "The AI Cargo Cult: The Myth of a Superhuman AI," Wired, Apr. 25, 2017.
+https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai.
+
+[15]     Zohar     Atkins,    "Is   AI   Sentient?"      What      is    Called     Thinking,       June     13,    2022.
+https://whatiscalledthinking.substack.com/p/is-ai-sentient.
+
+[16] Oren Etzioni, "No, the Experts Don't Think Superintelligent AI is a Threat to Humanity," Technology Review,
+Sept. 20, 2016. https://www.technologyreview.com/2016/09/20/70131/no-the-experts-dont-think-superintelligent-ai-
+is-a-threat-to-humanity; Gary Marcus, "Artificial General Intelligence Is Not as Imminent as You Might Think,"
+Scientific American, June 6, 2022. https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-
+imminent-as-you-might-think1.
+[17] Melanie Mitchell, Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus and Giroux, 2019), p. 278
+[Kindle edition.]
+[18] Erik Larson, The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do (The Belknap
+Press of Harvard University, 2021), p. 49.
+
+[19] Erik Larson, "Silicon Valley Has Been Taken over by 'Technological Kitsch'," Fast Company, May 12, 2021.
+https://www.fastcompany.com/90635442/technological-kitsch.
+[20] Larson, The Myth of Artificial Intelligence, p. 62.
+[21] Quoted in Clive Thompson, Coders: The Making of a New Tribe and the Remaking of the World (Penguin
+Press, 2019), p. 302.
+
+[22] Cade Metz, "A.I. Is Not Sentient. Why Do People Say It Is?" New York Times, Aug. 5, 2022.
+https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html.
+
+[23] Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021
+Study Panel Report, (Stanford University, Sept. 2021): 32-3, http://ai100.stanford.edu/2021-report.
+
+[24] Gary Marcus and Ernest Davis, Rebooting AI: Building Artificial Intelligence We Can Trust (Pantheon, 2019), p.
+24.
+[25] Ibid., p .94.
+[26] Ibid., p. 155.
+
+[27] Steven Levy, "What Deep Blue Tells Us about AI in                            2017,"    Wired,    May     23,   2017.
+https://www.wired.com/2017/05/what-deep-blue-tells-us-about-ai-in-2017.
+
+[28] "Google AI Defeats Human Go Champion," BBC, May 25, 2017, https://www.bbc.com/news/technology-
+40042581.
+
+[29] Joshua Sokol, "AI Keeps Mastering Games, But Can It Win in the Real World?" The Atlantic, Feb. 27, 2018.
+https://www.theatlantic.com/technology/archive/2018/02/ai-keeps-mastering-games-but-can-it-win-in-the-real-
+world/554312.
+
+[30] Garry Kasparov, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins (Public
+Affairs, 2017), p 7; Adam Thierer, "The Growing AI Technopanic," Medium, Apr. 27, 2017.
+https://aboveintelligent.com/the-growing-ai-technopanic-5d6658b00fed.
+
+[31] Joel Lehman, Jeff Clune, and Sebastian Risi, "An Anarchy of Methods: Current Trends in How AI is Abstracted
+in AI," Intelligent Systems, Vol. 29, ?6 (2014), p. 56-62, https://www.cs.utexas.edu/users/ai-lab/?lehman:is14.
+
+                                                                                                       Page 10 of 11
+                       Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+[32] Hal R. Varian, "Computer Mediated Transactions," American Economic Review, 100:2 (May 2010).
+https://www.aeaweb.org/articles?id=10.1257/aer.100.2.1.
+[33] Alpaydin, Machine Learning, p. 34.
+
+[34] Erik Brynjolfsson and Andrew McAfee, "The Business of Artificial Intelligence," Harvard Business Review, July
+18, 2017. https://hbr.org/2017/07/the-business-of-artificial-intelligence.
+[35] Timothy F. Bresnahan and M. Trajtenberg, "General Purpose Technologies 'Engines of Growth'?" Journal of
+Econometrics, 65:1 (1995), p. 83-108.
+
+[36] Nicholas Crafts, "Artificial Intelligence as a General-purpose Technology: An Historical Perspective," Oxford
+Review       of     Economic          Policy,     Vol.    37,     ?3     (Autumn      2021),      p.     521-536.
+https://academic.oup.com/oxrep/article/37/3/521/6374675.
+
+[37] National Security Commission on Artificial Intelligence, Final Report (2021), p. 1, https://www.nscai.gov;
+Jayshree Pandya, "The Dual-Use Dilemma of Artificial Intelligence," Forbes, Jan. 7, 2019,
+https://www.forbes.com/sites/cognitiveworld/2019/01/07/the-dual-use-dilemma-of-artificial-intelligence.
+
+[38] Adam Thierer, "Existential Risks & Global Governance Issues around AI & Robotics," last revised Sept. 12,
+2022. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174399.
+[39] Alpaydin, Machine Learning, p. 83.
+
+[40] Robert D. Atkinson, "'It's Going to Kill Us!' and Other Myths about the Future of Artificial Intelligence,"
+Information Technology & Innovation Foundation, June 2016. http://www2.itif.org/2016-myths-machine-learning.pdf.
+
+[41] Alex Feerst, "The Use of AI in Online Content Moderation," American Enterprise Institute (Sept. 2022).
+https://platforms.aei.org/the-use-of-ai-in-online-content-moderation.
+
+[42] Robin Fearon "AI Tools Help to Predict Extreme Weather and Save Lives," Discovery, Aug. 2, 2022.
+https://www.discovery.com/science/ai-tools-help-to-predict-extreme-weather.
+
+[43] "How AI-Powered Robots Fulfill           Your    Online    Orders,"   Last   Week     in   AI,   Jan.    25,   2022.
+https://lastweekin.ai/p/robot-picking.
+
+[44] Christopher Mims, "How to Build AI That Actually Works for Your Business," Wall Street Journal, July 23, 2022.
+https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830.
+
+[45] Cem Dilmegan, "Top 15 Use Cases and Applications of AI in Logistics in 2022," July 9, 2020, updates, May 29,
+2022. https://research.aimultiple.com/logistics-ai.
+
+[46] McKinsey & Company, "Succeeding in the AI Supply-chain Revolution," Article, Apr. 30, 2021.
+https://www.mckinsey.com/industries/metals-and-mining/our-insights/succeeding-in-the-ai-supply-chain-revolution.
+
+[47] Adam Thierer, "The Internet of Things and Wearable Technology: Addressing Privacy and Security Concerns
+without    Derailing   Innovation,"   Richmond     Journal  of   Law    and    Technology,    21:6    (2015).
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2494382.
+
+[48] Christopher Mims, "Why the Future of the Computer Is Everywhere, All the Time," Wall Street Journal, Oct. 29,
+2022. https://www.wsj.com/articles/computer-technology-ambient-computing-11666992784.
+[49] Alpaydin, Machine Learning, p. 9.
+
+[50] A Roadmap for US Robotics From Internet                     to   Robotics:   2020    Edition,    Sept.    9,   2020.
+https://www.hichristensen.com/pdf/roadmap-2020.pdf.
+
+                                                                                                      Page 11 of 11
+                       Artificial Intelligence Primer: Definitions, Benefits & Policy Challenges
+
+[51] Suparna Biswas, Brant Carson, Violet Chung, Shwaitang Singh, and Renny Thomas, "AI-Bank of the Future:
+Can      Banks    Meet    the     AI     Challenge?"      McKinsey       &     Company,      Sept.   19,     2020.
+https://www.mckinsey.com/industries/financial-services/our-insights/ai-bank-of-the-future-can-banks-meet-the-ai-
+challenge.
+
+[52] Maria Lopez Conde and Ian Twinn, "How Artificial Intelligence is Making Transport Safer, Cleaner, More
+Reliable and Efficient in Emerging Markets," International Finance Corporation, Note 75 (Nov. 2019).
+https://www.ifc.org/wps/wcm/connect/7c21eaf5-7d18-43b7-bce1-864e3e42de2b/EMCompass-Note-75-AI-making-
+transport-safer-in-Emerging-Markets.pdf?MOD=AJPERES&CVID=mV7VCeN.
+
+[53] Ben Forgan, "What Robots Can Do for                   Retail,"   Harvard   Business    Review,   Oct.   1,   2020.
+https://hbr.org/2020/10/what-robots-can-do-for-retail.
+
+[54] Louis Columbus, "10 Ways AI Has the Potential To Improve Agriculture In 2021," Forbes, Feb. 17, 2021.
+https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-
+2021/?sh=454d747a7f3b.
+
+[55] Anne Hobson, "Artificial Intelligence is Set to Remake Event Experiences," The Hill, Jan. 11, 2017.
+https://www.rstreet.org/2017/01/11/artificial-intelligence-is-set-to-remake-event-experiences.
+
+[56] Franklin Wolfe, "How Artificial Intelligence Will Revolutionize the Energy Industry," Harvard University Graduate
+School of Arts and Sciences, Special Edition on Artificial Intelligence, Aug. 28, 2017.
+https://sitn.hms.harvard.edu/flash/2017/artificial-intelligence-will-revolutionize-energy-industry.
+
+[57] Justine Calma, "How Machine Learning Could Help Save Threatened Species from Extinction," The Verge,
+Aug. 4, 2022. https://www.theverge.com/23290902/machine-learning-conservation-data-deficient-species-iucn-red-
+list-extinction-threat.
+
+[58] Sara Randazzo, "Can Tech Boost Reading? Literacy Tools Come to Classrooms," Wall Street Journal, Aug. 7,
+2022. https://www.wsj.com/articles/literacy-technology-offers-new-ways-to-teach-kids-to-read-11659879846.
+
+[59] Kelsey Reichmann, "How Is the Aviation Industry Enabling Innovation with Artificial Intelligence?" Aviation
+Today, Dec. 14, 2020. https://www.aviationtoday.com/2020/12/14/aviation-industry-enabling-innovation-artificial-
+intelligence.
+
+[60] Mobility, "Artificial Intelligence Reshaping the Automotive Industry," Future Bridge, Apr. 29, 2020.
+https://www.futurebridge.com/industry/perspectives-mobility/artificial-intelligence-reshaping-the-automotive-industry.
+
+
+Load-Date: January 5, 2023
+
+
+  

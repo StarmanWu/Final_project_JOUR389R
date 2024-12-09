@@ -1,0 +1,438 @@
+
+
+                                                                                                        Page 1 of 8
+                                                 How is AI changing the world?
+
+
+
+
+                                        How is AI changing the world?
+                                                        The Deseret News
+                                                  October 4, 2023 Wednesday
+
+
+
+Copyright 2023 The Deseret News Publishing Co. All Rights Reserved
+
+Length: 4410 words
+Byline: Deseret Magazine
+
+Body
+
+
+In the opening scenes of Walt Disney's "Pinocchio," Geppetto, a lonely woodcarver, puts the finishing touches on
+the eponymous marionette puppet, wishing that it might - he might - come to life.
+
+Geppetto's wish is granted, and chaos ensues. Despite a wise cricket standing in as an acting guide to better
+consciousness, Pinocchio learns as he goes, often going the way of danger and trouble. Man and puppet are
+reunited in the belly of a monster, tasked with saving themselves - and, perhaps, one other - in a quest to become
+"real."
+
+As artificial intelligence becomes more present in our lives, have we found ourselves in the belly of a monster? Or
+are we still at the part of the story where we marvel at our handiwork and fall asleep wishing for more?
+
+One thing we know for certain is that AI isn't just the stuff of lore anymore. Pandora's box is open. Everywhere you
+look or click, there are headlines. There are social media posts. There are algorithms bringing us headlines
+describing the AI issues we're trying to talk about. Some might say it feels like an invasion. Maybe it's what the
+myths, stories and Hollywood warned us about. And yet we created the invasion ourselves.
+
+AI isn't the first time we've been promised that technology is going to make things easier, so it's OK to harbor
+skepticism this time around. Technology has a tendency to outpace our understanding of it, and cultural convention
+encourages us to create, utilize said creation and then figure out the consequences later. But what if we can learn
+from the past?
+
+There are big, philosophical questions billowing around AI right now. Can or will machines become sentient? Could
+they replace humans? Will our souls be distinguished from machines or lost to them? But through the culling of
+these pages, we found that the bigger question may be: Will we allow ourselves to find out? The only way to know
+the answers to our biggest questions is to move forward with developing this technology ... or not. Right now, we
+are at a crossroads where humanity can draw lines in the sand, morally and legislatively. AI is an undeniable force
+in the global human experience. And it's not on its way. It's here. This is the time to question. To explore. To learn.
+And to decide - perhaps not so much what AI is, but what it isn't.
+
+Living in a world of AI
+
+                                                                                                          Page 2 of 8
+                                            How is AI changing the world?
+
+Artificial intelligence isn't a new technology that - seemingly out of nowhere - makes it possible for machines to think
+and do the work of humans. In reality, AI has been around for decades in the form of machine learning.
+
+That learning process allows a computer to analyze data sets, such as images or phrases, and observe patterns to
+predict what the expected outcome will be in a new scenario.
+
+Carolyn Penstein Rose, professor of language technologies and human-computer interaction at Carnegie Mellon
+University and director of the Generative AI Innovation Incubator, says that machine learning hasn't allowed AI to
+completely mimic human learning, but "that doesn't mean that it can't do something useful; it's just that doing
+something useful doesn't require human intelligence."
+
+Most people around the globe are already familiar with (or using) AI to some degree. It's present in the social media
+algorithms that give you a new recipe for dinner, the facial recognition technology that opens your phone and the
+targeted ads that suggest the perfect gift for your kid's birthday. Regina Barzilay, distinguished professor at the MIT
+School of Engineering for AI and Health in the Electrical Engineering and Computer Science Department, points
+out that "there is a lot of AI in various industries that we just don't even see. They are just part of the technology we
+are provided with."
+
+In the world of AI, everything is a data point. "So for example, Google, they serve a lot of ads. ... Every time
+someone clicks or doesn't click, that's a data point," says David Wingate, associate professor of computer science
+at Brigham Young University. Those data points are what artificial intelligence uses in order to create better apps or
+better recommendations in an effort to improve a user's experience. So when we define AI, we are not talking about
+a new technology that thinks for itself. It's a tool that's been in development for decades and it allows computers to
+observe patterns and learn from them. "You can use AI to help and to make our life better, to solve problems that
+we cannot solve for ourselves. But on the other hand, it can also result in very bad outcomes," says Barzilay. "So
+the question that we, as a society, need to decide is what are appropriate uses of AI? And what is inappropriate?" -
+Thabata Nunes de Freitas
+
+The human labor powering AI
+
+For a decade, Venezuela has endured ceaseless financial turmoil. The often-desperate state of affairs has made
+the South American nation an ideal recruiting ground for a type of labor seldom discussed amid the explosion of
+generative AIs like ChatGPT and DALL-E: A phenomenon called "ghost work." For DALL-E to understand what a
+cat is, it needs to parse thousands of images of cats through a process called "deep learning." This process is
+made possible by ghost workers, who manually label those pictures of cats, among many other things. They're
+often based in the "global south" - places like Venezuela, India and Pakistan, as well as in rural America. Ghost
+work is often unregulated and unguaranteed, which makes it ripe for exploitation.
+
+In Kenya, a Time magazine investigation found the company behind ChatGPT paid laborers less than $2 per hour
+to sift through harmful imagery in order to purge it from the platform. "My knee-jerk response to (that investigation)
+is, 'Maybe I shouldn't use AI,'" says Angela Wentz Faulconer, an assistant professor of philosophy at Brigham
+Young University. Her expertise is medical ethics, and she sees parallels. Consider the moral implications of selling
+a kidney; how many people would do it if there are other ways to make impactful amounts of money? In the case of
+ghost work, that leads her to conclude that the work in itself, however horrible, is not morally wrong. The difficulty
+comes in that no one should be in a position where they do not freely consent to doing the work. And are the people
+in Venezuela really free to choose ghost work?
+
+Ghost workers have been around since at least the turn of the millenium, when a nascent Amazon hired them to
+help sort the information it had scraped from the web about books. Newer products like ChatGPT, Julian Posada, a
+member of Yale Law School's Information Society Project, says, "would not be possible" without ghost workers.
+Saiph Savage, director of Northeastern University's Civic AI Lab, is trying to build tools to help improve their
+working conditions while also promoting labeling infrastructure so that AI users can better understand how the
+technology really works - and how it's made. "The platforms have freedom in being able to manipulate and harm
+workers," she says, because there's no regulatory infrastructure. "You have this big industry pushing a narrative
+
+                                                                                                          Page 3 of 8
+                                            How is AI changing the world?
+
+that AI is mystical, that it's an existential risk, and that we should direct more funding toward that, instead of paying
+people more," Posada adds. "That's what I think people should reflect on." - Ethan Bauer
+
+Geoffrey Hinton: The 'Godfather of AI' looks back on his life's work
+
+He's been called a godfather of artificial intelligence, but Geoffrey Hinton has mixed feelings now about his life's
+work, which focused on machine learning and neural networks, among related fields.
+
+Neural networks in computer systems are based on how the human brain learns, allowing deep learning that is
+layered and builds on experience. In 2018, Hinton shared Turing Award honors - a crowning achievement in the
+computer science world - with two others for work on computer deep learning. Artificial intelligence has improved
+dramatically in part because of his work.
+
+The cognitive psychologist and computer scientist quit Google Brain this year, citing both his age (75) and the
+desire to be able to speak freely about the dangers he believes AI run amok could pose. "I've come to the
+conclusion that the kind of intelligence we're developing is very different from the intelligence we have," he recently
+told BBC.
+
+"So it's as if you had 10,000 people and whenever one person learned something, everybody automatically knew it.
+And that's how the chatbots can know so much more than any one person."
+
+"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as
+pandemics and nuclear war."
+
+In other interviews, he has expressed concerns that the result of AI-focused competition between Microsoft, which
+incorporated a chatbot into its Bing search engine, and Google could be harmful - an unstoppable competition that
+could lead to an internet flooded with fake images, videos and text, what's true being obscured. "I was not
+convinced we would always be in control, but I thought it would be 50 to 100 years before digital intelligence was
+smarter than us," Hinton told Deseret. The recent dramatic pace of AI development has shortened that timeline.
+
+He's also openly worried about what could happen with AI as a tool for unscrupulous people. Hinton, in fact, is the
+first of more than 180 signers of a one-sentence statement tech and other leaders issued about AI's potential
+harms: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such
+as pandemics and nuclear war." - Lois M. Collins
+
+What's the problem with humans making AI?
+
+Sen. Richard Blumenthal opened the first judiciary hearing for Oversight of Artificial Intelligence in May with a party
+trick. He stared ahead, into the Capitol chamber, at witnesses that included AI pioneers and scholars, then spoke.
+But he never opened his mouth.
+
+"We have seen how algorithmic biases can perpetuate discrimination and prejudice, and how the lack of
+transparency can undermine public trust," he said, as if telepathically, while swallowing a smirk. "This is not the
+future we want."
+
+After fooling most people in the room, the Connecticut Democrat revealed his remarks were not his own, but a
+script courtesy of ChatGPT. The source of his disembodied voice was a cloning software trained to mimic the
+senator's cadence. The scene was made to sound trustworthy. Reliable. But it wasn't. That was the problem he had
+set out to address. Can flawed humans create flawless AI systems?
+
+Algorithms and technologies that make actions like imitating politicians possible are crafted by humans, trained by
+humans, used by humans. Which means they can also regurgitate human biases. As the National Institute of
+Standards and Technology demonstrated in a 2022 report with a proverbial illustration of an iceberg, statistical and
+computational biases - errors caused by skewed math or insufficient data - make up only some (the tip) of biases
+found in AI. The majority come from the humans and institutions behind the technology. "Part of the issue here is
+
+                                                                                                         Page 4 of 8
+                                            How is AI changing the world?
+
+that it's difficult to disentangle the biases in the AI system from the systemic biases in society," says Cynthia Rudin,
+a computer science and engineering professor who directs the Interpretable Machine Learning Lab at Duke
+University. She received the most prestigious AI award - the Squirrel AI Award for Artificial Intelligence for the
+Benefit of Humanity - last year.
+
+Rudin points out some algorithms have already been found to carry human faults. Amazon's AI recruitment tool
+discriminated against women applicants. The Correctional Offender Management Profiling for Alternative Sanctions,
+an assessment tool used in courtroom sentencing, misclassified Black defendants as high risk about twice as often
+as their white counterparts. Social media algorithms amplified hate speech in Myanmar that helped fuel genocide.
+And the risks, already mighty, may continue to compound. A statement published by the Center for AI Safety in
+May, signed by hundreds of scientists, professors and politicians (including Geoffrey Hinton, as reported), suggests
+flawed technology could even prompt human extinction.
+
+Yet there is an opportunity for course correction. Scientists are beginning to stray from "black box" models -
+algorithms with processes that cannot be traced or understood by humans - toward more interpretable and
+controllable methods. "There were no centers for AI safety or AI equity at all until recently," Rudin says. "It used to
+be a free-for-all where companies could impose black box models with almost no oversight for high-stakes
+decisions. We've definitely wised up since then."
+
+We know AI that rivals human intelligence is possible. We know the risks associated with it. What remains unclear
+is whether we can create technology that understands fairness and objectivity better than we do, as well as what we
+will chance to get there. As Stephen Hawking said in 2016: "In short, the rise of powerful AI will be either the best,
+or the worst thing, ever to happen to humanity. We do not yet know which." - Natalia Galicza
+
+Data Mining: How much do we really understand?
+
+We talk a lot about AI - the numbers show it.
+
+But as we attempt to learn about it, it is also learning about us - through data points acquired in email spam filters,
+GPS navigation systems, online recommendations and even the ads we don't click on. A poll from Pew Research
+conducted last year asked Americans how they felt about the increased use of AI in daily life. It seems that we're
+not sure how we feel. - Alexandra Rain
+
+Andrew Yang: A forward party leader calls for a halt
+
+When tech industry experts launched a letter to get companies working on artificial intelligence to pause so
+regulation can catch up, some big names signed. They included Elon Musk, founder of SpaceX, Tesla and the
+chairman of X (formerly Twitter); Steve Wozniak, co-founder of Apple; and Andrew Yang, the tech-savvy former
+presidential candidate and co-chair of the Forward Party.
+
+The letter cited "widely-endorsed Asilomar Principles," which note: "Advanced AI could represent a profound
+change in the history of life on earth and should be planned for and managed with commensurate care and
+resources."
+
+Yang, in particular, has been outspoken on his concerns. "The development of AI will bring many unforeseen
+consequences and our institutions are largely unprepared," he told Deseret in an interview conducted on X. "These
+tools are very powerful and in the wrong hands could lead to rampant identity theft and other problems."
+
+"We're not at the level where we can ensure that our AI systems will always keep us safe."
+
+Some AI industry leaders have promised voluntary safeguards. Amazon, Google, Meta, Microsoft and OpenAI (the
+maker of ChatGPT) promised the White House they'd identify images AI created. Some of those same companies
+(along with others) have formed the Frontier Model Forum, described by The Washington Post as seeking to
+"advance AI safety research and technical evaluations" to manage emerging, increasingly powerful AI. But Yang is
+
+                                                                                                         Page 5 of 8
+                                            How is AI changing the world?
+
+doubtful this could be a meaningful solution. "Companies self-regulating is not a viable approach in an environment
+that will reward competition and adoption," he says.
+
+He supports creating "an agency dedicated solely to AI and a Cabinet-level official similarly dedicated." Without
+oversight, "photos, videos, audio recordings - all of them can be reproduced and replicated by AI," which can lead
+to widespread issues like this summer's writers and actors strike in Hollywood. It's an ironic example, as Yang
+warns that without regulation, the consequences could look a lot like a silver screen script. On Fox's "Cavuto: Coast
+to Coast" he said that "science fiction-type scenarios are here with us." - Lois M. Collins
+
+The politics of AI
+
+At a Senate Judiciary Committee hearing in May, Sen. John Kennedy questioned AI leaders on how the United
+States should attempt to regulate the industry. "This is your chance, folks, to tell us how to get this right," Kennedy,
+a Louisiana Republican, said. "Talk in plain English and tell us what rules to implement."
+
+With AI advancements reaching the general public and threatening to upend entire industries, the U.S. is lagging
+behind the rest of the world when it comes to regulating Big Tech and AI. Currently, there is no comprehensive
+federal legislation dedicated solely to AI regulation.
+
+That isn't to say there are no levers in place - it's just more of a hodgepodge of sector-specific laws. Self-driving
+cars would fall under the National Highway Transportation Safety Administration, for example. Or if AI was being
+used in relation to an oil pipeline, it would be the Department of Energy.
+
+The recently released White House Blueprint for an AI Bill of Rights - which outlines a set of principles to help guide
+the design and use of artificial intelligence - may signal government action to come. Seven leading AI companies
+(including Google and Meta) also agreed to voluntary safeguards on the technology's development at a meeting
+with President Joe Biden in July.
+
+But Frank Pasquale thinks it could just amount to a PR move for the companies. A professor at Cornell University,
+he also currently serves on the U.S. National Artificial Intelligence Advisory Committee, which advises the
+president.
+
+"The question becomes: Where is the penalty if the companies deviate? As soon as it becomes a compelling
+business proposition to defect, they probably will and we're back to square one," Pasquale says. "The real answer
+here is regulation by established agencies rather than a voluntary commitment."
+
+U.S. reluctance to regulate Big Tech is nothing new. "The U.S., for better or worse, tends to take a pretty hands-off
+approach to business except in certain categories when it gets big enough that it requires notice," says Steven M.
+Bellovin, a distinguished professor of computer science at Columbia University and a public policy expert. "It's a
+particularity of the American economic and cultural legal system."
+
+In 1990, the Federal Trade Commission first opened an investigation into Microsoft. A decade later, a federal court
+ruled the company engaged in unlawful monopolization. So Microsoft simply amended some of its business
+practices. More recently, a handful of bills attempting to curb the anticompetitive business practices of Apple,
+Amazon, Facebook and Google ultimately failed last year.
+
+Could things be different with AI? Bellovin is doubtful. Unlike stem cell research or election reform, legislation
+against big tech has implications for an industry that contributed nearly two trillion U.S. dollars to the country's GDP
+in 2022. "A push against new regulations is seen as a huge economic driver. Most of the big tech companies are
+American," Bellovin says. "Why kill the goose that lays the golden egg?" - James Walker
+
+Data Mining: Where are the women?
+
+We know that data biases exist in AI, so how do these significant biases create wider gender gaps? A world already
+shaped by largely homogenous leadership is currently shaping another, with one study from the Journal of Global
+
+                                                                                                           Page 6 of 8
+                                            How is AI changing the world?
+
+Health concluding that algorithms used in health care may not only reflect back inequities but may worsen them. -
+Alexandra Rain
+
+Is this the beginning? The end? It's both.
+
+It's a classic Hollywood plotline. Artificial intelligence becomes sentient and goes rogue - spelling disaster, or even
+human extinction. There's "Blade Runner." "Westworld." "Ex Machina." "I, Robot." The list goes on.
+
+Recent rapid advancements in generative AI - hat tip to ChatGPT, in particular - have thrust that idea into the
+limelight. Is AI the beginning of a new era of human evolution? Or could it actually threaten life as we know it?
+
+Nisarg Shah, a professor of computer science at the University of Toronto who signed the industry open letter
+previously mentioned, is of two minds. "My view is that we don't fully understand these AI systems yet. ... Today,
+we're not at the level where we can ensure that our AI systems will always keep us safe," he says. This is where
+that "threat of extinction" that so many people are discussing comes into play: AI could soon be making more and
+more critical decisions - including at nuclear power plants - where a mistake could be so terrible that it's irreversible.
+"There is a serious potential of AI doing something so terrible, not because it was trained to, but just because it kind
+of saw that as the right way forward. And because of the incorrect data that it was fed. Then it actually leads
+to serious disaster." This is where the fallibility of human creators (and our biases) can create unintended
+consequences.
+
+"A push against new regulations is seen as a huge economic driver. Most of the big tech companies are American.
+'Why kill the goose that lays the golden egg?'"
+
+But it's also AI's ability to improve our lives that should be under the microscope, adds Shah - from already
+automating routine tasks like booking flights and paying bills online to helping doctors diagnose diseases and
+offering treatments based on patient history. "(A) capable system is going to come with just as many benefits as
+potential harms. So the main goal is to keep the benefits without having those harms," he says.
+
+Professor Brent Mittelstadt, director of research at the University of Oxford's Internet Institute, thinks that focusing
+on the existential risk of AI in the distant future may prevent us from addressing its disruptive dangers to society
+today - including mass surveillance, its potential for bias, and, particularly, the threat it poses for industry and
+replacing people's jobs. "Every new technology tends to be disruptive," he says. "It transforms existing jobs either
+by using the technology in tandem, or by making that job irrelevant. With AI, I think we will see both happen."
+
+And as for which industries will be impacted, few seem entirely safe.
+
+A research report from Goldman Sachs predicts that AI systems could expose 300 million full-time jobs to
+automation worldwide. In the U.S., they estimate that roughly two-thirds of all occupations are also exposed to
+some degree. Not even doctors are secure, to the chagrin of patients across the country.
+
+Earlier this year, Google unveiled an AI medical diagnosis program that can diagnose medical conditions with
+incredible accuracy. A Swedish study this year from Lund University also found that an AI program could spot
+breast cancer at a "similar" accuracy of two radiologists.
+
+Perhaps, then, the risk AI poses is more like Disney's "Wall-E." With AI taking our jobs and catering to our every
+whim, we slowly degenerate into helplessness, cocooned in a spaceship as the world below us turns into a desolate
+wasteland.
+
+But what does ChatGPT think about all of this? Well, when asked a variety of questions as to whether it believes AI
+will turn out to be a positive or negative development in the history of humanity, one quote stands out: "AI is a tool
+created by humans, and its development and use are under human control." - James Walker
+
+This story appears in the October issue of Deseret Magazine. Learn more about how to subscribe.
+
+Timeline of artificial intelligence
+
+                                                                                                        Page 7 of 8
+                                           How is AI changing the world?
+
+1637
+
+French philosopher René Descartes publishes the seminal epistemological work "Discourse on Method." It contains
+his famous phrase, "I think, therefore I am." For possibly the first time in philosophical history, Descartes grapples
+with the idea of artificial intelligence or "automata."
+
+1726
+
+The idea of artificial intelligence enters the popular imagination thanks to Irish satirist Jonathan Swift and the
+publication of "Gulliver's Travels," featuring "the engine," a sort of super-computer that allows "the most ignorant
+person, at a reasonable charge, and with a little bodily labor, (to) write books ... without the least assistance from
+genius or study."
+
+1921
+
+Czech playwright Karel Capek introduces the world to the word "robot" in his play, "Rossum's Universal Robots,"
+about a factory that produces replicant humans.
+
+1949
+
+American computer scientist Edmund Berkeley publishes "Giant Brains, or Machines that Think," which explores
+the emerging field of "mechanical brains." Echoing Descartes, Berkeley concludes, "A machine, therefore, can
+think."
+
+1950
+
+British mathematician and computer scientist Alan Turing publishes "Computing Machinery and Intelligence." A key
+idea in the book is "the imitation game" - a scenario in which a person and a machine are both interviewed by an
+interrogator, whose job is to determine which is man and which is machine. This became known as the "Turing
+test."
+
+1964
+
+Daniel Bobrow, a Ph.D. student at MIT, publishes his thesis: A computer program called STUDENT, which can
+solve high school-level algebra word problems.
+
+1966
+
+MIT computer science professor Joseph Weizenbaum creates ELIZA, a chatbot therapist. Many people, he
+observed at the time, had trouble accepting that they were not, in fact, interacting with a human.
+
+1968
+
+Stanley Kubrick's pioneering sci-fi film, "2001: A Space Odyssey," introduces the world to Hal, a computer with
+superintelligence designed to assist a team of human astronauts on a space voyage. Hal deduces that it must kill
+the human crew in order to give the mission its greatest chance of success. One astronaut manages to defy Hal's
+murderous plan and shuts it down, even as Hal pleads with him: "I'm afraid. I'm afraid, Dave. Dave, my mind is
+going. I can feel it."
+
+1970s
+
+AI enters what scholars call an "AI winter," in which mainstream sentiment toward the technology sours as
+promises of its potential are left unfulfilled.
+
+1973
+
+                                                                                                        Page 8 of 8
+                                           How is AI changing the world?
+
+British mathematician James Lighthill authors "Artificial Intelligence: A General Survey," concluding that "in no part
+of the field have the discoveries made so far produced the major impact that was then promised." The British
+government defunds AI research.
+
+1984
+
+Arnold Schwarzenegger brings "The Terminator" to the silver screen, launching one of the most successful AI-
+centered franchises ever.
+
+1994
+
+Jeff Bezos founds Amazon, which begins by selling books on the World Wide Web. Since 1998, Amazon's
+recommendation algorithms have been powered by AI.
+
+2009
+
+Facebook begins using algorithms to sort posts appearing in users' feeds, rather than presenting them
+chronologically.
+
+2011
+
+Siri, the first digital virtual assistant, is released. Apple quickly buys the rights and ushers in an era of intense
+competition in the digital virtual assistant marketplace - from Google Now to Microsoft's Cortana to Amazon's Alexa.
+
+
+Load-Date: October 4, 2023
+
+
+  

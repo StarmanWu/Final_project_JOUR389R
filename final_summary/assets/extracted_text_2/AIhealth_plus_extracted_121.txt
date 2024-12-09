@@ -1,0 +1,141 @@
+
+
+                                                                                                             Page 1 of 3
+               Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions
+
+
+
+
+  Artificial intelligence is gaining state lawmakers' attention, and they have a
+                                   lot of questions
+                                                  St. Louis Post-Dispatch (Missouri)
+                                                        August 11, 2023 Friday
+                                                             FIRST EDITION
+
+
+
+Copyright 2023 St. Louis Post-Dispatch, Inc. All Rights Reserved
+
+Section: ; Pg. A8
+Length: 912 words
+Byline: By SUSAN HAIGH Associated Press
+
+Body
+
+
+HARTFORD, Conn. - As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology,
+they're often focusing first on their own state governments before imposing restrictions on the private sector.
+
+Legislators are seeking ways to protect constituents from discrimination and other harms while not hindering
+cutting-edge advancements in medicine, science, business, education and more.
+
+"We're starting with the government. We're trying to set a good example," Connecticut state Sen. James Maroney
+said during a floor debate in May.
+
+Connecticut plans to inventory all of its government systems using artificial intelligence by the end of 2023, posting
+the information online. Starting next year, state officials must regularly review these systems to ensure they won't
+lead to unlawful discrimination.
+
+Maroney, a Democrat, said Connecticut lawmakers will likely focus on private industry next year. He plans to work
+this fall on model AI legislation with lawmakers in Colorado, New York, Virginia, Minnesota and elsewhere that
+includes "broad guardrails" and focuses on matters like product liability and requiring impact assessments of AI
+systems.
+
+"It's rapidly changing and there's a rapid adoption of people using it. So we need to get ahead of this," he said in an
+interview. "We're actually already behind it, but we can't really wait too much longer to put in some form of
+accountability."
+
+Overall, at least 25 states, Puerto Rico and the District of Columbia introduced artificial intelligence bills this year.
+As of late July, 14 states and Puerto Rico adopted resolutions or enacted legislation, according to the National
+Conference of State Legislatures. The list doesn't include bills focused on specific AI technologies, such as facial
+recognition or autonomous cars, something NCSL is tracking separately.
+
+                                                                                                           Page 2 of 3
+             Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions
+
+Legislatures in Texas, North Dakota, West Virginia and Puerto Rico created advisory bodies to study and monitor
+AI systems their respective state agencies are using, while Louisiana formed a new technology and cybersecurity
+committee to study AI's impact on state operations, procurement and policy. Other states took a similar approach
+last year.
+
+Lawmakers want to know "Who's using it? How are you using it? Just gathering that data to figure out what's out
+there, who's doing what," said Heather Morton, a legislative analysist at NCSL who tracks artificial intelligence,
+cybersecurity, privacy and internet issues in state legislatures. "That is something that the states are trying to figure
+out within their own state borders."
+
+Connecticut's new law came after an investigation by the Media Freedom and Information Access Clinic at Yale
+Law School determined AI is being used to assign students to magnet schools, set bail and distribute welfare
+benefits, among other tasks. However, details of the algorithms are mostly unknown to the public "and largely
+unchecked," the group said.
+
+Richard Eppink, legal director of the American Civil Liberties Union of Idaho, testified before Congress in May about
+discovering, through a lawsuit, the "secret computerized algorithms" Idaho was using to assess people with
+developmental disabilities for federally funded health care services. The automated system, he said, included
+corrupt data that relied on inputs the state hadn't validated.
+
+AI can be shorthand for many different technologies, ranging from algorithms recommending what to watch next on
+Netflix to generative AI systems such as ChatGPT that can aid in writing or create new images or other media. The
+surge of commercial investment in generative AI tools generated public fascination and concerns about their ability
+to trick people and spread disinformation, among other dangers.
+
+Some states haven't attempted to tackle the issue yet. In Hawaii, state Sen. Chris Lee, a Democrat, said lawmakers
+didn't pass any legislation this year governing AI "simply because I think at the time, we didn't know what to do."
+
+Instead, the Hawaii House and Senate passed a resolution Lee proposed that urges Congress to adopt safety
+guidelines for the use of artificial intelligence and limit its application in the use of force by police and the military.
+
+Lee, vice-chair of the Senate Labor and Technology Committee, said he hopes to introduce a bill similar to
+Connecticut's new law. Lee also wants to create a permanent working group or department to address AI matters
+with the right expertise, something he admits is difficult to find.
+
+"There aren't a lot of people right now working within state governments or traditional institutions that have this kind
+of experience," he said.
+
+There has been discussion of bipartisan AI legislation in Congress.
+
+Maroney said ideally the federal government would lead the way in AI regulation but it can't act at the same speed
+as a state legislature. "And as we've seen with the data privacy, it's really had to bubble up from the states," he
+said.
+
+Some state-level bills proposed this year have been narrowly tailored to address specific AI-related concerns.
+Proposals in Massachusetts would place limitations on mental health providers using AI and prevent "dystopian
+work environments" where workers don't have control over their personal data. A proposal in New York would place
+restrictions on employers using AI as an "automated employment decision tool" to filter job candidates.
+
+North Dakota passed a bill defining what a person is, making it clear the term does not include artificial intelligence.
+
+
+
+Graphic
+
+                                                                                                           Page 3 of 3
+             Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions
+
+ After months of warnings from tech executives about the dangers of artificial intelligence, the Federal Bureau of
+Investigation has a new list of concerns.The agency's biggest fears are not only about what the technology does but
+also about who is using it.During a rare background briefing call with reporters, a senior FBI official, who even
+acknowledged that they haven't done significant outreach on the topic of AI, described a pretty concerning situation,
+or a "threat landscape," as the FBI calls it.He said that China is looking to steal U.S. AI technology and data for AI
+programs and then use it not just to advance their own AI programs but to influence Americans.He also said that
+the FBI is closely monitoring the role that AI may play in the 2024 election and is concerned about the spread of
+disinformation and deep fake videos.He said that criminals and terrorists are seeking AI to simplify the production of
+dangerous chemicals and biological substances to increase their potency.SEE MORE: Tech giants commit to Biden
+administration-brokered AI safety rulesScripps News asked about explosives, and this official said that a variety of
+criminal and national security actors, from violent extremists to traditional terrorists, are using AI to try to come up
+with ways to create different types of explosives.He said, "There have been people who have successfully elicited
+recipes or instructions for creating explosives."He also said that AI is a force multiplier for crafting fishing e-
+mails and for using it in other cyberattacks. He says that the FBI has found AI-generated websites that are infected
+with malware to target users sites that have more than a million followers.The bottom line, the FBI says, there are
+fewer people, less expertise, and less time needed for a lot of these threats, so there's a much lower bar or barrier
+for entry here. Furthermore, the FBI is spending some of its time working on being able to determine what is
+synthetically AI-generated content online. They are working with private companies, and they're working with
+academia. But as this official said, this technology is advancing really quickly, and it is hard to stay on top of it. The
+OpenAI logo is seen on a mobile phone March 21 in front of a computer screen displaying output from ChatGPT in
+Boston. Connecticut Gov. Ned Lamont delivers the State of the State address Jan. 4 during opening session of the
+Legislature at the State Capitol in Hartford.
+
+
+Load-Date: August 11, 2023
+
+
+  

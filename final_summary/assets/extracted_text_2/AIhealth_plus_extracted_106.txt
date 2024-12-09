@@ -1,0 +1,135 @@
+
+
+                                                                                                        Page 1 of 3
+                             Sen. Mitt Romney says he is 'terrified about AI ' at Senate hearing
+
+
+
+
+          Sen. Mitt Romney says he is 'terrified about AI' at Senate hearing
+                                                        The Deseret News
+                                                 September 19, 2023 Tuesday
+
+
+
+Copyright 2023 The Deseret News Publishing Co. All Rights Reserved
+
+Length: 898 words
+Byline: Gitanjali Poonia
+
+Body
+
+Sen. Mitt Romney spoke openly about his fears regarding artificial intelligence and the risk it poses to national
+security during a Senate committee hearing Tuesday.
+
+"I'm in the camp of being more terrified about AI than I am in the camp of those thinking this is going to make
+everything better for the world," said Romney, R-Utah, in his opening remarks. He is the ranking member of the
+Subcommittee on the Emerging Threats and Spending Oversight Subcommittee.
+
+AI and smallpox
+
+At an event in Utah last month, Romney said he sees AI "as more of a threat and a risk than as an opportunity,"
+speaking about the risk of deep fakes and the use of AI by countries that are adversaries of the U.S.
+
+He described a terrifying scenario that could become a reality because of AI.
+
+"It was pointed out in a briefing we received recently that right now there are about 100 scientists in the world that
+can duplicate the smallpox pathogen. But with AI, there'll be a million people around the world that can duplicate
+the smallpox pathogen, and a lot of them are really bad people," he said.
+
+Romney said it would be very difficult for the government to regulate AI.
+
+"The only idea that I've heard so far on AI that we might help us rein in the threat is doing a better job at
+determining who has the chips, the extraordinarily powerful chips that are necessary to run AI and limiting the
+exposure of those chips to certain countries," he said.
+
+Related
+
+    •     Artificial intelligence wants your vote
+
+Artificial intelligence and bioweapons - a tricky balance
+
+Sen. Maggie Hassan, D-N.H., the chair of the committee, also raised her concerns about the scenario Romney
+previously described, saying Congressional attention isn't focused "on so-called 'catastrophic' risks posed by AI -
+such as the ability of AI to help terrorists develop and use unconventional weapons," in her opening remarks.
+
+                                                                                                           Page 2 of 3
+                           Sen. Mitt Romney says he is 'terrified about AI ' at Senate hearing
+
+At a Senate hearing in July, expert, Dario Amodei, chief executive of the AI company Anthropic, said that specific
+steps to create a bioweapon "can't be found on Google or in textbooks and requires a high level of expertise."
+
+"We found that today's AI tools can fill in some of these steps," Amodei added, per Reuters.
+
+Romney asked the expert witnesses at the hearing Tuesday what process would work to put any safeguards in
+place, and, "How much time do we have?"
+
+Related
+
+    •     Opinion: Who will lead phase 2 of the AI revolution?
+
+Gregory C. Allen, director of the Wadhwani Center for AI and Advanced Technologies, which is dedicated to policy
+research, said that from a regulatory standpoint, "We want to make it hard for malicious activity to happen, but we
+don't want to ban all of these good activities as well."
+
+He said that in the case of biosecurity, AI made it easier to create bioweapons. Why? "Well, part of it is the nature
+of existing regulations," Allen said.
+
+For example, if someone wants to access the anthrax pathogen, which can be disseminated as a bioweapon, they
+can't because it is on a list of regulated pathogens, he explained.
+
+"The challenge with AI systems is that they could assist in the development of novel pathogens that are not on a list
+anywhere," Allen continued.
+
+But AI will also be necessary to help DNA synthesis companies detect a pathogen that didn't exist before. This
+presents a tricky balance for regulators.
+
+Related
+
+    •     Top artificial intelligence developers commit to security testing, clear labeling of AI-generated content
+
+Should a new federal agency regulate AI?
+
+During his opening remarks, Romney said that the discussions he's been a part of so far point out the need to
+"coordinate with other nations and perhaps have some kind of international consortium or international agreement
+that relates to AI."
+
+"I don't know how that would work, where it would be housed, how we would initiate that, and whether that's
+realistic," he added.
+
+Romney said there has also been talk of creating a separate agency or department - with a staff of experts - to
+oversee development in the industry, create strategies and counsel policymakers, such as himself.
+
+"Frankly, a lot of, in my case, 76-year-olds are not going to figure out how to regulate AI because we can barely use
+our smartphones," he said, asking if that would be a good idea.
+
+While answering Romney's questions related to putting safeguards in place, Jeff Alstott, a senior information
+scientist at Rand Corporation, a policy think tank and public sector consulting firm, said that most existing
+government agencies can handle the influence of AI on their sector.
+
+Related
+
+    •     Watch out, smarty-pants: College-educated and higher-paid workers most at risk for replacement by AI,
+          according to new report
+
+                                                                                                        Page 3 of 3
+                         Sen. Mitt Romney says he is 'terrified about AI ' at Senate hearing
+
+This includes self-driving cars under the purview of the Department of Transportation or the use of AI in health care
+overseen by Health and Human Services - but there are a few exceptions.
+
+"One is that if someone is making or deploying an AI that is predictably going to get millions of people killed, there
+is no part of government that has clear responsibility for addressing that," Alstott said. "So, that needs to be
+created."
+
+This could be done by establishing an independent agency, as Romney suggested. Or agencies with relevant
+authority - like the Department of Homeland Security, the Department of Commerce, and the Department of
+Defense - can also try to regulate and mitigate the effects of AI.
+
+Contributing: Suzanne Bates
+
+
+Load-Date: September 19, 2023
+
+
+  

@@ -1,0 +1,106 @@
+
+
+                                                                                                      Page 1 of 2
+                          BofA acquisition makes its health care payments business more nimble
+
+
+
+
+    BofA acquisition makes its health care payments business more nimble
+                                                          American Banker
+                                                       April 6, 2021 Tuesday
+
+
+
+Copyright 2021 SourceMedia LLC d/b/a Arizent All Rights Reserved
+
+
+
+
+Section: Vol. 186; No. 64
+Length: 832 words
+Byline: John Adams
+
+Body
+
+    •     For more content like this, from the industry leader in global payments coverage, please visit
+          PaymentsSource.com.
+
+Bank of America is big in health care - it has more than 2,000 hospital clients in the U.S. and more than 17,000
+relationships with health care providers - and now it's focusing on being faster to market.
+
+In buying AxiaMed, the bank is avoiding a complex IT project to upgrade health care payments and other merchant
+services. It can now provide a digital payments gateway to these clients immediately.
+
+"We would have had to build the tech ourselves and then get certified with the software providers," said Guy Harris,
+head of merchant services for Bank of America.
+
+Axia's platform is "fundamentally a health care payment system, but we are also gaining domain expertise that we
+can gain from in other industries," Harris said.
+
+Financial terms of the deal weren't disclosed, and AxiaMed operates as a subsidiary of Bank of America effective
+April 1. The Santa Barbara, Calif.-based-based AxiaMed works through independent software vendors to sell SaaS-
+based patient payment technology. Its branded product, Payment Fusion, uses an API to integrate into electronic
+health records systems, practice management and revenue cycle management systems at health care providers.
+
+Payment Fusion uses point-to-point encryption to take providers out of scope for PCI compliance, and it also is
+HIPAA compliant, addressing a regulation that doesn't accompany payment processing for most industries.
+
+The deal is part of Bank of America's strategy to build its own merchant services/card issuing combo following the
+end of itsjoint venturewith First Data, which was dismantled in 2019 following Fiserv's acquisition of First Data.
+
+                                                                                                         Page 2 of 2
+                       BofA acquisition makes its health care payments business more nimble
+
+"Health care is a major vertical for us, and payments are a critical part of that relationship," Harris said. "When we
+decided 18 months ago to exit our venture with First Data to build our own platform, part of that is having a platform
+that can work with as many partners as possible."
+
+The AxiaMed acquisition comes as payment companies focus more on health care providers, which had been slow
+to modernize due to the complexity of hospital billing systems. Among health care providers there is a demand for
+a range of merchant services tied to payment credential onboarding, or acting as apayment facilitator.
+
+"There has been a lot of innovation happening, but maybe not to the scale and pace required as the innovation has
+not happened with acquiring and processing as a key piece of the solution," said Michael Trilli, a research director
+for Aite Group's insurance practice. "The pandemic has pushed health care further into a retail, digital, consumer
+driven market."
+
+Health care is the more-complicated cousin for mainstream payment processing. Health payments for years have
+remained more manual than automated because of complicated funding sources and compliance.
+
+While most merchant transactions involve a consumer drawing from an account to funnel money that eventually
+winds up in the merchants' account, health care in most cases involves an insurer that acts as a third party, paying
+some but not all of the bill. The role of the Affordable Care Act, the pandemic and the rise of consumer-directed
+health care payments add complications.
+
+National health care spending in the U.S. is expected to grow at an average annual rate of more than 5% between
+2019 and 2028, reaching $6.2 trillion, according to theCenters for Medicaid and Medicare Services. National health
+expenditures will grow 1.1% faster than GDP, causing health care's share of the economy to reach 19.7% in 2028
+from 1.7% in 2019, according to the CMS.
+
+In the banking industry, most innovation has come via commercial payments through treasury services, with some
+basic retail capabilities, according to Trilli. Several banks, such asFifth ThirdandJPMorgan Chase, have partnered
+with fintechs to improve banking and payment services for consumers and health care providers.
+
+In the technology industry, the need to simplify transaction rails in the eyes of the consumers and merchants has
+drawn dozens of technology companies offering payment innovation. In many cases, the developers are adapting
+payment technology for other purposes, such asWaystar'suse of P2P-style text messaging
+orMastercard'sdeployment of blockchain to improve risk management for health care providers. AndGoogle's
+venture armrecently invested $16.5 million in Nym Health to expand AI-driven health care payment processing,
+another trend imported from mainstream retail payments.
+
+"So the fact that BofA bought AxiaMed and their acquiring capabilities is a strong signal the bank is positioning itself
+with these trends," Trilli said.
+
+Writing forPaymentsSource, Florian Otto, co-founder and CEO of Cedar, a health care engagement platform, said
+the pandemic has caused spikes in surprise medical bills and COVID-related fees, necessitating advancements in
+compassionate billing, transaction transparency and price transparency.
+
+
+https://www.americanbanker.com/news/bofa-acquisition-makes-its-health-care-payments-business-more-nimble
+
+
+Load-Date: April 6, 2021
+
+
+  

@@ -1,0 +1,92 @@
+
+
+                                                                                                    Page 1 of 2
+                                   Involta 's Idaho employees use AI to detect COVID-19
+
+
+
+
+                     Involta's Idaho employees use AI to detect COVID-19
+                                                       Idaho Business Review
+                                                   May 13, 2020 Wednesday
+
+
+
+Copyright 2020 BridgeTower Media All Rights Reserved
+
+
+
+
+Section: NEWS
+Length: 706 words
+Byline: Catie Clark
+
+Body
+
+
+A woman with a lovely voice named Eleanor calls up twice a week to inquire how you are doing. She asks you what
+you like to do in your spare time or what you did this weekend. She even poses some brain-teaser questions. She's
+doing all of this because she is concerned about your health.
+
+For several weeks now, this nosy woman has been calling employees at Involta, an IT company providing cloud-
+computer and other IT services, including two data center facilities and 30 employees in the Boise area.
+There's a twist: Eleanor is a bot run by an artificial intelligence program.
+
+Her trade name is MyEleanor, and she is the voice of an AI-based case management and triage program marketed
+by New York-based start-up MyndYou. The firm specializes in AI that uses cognitive complexity analysis of speech
+patterns. Their proprietary software can detect changes in speech, which research has associated with cognitive
+decline diseases and the onset of certain respiratory conditions.
+
+The software is currently involved in a research trial run by the venerable Massachusetts General Hospital for
+theremote, automated detection of subtle changes in the speech patterns of Alzheimer's patients. Based on earlier
+clinical programs, MyndYou's AI has shown sensitivity levels of 70% and specificity levels of 90% for disease
+detection.
+
+Eleanor's phone calls in Boise are part of a collaboration between Involta and MyndYou, which had its roots
+whenJeff Szymanski, executive vice president for business development at Involta, met RuthPoliakine Baruchi, the
+founder and CEO ofMyndYou at the health care technology Allscripts Conference.
+"I got talking with Ruth, and the more I learned about MyndYou, the more intrigued I was,"Szymanski told the Idaho
+Business Review. "This was well before COVID-19 ever showed up."
+
+Szymanski and Baruchi came up with the idea of using MyndYou's AI to monitor employee health during the
+pandemic to screen for the onset of COVID-19.
+"Because COVID-19 is a new condition, we do not have any clinical trials related to our detection ability for that
+specific condition," Baruchi explained. "Our assumption around COVID-19 is based on our ability to detect changes
+
+                                                                                                        Page 2 of 2
+                               Involta 's Idaho employees use AI to detect COVID-19
+
+related to respiratory conditions. We will screen for COVID-19 through (Involta employee) questionnaires, with
+additional insight into change through the voice analysis."
+
+When MyEleanor calls, AI-driven voice analytics work in the background to detect subtle changes in the employee’s
+health. Insights and analytics from the calls will be delivered directly to the employees when a change is detected.
+
+“Employee health is essential to our business performance,” said Jim Buie,InvoltaPresident. “We are excited to be
+participating in the MyndYou program to discover new preventative measures that support employee health and
+wellness. ”
+
+The monitoring program is to help Involta's employees self-screen for the COVID-19 virus and stay on top of their
+mental and physical health. COVID-19 screening questions are incorporated into the check-in calls with MyEleanor
+as a way of drawing attention to symptoms and providing guidance when needed. Ultimately, the collaboration is
+aimed at promoting health within theInvoltaworkforce, whether related to COVID-19, preexisting chronic conditions
+or the countless other needs that MyndYou’s engagement and voice analytics solutions can support.
+
+Though not at the level of a clinical trial, the collaboration is an experiment. All the Involta participants are
+volunteers. Involta's Idaho employees were offered the chance to participate in the health monitoring program
+during the last week in April. The program will run through the end of the year.MyndYou established ethics and
+privacy safeguards to protect the volunteers in the monitoring program. Participation is 100% voluntary, andInvolta
+will never see any employee data or information gathered by the MyEleanor AI.
+
+Cedar Rapids-based Involta established their first Idaho facility in 2014. Both of their Idaho data centers are in the
+Boise area. The company is an IT service provider selling cloud-based computing and technology consulting
+services to over 600 customers, including 150 in the health care sector.
+
+
+Copyright © 2020 BridgeTower Media. All Rights Reserved.
+
+
+Load-Date: May 19, 2020
+
+
+  

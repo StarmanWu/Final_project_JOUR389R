@@ -1,0 +1,81 @@
+
+
+                                                                                                Page 1 of 2
+        THE CONVERSATION; Michigan Medicine CTO is engineering health care's efficiency transformation
+
+
+
+
+ THE CONVERSATION; Michigan Medicine CTO is engineering health care's
+                    efficiency transformation
+                                                     Crain's Detroit Business
+                                                          October 23, 2023
+                                                            Print Version
+
+
+
+Copyright 2023 Crain Communications All Rights Reserved
+
+
+
+
+Section: Pg. 22; Vol. 39
+Length: 602 words
+Byline: Dustin Walsh
+
+Body
+
+
+What exactly is the role of a chief transformation officer?
+
+We all know what a CFO does. But the places that have the CTO role; it varies from place to place. I am trained in
+operations research. I am faculty in the department of industrial operations and engineering, but I have been doing
+health care work for 15 years now. The question we're trying to answer is why health care has not had the same
+successes as operational engineering. That's why I started the Center for Healthcare and Patient Safety. My
+original training was in airlines and freight. Every problem there sounded like engineering homework. There was
+always an optimization. But as engineers, we need to understand the health care system - its language and its
+problems. That's where I come in. I am working with clinicians, researchers and students to examine all sorts of
+problems. I teach students to work in multi-disciplinary teams. So now I take that same approach, but prioritized
+around problems that are the greatest issues at the health system.
+
+How do you solve those problems?
+
+I'm not sure I knew what we were creating when we created it. But we knew there was opportunity here. We knew
+we'd find some value. We, like many places, have a disconnect between innovative ideas that can help solve
+problems in our health system and a lot of those ideas come from the intersection of disciplines. We're really good
+at doing that innovation in an academic setting, but there's a huge gap between having that cool new idea and then
+getting it to the doctors or the bedside. I figure out how to bridge that gap. It's always unique to the problem. We
+have to weigh how a solution fits into the entire system. Are we fixing one thing, but breaking another? It's never
+black or white and all or nothing. We do the deep dive. We figure out, in a complex system, whether fixing this
+inpatient care procedure will mess up skilled nursing, etc. We try to have the purview those in the system cannot.
+
+Can you provide an example of this work?
+
+                                                                                               Page 2 of 2
+       THE CONVERSATION; Michigan Medicine CTO is engineering health care's efficiency transformation
+
+A current project we did was trying to reduce emails the providers get. It's overwhelming for them and leads to more
+burnout. Could we just stop sending those (systemwide) messages? Well, we found the 10 people who get the
+most messages and we sent students in to ask questions. Some thought it would be great to get rid of them and
+others really wanted them. We discovered providers could pull the reports they wanted in a different way. Some
+people got rid of the messages and others got what they wanted with extra data. These are baby steps and seem
+easy, but they are important details that get lost in the function of the complex system. It's not about getting rid of
+the emails, but finding a strategy to eliminate the burden and give people the right info at the right time.
+
+When we think transformation, we think technology. Isn't that the future of health care?
+
+Technology, wearables, AI, highly specialized cancer regimes, diagnostic imaging; these are all critical to
+advancing health care. But how do you get them past the goalpost? What is the context in which you're working
+with these technologies? We're lowering the age for a colonoscopy, for instance. That's great until you think about
+the people who needed them are now waiting longer. Yes, we need technology to create these solutions. So much
+of what we do in a hospital is about duration of time. We need to move faster and I don't believe it's going to look
+this way in a decade. But we have to keep framing around what it takes to make it successful in a complicated
+system.
+
+READ ALL THE CONVERSATION AT CRAINSDETROIT.COM/THECONVERSATION
+
+
+Load-Date: October 26, 2023
+
+
+  

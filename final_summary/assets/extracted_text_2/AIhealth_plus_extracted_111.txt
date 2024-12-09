@@ -1,0 +1,136 @@
+
+
+                                                                                                      Page 1 of 3
+                                    Microsoft Summit Addresses AI in a Time of Upheaval
+
+
+
+
+                    Microsoft Summit Addresses AI in a Time of Upheaval
+                                                 Government Technology
+                                                June 24, 2020 Wednesday
+
+
+
+Copyright 2020
+
+Distributed by Tribune Content Agency
+
+Section: STATE AND REGIONAL NEWS
+Length: 1214 words
+Byline: Andrew Westrope, Government Technology
+
+Body
+
+
+June 24--     Jun. 24--Cognizant of a technological sea change underway in the private and public sectors, and
+accelerated by COVID-19, Microsoft hosted a virtual summit June 23 on artificial intelligence.
+
+Eight guests included five experts from the tech company as well as the research firm CCS Insight, The Kroger Co.
+and Snohomish County, Wash., which recently used AI to create chatbots to disseminate critical information.
+
+Microsoft U.S. Chief Digital Officer Jacky Wright started the event by talking about why AI is becoming so important
+for large organizations. She said it comes down to the power of data, for two broad purposes: to accumulate and
+share new knowledge, and to solve problems.
+
+She polled an audience of industry officials about the top barriers to their AI adoption strategies, and the No. 1
+answer was "defining the AI strategy."
+
+As Wright repeatedly stressed, "now is the time."
+
+"We are in an inflection point in our society. We have a pandemic, we have an economic slump, and we have
+unrest due to racial, social inequities and disparities," she said. "Think about how we can use the power of data to
+focus on these three things, where we're going to transform who we are in today's society, and that transformation
+hinges on our ability to understand where we are right now, what we need to do in the future, and the effects of
+that."
+
+Mitra Azizirad, Microsoft's corporate VP of AI and innovation, followed by talking about what it means to become an
+AI-powered organization, and what a difference that can make. She said most development involving AI has
+focused on three scenarios: business optimization, such as real-time monitoring, detecting anomalies in products,
+and other data-driven insights; helping with employee productivity by giving them better tools and more time for
+more skills-focused jobs instead of administrative tasks; and customer service, by anticipating and proactively
+addressing people's needs.
+
+                                                                                                         Page 2 of 3
+                               Microsoft Summit Addresses AI in a Time of Upheaval
+
+Azizirad defined an AI-powered organization as one with a culture that's data-driven, inclusive of different
+backgrounds and perspectives, committed to responsible use of new technology, and leveraging AI for everyone
+and not just those with technical expertise. The latter point was a common refrain among guests at the summit.
+
+"Putting AI into action is the most effective and life-changing when you strategically scale its impact across the
+entire business," Azizirad said. "To do this, it requires a mindset that embraces this idea that AI can fundamentally
+change what's possible for you to achieve with your employees and your organization."
+
+From CCS Insight, Head of Enterprise Research Nick McQuire listed his own three recommendations for an
+agency's success with AI: a data-driven culture involving business metrics and measuring success, a holistic look at
+the entire organization and every employee, and having a strategic adviser or trusted partner to help the
+organization understand the technology's potential and best practices.
+
+McQuire again stressed the need to put AI into the hands of every employee in every business function, so
+everyone can collaborate and offer the widest possible range of input. As one speaker put it: "How do we make
+sure this isn't a forced march toward something they don't understand?"
+
+Tom Lawry, Microsoft's national director for AI, health and life sciences, described at length the potential of AI in
+the health-care space. Among other things, he advocated for large organizations setting up a modern data estate
+involving all the data they own, control, manage or use, regardless of where it's stored. He said this allows
+organizations to better maintain it and make decisions on an agile basis. He pointed out that it may also be
+necessary because of the speed at which new data is being generated.
+
+Lawry discussed an organizational culture and a mindset, not just technology.
+
+"Many organizations are starting, but they're early in the journey. What we're seeing in that AI-powered world in
+health care is, many organizations moving away from the traditional provision of services, and towards the use of
+AI to create what's coming to be known as intelligent health systems," he said. "Intelligent health systems leverage
+data and AI to create strategic advantage, and they do that by making services more efficient. They also do that,
+not just in a little area or two, but they really focus on making things better across all touchpoints, all experiences,
+and all channels that a consumer may turn to when it comes to a health care need."
+
+On the subject of managing emerging technology in a fair and equitable way, Microsoft Chief Responsible AI Officer
+Natasha Crampton mentioned "fairness and inclusiveness" as concerns that keep her up at night. She said sources
+of unfairness in AI are many and complex, but she offered tips to mitigate: strive to have a diverse team working on
+building the technologies, think deeply about the context in which a system will be used, and be thoughtful and
+carefully curate data sets to test and train models.
+
+"Start with principles. You need a north star to keep coming back to, and starting with a set of principles is how you
+do that, making sure that they're aligned with the values of your organization," she said. "Move to practices ... and
+figure out what tangible steps you can take in order to advance those ends in your organization."
+
+Microsoft's summit wrapped up with a government official from Snohomish County, Wash., Kendee Yamaguchi,
+executive director of trade and economic development. She said when her county verified the first reported case of
+COVID-19 in the U.S., they knew they needed to put out critical information as soon as possible. Within 24 hours,
+the county had set up Microsoft AI-powered chatbots to answer the public's questions, including a Spanish-
+language option.
+
+And it wasn't an anomaly. Azizirad had mentioned earlier in the talk that since March, public service and health
+organizations have created more than 1,200 bots.
+
+In a nutshell, Yamaguchi said information is power, and AI helps governments prepare for the future.
+
+"In government, we aren't often known for innovation, but even before COVID-19, Snohomish County was engaged
+in change, and this pandemic provided an opportunity for us to transform how we do business more quickly. Now
+
+                                                                                                  Page 3 of 3
+                               Microsoft Summit Addresses AI in a Time of Upheaval
+
+our default is working from home, like many of you, and being in government, having the same tools that our
+business partners have helps us stay engaged and have strong communication."
+
+As an aside, Yamaguchi touched on the value of public-private partnerships. She said food producers in eastern
+Washington recently contacted the county because they had a large volume of produce that was going to spoil. The
+county sent public works trucks to pick it up, and the produce wound up at food banks instead of the dump.
+
+"This is just one illustrative example of the hundreds that are happening every day," she said.
+
+Andrew Westrope is a staff writer for Government Technology. Before that, he was a reporter and editor at
+community newspapers for seven years. He has a Bachelor's degree in physiology from Michigan State University
+and lives in Northern California.
+
+___ (c)2020 Government Technology Visit Government Technology at www.govtech.com Distributed by Tribune
+Content Agency, LLC.
+
+
+Load-Date: June 25, 2020
+
+
+  
