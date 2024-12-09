@@ -1,8 +1,0 @@
-AI-powered health care solution business.
-The Korean company acquired 100 percent of Sonio on Friday, a startup specializing in AI development for diagnostic reporting in obstetrics and gynecology ultrasound.
-The acquisition follows a share purchase agreement between the two companies made in May.
-Samsung Medison said the synergy between Sonio's AI solution and Samsung's existing technologies will help the company further improve efficiency in the medical field and contribute to closing the global health care gap.
-Founded in 2020, the Paris-based startup has developed an AI-powered prenatal screening solution that automates ultrasound reporting.
-Sonio's key product, Sonio Detect, AI-powered software designed to identify prenatal syndromes and abnormalities through ultrasound, won approval from the U.S. Food and Drug Administration in 2023.
-
-

@@ -1,7 +1,0 @@
-health platform Genie Health.
-This collaboration introduces Genie Health, an AI-driven platform, to CAO's extensive network acrossMaryland, Virginia and Washington, enabling a comprehensive digital MSK solution for their patients to enhance their brick-and-mortar physical therapy clinics.
-Genie Health enables CAO therapists to offer high-quality therapy services to their patients using the most cutting-edge computer vision technology contained within the Genie Health platform. Genie Health's technology enables patient smart phones to be used to track and guide range of motion and strengthening [using bands], so that patients can be confident that they are correctly doing exactly what their therapists are directing them to do while at home.
-Patients of Genie Health have reported a 90% increase in satisfaction, with a notable 60% quicker recovery rate and a 50% reduction in pain.
-Copyright © 2024 BridgeTower Media. All Rights Reserved.
-
-
