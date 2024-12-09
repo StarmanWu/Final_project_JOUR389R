@@ -1,0 +1,38 @@
+ in healthcare: Balancing innovation and consequence
+Optimism for artificial intelligence in healthcare is growing, however, there are many concerns that could affect patient safety
+"AI's output of calcification is better than the current clinical standard of care, which is a Framingham Risk Stratification to predict your risk of cardiovascular events."
+Elizabeth Villar
+By Dimitra Manatou
+|
+January 25, 2024 | 7:52pm MST
+In an engaging virtual event hosted by Health Talks ASU on Jan. 18, experts delved into the opportunities and challenges AI presents in the healthcare sector.
+During their respective talks, specialists Imon Banerjee, ASU alumna and senior associate consultant for the artificial intelligence department of radiology at Mayo Clinic in Arizona, and Dr. Nelly Tan, consultant and associate professor for the department of radiology at Mayo Clinic in Arizona, explored the complex landscape of artificial intelligence in medical education and clinical outcomes.
+Questions following the two talks were moderated by Matthew Buman, director and professor at ASU's College of Health Solutions.
+The first talk focused on an AI algorithm developed for pre-trial release predictions, the Correctional Offender Management Profiling for Alternative Sanctions , and concerns about its potential biases.
+"This algorithm was developed to predict (a) score for the pre-trial release," Banerjee said. "But the problem was this algorithm was trained with the California (and) New York data. So when we look at this algorithm ... we observe that (it) is just looking at the skin color," Banerjee said.
+This led to the model incorrectly targeting people because of their skin color.
+"The risk score is between 0 and 10," Banerjee said. "So, when you look at any African American image, (you) can clearly see that the model is predicting the super high risk, although this person doesn't have any subsequent offense."
+Banerjee displayed an example of an individual assessed by the AI that was white for comparison.
+"For example, imagine ... (that a) person has a very low risk of a subsequent offense," Banerjee said. "You can clearly see that the subsequent offense the person has (is) grand theft, but the model is only predicting (at) the lowest three."
+She pointed out that despite the actual risk of a second offense, the AI's predictive capabilities were skewed, leading to inaccuracies in true risk assessment. This raised concerns about the reliability of AI in critical decision-making processes, particularly in contexts with significant societal impacts.
+This highlighted the dangers of AI systems erroneously attributing risk based on race, emphasizing the need for more equitable and unbiased AI models in healthcare.
+"For the very extreme cases, when you have very pale skin color and very pigmented skin color, the model performance is getting better," said Banerjee. "We want the model to perform better on the extreme cases and the real cases ... We have different types of disease, and we want the model to perform equally on all the races."
+This is the goal of her work: to create AI systems in healthcare that are not only effective but also impartial, ensuring equal treatment for all patients regardless of their racial or ethnic background.
+In the following talk, Dr. Tan discussed the potential increase in efficiency that AI could provide while reading radiological assessments.
+"We've trained AI to do these really painful, tedious tasks ... Now we train the model so that it does it automatically," Dr. Tan said. "When I open the study to read it, I don't have to spend an hour going through and contouring each liver and each kidney; it just spits out the volume, and I put that in my report and move on to the next study."
+This shift promises to not only increase efficiency but also enhance the accuracy and speed of diagnoses, ultimately benefiting patient care.
+Since radiologists will no longer need to spend countless hours on meticulous, manual tasks, they can instead focus their expertise on interpreting the results and making informed clinical decisions.
+Furthermore, Dr. Tan highlighted the potential of AI in predicting cardiovascular events, a leading cause of death worldwide.
+"AI can be used to predict the risk of heart attacks and different cardiovascular events," Dr. Tan said. "AI's output of calcification is better than the current clinical standard of care, which is a Framingham Risk Stratification to predict your risk of cardiovascular events."
+A new study highlights a crucial hurdle in personalized medicine: AI algorithms excel in specific clinical trials but fall short in broader applications. This calls for a more robust approach to AI in healthcare.https://t.co/P78YpZbCLs 1/2 pic.twitter.com/dTMqo9ypHv - Neuroscience News (@NeuroscienceNew) January 20, 2024
+As the talks were ending, there was time for questions.
+"What do patients think when or if they found out that their diagnosis or treatment plan was in part or fully developed based upon some AI model?" Matthew Buman, the moderator of the talk, said.
+"It depends on the patient population, right? Like in Africa, they have no radiologist," Dr. Tan said. "There was one CT scan (machine) for the whole country. We have 100 CT scan (machines) in Phoenix ... So we're talking about access equity. In that case, the patients don't care if it's from an AI model. Better (the) AI model than nothing, right?"
+This situation could turn such regions into testing grounds for new medical technologies. Lacking alternative healthcare options, these populations often have no choice but to rely on these emerging technologies, regardless of their experimental nature. Experts in global health radiology believe that AI for these locations should work differently, including aspects like phased introduction and clinical education.
+"We talked with the patients actively," Banerjee said. "I don't think that the patient has an objection because some of the patients are very curious how the AI model works. What is the performance, and how (have) we applied that?"
+The Health Talk presented an optimistic view of AI in healthcare, recognizing its potential to transform the field. However, as the world enters an era where AI's emotionless intelligence intersects with emotionally driven healthcare, it is important to maintain balance and caution. This event marks a significant point in the ongoing discussion about AI's evolving role in healthcare.
+Edited by River Graziano, Walker Smith and Grace Copperthite.
+Reach the reporter at dmanatou@asu.edu
+Like The State Press on Facebook and follow @statepress on X.
+
+
