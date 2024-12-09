@@ -1,0 +1,21 @@
+
+The same goes for artificial intelligence. Once you know where to look, even the most powerful AI stops looking like magic. No string here - instead, look at the AI's training data.
+Training data is the information used to construct an AI. After programmers feed an AI a massive diet of training data, the AI learns to identify patterns in it and then generates output.
+In all the hubbub around AI, it can be tempting to think that it will eclipse us; that it will expand infinitely, until it can do all that a college-educated human can do - and more; that it will take over not only the jobs of data crunchers and coders and copy editors, but also poets and artists and high-level managers.
+We are probably right to worry about some of our jobs. But many predictions about AI are overblown. The technology faces crucial limitations.
+First: AI is limited by the data on which it is trained. Even if you were to train an AI on the entire internet, it would miss out on a lot: thoughts jotted down on a napkin; late-night conversations with a college roommate; that week in 2018 you spent camping in the Rockies; and the feeling of seeing your grandma after a long time apart. None of that is part of the AI's world.
+Second: AI lacks critical thinking. Can an image-generating AI churn out several versions of a cat in a fedora painted in the style of Rembrandt? Yup. But can it discern which of the paintings is better than the others? No.
+As a writer, I believe AI can be a helpful tool. It can generate ideas, word choices and metaphors. But for an undergraduate churning out a last-minute essay, AI will be far less useful. The essay won't come together without someone to form it.
+Since I started writing about AI, I get asked a lot about the Terminator. Are cyborgs going to take over? No. Yet we should still worry about AI. It is poised to take over large swaths of human activity and, in doing so, erode our individual and shared humanity.
+The truth is that generative AI is only the tip of the iceberg. The influence and potential dangers of the AI revolution go far beyond the flashy, generative versions.
+For example, AI has been making a splash in health care. Applications can discern subtle differences in radiology scans and can be used to triage patients and complete physicians' notes. They can be used to craft care plans for patients upon discharge. Used correctly, AI could deliver more effective health care. But used improperly, AI-powered health care could exacerbate problems in delivery, rob medicine of the human element and reduce our view of a person to a collection of data.
+AI is also in Big Retail. You've likely bought a book on the recommendation of Amazon's algorithm, viewed videos based on YouTube's suggestions and clicked on an ad for a product you never would have looked up on your own. In all these instances, AI predicts your preferences. Scarier still, it helps shape your preferences in the first place.
+We become, in a phrase, less human.
+AI does, indeed, threaten our humanity - not in the form of a cyborg, but with the promise of a funny YouTube video or a new pair of jeans.
+In the early days of the internet, when it was slow-moving and quirky, we couldn't have imagined smartphones, streaming platforms and online banking becoming part of our daily lives.
+Similarly, AI is finding its legs. Like the internet, it is poised to infiltrate our lives in myriad unexpected ways. We cannot predict precisely how or where AI will take up residence in 50 years.
+How to prepare for this kind of infiltration? By reflecting carefully on AI now. By identifying those areas of lives we want to retain as human spaces and those we are comfortable ceding to the algorithms. By reflecting on what it means to be human in the first place.
+AI is here to stay. We need to ensure that humanity as we know it is here to stay as well.
+Joseph Vukov is a philosophy professor at Loyola University Chicago. He wrote this for the Chicago Tribune.
+
+

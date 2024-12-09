@@ -1,0 +1,9 @@
+health tech startup Miimansa AI to acquire use of its Clinical Entity Modeling tools based on advanced large language modeling (LLM) techniques and generative AI.
+Emmes Group is rapidly maturing its technology platform, Veridix AI, and Miimansa's Clinical Entity Modeling technology will serve as a building block to accelerate the development of state-of-the-art automated text processing solutions tailored for clinical research.
+The partnership will focus on creating capabilities for quickly and accurately processing vast amounts of clinical data and enabling text to text transformations such as protocol authoring and medical writing, reducing the time and cost associated with manual data handling and analysis.
+Emmes Group is a privately held contract research organization (CRO), wholly owned by New Mountain Capital. It was founded as Emmes more than 47 years ago, becoming one of the primary clinical research providers to the U.S. government before expanding into public-private partnerships and commercial biopharma. 
+Emmes Group has built industry leading capabilities in cell and gene therapy, vaccines and infectious diseases, ophthalmology, rare diseases and neuroscience. Today, the company is creating the industry's first native digital and AI based CRO optimized to deliver programs faster, better and more efficiently. Where human intelligence meets artificial intelligence.
+Miimansa AI is led by former faculty and alumni from IIT Kanpur andStanford University and specializes in clinical data management and biomedical research.
+Copyright © 2024 BridgeTower Media. All Rights Reserved.
+
+

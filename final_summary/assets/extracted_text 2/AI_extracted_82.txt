@@ -1,0 +1,27 @@
+
+Minnetonka-based UHG alleged Ken Ehlert and Mark Pollman used trade secrets to start up several competing companies, including Sequelae Inc. and Lore Health.
+Lore Health recently launched an AI-driven social network called Lore designed to support people trying to overcome challenges affecting their health and wellness.
+The lawsuit aimed to stop Lore Health from "irreparably harming" UnitedHealth and to pay for damages caused or profits Lore received by allegedly using the trade secrets.
+Following arbitration this spring - a binding procedure for settling disputes privately - a judge dismissed the case May 21.
+In separate but identical statements to the Star Tribune, UnitedHealth Group and Lore Health said: "The parties to the arbitration and the federal lawsuit have settled all claims on mutually agreeable terms. Neither side acknowledges fault. The parties have released their claims and agreed to go their separate ways."
+Minneapolis-based Sequelae Inc., which fully owns Lore, has so far raised $100 million from private investors, making it one of the heaviest venture-backed
+companies in Minnesota. Lore operates remotely with employees in 27 states, the company stated.
+Soured relationship
+In 2017, Ehlert and Pollman sold their health care research and development firm, Savvysherpa, to UnitedHealth for $46.8 million. As part of the deal, Ehlert became UnitedHealth's chief scientific officer and CEO of UnitedHealth Group R & D, which later became Optum Labs, and Pollman joined as chief technology officer of the R & D unit.
+Savvysherpa, founded in 2009, was developing a Type 2 diabetes management tool called Level2 centered on real-time glucose monitoring. The acquisition led to the commercial launch of Level2 in early 2021. The relationship between UnitedHealth and Ehlert and Pollman soured, however, and the two left the company that year.
+Ehlert and Pollman said in a separate filing that they were terminated as part of a UnitedHealth restructuring aimed at exerting total control over the Level2 business.
+The pair sued UnitedHealth for allegedly reneging on compensation for Level2, a dispute that eventually went to arbitration that closed in December 2022.
+They claimed the Level2 business was worth between $1.5 billion and $2 billion.
+Alleged hard drive exchange
+UnitedHealth claimed Ehlert and Pollman were in possession of highly confidential information after they left the company in July 2021.
+Three months after they left, UHG claimed Pollman made a "lunch date" with a former subordinate. He left the lunch with a hard drive containing nearly 500,000 files from UnitedHealth, including highly sensitive business documents and emails, some relating to the company's diabetes management programs and other confidential and information and trade secrets, the lawsuit said.
+Shortly after the alleged hard drive exchange, Ehlert and Pollman set up several companies, including Sequelae Inc. and Lore Health, United claimed.
+"These companies were designed to profit off United's confidential information and trade secrets," UHG's complaint reads. Specifically, UnitedHealth claimed Lore Health's business model closely followed that of Level2.
+UnitedHealth also alleged Ehlert and Pollman tried to "cover their tracks" over the course of 2023 by erasing incriminating information from a previous website for Lore Health and disabling the Sequelae website. The company also claimed they recruited several doctors to be "the face of the organization."
+Lore's ownership said the resolved litigation will not affect business operations, its technology or users.
+Lore's technology includes a generative AI large language model called LoreBot that asks questions "to help users think deeply about what's making them unwell or unhappy and how they can change course," according to a May news release. "Lore's AI does not give advice, but instead can highlight public conversations by other Lore users who have found ways to cope with similar circumstances."
+Lore is provided by invitation only through employers, health plans and health care systems. The company is compensated based on the health care savings of its users.
+Upon launch, more than 4,000 people were using the Lore platform.
+Nick Williams · 612-673-4021
+
+

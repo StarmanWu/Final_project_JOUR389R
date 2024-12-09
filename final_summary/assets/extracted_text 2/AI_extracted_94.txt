@@ -1,0 +1,24 @@
+AI
+RHRuby HoffmanMar 26, 2024, 5:00 AM
+Photo by Tara Winstead / PexelsExperts at the Edward J. Bloustein School of Planning and Public Policy hosted a panel discussion featuring various perspectives on the use of artificial intelligence.
+On Wednesday, the Edward J. Bloustein School of Planning and Public Policy hosted a virtual webinar titled "Artificial Intelligence: Use, Abuse & An Exciting Future" as part of their "Intelligent Informatics @ Bloustein" webinar series.
+The webinar was hosted in collaboration with the AI Social Impact Lab and the Garfield City Council, and was moderated by Jim Samuel, an associate professor of practice and executive director of the Master of Public Informatics program at the Bloustein School.
+The lecture included presentations from graduate students taking an artificial intelligence course at the Bloustein School, including Alexandra Behette, Anish Gupta, Médora Benson, Nurul Hoque, Prajwal Nagendra, Sahar Khan Sherwani, Beauty Okunbor and Seongeun Cho.
+The webinar comprised of a history of AI, innovations in AI technology, current AI usage, possible future applications and potential misuse of AI technology. This information was broken into sections about how these topics are applied specifically in the areas of health care, agriculture, transportation and education.
+Following a brief introduction from Samuel and Garfield City Councilman Pawel Maslag, Okunbor and Sherwani spoke about AI definitions and subtopics.
+Sherwani spoke broadly about the evolution of AI, more specifically its growing proximity to human performance. Behette then discussed the use of AI in the health care industry and how this application can grow in the future.
+"Clinicians are using AI for administrative support, diagnostic assistance, patient monitoring and in minimally invasive surgery," she said.
+Simultaneously, Behette said AI can exercise discrimination in health care and cited an example where a health insurance claim was wrongfully rejected according to AI suggestions.
+Cho presented the benefits and uses of AI in agriculture, such as optimizing food production. She said efficient production is essential due to the growing world population, which is projected to inflate to 9 billion by 2050.
+Approximately halfway through the webinar, Samuel paused the presentation to open for questions.
+There were questions about the public perception of AI, companies' use of AI and AI-related privacy issues.
+"Older people are thinking, 'How can we navigate this new labor market that is developing?' I think that's the gap that we have right now, is just how to bring people that will be pushed out of the labor force into this new labor force that we're creating," Okunbor said with regard to the first topic. "Generally, I think younger people are very excited about the future of AI."
+In response to the question about privacy, Sherwani said the public is generally not aware of how much data AI companies hold in their possession.
+Following the break for questions, Nagendra spoke about AI's relationship with transportation systems. The discussion about transportation involved how technology could lower transportation costs and increase the efficiency and safety of these systems.
+"Technologies such as deep learning, machine learning, development and computer vision (have) really transformed how we analyze transportation or how traffic flows from one place to the other," Nagendra said.
+The final presentation was about the educational capabilities of AI, specifically natural language processing technologies, as observed in innovations like Apple's Siri, according to Gupta. Hoque said NLP can also contribute to the implementation of virtual reality and augmented reality in classroom settings.
+Benson discussed the potential for AI to be misused in education and possible checks and counteractive measures against AI abuse.
+At approximately 7:30 p.m., Samuel gave brief closing remarks before reopening the forum for questions, at which point one participant asked how to attribute AI as a citation, given that it is the culmination of multiple sources.
+"Ultimately, we cannot hold AI as a general purpose technology accountable, but (for) specific applications, the company that owns it can be held accountable," Samuel said.
+
+

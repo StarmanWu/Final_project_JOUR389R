@@ -1,0 +1,38 @@
+doctors office? As current and future members of the physician workforce, we believe that well-regulated artificial intelligence presents an opportunity to tackle burnout within the medical workforce and restore patient-centered care.
+From 2021 through 2022, about 71,300 physicians left their clinical jobs, exacerbating staffing shortages. Even more troubling, the Association of American Medical Colleges projects a shortage of up to 124,000 physicians by 2034. 
+A major factor driving this shortage is the overwhelming and increasing administrative burden associated with care delivery. These burdens leave physicians, who train to connect with their patients face-to-face, spending more time with their eyes glued to their electronic health records. 
+Dr. Christine Sinsky, a vice president at the American Medical Association, explains, Physicians don't leave their careers. They are leaving their inbox.
+Link to Image
+'The doctor is not really listening to me'
+It's not just doctors feeling the strain, either. When a doctor spends half their time typing away at their computer, it is no surprise that patients feel neglected. Many patients resent the resulting decline in face-to-face time with their doctors, frustrated as they slip through the cracks of what many increasingly describe as a corporatized health care system. 
+One of us, Victor Agbafe, learned this firsthand from his frustrated neighbor who after an encounter with his primary care provider told him, The doctor is not really listening to me  theyre too focused on their pre-set agenda. 
+Yes, urgent care is convenient. But seeing your doctor may save your life.
+And it's not just a one-off complaint. 
+A study from the Mayo Clinic showed that doctors often interrupt their patients within just 11 seconds of them talking. The patients in the study who did voice concerns about the history and physical aspects of their patient encounter cited being interrupted a few seconds into their encounter as their chief complaint.
+Fortunately, this is exactly where generative AI can make a remarkable difference. AI tools can reduce the physicians administrative workload, freeing up more time to spend with patients. 
+Opinion alerts: Get columns from your favorite columnists + expert analysis on top issues, delivered straight to your device through the USA TODAY app. Don't have the app? Download it for free from your app store.
+How AI can help doctors treat patients better
+For example, in Tennessee, Dr. Matthew Hitchcock is using an AI tool that drafts his medical notes, turning two hours of typing at home into just 20 minutes of editing. 
+By delegating time-consuming tasks to AI, physicians can focus on verifying the accuracy of medical notes and, more important, on directly engaging with patients.
+Think back to Victors neighbor, whose appointments were depersonalized by doctors typing notes into electronic medical records, dividing their attention between their screens and patients. With AI-assisted appointments, doctors can spend their limited time forming genuine connections with patients and asking important follow-up questions. 
+Link to Image
+Minimizing keyboard clicking and computer screen barriers creates more space for doctors and patients to build the trust and mutual understanding necessary to maximize the doctor-patient relationship. This shows the positive potential of AI making inroads in health care: It can enhance rather than replace human connection.
+Beyond easing administrative tasks, AI's integration into health care can benefit diagnostics and treatment planning  particularly through the integration of retrieval-augmented generation techniques (RAG), which enhance the accuracy and reliability of AI models.
+America needs diverse medical workforce: Racial disparities in health care cost lives. Medical school needs race-conscious admissions.
+Imagine the models as standard GPS systems, which navigate using preloaded maps based on vast collections of old data. The models generate outputs that mirror natural language, much like a GPS guides you based on existing road layouts. 
+In this scenario, RAG is like upgrading your GPS to include real-time traffic updates. RAG enhances the AI models by integrating current, relevant information from external sources, just as a GPS with real-time updates optimizes routes.
+This approach ensures that physicians have access to the latest medical evidence, reducing the risk of outdated or incorrect diagnoses. 
+Link to Image
+For instance, when a physician evaluates a patient, RAG-enabled AI systems can sift through vast databases of medical literature and clinical guidelines in real time. They can offer additional diagnoses or remind physicians of rare conditions, ensuring a more thorough consideration of all possibilities. They can even flag potentially dangerous drug interactions that might be overlooked in a busy clinical setting, protecting vulnerable populations like older patients.
+As health care evolves from volume-based to value-based care and we increasingly integrate population health within the context of the individual patient, AI will remain a valuable tool. It enables our doctors, nurses and other clinical providers to tailor insights gleaned from large-scale population data to the individual needs of each patient. 
+Even so, let us be clear: AI will not and should not replace our doctors. Medicine is both an art and a science that requires human intuition and judgment that AI cannot replicate.
+Link to Image
+It is crucial to strike a balance with how to use AI with medical trainees who will form the backbone of our future health care workforce. We have to integrate AI into medical education while still ensuring students develop foundational skills such as developing an initial diagnostic and treatment course that are essential to the practice of medicine. 
+We want to bring doctors and patients closer. If implemented responsibly, AI promises to help return medicine to its humanistic roots.
+Rotimi Kukoyi is a Public Voices Fellow of The OpEd Project and The National Black Child Development Institute. He is a sophomore Morehead-Cain Scholar at the University of North Carolina at Chapel Hill, where he studies health policy and management, biology and chemistry.
+Victor Agbafe is an MD/JD student at the University of Michigan Medical School and Yale Law School, where he is a research fellow at the Solomon Center for Health Law and Policy.
+Dr. Joan Perry is a pediatrician and the chairwoman of the department of pediatrics at Lenoir Memorial Hospital in Kinston, North Carolina. She is also an adjunct assistant clinical professor of pediatrics at East Coastal University (ECU) and the University of North Carolina School of Medicine, and a former member of the North Carolina 7th Congressional District Advisory Committee on Medical and Health Affairs.
+You can read diverse opinions from our Board of Contributors and other writers on the Opinion front page, on Twitter @usatodayopinion and in our daily Opinion newsletter.
+This article originally appeared on USA TODAY: Your doctor might not be listening to you. AI can help change that.
+
+
