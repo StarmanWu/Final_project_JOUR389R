@@ -1,0 +1,31 @@
+health systems will soon test artificial intelligence tools that promise to make patient visit documentation much less burdensome and more patient-focused.
+"I remember as a child going to a doctor who would look you in the eyes and ask you how you were doing," said Dr. Bina Desai, chief medical informatics officer at Rush. "But for the last 10 years or so, the majority of us are typing away on a laptop while talking to patients. It's almost like there's this wall" between the patient and the doctor or advanced practice nurse.
+With an accurate record of the visit translated into an electronic health record, or EHR, AI can "help bring us back to that earlier time, when the full attention is on you," she said.
+Rush University System for Health has already been working with the ambient AI product Dax Copilot from Nuance Communications, one of the most established players in the sector, and will soon add a pilot program with voice AI documentation software from a company called Suki. At the University of Chicago, a small group of physicians will launch a study of documentation technology from Abridge.
+Dr. Sachin Shah, chief medical information officer at UChicago Medicine, wants a doctor-led development of these AI tools that capture clinician-patient interactions to fix the problems caused by the EHR.
+"There wasn't a lot of provider input at the advent of the EHR era, and it causes a lot of problems," Shah said. "So this time we need to be on the ground floor."
+"Documentation burden is one of the biggest parts of burnout among clinicians," Shah said. An AI tool "can just put time back in our day and allow me to turn my chair back toward the patient."
+Both Desai and Shah referred to how hours of writing up EHR documentation, referring to incomplete notes and memories, wears on doctors and nurses, adding it often ends up being done long after the patient has been seen, during "pajama time."
+Ambient AI works through doctor-patient conversations recorded on devices or smartphones, which are then run through generative AI to produce a transcript of the visit.
+Far from perfect
+As Crain's sister site Modern Healthcare points out, so far ambient AI is far from perfect. Kaiser Permanente and Permanente Medical Group researchers, for example, were unable to verify edits the AI made to the doctor-patient conversation such as when it omitted parts of the conversation that the model deemed unrelated to patient care.
+It is also not available for all specialties and languages, Modern Healthcare reported.
+At Rush and UChicago, the AI systems would work to write up documentation for EHR systems from electronic records leader Epic.
+Even though physicians must review and edit the recorded and transcribed patient visits, the technology can revolutionize what the EHR can be, Shah said.
+It lets doctors see details that could be lost in the conversation, helps with decision support and can help better capture a natural doctor-patient discussion of the determinants of health the patient experiences, UChicago's Shah said. And with those full conversations treated like a dataset, clinicians can analyze them more efficiently and in more detail, he said.
+At Rush, once systems are vetted and an AI vendor is chosen, Desai says the plan would be to offer it to all clinicians who see patients regularly, "especially our learners." She hopes the technology can be standard by the time a new medical student is through with residency.
+Eventually, Desai envisions generative AI technology will be available and effective throughout a health system, in nursing stations, in-patient settings, even the operating room.
+Before that happens, she said, hospital informatics experts need to work on two things: privacy concerns and cost.
+"This isn't going to be cheap," she said. "It's not free. Although a lot of people think, 'I've got it on my phone for free,' the health care system will use something very different."
+Affordability challenge
+The challenge will be to figure out how to make it affordable at scale, Desai said, and to have it make sense to install.
+Health systems' AI must be very protected, both secure and private in a way that makes patients and doctors comfortable around it, she said.
+Patients, and some clinicians, will be skeptical of their conversations being recorded, Desai said, so this will be another outlet that providers have to be extremely careful about and educate the patient and themselves.
+"It is going to be up to us in health care to be out in front on this, fully vetting these systems," Shah said. The process must be transparent, patient consent forms need to be clear and patients need to understand that "recordings will be kept, and used, only as long as the note is finalized, then deleted."
+Patient privacy concerns often involve regulations like the federal privacy law HIPAA and Business Associate Agreements among health care providers and their third-party vendors.
+However in recent months, a new priority, cybersecurity, has gained urgency, following cyberattacks like those recently experienced by health care companies and providers such as Change Healthcare, Lurie Children's Hospital and Ascension.
+While privacy regulations "continue to be critical priorities, the cyberattacks on (health care providers) in 2023 call into focus a different priority: ensuring access to care and availability of systems in the face of cyberattacks," according to a recent white paper on cybersecurity and health care by Zip Security and Ambience Healthcare.
+Zip Security is a venture-backed cyber startup, and Ambience Healthcare is a company that provides an AI operating system for health care.
+"We are seeing the benefit in both quality and efficiency of delivering care through the utilization of third-party technologies - particularly in the space of generative AI, and how this can improve (physicians') workflows," the white paper said. "These applications and technologies are contributing to the general increase of hosted services by vendors. While their impact and benefit are overall very positive, they do pose an additional consideration in the cybersecurity conversation."
+
+

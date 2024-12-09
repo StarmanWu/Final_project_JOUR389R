@@ -1,0 +1,21 @@
+
+Existing AI and machine-learning digital tools are promising, according to the scientific statement from the American Heart Association. Such tools already have shown they can help screen patients and guide researchers in developing new treatments. The report was published Wednesday in the journal Circulation.
+But, the authors said, research hasnt shown that AI-based tools improve care enough to justify their widespread use.
+There is an urgent need to develop programs that will accelerate the education of the science behind AI/machine learning tools, thus accelerating the adoption and creation of manageable, cost-effective, automated processes, Dr. Antonis Armoundas, who led the statement writing committee, said in a news release. He is a principal investigator at the Cardiovascular Research Center at Bostons Massachusetts General Hospital.
+We need more AI/machine learning-based precision medicine tools to help address core unmet needs in medicine that can subsequently be tested in robust clinical trials, said Armoundas, who also is an associate professor of medicine at Harvard Medical School.
+The report is the AHAs first scientific statement on artificial intelligence. It looks at the state of research into AI and machine learning in cardiovascular medicine and suggests what may be needed for safe, effective widescale use.
+Here, we present the state of the art, including the latest science regarding specific AI uses from imaging and wearables to electrocardiography and genetics, Armoundas said.
+AI can analyze data and make predictions, typically for narrowly defined tasks. Machine learning uses mathematical models and algorithms to detect patterns in large datasets that may not be evident to human observers alone. Deep learning, a subfield of machine learning, is used in image recognition and interpretation.
+Researchers have used such technologies to analyze electronic health records to compare the effectiveness of tests and treatments, and, more recently, to create models that inform care decisions.
+The report notes several ways digital tools might help cardiovascular patients.
+Imaging, for example, is important for diagnosing heart attacks and strokes. AI and machine-learning tools could address inconsistencies in human interpretation and relieve overburdened experts.
+AI has helped automate analysis of electrocardiograms, which measure the hearts electrical activity, by identifying subtle results that human experts might not see.
+And with implantable and wearable technologies providing steady streams of health information, AI could help remotely monitor patients and spot when something is amiss.
+But the report also spells out many challenges and limits.
+With imaging, for example, broad use of AI and machine learning for interpreting tests is challenging because the data available to study is limited. Researchers also need to prove AI technology works in each area where it will be used.
+With implantable and wearable tech, the research gaps include ways to identify which patients and conditions may be best for AI- and machine learning-enabled remote monitoring. Other issues include how to address cost-effectiveness, privacy, safety and equitable access.
+More broadly, protocols on how information is organized and shared are critical, the report says, and potential ethical, legal and regulatory issues need to be addressed.
+And while AI algorithms have enhanced the ability to interpret genetic variants and abnormalities, the writing committee warned of limits. Such algorithms, the committee wrote, still require training on human-derived data that can be error-prone and inaccurate.
+Copyright © 2024 BridgeTower Media. All Rights Reserved.
+
+

@@ -1,0 +1,52 @@
+AI to streamline processes, some question the disadvantage of AI lacking human emotion.
+However, the health care field is seeing success with AI-generated technology for patient monitoring without limiting care or humanity.
+WellSpan Health discovered a way to use AI to improve patient safety and address nurse burnout. The health system collaborated with Artisight Inc. in Northfield, Illinois, to use its Smart Hospital Platform powered by AI for a pilot patient monitoring and virtual nursing program.
+The program has been used at WellSpan Surgery and Rehabilitation Hospital in York since mid-August.
+Patients at high risk for falls are monitored 24/7 using patient-room audio and video connections by a virtual nurse tele-sitting in a designated control space to monitor behavior in each room. The virtual staff can interact with patients and ask assistance from an onsite clinician as necessary.
+The virtual nurse can monitor more patients at a time and is an extension of a registered nurse with the two working as a team, says Kasey Paulus, senior vice president and chief nursing executive at WellSpan York Hospital.
+READ: Full coverage of Progress 2024 [roundup]
+She explains the camera uses AI to monitor normal movement and gives a visual color cue that shows on a computer screen, such as when a patient gets out of bed or is at risk for a fall. Such cues put into motion immediate safety precautions.
+WellSpan continues to gather data, but Paulus says results show the program to be a success.
+Its very exciting and has proven to be positive for patients and staff, along with a reduction in falls, she says.
+In November and December of 2023, the pilot program expanded with the addition of a mobile observation cart to monitor patients in the medical/surgical units at WellSpan York, WellSpan Gettysburg and WellSpan Good Samaritan in Lebanon.
+The mobile cart made it faster for us to implement the program in other hospitals, Paulus says.
+By June 2024, all WellSpan hospitals will have the program hardwired including WellSpan Ephrata Community, WellSpan Chambersburg, WellSpan PhilHaven and WellSpan Waynesboro.
+Caring for many with few
+Penn State Health began using AI to monitor ICU patients in September 2022 in its medical centers in Hershey, Reading and Lancaster.
+The virtual intensive care units (vICU), use Wilmington, Delaware-based CLEW Medicals AI-powered virtual IU platform.
+Specially trained critical care nurses do around-the-clock monitoring using high-resolution audio and visual telehealth equipment to communicate with a patient and bedside staff. Physicians and other clinicians also are able to monitor patients.
+Bedside visitors and staff are notified when cameras are in use with a doorbell chime. The cameras are not on 24 hours a day, but data is recorded on a continual basis.
+The technology affords caring for many with few, says Chris LaCoe, vice president of Penn State Health Virtual Health.
+He says the telehealth software uses sophisticated algorithms to notify staff about the patients health to expand existing critical care and support the bedside clinical team. Its helped to improve patient outcomes and overall quality of care, he says.
+READ: Lancaster AI founder: 2024 will be transformative year
+The virtual ICU nurses provide assistance with a variety of tasks such as new admissions, patient transfers and pain reassessments, and they serve as a resource and mentor for new hires and nurse graduates.
+Along with being able to track real time patient health in ICU rooms, the virtual ICU staff can monitor those waiting for a room, which reduces demand on the emergency department, LaCoe says.
+In May 2023, respiratory therapy was added to the virtual intensive care services at Milton S. Hershey and Lancaster.
+While the technology and virtual nursing can never replace human touch, LaCoe says its another way to deliver care.
+It not only benefits patients as seen with lifesaving success stories, it also benefits staff and helps with the staff shortage experienced by all health care systems today, LaCoe says.
+The AI-generated technology will also soon be put into operation at Penn State Health Holy Spirit Medical Center, Camp Hill, and Penn State Health Hamden Medical Center, Enola.
+A game-changer
+Penn Medicine Lancaster General Health uses AI-driven technology to optimize patient care by continually monitoring patients health and providing real-time data to providers.
+The Phillips Healthcare Smart Alert technology tele-ICU program is in a centralized location for nurses and providers to extend monitoring of ICU beds by using sophisticated alarming algorithms with multiple data sources to help alert clinicians when something happens.
+Monitoring is done through a multidisciplinary team of health care professionals. Once alerted, the team contacts the attending physician if needed.
+Penn Medicine is using Rapid AI in emergency rooms, says Michele Sellers, director of the NeuroRescue Program at Penn Medicine, University of Pennsylvania Health System.
+READ: How PCA&D's faculty, students are navigating AI's creative, legal challenges
+The program, developed by a San Mateo, California, company, uses an AI-based platform designed to identify patients who could benefit from brain-saving procedures.
+The sophisticated software tool helps physicians identify more accurate diagnosis for faster care.
+Its a game-changer for stroke care, Sellers says, explaining the program can interpret CT scans within minutes, speeding emergency care for the patient.
+The technology tool speeds up assessment and care for stroke patients when time is critical.
+Penn Medicine has been using the program for the past five years with significant success at all five hospitals in the Penn Medicine Health System: Lancaster General Health, Chester County Hospital, West Chester; and Pennsylvania Hospital, Hospital of the University of Pennsylvania and Penn Presbyterian Medical Center, all in Philadelphia.
+We believe AI will change health care significantly over time, touching all areas of the service delivery model, says Allen Cubell, Penn Medicine Lancaster General Healths executive director of innovation, Center for Health Care Innovation.
+Cubell says LG Health is continually exploring new systems to improve quality and safety for patients.
+Improving efficiency
+The UPMC health care system is using AI technologies to increase efficiency of health care practices.
+Chris Camody, UPMC chief technology officer, explains the health care system isnt quite there yet to use AI for patient monitoring.
+Were taking a very thoughtful approach to ensure the integrity, reliability, security and privacy of patients is first in place, Camody says.
+He says he sees tremendous value in the AI technology currently in use at UPMC for documentation and predictive analysis, noting it saves time for clinicians.
+The technology proved to be especially helpful in addressing pandemic-related challenges that impacted efficiencies, he says.
+Camody agrees the technology is getting smarter and can help with staff shortages and contribute to better patient outcomes.
+Before UPMC puts AI technology in place to monitor patients, the process will undergo rigorous due diligence, he says.
+Its unlikely AI will replace a clinical staff, but could become a care team copilot to alert them to take action, Camody says. And (it) will make us more effective in care and treatment.
+Its a goal, he says, we all want for our patients.
+
+
